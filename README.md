@@ -43,6 +43,11 @@ git config --global user.email "email_address"
 git clone repository_url
 ```
 
+* Add origin URL
+```bash
+git remote add origin reo_url
+```
+
 * Make the change in the project you want !
 
 ## 4. Creating a Pull request
