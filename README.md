@@ -21,7 +21,7 @@ git config --global user.email "email_address"
 ## 2.  Go to the repository you want to contribute and Fork it.
 * A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing.
 
-  <img src="image/fork.png"
+  <img src="image/fork2.png"
      alt="Git Bash/GUI Checkbox"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
