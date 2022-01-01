@@ -2,12 +2,13 @@ import React from "react";
 import ContributorCard from "../components/ContributorCard";
 import contributors from "../../data/contributors";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 const index = () => {
   return (
     <>
       <Navbar />
-      <div className="dark:bg-gray-700 h-screen">
+      <div className="dark:bg-gray-700">
         <section class="text-gray-600 dark:text-white body-font">
           <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-col text-center w-full mb-20">
@@ -38,6 +39,7 @@ const index = () => {
             </div>
           </div>
         </section>
+        <Footer />
       </div>
     </>
   );
