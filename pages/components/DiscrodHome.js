@@ -3,7 +3,7 @@ import React from "react";
 const DiscrodHome = () => {
   return (
     <div>
-    <div className="bg-blue-500 opacity-90 sm:w-10/12 w-10/12 mx-auto rounded-2xl my-10">
+    <div className="bg-blue-500 opacity-90 sm:w-10/12 w-11/12 mx-auto rounded-2xl my-10">
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto flex items-center md:flex-row flex-col">
           <div className="flex flex-col md:pr-10 md:mb-0 mb-6 pr-0 w-full md:w-auto md:text-left text-center">

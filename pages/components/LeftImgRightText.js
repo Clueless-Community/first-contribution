@@ -4,7 +4,7 @@ const LeftImgRightText = (props) => {
   return (
     <div>
       <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
-        <div class="container px-5 py-24 mx-auto">
+        <div class="container px-5 pt-12 mx-auto">
           <div class="lg:w-11/12 mx-auto flex flex-row-reverse flex-wrap-reverse">
             <div class="lg:w-2/3 w-full lg:pl-10 lg:py-6 mb-6 lg:mb-0">
               <h1 class="text-gray-900 text-3xl title-font font-medium mb-4 dark:text-gray-50">
@@ -16,7 +16,7 @@ const LeftImgRightText = (props) => {
             </div>
             <img
               alt="ecommerce"
-              class="lg:w-1/3 w-full lg:h-auto object-center rounded-xl shadow-lg dark:shadow-blue-300"
+              class="lg:w-1/3 w-full lg:h-auto object-center rounded-xl shadow-lg dark:shadow-blue-300 md:mb-auto mb-5"
               src={props.img}
             />
           </div>

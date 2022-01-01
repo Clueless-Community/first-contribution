@@ -26,7 +26,7 @@ const Theme = (props) => {
     <div>
       {theme === "light" && (
         <button
-          className="bg-black text-white rounded-xl p-2 hover:bg-slate-800 transition-all ml-5"
+          className="bg-black text-white rounded-xl p-2 hover:bg-slate-800 transition-all md:ml-5 mt-3 md:mt-auto"
           onClick={() => {darkTheme(); try{props.hero()}catch(err){}; }}
         >
           <svg
@@ -41,7 +41,7 @@ const Theme = (props) => {
       )}
       {theme === "dark" && (
         <button
-          className="bg-white text-black rounded-xl p-2 hover:bg-gray-100 transition-all ml-5"
+          className="bg-white text-black rounded-xl p-2 hover:bg-gray-100 transition-all md:ml-5 mt-3 md:mt-auto"
           onClick={() => {lightTheme(); try{props.hero()}catch(err){}}}
         >
           <svg
