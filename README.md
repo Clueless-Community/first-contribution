@@ -21,17 +21,17 @@ git config --global user.email "email_address"
 ## 2.  Go to the repository you want to contribute and Fork it.
 * A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing.
 
-  <img src="image/fork2.png"
+  <img src="guide image/fork2.png"
      alt="Fork"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 * Click on Code Button and copy the URL of your forked Repository
 
-  <img src="image/code_git.png"
+  <img src="guide image/code_git.png"
      alt="Click on Code"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
-  <img src="image/code_copy.png"
+  <img src="guide image/code_copy.png"
      alt="Copy the URL"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
@@ -89,37 +89,37 @@ git push origin branch_name
 * Open your forked git repository, you will get a message like as shown in the figure (if not then refresh the page).
 ###  Click on "Contribute"
 
-  <img src="image/pull1.png"
+  <img src="guide image/pull1.png"
      alt="Contribute"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 ###  Now click on "Open pull request"
 
-  <img src="image/pull2.png"
+  <img src="guide image/pull2.png"
      alt="Open Pull Request"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 ###  Click on "Create pull request"
 
-  <img src="image/pull3.png"
+  <img src="guide image/pull3.png"
      alt="Create Pull Request"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 ###  Click on "Create pull request"
  You may add a Comment to your Pull Request
 
-  <img src="image/pull4.png"
+  <img src="guide image/pull4.png"
      alt="Comment your pull request"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 ### You will get  message similar to as shown below in the picture which means that you have sucessfully made a pull request !
 
-  <img src="image/pull5.png"
+  <img src="guide image/pull5.png"
      alt="Confirmation message"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 ### You may Close the pull request you made (for any possible reason).
 
-  <img src="image/pull6.png"
+  <img src="guide image/pull6.png"
      alt="Close pull request"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
