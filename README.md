@@ -1,34 +1,125 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# First Contribution
+<p>This project is for those who are new to open-source and looking for make their first contribution.<p>
+<p>Follow the steps below :- </p>
 
-## Getting Started
+_If you don't have GIT installed, [refer this tutorial](https://github.com/HITK-2025/first-contribution/blob/main/installation.md)_
 
-First, run the development server:
 
+***
+
+# Git Setup Guide
+
+## 1. Configure your local Git
 ```bash
-npm run dev
-# or
-yarn dev
+git config --global user.name "github_username"
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+git config --global user.email "email_address"
+```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 2.  Go to the repository you want to contribute and Fork it.
+* A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+  <img src="image/fork2.png"
+     alt="Fork"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* Click on Code Button and copy the URL of your forked Repository
 
-## Learn More
+  <img src="image/code_git.png"
+     alt="Click on Code"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
-To learn more about Next.js, take a look at the following resources:
+  <img src="image/code_copy.png"
+     alt="Copy the URL"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 3. Switch to your GitBash window, and enter the following :
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Clone the Forked project on your local system 
 
-## Deploy on Vercel
+```bash
+git clone repository_url
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Add origin URL
+```bash
+git remote add origin reo_url
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* Make the change in the project you want !
+
+## 4. Creating a Pull request
+### Create a branch
+
+* A branch is designed to encapsulate a group of changes. These changes might be thrown away, entirely rewritten or in the majority of cases they’ll be promoted into the main history of the codebase - via a merge.
+
+
+* Creating a branch
+
+```bash
+git branch branch_name
+```
+
+* Checkout to the created branch
+
+```bash
+git checkout branch_name
+```
+
+
+* Now add the files using the git command
+
+```bash
+git add .
+```
+* Commit the changes to the local project
+
+```bash
+git commit -m "Changes_you_made"
+```
+
+* Make a pull request using the command
+```bash
+git push origin branch_name
+```
+
+## 5. Final Steps
+* Open your forked git repository, you will get a message like as shown in the figure (if not then refresh the page).
+###  Click on "Contribute"
+
+  <img src="image/pull1.png"
+     alt="Contribute"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+###  Now click on "Open pull request"
+
+  <img src="image/pull2.png"
+     alt="Open Pull Request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+###  Click on "Create pull request"
+
+  <img src="image/pull3.png"
+     alt="Create Pull Request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+###  Click on "Create pull request"
+ You may add a Comment to your Pull Request
+
+  <img src="image/pull4.png"
+     alt="Comment your pull request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+### You will get  message similar to as shown below in the picture which means that you have sucessfully made a pull request !
+
+  <img src="image/pull5.png"
+     alt="Confirmation message"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+### You may Close the pull request you made (for any possible reason).
+
+  <img src="image/pull6.png"
+     alt="Close pull request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
