@@ -11,14 +11,14 @@ _If you don't have GIT installed, [refer this tutorial](https://github.com/HITK-
 
 ## 1. Configure your local Git
 ```bash
-git config --global user.name "github_username"
+git config --global user.name "github username"
 ```
 
 ```bash
-git config --global user.email "email_address"
+git config --global user.email "email address"
 ```
 
-## 2.  Go to the repository you want to contribute and Fork it.
+## 2.  Go to the first-contribution repository and Fork it.
 * A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing.
 
   <img src="guide image/fork2.png"
@@ -35,20 +35,33 @@ git config --global user.email "email_address"
      alt="Copy the URL"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
-## 3. Switch to your GitBash window, and enter the following :
+## 3. Switch to your Git bash window, and enter the following :
 
 * Clone the Forked project on your local system 
 
 ```bash
-git clone repository_url
+git clone https://github.com/HITK-2025/first-contribution.git
 ```
 
-* Add origin URL
+
+* Make the changes
+
 ```bash
-git remote add origin reo_url
+cd first-contribution/data/ 
 ```
+Open contributors.js in your favourite text editor and add a new object below the existing objects in the format given below.
 
-* Make the change in the project you want !
+```json
+{
+        name : "Your Name",
+        branch : "Your Branch",
+        roll : "Your Roll (without double quotes)",
+        year : "Passing year (without double qotes)",
+        linkedin : "linkedin profile link",
+        github : "github account link",
+        gender : "your gender"
+    },
+```
 
 ## 4. Creating a Pull request
 ### Create a branch
@@ -77,10 +90,10 @@ git add .
 * Commit the changes to the local project
 
 ```bash
-git commit -m "Changes_you_made"
+git commit -m "Added my data"
 ```
 
-* Make a pull request using the command
+* Push the changes to your forked github repo
 ```bash
 git push origin branch_name
 ```
@@ -118,8 +131,3 @@ git push origin branch_name
      alt="Confirmation message"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
-### You may Close the pull request you made (for any possible reason).
-
-  <img src="guide image/pull6.png"
-     alt="Close pull request"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
