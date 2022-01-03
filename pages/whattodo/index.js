@@ -7,7 +7,9 @@ import HeadingPoint from "../components/HeadingPoint";
 import Announcment from "../components/Announcment";
 import Document from "../document";
 
+
 const index = () => {
+
   return (
     <div>
     <Document />
