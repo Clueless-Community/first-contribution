@@ -2,9 +2,18 @@ import React, {useEffect, useState} from "react";
 import ContributorCard from "../components/ContributorCard";
 import contributors from "../../data/contributors";
 
-const RecentContributors = (props) => {
+const RecentContributors = () => {
 
-  const recentContributors = contributors.reverse().slice(0, 3)
+  function reverseArr(input) {
+    var ret = new Array;
+    for(var i = input.length-1; i >= 0; i--) {
+        ret.push(input[i]);
+    }
+    return ret;
+}
+
+  const recentContributors = reverseArr(contributors)
+  const topRecentContributors = recentContributors.slice(0, 3)
 
   return (
     <div>
@@ -17,7 +26,7 @@ const RecentContributors = (props) => {
               </h1>
             </div>
             <div class="flex -m-2 flex-wrap">
-              {recentContributors.map((contributor) => {
+              {topRecentContributors.map((contributor) => {
                 return (
                   <ContributorCard
                     name={contributor.name}
