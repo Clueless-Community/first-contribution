@@ -4,6 +4,8 @@ import contributors from "../../data/contributors";
 
 const RecentContributors = (props) => {
 
+  const recentContributors = contributors.reverse().slice(0, 3)
+
   return (
     <div>
       <div className="dark:bg-slate-800 bg-gray-100 sm:w-10/12 w-11/12 mx-auto rounded-2xl" >
@@ -15,7 +17,7 @@ const RecentContributors = (props) => {
               </h1>
             </div>
             <div class="flex -m-2 flex-wrap">
-              {props.recentContributors.map((contributor) => {
+              {recentContributors.map((contributor) => {
                 return (
                   <ContributorCard
                     name={contributor.name}
