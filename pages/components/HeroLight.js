@@ -91,7 +91,9 @@ const HeroLight = () => {
       <Link href="/whattodo">
       <button className="px-4 py-2 bg-blue-600 opacity-90 rounded-xl font-bold text-white text-xl my-10 mx-5 hover:bg-blue-500">What to Do?</button>
       </Link>
+      <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
       <button className="px-4 py-2 border-[#0061ff] border-4 text-[#0061ff] rounded-xl font-bold text-xl my-10 mx-5 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500">Contribute Now</button>
+      </a>
       </div>
       </div>
       
