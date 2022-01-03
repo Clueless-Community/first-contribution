@@ -5,10 +5,12 @@ import Footer from "../components/Footer";
 import LeftImgRightText from "../components/LeftImgRightText";
 import HeadingPoint from "../components/HeadingPoint";
 import Announcment from "../components/Announcment";
+import Document from "../document";
 
 const index = () => {
   return (
     <div>
+    <Document />
       <Navbar />
       <Announcment />
       <RightImgLeftText

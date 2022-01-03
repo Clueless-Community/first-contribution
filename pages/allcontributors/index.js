@@ -3,10 +3,12 @@ import ContributorCard from "../components/ContributorCard";
 import contributors from "../../data/contributors";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import Document from "../document";
 
 const index = () => {
   return (
     <>
+    <Document />
       <Navbar />
       <div className="dark:bg-gray-700">
         <section class="text-gray-600 dark:text-white body-font">
