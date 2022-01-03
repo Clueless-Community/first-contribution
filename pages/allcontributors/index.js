@@ -1,30 +1,35 @@
 import React from "react";
 import ContributorCard from "../components/ContributorCard";
-import contributors from "../../data/contributors";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Document from "../document";
+import contributors from "../../data/contributors";
+
 
 const index = () => {
+  const totalContributor = contributors.length;
   return (
     <>
     <Document />
       <Navbar />
       <div className="dark:bg-gray-700">
         <section class="text-gray-600 dark:text-white body-font">
-          <div class="container px-5 py-24 mx-auto">
-            <div class="flex flex-col text-center w-full mb-20">
-              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 dark:text-white">
+          <div class="container px-5 pt-12 mx-auto">
+            <div class="flex flex-col text-center w-full mb-5">
+              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 dark:text-white underline underline-offset-4">
                 Our Contributors
               </h1>
+              <p class="lg:w-2/3 mx-auto leading-relaxed text-lg font-semibold mb-4">
+                Total Contibutors : {totalContributor}
+              </p>
               <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
-                Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-                gentrify, subway tile poke farm-to-table. Franzen you probably
-                haven't heard of them.
+                Want to contribute and Have Your Own Contibutor Card on our Website Then Click the Button Below.
               </p>
             </div>
-
-            <div class="flex -m-2 flex-wrap">
+            <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
+              <button className="px-4 py-2 border-[#0061ff] border-4 text-[#0061ff] rounded-xl font-bold text-xl mb-10 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500 flex mx-auto dark:border-gray-50 dark:hover:text-white dark:text-gray-50 dark:hover:border-blue-500">Get Your Contributor Card !</button>
+            </a>
+            <div class="flex -m-2 flex-wrap mb-2">
               {contributors.map((contributor) => {
                 return (
                   <ContributorCard

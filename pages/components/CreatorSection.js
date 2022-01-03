@@ -17,16 +17,16 @@ const CreatorSection = () => {
                     className="w-20 h-20 mb-8 object-center object-fit rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                     src="/Roshan.jpeg"
                   />
+                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
+                    Roshan Kumar
+                  </h2>
                   <p className="leading-relaxed">
                     Hey there!! I'm Roshan Kumar | Currently doing app
                     developement using flutter framework | Interested in
                     developement and machine learning | Reach me at
                     roshan0902@pm.me
                   </p>
-                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 mb-4"></span>
-                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50">
-                    Roshan Kumar
-                  </h2>
+                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
                 </div>
                 <div className="flex justify-center">
                 <a href="https://github.com/Roshaen" target="_blank">
@@ -74,14 +74,14 @@ const CreatorSection = () => {
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                     src="Rajdeep.png"
                   />
+                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
+                    Rajdeep Sengupta
+                  </h2>
                   <p className="leading-relaxed">
                     Young UI & UX Designer & Full Stack and Web Developer |
                     Loves to learn and share knowledge | Loves to Play Chess. | Reach me at rajdipgupta019@gmail.com
                   </p>
-                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 mb-4"></span>
-                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50">
-                    Rajdeep Sengupta
-                  </h2>
+                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
                 </div>
                 <div className="flex justify-center">
                 <a href="https://github.com/Rajdip019/Rajdip019" target="_blank">
@@ -129,16 +129,16 @@ const CreatorSection = () => {
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                     src="/Nikhil.jpeg"
                   />
+                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
+                    Nikhil Raj
+                  </h2>
                   <p className="leading-relaxed">
                     Hello there! I'm Nikhil Currently learning Django and Python
                     programming. I'm interested in Web Development and looking
                     for collaboration on Development Projects. You can reach me
                     through nikhil25803@gmail.com
                   </p>
-                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 mb-4"></span>
-                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50">
-                    Nikhil Raj
-                  </h2>
+                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
                 </div>
                 <div className="flex justify-center">
                 <a href="https://github.com/nikhil25803" target="_blank">
@@ -157,20 +157,20 @@ const CreatorSection = () => {
                 </a>
               </div>
               </div>
-              <div className="lg:w-1/4 lg:mb-0 p-4">
+              <div className="lg:w-1/4 lg:mb-0 p-4 mt-8 lg:mt-0">
                 <div className="h-full text-center">
                   <img
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                     src="/Anubhab.jpg"
                   />
+                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
+                    Anubhab Halder
+                  </h2>
                   <p className="leading-relaxed">
                   Hey! I'm Anubhab from AI & ML. Here I am exploring technologies, surfing through life playing guitar and at your service ;) Reach me at: anubhabhalder7@gmail.com
                   </p>
-                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 mb-4"></span>
-                  <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50">
-                    Anubhab Halder
-                  </h2>
+                  <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
                 </div>
                 <div className="flex justify-center">
                 <a href="https://github.com/itsmeAnubhab" target="_blank">
