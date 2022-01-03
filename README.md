@@ -8,6 +8,10 @@ _If you don't have GIT installed, [refer this tutorial](https://github.com/HITK-
 ***
 
 # Git Setup Guide
+## To initialise Git, write
+```bash
+git init
+```
 
 ## 1. Configure your local Git
 ```bash
