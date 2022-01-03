@@ -53,6 +53,15 @@ const contributors = [
         github : "https://github.com/pratham4434",
         gender : "Male"
     },
+    {
+        name : "Anupam Kumar Sourav",
+        branch : "CSE (DS)",
+        roll : 2162017,
+        year : 2025,
+        linkedin : "linkedin.com/in/anupam-kumar-sourav-9bb43a22a",
+        github : "https://github.com/AKSourav",
+        gender : "Male"
+    },
 ]
 
 export default contributors
