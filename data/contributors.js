@@ -20,10 +20,10 @@ const contributors = [
     {
         name : "Nikhil Raj",
         branch : "CSE AI & ML",
-        roll : 2160142,
+        roll : 2161013,
         year : 2025,
-        linkedin : "https://www.linkedin.com/in/rajdeep-sengupta/",
-        github : "https://github.com/Rajdip019/Rajdip019",
+        linkedin : "",
+        github : "https://github.com/nikhil25803",
         gender : "male"
     },
     {
