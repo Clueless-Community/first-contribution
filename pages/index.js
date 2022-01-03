@@ -6,6 +6,7 @@ import DiscrodHome from "./components/DiscrodHome";
 import RecentContributors from "./components/RecentContributors";
 import Footer from "./components/Footer";
 import HeroDark from "./components/HeroDark";
+import Document from "./document";
 
 const index = () => {
   const [Hometheme, setHomeTheme] = useState("");
@@ -23,6 +24,7 @@ const index = () => {
 
   return (
     <div>
+    <Document />
       <Navbar herotheme={HeroTheme} />
       {!Hometheme && <HeroLight />}
       {Hometheme === "dark" && <HeroDark />}
