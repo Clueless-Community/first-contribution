@@ -7,9 +7,11 @@ const Announcment = () => {
             <div className=''>
                 <h1 className='text-2xl font-bold text-gray-50 text-center'>Contribute To Your First Project Now!</h1>
             </div>
+            <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
             <button className='px-4 bg-gray-100 rounded-xl font-semibold text-xl py-2 hover:bg-gray-200 transition-all text-black mt-5 md:mt-auto'>
                 Contribute
             </button>
+            </a>
         </div>
         </div>
     )

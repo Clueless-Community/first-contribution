@@ -45,6 +45,7 @@ const Navbar = (props) => {
             </a>
             </Link>
           </nav>
+          <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
           <button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded-xl mt-4 md:mt-0 text-lg transition-all dark:bg-gray-600">
             Contibute Now
             <svg
@@ -59,6 +60,7 @@ const Navbar = (props) => {
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
           </button>
+          </a>
           <Theme 
             hero = {props.herotheme}
           />

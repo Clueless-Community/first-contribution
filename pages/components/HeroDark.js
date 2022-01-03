@@ -91,10 +91,11 @@ const HeroDark = () => {
       <Link href="/whattodo">
       <button className="px-4 py-2 bg-gray-600 rounded-xl font-bold text-white text-xl my-10 mx-5 hover:bg-blue-500">What to Do?</button>
       </Link>
+      <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
       <button className="px-4 py-2 border-gray-50 border-4 text-gray-50 rounded-xl font-bold text-xl my-10 mx-5 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500">Contribute Now</button>
+      </a>
       </div>
       </div>
-      
     </div>
   );
 };

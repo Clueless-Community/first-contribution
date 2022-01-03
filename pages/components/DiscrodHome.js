@@ -22,6 +22,7 @@ const DiscrodHome = () => {
             </ul>
           </div>
           <div className="flex md:ml-auto md:mr-0 mx-auto items-center flex-shrink-0 space-x-4">
+          <a href="https://discord.gg/r5uKBGxT9T" target="_blank">
             <button className="bg-gray-50 sm:inline-flex flex-col sm:flex-row py-28 px-20 rounded-lg items-center justify-center hover:bg-gray-100 focus:outline-none transition-all">
               <img src="/discord.svg" alt="" />
               <span className="ml-4 flex items-start flex-col leading-none">
@@ -29,6 +30,7 @@ const DiscrodHome = () => {
                 <span className="title-font font-medium">Discord</span>
               </span>
             </button>
+          </a>
           </div>
         </div>
       </section>
