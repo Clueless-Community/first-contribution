@@ -2,8 +2,8 @@ import React, {useEffect, useState} from "react";
 import ContributorCard from "../components/ContributorCard";
 import contributors from "../../data/contributors";
 
-const RecentContributors = () => {
-    const [recentContributors, setRecentContributors] = useState(contributors.reverse().slice(0, 3))
+const RecentContributors = (props) => {
+
   return (
     <div>
       <div className="dark:bg-slate-800 bg-gray-100 sm:w-10/12 w-11/12 mx-auto rounded-2xl" >
@@ -15,7 +15,7 @@ const RecentContributors = () => {
               </h1>
             </div>
             <div class="flex -m-2 flex-wrap">
-              {recentContributors.map((contributor) => {
+              {props.recentContributors.map((contributor) => {
                 return (
                   <ContributorCard
                     name={contributor.name}
