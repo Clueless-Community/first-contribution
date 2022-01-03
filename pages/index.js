@@ -7,7 +7,6 @@ import RecentContributors from "./components/RecentContributors";
 import Footer from "./components/Footer";
 import HeroDark from "./components/HeroDark";
 import Document from "./document";
-import contributors from "../data/contributors";
 
 const index = () => {
   const [Hometheme, setHomeTheme] = useState("");
@@ -23,8 +22,6 @@ const index = () => {
     HeroTheme();
   }, []);
 
-  const recentContributors = contributors.reverse().slice(0, 3)
-
   return (
     <div>
     <Document />
@@ -32,9 +29,7 @@ const index = () => {
       {!Hometheme && <HeroLight />}
       {Hometheme === "dark" && <HeroDark />}
       <div className="relative z-10">
-        <RecentContributors 
-          recentContributors = {recentContributors}
-        />
+        <RecentContributors />
         <DiscrodHome />
         <CreatorSection />
         <Footer />
