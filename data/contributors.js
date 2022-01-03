@@ -44,6 +44,15 @@ const contributors = [
         github : "https://github.com/Kingshuk3006",
         gender : "Male"
     },
+    {
+        name : "Pratham Sharma",
+        branch : "CSE (DS)",
+        roll : 2162034,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/pratham-sharma-aa243b21b",
+        github : "https://github.com/pratham4434",
+        gender : "Male"
+    },
 ]
 
 export default contributors
