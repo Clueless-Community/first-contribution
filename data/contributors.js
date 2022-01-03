@@ -13,8 +13,8 @@ const contributors = [
         branch : "CSE AI & ML",
         roll : 2160142,
         year : 2025,
-        linkedin : "https://www.linkedin.com/in/rajdeep-sengupta/",
-        github : "https://github.com/Rajdip019/Rajdip019",
+        linkedin : "https://www.linkedin.com/in/roshan-kumar-176918202/",
+        github : "https://github.com/Roshaen",
         gender : "male"
     },
     {
