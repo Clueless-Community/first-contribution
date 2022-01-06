@@ -20,7 +20,7 @@ const contributors = [
     {
         name : "Aiman Aisha",
         branch : "CSE",
-        roll : 062,
+        roll : 2161062,
         year : 2025,
         linkedin : "https://www.linkedin.com/in/aiman-aisha-84a932220/",
         github : "https://github.com/aimanaisha",
