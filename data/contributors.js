@@ -18,6 +18,15 @@ const contributors = [
         gender : "male"
     },
     {
+        name : "Aiman Aisha",
+        branch : "CSE",
+        roll : 062,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/aiman-aisha-84a932220/",
+        github : "https://github.com/aimanaisha",
+        gender : "female"
+    },
+    {
         name : "Nikhil Raj",
         branch : "CSE AI & ML",
         roll : 2161013,
