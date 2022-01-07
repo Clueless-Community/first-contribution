@@ -91,6 +91,15 @@ const contributors = [
     gender : "Male"
     },
     {
+        name : "Biki Mondal",
+        branch : "CSBS",
+        roll : 2160072,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/biki-mondal-40bb80229/",
+        github : "https://github.com/BikiLearner",
+        gender : "Male"
+     },
+    {
         name : "Sayan Chowdhury",
         branch : "CSE AI & ML",
         roll : 2161068,
