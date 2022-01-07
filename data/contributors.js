@@ -81,6 +81,15 @@ const contributors = [
         gender : "Male"
 
     },
+    {
+    name : "Debajyoti Saha",
+    branch : "CSBS",
+    roll : 2160046,
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
+    github : "https://github.com/Debajyoti14",
+    gender : "Male"
+    }
 ]
 
 export default contributors
