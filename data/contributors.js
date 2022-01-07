@@ -71,6 +71,16 @@ const contributors = [
         github : "https://github.com/AKSourav",
         gender : "Male"
     },
+    {
+        name : "Jyothi Swaroop Makena",
+        branch : "CSE (AI & ML)",
+        roll : 2161007,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/jyothi-swaroop-makena-024661227/",
+        github : "https://github.com/RedJOe-0608",
+        gender : "Male"
+
+    },
 ]
 
 export default contributors
