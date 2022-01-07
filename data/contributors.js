@@ -98,8 +98,16 @@ const contributors = [
         linkedin : "https://www.linkedin.com/in/biki-mondal-40bb80229/",
         github : "https://github.com/BikiLearner",
         gender : "Male"
-        }
-
+     },
+    {
+        name : "Sayan Chowdhury",
+        branch : "CSE AI & ML",
+        roll : 2161068,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/sayan-chowdhury-57108b227/",
+        github : "https://github.com/csayanide",
+        gender : "Male"
+    }
 ]
 
 export default contributors
