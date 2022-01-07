@@ -89,7 +89,17 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github : "https://github.com/Debajyoti14",
     gender : "Male"
-    }
+    },
+    {
+        name : "Biki Mondal",
+        branch : "CSBS",
+        roll : 2160072,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/biki-mondal-40bb80229/",
+        github : "https://github.com/BikiLearner",
+        gender : "Male"
+        }
+
 ]
 
 export default contributors
