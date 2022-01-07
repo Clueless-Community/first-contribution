@@ -89,6 +89,15 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github : "https://github.com/Debajyoti14",
     gender : "Male"
+    },
+    {
+        name : "Sayan Chowdhury",
+        branch : "CSE AI & ML",
+        roll : 2161068,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/sayan-chowdhury-57108b227/",
+        github : "https://github.com/csayanide",
+        gender : "Male"
     }
 ]
 
