@@ -109,8 +109,8 @@ const contributors = [
         gender : "Male"
     },
     {
-        name : "Satyam Sharma",
-        branch : "CSE",
+        name :"Satyam Sharma",
+        branch :"CSE",
         roll : 2151069,
         year : 2025,
         linkedin : "https://www.linkedin.com/in/satyam-sharma-31914222a",
