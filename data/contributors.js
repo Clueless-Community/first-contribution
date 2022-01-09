@@ -116,7 +116,7 @@ const contributors = [
         linkedin : "https://www.linkedin.com/in/satyam-sharma-31914222a",
         github : "https://github.com/Satyam26-09",
         gender : "Male"
-    }
+    },
 ]
 
 export default contributors
