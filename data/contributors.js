@@ -107,7 +107,16 @@ const contributors = [
         linkedin : "https://www.linkedin.com/in/sayan-chowdhury-57108b227/",
         github : "https://github.com/csayanide",
         gender : "Male"
-    }
+    },
+    {
+        name :"Satyam Sharma",
+        branch :"CSE",
+        roll : 2151069,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/satyam-sharma-31914222a",
+        github : "https://github.com/Satyam26-09",
+        gender : "Male"
+    },
 ]
 
 export default contributors
