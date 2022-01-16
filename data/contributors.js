@@ -117,6 +117,15 @@ const contributors = [
         github : "https://github.com/Satyam26-09",
         gender : "Male"
     },
+    {
+        name :"Saeed Ahmed",
+        branch :"CSE",
+        roll : 2151221,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/saeed-ahmed-264ab421b/",
+        github : "https://github.com/me-coderr",
+        gender : "Male"
+    },
 ]
 
 export default contributors
