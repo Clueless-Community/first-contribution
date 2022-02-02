@@ -126,6 +126,15 @@ const contributors = [
         github : "https://github.com/me-coderr",
         gender : "Male"
     },
+    {
+        name : "Md.Shadab Imran",
+        branch : "CSE (AI & ML)",
+        roll : 2161037,
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/shadab-imran-2461a321a/",
+        github : "https://github.com/ShadabImran07",
+        gender : "Male"
+    }
 ]
 
 export default contributors
