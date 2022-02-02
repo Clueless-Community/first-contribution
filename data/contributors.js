@@ -134,7 +134,7 @@ const contributors = [
         linkedin : "https://www.linkedin.com/in/shadab-imran-2461a321a/",
         github : "https://github.com/ShadabImran07",
         gender : "Male"
-    }
+    },
 ]
 
 export default contributors
