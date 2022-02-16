@@ -31,7 +31,7 @@ const contributors = [
         branch : "CSE AI & ML",
         roll : 2161013,
         year : 2025,
-        linkedin : "",
+        linkedin : "https://www.linkedin.com/in/nikhil-raj-117246232/",
         github : "https://github.com/nikhil25803",
         gender : "male"
     },
