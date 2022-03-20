@@ -22,10 +22,7 @@
 
 * Select Git Bash Here and Git GUI Here components and other components you want
 
-     <img src="image/git.jpg"
-     alt="Git Bash/GUI Checkbox"
-     style="float: ; margin-right: 10px; width: auto;" />
-     
+     ![Git Bash/GUI Checkbox](https://i.ibb.co/0DWJtKv/git.jpg)     
 
 
 * The installer will offer to create a start menu folder. Simply click Next.
