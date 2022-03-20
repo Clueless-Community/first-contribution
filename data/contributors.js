@@ -2,7 +2,7 @@ const contributors = [
     {
         name : "Rajdeep Sengupta",
         branch : "CSE AI & ML",
-        roll : 2160144,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/rajdeep-sengupta/",
         github : "https://github.com/Rajdip019/Rajdip019",
@@ -11,7 +11,7 @@ const contributors = [
     {
         name : "Roshan Kumar",
         branch : "CSE AI & ML",
-        roll : 2160142,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/roshan-kumar-176918202/",
         github : "https://github.com/Roshaen",
@@ -20,7 +20,7 @@ const contributors = [
     {
         name : "Aiman Aisha",
         branch : "CSE",
-        roll : 2161062,
+        college : "NIT DGP",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/aiman-aisha-84a932220/",
         github : "https://github.com/aimanaisha",
@@ -29,7 +29,7 @@ const contributors = [
     {
         name : "Nikhil Raj",
         branch : "CSE AI & ML",
-        roll : 2161013,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/nikhil-raj-117246232/",
         github : "https://github.com/nikhil25803",
@@ -38,7 +38,7 @@ const contributors = [
     {
         name : "Anubhab Halder",
         branch : "CSE AI & ML",
-        roll : 2161059,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/anubhab-halder-289bb2218/",
         github : "https://github.com/itsmeAnubhab",
@@ -47,7 +47,7 @@ const contributors = [
     {
         name : "Kingshuk Sarkar",
         branch : "CSE (AI-ML)",
-        roll : 2161041,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/kingshuk-sarkar-8850aa222/",
         github : "https://github.com/Kingshuk3006",
@@ -56,7 +56,7 @@ const contributors = [
     {
         name : "Pratham Sharma",
         branch : "CSE (DS)",
-        roll : 2162034,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/pratham-sharma-aa243b21b",
         github : "https://github.com/pratham4434",
@@ -65,7 +65,7 @@ const contributors = [
     {
         name : "Anupam Kumar Sourav",
         branch : "CSE (DS)",
-        roll : 2162017,
+        college : "HITK",
         year : 2025,
         linkedin : "linkedin.com/in/anupam-kumar-sourav-9bb43a22a",
         github : "https://github.com/AKSourav",
@@ -74,7 +74,7 @@ const contributors = [
     {
         name : "Jyothi Swaroop Makena",
         branch : "CSE (AI & ML)",
-        roll : 2161007,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/jyothi-swaroop-makena-024661227/",
         github : "https://github.com/RedJOe-0608",
@@ -84,7 +84,7 @@ const contributors = [
     {
     name : "Debajyoti Saha",
     branch : "CSBS",
-    roll : 2160046,
+    college : "HITK",
     year : 2025,
     linkedin : "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github : "https://github.com/Debajyoti14",
@@ -93,7 +93,7 @@ const contributors = [
     {
         name : "Biki Mondal",
         branch : "CSBS",
-        roll : 2160072,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/biki-mondal-40bb80229/",
         github : "https://github.com/BikiLearner",
@@ -102,7 +102,7 @@ const contributors = [
     {
         name : "Sayan Chowdhury",
         branch : "CSE AI & ML",
-        roll : 2161068,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/sayan-chowdhury-57108b227/",
         github : "https://github.com/csayanide",
@@ -111,7 +111,7 @@ const contributors = [
     {
         name :"Satyam Sharma",
         branch :"CSE",
-        roll : 2151069,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/satyam-sharma-31914222a",
         github : "https://github.com/Satyam26-09",
@@ -120,7 +120,7 @@ const contributors = [
     {
         name :"Saeed Ahmed",
         branch :"CSE",
-        roll : 2151221,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/saeed-ahmed-264ab421b/",
         github : "https://github.com/me-coderr",
@@ -129,7 +129,7 @@ const contributors = [
     {
         name : "Md.Shadab Imran",
         branch : "CSE (AI & ML)",
-        roll : 2161037,
+        college : "HITK",
         year : 2025,
         linkedin : "https://www.linkedin.com/in/shadab-imran-2461a321a/",
         github : "https://github.com/ShadabImran07",
