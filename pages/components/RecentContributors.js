@@ -31,7 +31,7 @@ const RecentContributors = () => {
                   <ContributorCard
                     name={contributor.name}
                     branch={contributor.branch}
-                    roll={contributor.roll}
+                    college={contributor.college}
                     year={contributor.year}
                     linkedin={contributor.linkedin}
                     github={contributor.github}
