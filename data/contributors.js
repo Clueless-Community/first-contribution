@@ -135,6 +135,15 @@ const contributors = [
         github : "https://github.com/ShadabImran07",
         gender : "Male"
     },
+    {
+        name : "Kusumita Ghose",
+        branch : "CSE (AI & ML)",
+        college : "HITK",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/kusumita-ghose-a10ba121a",
+        github : "https://github.com/kusumita29",
+        gender : "Female"
+    }
 ]
 
 export default contributors
