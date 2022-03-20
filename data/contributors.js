@@ -1,4 +1,5 @@
 const contributors = [
+  
     {
         name : "Rajdeep Sengupta",
         branch : "CSE AI & ML",
@@ -153,7 +154,17 @@ const contributors = [
         github : "https://github.com/kusumita29",
         gender : "Female"
     },
+  {
+    name: "Arijit Ghosh",
+    branch: "CSE",
+    roll: 1210017,
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/arijit-ghosh-902a4b220/",
+    github: "https://github.com/Rancho2002",
+    gender: "Male",
+  },
 
 ]
 
 export default contributors
+
