@@ -135,7 +135,16 @@ const contributors = [
         github : "https://github.com/ShadabImran07",
         gender : "Male"
     },
-    {
+	{
+        name : "Md Asif Raza",
+        branch : "CSE",
+        college : "LNJPIT",
+        year : 2023,
+        linkedin : "https://www.linkedin.com/in/itsmdasifraza",
+        github : "https://github.com/itsmdasifraza",
+        gender : "Male"
+    },
+     {
         name : "Kusumita Ghose",
         branch : "CSE (AI & ML)",
         college : "HITK",
@@ -143,7 +152,8 @@ const contributors = [
         linkedin : "https://www.linkedin.com/in/kusumita-ghose-a10ba121a",
         github : "https://github.com/kusumita29",
         gender : "Female"
-    }
+    },
+
 ]
 
 export default contributors
