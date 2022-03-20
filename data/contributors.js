@@ -135,6 +135,15 @@ const contributors = [
         github : "https://github.com/ShadabImran07",
         gender : "Male"
     },
+	{
+        name : "Md Asif Raza",
+        branch : "CSE",
+        college : "LNJPIT",
+        year : 2023,
+        linkedin : "https://www.linkedin.com/in/itsmdasifraza",
+        github : "https://github.com/itsmdasifraza",
+        gender : "Male"
+    },
 ]
 
 export default contributors
