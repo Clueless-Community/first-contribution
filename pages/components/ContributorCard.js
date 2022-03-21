@@ -27,7 +27,7 @@ const ContributorCard = (props) => {
                   <span className="text-gray-500 ml-7 my-1 font-semibold dark:text-slate-200">
                     Year :
                   </span>
-                  <span className="text-gray-500 dark:text-slate-300"> 1st {props.year}</span>
+                  <span className="text-gray-500 dark:text-slate-300"> {props.year}</span>
                 </div>
 
               <div className="flex ml-7 md:ml-0 lg:ml-7 my-1">
