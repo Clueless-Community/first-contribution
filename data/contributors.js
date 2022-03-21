@@ -158,11 +158,12 @@ const contributors = [
     name: "Arijit Ghosh",
     branch: "CSE",
     roll: 1210017,
-    year: 2025,
+    college: "RKMGEC",
     linkedin: "https://www.linkedin.com/in/arijit-ghosh-902a4b220/",
     github: "https://github.com/Rancho2002",
     gender: "Male",
   },
+
   {
     name: "Subho Ghosh",
     branch: "CSE (AI & ML)",
@@ -172,6 +173,16 @@ const contributors = [
     github: "https://github.com/ighoshsubho",
     gender: "Male",
   },
+  
+  {
+        name :"Sanyam Agarwal",
+        branch :"IT",
+        college : "IIITA",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/sanyam-agarwal-a4a385227/",
+        github : "https://github.com/sanyam1259",
+        gender : "Male"
+    },
 
 ]
 
