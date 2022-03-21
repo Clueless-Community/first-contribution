@@ -167,7 +167,7 @@ const contributors = [
   {
     name: "Subho Ghosh",
     branch: "CSE (AI & ML)",
-    roll: 2161075,
+    college : "HITK",
     year: 2025,
     linkedin: "https://www.linkedin.com/in/thesubhoghosh/",
     github: "https://github.com/ighoshsubho",
