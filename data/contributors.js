@@ -157,8 +157,8 @@ const contributors = [
   {
     name: "Arijit Ghosh",
     branch: "CSE",
-    roll: 1210017,
     college: "RKMGEC",
+    year:2025,
     linkedin: "https://www.linkedin.com/in/arijit-ghosh-902a4b220/",
     github: "https://github.com/Rancho2002",
     gender: "Male",
