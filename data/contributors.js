@@ -163,6 +163,15 @@ const contributors = [
     github: "https://github.com/Rancho2002",
     gender: "Male",
   },
+  {
+    name: "Subho Ghosh",
+    branch: "CSE (AI & ML)",
+    roll: 2161075,
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/thesubhoghosh/",
+    github: "https://github.com/ighoshsubho",
+    gender: "Male",
+  },
 
 ]
 
