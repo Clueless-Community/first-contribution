@@ -1,4 +1,5 @@
 const contributors = [
+
     {
         name: "Rajdeep Sengupta",
         branch: "CSE AI & ML",
@@ -7,6 +8,7 @@ const contributors = [
         linkedin: "https://www.linkedin.com/in/rajdeep-sengupta/",
         github: "https://github.com/Rajdip019/Rajdip019",
         gender: "male",
+
     },
     {
         name: "Roshan Kumar",
@@ -161,6 +163,16 @@ const contributors = [
         linkedin: "https://www.linkedin.com/in/arijit-ghosh-902a4b220/",
         github: "https://github.com/Rancho2002",
         gender: "Male",
+    },
+  
+    {
+        name: "Ankit Kumar",
+        branch: "COmputer Engg.",
+        college: "Ambedkar institute of technology",
+        year: 2023, //Year of Pass Out
+        linkedin: "http://www.linkedin.com/in/ankit-kumar56",
+        github: "https://github.com/Kumar-Ankit56",
+        gender: "MALE",
     },
 
     {
