@@ -203,6 +203,15 @@ const contributors = [
         github: "https://github.com/AbirSantra",
         gender: "Male",
     },
+    {
+        name : "Pritika Bhar",
+        branch : "CSBS",
+        college : "Academy of Technology",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/pritika-bhar-2b54a1222/",
+        github : "https://github.com/pritika163",
+        gender : "Female",
+    },
 ];
 
 export default contributors;
