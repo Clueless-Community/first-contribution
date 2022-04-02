@@ -197,7 +197,7 @@ const contributors = [
     {
         name: "Abir Santra",
         branch: "IT",
-        college: "MCKV Institute of Engineering",
+        college: "MCKVIoE",
         year: 2024,
         linkedin: "https://www.linkedin.com/in/abir-santra-8a9305205/",
         github: "https://github.com/AbirSantra",
