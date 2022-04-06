@@ -1,5 +1,4 @@
 const contributors = [
-
     {
         name: "Rajdeep Sengupta",
         branch: "CSE AI & ML",
@@ -164,16 +163,16 @@ const contributors = [
         github: "https://github.com/Rancho2002",
         gender: "Male",
     },
-  
-    {
-        name: "Ankit Kumar",
-        branch: "Computer Eng.",
-        college: "AIT Delhi",
-        year: 2023, //Year of Pass Out
-        linkedin: "http://www.linkedin.com/in/ankit-kumar56",
-        github: "https://github.com/Kumar-Ankit56",
-        gender: "MALE",
-    },
+  {
+    name: "Ankit Kumar",
+    branch: "COmputer Engg.",
+    college: "Ambedkar institute of technology",
+    year: 2023, //Year of Pass Out
+    linkedin: "http://www.linkedin.com/in/ankit-kumar56",
+    github: "https://github.com/Kumar-Ankit56",
+    gender: "MALE",
+  },
+
 
     {
         name: "Subho Ghosh",
@@ -212,6 +211,15 @@ const contributors = [
         github : "https://github.com/pritika163",
         gender : "Female",
     },
+  {
+    name: "Anish Prashun",
+    branch: "CSE",
+    college: "Amity University Patna",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/anishpras118/",
+    github: "https://github.com/Anishpras",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
