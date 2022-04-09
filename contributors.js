@@ -1,13 +1,4 @@
-const obj = {
-    name : "Your Name",
-    branch : "Your stream/branch",
-    college : "College Name",
-    year : 2025, //Year of Pass Out
-    linkedin : "LinkedIn Profile URL",
-    github : "GitHub Profile URL",
-    gender : "Your Gender"
-}
-const obj2 = {
+const info = {
     name : 'Ankush',
     branch : 'Instrumentation and Control Engineering',
     college : 'Dharmsinh Desai University',
