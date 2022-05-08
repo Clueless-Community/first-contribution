@@ -117,6 +117,15 @@ const contributors = [
         github : "https://github.com/Satyam26-09",
         gender : "Male"
     },
+    {
+        name : "Agnija Pal",
+        branch :"CS Hons",
+        roll : null,
+        year : 2024,
+        linkedin : "https://www.linkedin.com/in/developeragni/",
+        github : "https://github.com/agnijapal",
+        gender : "Male"
+    },
 ]
 
 export default contributors
