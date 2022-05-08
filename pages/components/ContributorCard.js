@@ -17,20 +17,19 @@ const ContributorCard = (props) => {
                 {props.name}
               </h2>
               <p className="text-gray-500 ml-7 md:ml-0 lg:ml-7 my-1 dark:text-slate-300">{props.branch}</p>
-              <div className="md:flex">
                 <div>
                   <span className="text-gray-500 ml-7 md:ml-0 lg:ml-7 my-1 font-semibold dark:text-slate-200">
-                    Roll :
+                    College :
                   </span>
-                  <span className="text-gray-500 dark:text-slate-300"> {props.roll}</span>
+                  <span className="text-gray-500 dark:text-slate-300"> {props.college}</span>
                 </div>
                 <div>
                   <span className="text-gray-500 ml-7 my-1 font-semibold dark:text-slate-200">
                     Year :
                   </span>
-                  <span className="text-gray-500 dark:text-slate-300"> 1st {props.year}</span>
+                  <span className="text-gray-500 dark:text-slate-300"> {props.year}</span>
                 </div>
-              </div>
+
               <div className="flex ml-7 md:ml-0 lg:ml-7 my-1">
                 <a href={props.github} target="_blank">
                   <div className=" cursor-pointer hover:scale-105 transition-all mr-3">
@@ -75,7 +74,6 @@ const ContributorCard = (props) => {
             </div>
           </div>
         </div>
-
     </>
   );
 };

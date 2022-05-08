@@ -56,14 +56,14 @@ cd first-contribution/data/
 Open contributors.js in your favourite text editor and add a new object below the existing objects in the format given below.
 
 ```json
-{
+ {
         name : "Your Name",
-        branch : "Your Branch",
-        roll : "Your Roll (without double quotes)",
-        year : "Passing year (without double qotes)",
-        linkedin : "linkedin profile link",
-        github : "github account link",
-        gender : "your gender"
+        branch : "Your stream/branch",
+        college : "College Name",
+        year : 2025, //Year of Pass Out
+        linkedin : "LinkedIn Profile URL",
+        github : "GitHub Profile URL",
+        gender : "Your Gender"
     },
 ```
 
