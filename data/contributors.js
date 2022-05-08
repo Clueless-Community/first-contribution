@@ -214,6 +214,7 @@ const contributors = [
     {
         name : "Agnija Pal",
         branch :"CS Hons",
+        college : "Seth Anandram Jaipuria College",
         roll : null,
         year : 2024,
         linkedin : "https://www.linkedin.com/in/developeragni/",
