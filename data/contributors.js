@@ -226,7 +226,7 @@ const contributors = [
     college: "HITK",
     year: 2025,
     linkedin: "",
-    github: "",
+    github: "https://github.com/itzROHIT-coder",
     gender: "Male",
   },
 ];
