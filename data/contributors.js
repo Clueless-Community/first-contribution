@@ -220,6 +220,15 @@ const contributors = [
     github: "https://github.com/Anishpras",
     gender: "Male",
   },
+    {
+    name: "Rohit Ranjan Singh",
+    branch: "CSBS",
+    college: "HITK",
+    year: 2025,
+    linkedin: "",
+    github: "",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
