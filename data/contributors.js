@@ -211,6 +211,16 @@ const contributors = [
         github : "https://github.com/pritika163",
         gender : "Female",
     },
+    {
+        name : "Agnija Pal",
+        branch :"CS Hons",
+        college : "Seth Anandram Jaipuria College",
+        roll : null,
+        year : 2024,
+        linkedin : "https://www.linkedin.com/in/developeragni/",
+        github : "https://github.com/agnijapal",
+        gender : "Male"
+    },
   {
     name: "Anish Prashun",
     branch: "CSE",
