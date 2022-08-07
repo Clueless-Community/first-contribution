@@ -245,6 +245,15 @@ const contributors = [
     github: "https://github.com/khari-on",
     gender: "Male",
   },
+  {
+    name : "Binay Shaw",
+    branch : "B.Tech/CSE",
+    college : "JIS College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/binayshaw7777/",
+    github : "https://github.com/binayshaw7777",
+    gender : "Male"
+},
 ];
 
 export default contributors;
