@@ -78,8 +78,7 @@ const CreatorSection = () => {
                     Rajdeep Sengupta
                   </h2>
                   <p className="leading-relaxed">
-                    Young UI & UX Designer & Full Stack and Web Developer |
-                    Loves to learn and share knowledge | Loves to Play Chess. | Reach me at rajdipgupta019@gmail.com
+                    SDE Intern @DocuComb | 🇮🇳 Microsoft Imagine Cup India Finalist '22 l Campus Tech Leader @iNeuron.ai 🔰 | Full stack Web Developer 📌| AWS ✨ | Learning DevOps⚡| Building @Clueless 🚀 | Loves to Play Chess | Reach me at rajdipgupta019@gmail.com
                   </p>
                   <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
                 </div>
@@ -162,18 +161,18 @@ const CreatorSection = () => {
                   <img
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                    src="/Anubhab.jpg"
+                    src="/https://media-exp1.licdn.com/dms/image/C4E03AQEWmfXzciOJMA/profile-displayphoto-shrink_800_800/0/1630998692496?e=1669852800&v=beta&t=sZZnGNKGvCFmHCewlatYh_XX8S3myNkvRwv0fOCOP7w"
                   />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
-                    Anubhab Halder
+                    Debajyoti Saha 
                   </h2>
                   <p className="leading-relaxed">
-                  Hey! I'm Anubhab from AI & ML. Here I am exploring technologies, surfing through life playing guitar and at your service ;) Reach me at: anubhabhalder7@gmail.com
+                  Intern @Docucomb | Microsoft Imagine Cup India Finalist '22 l GDSC HITK Core Team Member | Full stack Web & Mobile Developer | Exploring Flutter | Reach me at: debajyotisaha14@gmail.com
                   </p>
                   <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
                 </div>
                 <div className="flex justify-center">
-                <a href="https://github.com/itsmeAnubhab" target="_blank">
+                <a href="https://github.com/Debajyoti14" target="_blank">
                   <div className=" cursor-pointer hover:scale-105 transition-all mr-3">
                   <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -188,7 +187,7 @@ const CreatorSection = () => {
                   </div>
                 </a>
 
-                <a href="https://www.linkedin.com/in/anubhab-halder-289bb2218/" target="_blank">
+                <a href="https://www.linkedin.com/in/debajyotisaha14/" target="_blank">
                   <div className=" cursor-pointer hover:scale-105 transition-all">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
