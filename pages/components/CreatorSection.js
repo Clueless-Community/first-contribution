@@ -161,7 +161,7 @@ const CreatorSection = () => {
                   <img
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                    src="https://media-exp1.licdn.com/dms/image/C4E03AQEWmfXzciOJMA/profile-displayphoto-shrink_800_800/0/1630998692496?e=1669852800&v=beta&t=sZZnGNKGvCFmHCewlatYh_XX8S3myNkvRwv0fOCOP7w"
+                    src="/debajyoti.jpeg"
                   />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Debajyoti Saha 
