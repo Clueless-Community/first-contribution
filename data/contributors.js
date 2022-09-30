@@ -271,6 +271,15 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/sdeepanshu17/",
     github : "https://github.com/sdeepanshu17",
     gender : "Male"
+},
+{
+  name : "Pranav",
+  branch : "B.tech/CSE",
+  college : "SRM Institute of Science and Technology",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
+  github : "https://github.com/Pranav10903",
+  gender : "Male"
 }
 ];
 
