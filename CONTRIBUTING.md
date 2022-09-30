@@ -135,3 +135,22 @@ git push origin branch_name
      alt="Confirmation message"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
+
+# Want to contribute in the website?
+
+### Step 1:
+```
+git clone https://github.com/Clueless-Community/first-contribution.git
+```
+### Step 2:
+```
+cd first-contribution
+```
+### Step 3:
+```
+npm install
+```
+### Step 4:
+```
+npm run dev
+```
