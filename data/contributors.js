@@ -273,12 +273,21 @@ const contributors = [
     gender : "Male"
 },
 {
+
   name : "Rahul",
   branch : "B.tech/CSE",
   college : "PDPM IIITDM Jabalpur",
   year : 2025,
   linkedin : "https://www.linkedin.com/in/rahul-sankhla-027181229",
   github : "https://github.com/RahulSankhla312",
+},
+  name : "Pranav",
+  branch : "B.tech/CSE",
+  college : "SRM Institute of Science and Technology",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
+  github : "https://github.com/Pranav10903",
+\
   gender : "Male"
 }
 
