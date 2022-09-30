@@ -1,7 +1,7 @@
 ---
 name: First Contribution
 about: Use this template and raise as issue as your fist-contribution.
-title: ''
+title: "<YOUR_NAME_HERE>"
 labels: good first issue, hacktoberfest
 assignees: ''
 
