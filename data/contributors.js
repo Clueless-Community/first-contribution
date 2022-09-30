@@ -262,6 +262,15 @@ const contributors = [
     linkedin : 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
     github : 'https://github.com/Ankush-Ladani',
     gender : 'male'
+},
+{
+    name : "Deepanshu",
+    branch : "B.tech/CSE",
+    college : "PDPM IIITDM Jabalpur",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/sdeepanshu17/",
+    github : "https://github.com/sdeepanshu17",
+    gender : "Male"
 }
 ];
 
