@@ -271,7 +271,17 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/sdeepanshu17/",
     github : "https://github.com/sdeepanshu17",
     gender : "Male"
-}
+},
+{
+  name : "Rahul",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/rahul-sankhla-027181229",
+  github : "https://github.com/RahulSankhla312",
+  gender : "Male"
+},
+
 ];
 
 export default contributors;
