@@ -280,7 +280,7 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/rahul-sankhla-027181229",
   github : "https://github.com/RahulSankhla312",
   gender : "Male"
-},
+}
 
 ];
 
