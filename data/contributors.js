@@ -241,7 +241,7 @@ const contributors = [
     branch: "CSBS",
     college: "HITK",
     year: 2025,
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/rohit-ranjan-singh-6133901b6/",
     github: "https://github.com/itzROHIT-coder",
     gender: "Male",
   },
