@@ -289,6 +289,24 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/sammybh6/",
   github : "https://github.com/sammybh6",
   gender : "Male"
+},
+
+
+
+
+
+
+
+
+
+{
+  name : "Wuttinan Sukpoon",
+  branch : "Business IT Management",
+  college : "Rajamangala University of Technology Rattanakosin",
+  year : 2022,
+  linkedin : "-",
+  github : "https://github.com/mewxz029",
+  gender : "Male"
 }
 ];
 
