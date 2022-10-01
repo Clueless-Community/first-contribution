@@ -280,6 +280,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
   github : "https://github.com/Pranav10903",
   gender : "Male"
+},
+{
+  name : "Samyak Bhargava",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/sammybh6/",
+  github : "https://github.com/sammybh6",
+  gender : "Male"
 }
 ];
 
