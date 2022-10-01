@@ -362,7 +362,16 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/yash-gupta-1106/",
   github: "https://github.com/yashg-116",
   gender: "male",
-}
+},
+{
+  name : "Wuttinan Sukpoon",
+  branch : "Business IT Management",
+  college : "Rajamangala University of Technology Rattanakosin",
+  year : 2022,
+  linkedin : "-",
+  github : "https://github.com/mewxz029",
+  gender : "Male"
+},
 ];
 
 export default contributors;
