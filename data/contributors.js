@@ -307,6 +307,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/varun-singh-018242224/",
   github : "https://github.com/varun7singh",
   gender : "Male"
+},
+{
+  name : "Vipul Chaudhary",
+  branch : "B.tech/CSE",
+  college : "PDEU, Gandhinagar",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/vipulchaudhary16",
+  github : "https://github.com/vipulchaudhary16",
+  gender : "Male"
 }
 ];
 
