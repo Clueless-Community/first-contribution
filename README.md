@@ -11,6 +11,10 @@ You can contribute to this project under [Hacktoberfest 2022](https://hacktoberf
 
 + [This]() is the website we have created for our first contributors, routing to the [contributors](https://clueless.vercel.app/allcontributors) page, you will see a few cards with some details of the contributor.
 
+
+[![image](https://www.linkpicture.com/q/contributionCard.png)](https://www.linkpicture.com/view.php?img=LPic6337cb9eb9c08930623349)
+
+
 + Now, to get your contributiors card, you have to contribute to this repository, following our guidelines.
 
 ## How to contribute? 🧐
