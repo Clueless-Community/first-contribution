@@ -316,6 +316,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/vipulchaudhary16",
   github : "https://github.com/vipulchaudhary16",
   gender : "Male"
+},
+{
+  name : "Abhilipsa Sahoo",
+  branch : "B.Tech/CSE",
+  college : "Gandhi Institute for Technological Advancement, Bhubaneswar",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/abhilipsa-sahoo-927542b1",
+  github : "https://github.com/abhilipsasahoo03",
+  gender : "Female"
 }
 ];
 
