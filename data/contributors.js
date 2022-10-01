@@ -316,6 +316,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/vipulchaudhary16",
   github : "https://github.com/vipulchaudhary16",
   gender : "Male"
+},
+{
+  name : "Tushar Pathak",
+  branch : "B.tech/CSE",
+  college : "Dayananda Sagar College of Engineering Bangalore",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/tushar54594/",
+  github : "https://github.com/tushar54594",
+  gender : "Male"
 }
 ];
 
