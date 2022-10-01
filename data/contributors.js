@@ -9,6 +9,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Asma Kacem",
+    branch: "ICT",
+    college: "ENISO",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/asmakacem",
+    github: "https://github.com/AsmaKacem1",
+    gender: "female",
+  },
+  {
     name: "Roshan Kumar",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -280,6 +289,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
   github : "https://github.com/Pranav10903",
   gender : "Male"
+},
+{
+  name : "Parnani Panda",
+  branch : "CSE",
+  college : "KIIT University",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/parnani-panda-a29ba2210",
+  github : "https://github.com/Parnani",
+  gender : "Female"
 },
 {
   name : "Samyak Bhargava",
