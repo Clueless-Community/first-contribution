@@ -493,6 +493,15 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/subhadipdhn/",
     github: "https://github.com/Subhadiptech",
     gender: "Male"
+  },
+  {
+    name: "Akebu Simasiku",
+    branch: "Software Engineering",
+    college: "Zambia ICT College",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/akebu-simasiku-24186720a/?originalSubdomain=zm",
+    github: "https://github.com/akebu6",
+    gender: "Female"
   }
 
 ];
