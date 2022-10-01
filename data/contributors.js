@@ -438,13 +438,13 @@ const contributors = [
 },
 {
   name : "Noothan AM",
-  branch : "Computer Science and Engineering",
+  branch : "Cse",
   college : "BMS institute of technology and management",
-  year : 2025, //Year of Pass Out
+  year : 2025, 
   linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
   github : "https://github.com/Noothan-am/",
-  gender : "Male"
-},
+  gender : "male"
+}
 
 ];
 
