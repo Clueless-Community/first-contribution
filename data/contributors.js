@@ -362,6 +362,15 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/yash-gupta-1106/",
   github: "https://github.com/yashg-116",
   gender: "male",
+},
+ {
+  name: "Meghsham Jade",
+  branch: "E&TC",
+  college: "JSPM BSIOTR",
+  year: 2024,
+  linkedin: "https://www.linkedin.com/in/meghsham-jade-2a3406218/",
+  github: "https://github.com/Meghsham15",
+  gender: "male",
 }
 ];
 
