@@ -456,6 +456,16 @@ const contributors = [
 }
 
 
+{
+    name: "Pratyush Pahari",
+    branch: "CSE AI & ML",
+    college: "Brainware University",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
+    github: "https://github.com/PRATYUSHPAHARI",
+    gender: "male",
+}  
+
 ];
 
 export default contributors;
