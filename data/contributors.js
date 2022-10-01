@@ -434,7 +434,16 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/divyanshu-jha-48739a21a",
   github: "https://github.com/Divyanshu-jhaa",
   gender: "male",
-}
+},
+{
+  name : "Chetan Singh",
+  branch : "Computer Science and Engineering",
+  college : "GNDEC Ludhiana",
+  year : 2024, //Year of Pass Out
+  linkedin : "https://www.linkedin.com/in/kunwar-chetan-singh-0a45391b8/",
+  github : "https://github.com/chetansingh-2",
+  gender : "Male"
+},
 ];
 
 export default contributors;
