@@ -475,6 +475,15 @@ const contributors = [{
     github: "https://github.com/prakhar-1005",
     gender: "Male"
   },
+                      {
+        name: "Yash Seth",
+        branch: "CSE Core",
+        college: "VIT Chennai",
+        year: 2024,
+        linkedin: "https://www.linkedin.com/in/yash-seth/",
+        github: "https://github.com/yash-seth/",
+        gender: "male",
+    },
 
   {
     name: "Subhadip Das",
