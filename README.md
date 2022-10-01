@@ -1,137 +1,29 @@
-# First Contribution
-<p>This project is for those who are new to open-source and looking for make their first contribution.<p>
-<p>Follow the steps below :- </p>
+<h1 align='center'>First Contribution 🫂</h1>
+<p align='center'> <b>This project is for those who are new to open-source and looking for make their first contribution </b> <p>
 
-_If you don't have GIT installed, [refer this tutorial](https://github.com/HITK-2025/first-contribution/blob/main/installation.md)_
+---
 
+You can contribute to this project under [Hacktoberfest 2022](https://hacktoberfest.com/) 💫
 
-***
+![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
-# Git Setup Guide
-## To initialise Git, write
-```bash
-git init
-```
+## What would you have to do? 🤔
 
-## 1. Configure your local Git
-```bash
-git config --global user.name "github username"
-```
-
-```bash
-git config --global user.email "email address"
-```
-
-## 2.  Go to the first-contribution repository and Fork it.
-* A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing.
-
-  <img src="guide image/fork2.png"
-     alt="Fork"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
-* Click on Code Button and copy the URL of your forked Repository
-
-  <img src="guide image/code_git.png"
-     alt="Click on Code"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
-  <img src="guide image/code_copy.png"
-     alt="Copy the URL"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
-## 3. Switch to your Git bash window, and enter the following :
-
-* Clone the Forked project on your local system 
-
-```bash
-git clone https://github.com/HITK-2025/first-contribution.git
-```
++ [This]() is the website we have created for our first contributors, routing to the [contributors](https://clueless.vercel.app/allcontributors) page, you will see a few cards with some details of the contributor.
 
 
-* Make the changes
-
-```bash
-cd first-contribution/data/ 
-```
-Open contributors.js in your favourite text editor and add a new object below the existing objects in the format given below.
-
-```json
- {
-        name : "Your Name",
-        branch : "Your stream/branch",
-        college : "College Name",
-        year : 2025, //Year of Pass Out
-        linkedin : "LinkedIn Profile URL",
-        github : "GitHub Profile URL",
-        gender : "Your Gender"
-    },
-```
-
-## 4. Creating a Pull request
-### Create a branch
-
-* A branch is designed to encapsulate a group of changes. These changes might be thrown away, entirely rewritten or in the majority of cases they’ll be promoted into the main history of the codebase - via a merge.
+[![image](https://www.linkpicture.com/q/contributionCard.png)](https://www.linkpicture.com/view.php?img=LPic6337cb9eb9c08930623349)
 
 
-* Creating a branch
++ Now, to get your contributiors card, you have to contribute to this repository, following our guidelines.
 
-```bash
-git branch branch_name
-```
+## How to contribute? 🧐
 
-* Checkout to the created branch
+We recommend you to go through the [CONTRIBUTING.md](https://github.com/Clueless-Community/first-contribution/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
 
-```bash
-git checkout branch_name
-```
+Once the pull request is merged, you will find your awesome contribution card on our website.
 
+## Need help? 
+We have an awesome Discord community where you can ask your doubts and we will be there for your help and even you can help others to make their contribution 🫂.
 
-* Now add the files using the git command
-
-```bash
-git add .
-```
-* Commit the changes to the local project
-
-```bash
-git commit -m "Added my data"
-```
-
-* Push the changes to your forked github repo
-```bash
-git push origin branch_name
-```
-
-## 5. Final Steps
-* Open your forked git repository, you will get a message like as shown in the figure (if not then refresh the page).
-###  Click on "Contribute"
-
-  <img src="guide image/pull1.png"
-     alt="Contribute"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
-###  Now click on "Open pull request"
-
-  <img src="guide image/pull2.png"
-     alt="Open Pull Request"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
-###  Click on "Create pull request"
-
-  <img src="guide image/pull3.png"
-     alt="Create Pull Request"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
-###  Click on "Create pull request"
- You may add a Comment to your Pull Request
-
-  <img src="guide image/pull4.png"
-     alt="Comment your pull request"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
-### You will get  message similar to as shown below in the picture which means that you have sucessfully made a pull request !
-
-  <img src="guide image/pull5.png"
-     alt="Confirmation message"
-     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
-
+Check our Discord Server [here](https://discord.gg/r5uKBGxT9T).
