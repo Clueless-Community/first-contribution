@@ -426,7 +426,15 @@ const contributors = [
   github: "https://github.com/Abhiraj-1604",
   gender: "male",
 },
-
+{
+  name: "Divyanshu Jha",
+  branch: "B.Tech/CSE",
+  college: "Vishwakarma Institute of Technology",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/divyanshu-jha-48739a21a",
+  github: "https://github.com/Divyanshu-jhaa",
+  gender: "male",
+},
 {
   name : "Chetan Singh",
   branch : "Computer Science and Engineering",
@@ -437,6 +445,7 @@ const contributors = [
   gender : "Male"
 },
 {
+
   name : "Noothan AM",
   branch : "Cse",
   college : "BMS institute of technology and management",
@@ -445,6 +454,7 @@ const contributors = [
   github : "https://github.com/Noothan-am/",
   gender : "male"
 }
+
 
 ];
 
