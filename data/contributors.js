@@ -318,6 +318,7 @@ const contributors = [
   gender : "Male"
 },
 {
+
   name : "Tushar Pathak",
   branch : "B.tech/CSE",
   college : "Dayananda Sagar College of Engineering Bangalore",
@@ -325,6 +326,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/tushar54594/",
   github : "https://github.com/tushar54594",
   gender : "Male"
+},
+{
+  name : "Abhilipsa Sahoo",
+  branch : "B.Tech/CSE",
+  college : "Gandhi Institute for Technological Advancement, Bhubaneswar",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/abhilipsa-sahoo-927542b1",
+  github : "https://github.com/abhilipsasahoo03",
+  gender : "Female"
 }
 ];
 
