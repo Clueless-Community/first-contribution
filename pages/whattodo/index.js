@@ -40,7 +40,7 @@ const index = () => {
         <div class="container px-5 py-12 mx-auto">
           <div class="lg:w-11/12 mx-auto">
             <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
-              Why You Should Donate to Open-Source?
+              Why You Should Contribute to Open-Source?
             </h1>
             <p className=" text-lg mb-2">
               Contributing to open source projects can be a rewarding way to
