@@ -299,6 +299,7 @@ const contributors = [
     github: "https://github.com/Hussain6",
     gender: "Male"
   },
+  {
     name : "Binay Shaw",
     branch : "B.Tech/CSE",
     college : "JIS College of Engineering",
@@ -433,6 +434,15 @@ const contributors = [
   year : 2024, //Year of Pass Out
   linkedin : "https://www.linkedin.com/in/kunwar-chetan-singh-0a45391b8/",
   github : "https://github.com/chetansingh-2",
+  gender : "Male"
+},
+{
+  name : "Noothan AM",
+  branch : "Computer Science and Engineering",
+  college : "BMS institute of technology and management",
+  year : 2025, //Year of Pass Out
+  linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
+  github : "https://github.com/Noothan-am/",
   gender : "Male"
 },
 
