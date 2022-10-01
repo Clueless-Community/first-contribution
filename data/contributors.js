@@ -448,7 +448,7 @@ const contributors = [{
     name : "Noothan AM",
     branch : "Cse",
     college : "BMS institute of technology and management",
-    year : 2025, 
+    year : 2025,
     linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
     github : "https://github.com/Noothan-am/",
     gender : "male"
@@ -463,8 +463,18 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
     github: "https://github.com/PRATYUSHPAHARI",
     gender: "male",
-}  
+}
 
+
+  {
+    name: "Prakhar Pandey",
+    branch: "B.tech/ISE",
+    college: "Dayananda Sagar College of Engineering Bangalore",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/prakhar-pandey10/",
+    github: "https://github.com/prakhar-1005",
+    gender: "Male"
+  },
 
 ];
 
