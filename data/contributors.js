@@ -289,6 +289,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/parnani-panda-a29ba2210",
   github : "https://github.com/Parnani",
   gender : "Female"
+},
+{
+  name : "Samyak Bhargava",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/sammybh6/",
+  github : "https://github.com/sammybh6",
+  gender : "Male"
 }
 ];
 
