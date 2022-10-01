@@ -12,25 +12,25 @@ const ContributorCard = (props) => {
                 <Avatar size="xl" name={props.name} src={`https://avatars.dicebear.com/api/bottts/${props.name}.svg`}/>
             </ChakraProvider>
               </div>
-            <div className="flex-grow">
-              <h2 className="text-gray-900 title-font font-medium ml-7 md:ml-0 lg:ml-7 text-lg dark:text-white">
+            <div className="flex-grow ml-7 md:ml-0 lg:ml-7">
+              <h2 className="text-gray-900 title-font font-medium text-lg dark:text-white">
                 {props.name}
               </h2>
-              <p className="text-gray-500 ml-7 md:ml-0 lg:ml-7 my-1 dark:text-slate-300">{props.branch}</p>
+              <p className="text-gray-500  my-1 dark:text-slate-300">{props.branch}</p>
                 <div>
-                  <span className="text-gray-500 ml-7 md:ml-0 lg:ml-7 my-1 font-semibold dark:text-slate-200">
+                  <span className="text-gray-500 my-1 font-semibold dark:text-slate-200">
                     College :
                   </span>
                   <span className="text-gray-500 dark:text-slate-300"> {props.college}</span>
                 </div>
                 <div>
-                  <span className="text-gray-500 ml-7 my-1 font-semibold dark:text-slate-200">
+                  <span className="text-gray-500 my-1 font-semibold dark:text-slate-200">
                     Year :
                   </span>
                   <span className="text-gray-500 dark:text-slate-300"> {props.year}</span>
                 </div>
 
-              <div className="flex ml-7 md:ml-0 lg:ml-7 my-1">
+              <div className="flex my-1">
                 <a href={props.github} target="_blank">
                   <div className=" cursor-pointer hover:scale-105 transition-all mr-3">
                   <svg
