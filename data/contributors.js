@@ -502,6 +502,15 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/akebu-simasiku-24186720a/?originalSubdomain=zm",
     github: "https://github.com/akebu6",
     gender: "Female"
+  },
+  {
+    name: "Amit Kumar Bera",
+    branch: "B.Tech/ECE",
+    college: "National Institute of Technology, Durgapur",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/amit-kumar-bera-990954205/",
+    github: "https://github.com/itzwow",
+    gender: "Male"
   }
 
 ];
