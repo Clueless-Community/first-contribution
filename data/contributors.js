@@ -290,15 +290,6 @@ const contributors = [
   github : "https://github.com/sammybh6",
   gender : "Male"
 },
-
-
-
-
-
-
-
-
-
 {
   name : "Wuttinan Sukpoon",
   branch : "Business IT Management",
