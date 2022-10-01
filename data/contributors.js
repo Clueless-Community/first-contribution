@@ -444,6 +444,15 @@ const contributors = [
   github : "https://github.com/chetansingh-2",
   gender : "Male"
 },
+{
+    name: "Jai Patel",
+    branch: "Computer Science and Engineering",
+    college: "SPIT Mumbai",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/jai-patel-605900202/",
+    github: "https://github.com/goldenPheonix02",
+    gender: "Male",
+},
 ];
 
 export default contributors;
