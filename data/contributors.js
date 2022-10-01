@@ -280,6 +280,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
   github : "https://github.com/Pranav10903",
   gender : "Male"
+},
+{
+  name : "Parnani Panda",
+  branch : "CSE",
+  college : "KIIT University",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/parnani-panda-a29ba2210",
+  github : "https://github.com/Parnani",
+  gender : "Female"
 }
 ];
 
