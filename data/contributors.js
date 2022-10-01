@@ -495,6 +495,15 @@ const contributors = [{
     gender: "Male"
   },
   {
+    name: "Akebu Simasiku",
+    branch: "Software Engineering",
+    college: "Zambia ICT College",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/akebu-simasiku-24186720a/?originalSubdomain=zm",
+    github: "https://github.com/akebu6",
+    gender: "Female"
+  },
+  {
     name: "Amit Kumar Bera",
     branch: "B.Tech/ECE",
     college: "National Institute of Technology, Durgapur",
