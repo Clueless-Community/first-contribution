@@ -299,6 +299,7 @@ const contributors = [
     github: "https://github.com/Hussain6",
     gender: "Male"
   },
+  {
     name : "Binay Shaw",
     branch : "B.Tech/CSE",
     college : "JIS College of Engineering",
@@ -423,6 +424,15 @@ const contributors = [
   year: 2025,
   linkedin: "https://www.linkedin.com/in/abhiraj-rode-36232522a",
   github: "https://github.com/Abhiraj-1604",
+  gender: "male",
+},
+{
+  name: "Divyanshu Jha",
+  branch: "B.Tech/CSE",
+  college: "Vishwakarma Institute of Technology",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/divyanshu-jha-48739a21a",
+  github: "https://github.com/Divyanshu-jhaa",
   gender: "male",
 }
 ];
