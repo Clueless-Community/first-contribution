@@ -289,6 +289,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/sammybh6/",
   github : "https://github.com/sammybh6",
   gender : "Male"
+},
+{
+  name : "Aryan Sharma",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/aryan-sharma-3035b7226/",
+  github : "https://github.com/salted0dreams",
+  gender : "Male"
 }
 ];
 
