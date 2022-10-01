@@ -372,6 +372,14 @@ const contributors = [
   github : "https://github.com/mewxz029",
   gender : "Male"
 },
+ {
+  name: "Meghsham Jade",
+  branch: "E&TC",
+  college: "JSPM BSIOTR",
+  year: 2024,
+  linkedin: "https://www.linkedin.com/in/meghsham-jade-2a3406218/",
+  github: "https://github.com/Meghsham15",
+  gender: "male",
 }
 ];
 
