@@ -371,6 +371,15 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/meghsham-jade-2a3406218/",
   github: "https://github.com/Meghsham15",
   gender: "male",
+},
+{
+  name : "Aryan Sharma",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/aryan-sharma-3035b7226/",
+  github : "https://github.com/salted0dreams",
+  gender : "Male"
 }
 ];
 
