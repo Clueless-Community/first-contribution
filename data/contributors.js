@@ -242,7 +242,7 @@ const contributors = [
   {
     name: "Akshay Kalekar",
     branch: "CSE",
-    college: "VIT Bhopal",
+    college: "VIT",
     year: 2025,
     linkedin: "https://www.linkedin.com/in/akshay-ajay-kalekar/",
     github: "https://github.com/akshay-Kalekar",
