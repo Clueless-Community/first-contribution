@@ -143,6 +143,16 @@ const index = () => {
         heading="Community Members/Users"
         para=" These valuable members of the community can provide feedback about features, bug reports, and more."
       />
+      <section className="mt-10">
+        <div class="container px-5 py-5 mx-auto">
+          <div class="lg:w-11/12 mx-auto">
+            <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
+            Complete Git and GitHub Tutorial:
+            </h1>
+            <iframe  width="400" height="200" src="https://www.youtube.com/embed/apGV9Kg7ics" title="Complete Git and GitHub Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section> 
       <div className="pt-10 dark:bg-gray-700">
         <Footer />
       </div>
