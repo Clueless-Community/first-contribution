@@ -246,41 +246,50 @@ const contributors = [
     gender: "Male",
   },
   {
-    name : "Binay Shaw",
-    branch : "B.Tech/CSE",
-    college : "JIS College of Engineering",
-    year : 2024,
-    linkedin : "https://www.linkedin.com/in/binayshaw7777/",
-    github : "https://github.com/binayshaw7777",
-    gender : "Male"
-},
-{
-    name : 'Ankush',
-    branch : 'Instrumentation and Control Engineering',
-    college : 'Dharmsinh Desai University',
-    year : 2024,
-    linkedin : 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
-    github : 'https://github.com/Ankush-Ladani',
-    gender : 'male'
-},
-{
-    name : "Deepanshu",
-    branch : "B.tech/CSE",
-    college : "PDPM IIITDM Jabalpur",
-    year : 2025,
-    linkedin : "https://www.linkedin.com/in/sdeepanshu17/",
-    github : "https://github.com/sdeepanshu17",
-    gender : "Male"
-},
-{
-  name : "Pranav",
-  branch : "B.tech/CSE",
-  college : "SRM Institute of Science and Technology",
-  year : 2024,
-  linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
-  github : "https://github.com/Pranav10903",
-  gender : "Male"
-}
+    name: "Binay Shaw",
+    branch: "B.Tech/CSE",
+    college: "JIS College of Engineering",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/binayshaw7777/",
+    github: "https://github.com/binayshaw7777",
+    gender: "Male"
+  },
+  {
+    name: 'Ankush',
+    branch: 'Instrumentation and Control Engineering',
+    college: 'Dharmsinh Desai University',
+    year: 2024,
+    linkedin: 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
+    github: 'https://github.com/Ankush-Ladani',
+    gender: 'male'
+  },
+  {
+    name: "Deepanshu",
+    branch: "B.tech/CSE",
+    college: "PDPM IIITDM Jabalpur",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/sdeepanshu17/",
+    github: "https://github.com/sdeepanshu17",
+    gender: "Male"
+  },
+  {
+    name: "Pranav",
+    branch: "B.tech/CSE",
+    college: "SRM Institute of Science and Technology",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
+    github: "https://github.com/Pranav10903",
+    gender: "Male"
+  },
+  {
+    name: "Hussain Amir",
+    branch: "BSCS",
+    college: "University of Engineering & Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/ihussainamir/",
+    github: "https://github.com/Hussain6",
+    gender: "Male"
+  }
 ];
 
 export default contributors;
