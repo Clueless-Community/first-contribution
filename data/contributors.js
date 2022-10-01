@@ -415,6 +415,15 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/meghsham-jade-2a3406218/",
   github: "https://github.com/Meghsham15",
   gender: "male",
+},
+  {
+  name: "Abhiraj Rode",
+  branch: "E&TC",
+  college: "JSPM BSIOTR",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/abhiraj-rode-36232522a",
+  github: "https://github.com/Abhiraj-1604",
+  gender: "male",
 }
 ];
 
