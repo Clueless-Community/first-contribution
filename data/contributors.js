@@ -289,7 +289,78 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/ihussainamir/",
     github: "https://github.com/Hussain6",
     gender: "Male"
-  }
+  },
+    name : "Binay Shaw",
+    branch : "B.Tech/CSE",
+    college : "JIS College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/binayshaw7777/",
+    github : "https://github.com/binayshaw7777",
+    gender : "Male"
+},
+{
+    name : 'Ankush',
+    branch : 'Instrumentation and Control Engineering',
+    college : 'Dharmsinh Desai University',
+    year : 2024,
+    linkedin : 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
+    github : 'https://github.com/Ankush-Ladani',
+    gender : 'male'
+},
+{
+    name : "Deepanshu",
+    branch : "B.tech/CSE",
+    college : "PDPM IIITDM Jabalpur",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/sdeepanshu17/",
+    github : "https://github.com/sdeepanshu17",
+    gender : "Male"
+},
+{
+  name : "Pranav",
+  branch : "B.tech/CSE",
+  college : "SRM Institute of Science and Technology",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
+  github : "https://github.com/Pranav10903",
+  gender : "Male"
+},
+{
+  name : "Parnani Panda",
+  branch : "CSE",
+  college : "KIIT University",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/parnani-panda-a29ba2210",
+  github : "https://github.com/Parnani",
+  gender : "Female"
+},
+{
+  name : "Samyak Bhargava",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/sammybh6/",
+  github : "https://github.com/sammybh6",
+  gender : "Male"
+},
+{
+  name : "Varun Singh",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/varun-singh-018242224/",
+  github : "https://github.com/varun7singh",
+  gender : "Male"
+},
+{
+  name : "Vipul Chaudhary",
+  branch : "B.tech/CSE",
+  college : "PDEU, Gandhinagar",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/vipulchaudhary16",
+  github : "https://github.com/vipulchaudhary16",
+  gender : "Male"
+}
 ];
 
 export default contributors;
