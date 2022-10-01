@@ -344,6 +344,15 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/hardik-pratap-singh",
   github: "https://github.com/hardik-pratap-singh",
   gender: "male",
+},
+{
+  name: "Yash Gupta",
+  branch: "ECE",
+  college: "IIITA",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/yash-gupta-1106/",
+  github: "https://github.com/yashg-116",
+  gender: "male",
 }
 ];
 
