@@ -18,6 +18,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Swayamshree Mohanty",
+    branch: "Data Science",
+    college: "CUL",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/roshan-kumar-176918202/",
+    github: "https://github.com/Swayms-stack",
+    gender: "female",
+  },
+  {
     name: "Aiman Aisha",
     branch: "CSE",
     college: "NIT DGP",
