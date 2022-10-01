@@ -493,6 +493,15 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/subhadipdhn/",
     github: "https://github.com/Subhadiptech",
     gender: "Male"
+  },
+  {
+    name: "Amit Kumar Bera",
+    branch: "B.Tech/ECE",
+    college: "National Institute of Technology, Durgapur",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/amit-kumar-bera-990954205/",
+    github: "https://github.com/itzwow",
+    gender: "Male"
   }
 
 ];
