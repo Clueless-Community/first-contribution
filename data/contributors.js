@@ -463,7 +463,7 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
     github: "https://github.com/PRATYUSHPAHARI",
     gender: "male",
-}
+},
 
 
   {
@@ -475,6 +475,16 @@ const contributors = [{
     github: "https://github.com/prakhar-1005",
     gender: "Male"
   },
+
+  {
+    name: "Subhadip Das",
+    branch: "B.Tech/EE",
+    college: "National Institute of Technology, Jamshedpur",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/subhadipdhn/",
+    github: "https://github.com/Subhadiptech",
+    gender: "Male"
+  }
 
 ];
 
