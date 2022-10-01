@@ -289,6 +289,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/sammybh6/",
   github : "https://github.com/sammybh6",
   gender : "Male"
+},
+{
+  name : "Varun Singh",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/varun-singh-018242224/",
+  github : "https://github.com/varun7singh",
+  gender : "Male"
 }
 ];
 
