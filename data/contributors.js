@@ -188,7 +188,6 @@ const contributors = [{
         github: "https://github.com/ighoshsubho",
         gender: "Male",
     },
-
     {
         name: "Sanyam Agarwal",
         branch: "IT",
@@ -443,7 +442,29 @@ const contributors = [{
         linkedin: "https://www.linkedin.com/in/amajaying/",
         github: "https://github.com/amajaying",
         gender: "Male"
-    }
+    },
+    {
+
+    name : "Noothan AM",
+    branch : "Cse",
+    college : "BMS institute of technology and management",
+    year : 2025, 
+    linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
+    github : "https://github.com/Noothan-am/",
+    gender : "male"
+   },
+
+
+{
+    name: "Pratyush Pahari",
+    branch: "CSE AI & ML",
+    college: "Brainware University",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
+    github: "https://github.com/PRATYUSHPAHARI",
+    gender: "male",
+}  
+
 
 ];
 
