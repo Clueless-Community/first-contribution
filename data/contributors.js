@@ -493,7 +493,17 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/subhadipdhn/",
     github: "https://github.com/Subhadiptech",
     gender: "Male"
-  }
+  },
+
+  {
+        name : "VIDYASAGAR(SAGAR)",
+        branch : "B.Engg/B.Tech in CSE",
+        college : "BNM Institute of Technology",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/tmsagarofficial/",
+        github : "https://github.com/tmsagarofficial/",
+        gender : "Male"
+    }
 
 ];
 
