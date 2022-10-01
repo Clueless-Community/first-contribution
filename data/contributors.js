@@ -299,6 +299,7 @@ const contributors = [
     github: "https://github.com/Hussain6",
     gender: "Male"
   },
+  {
     name : "Binay Shaw",
     branch : "B.Tech/CSE",
     college : "JIS College of Engineering",
@@ -424,7 +425,16 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/abhiraj-rode-36232522a",
   github: "https://github.com/Abhiraj-1604",
   gender: "male",
-}
+},
+{
+  name : "Akshay Kalekar",
+  branch : "CSE CORE",
+  college : "VIT",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/akshay-ajay-kalekar/",
+  github : "https://github.com/akshay-Kalekar",
+  gender : "male"
+},
 ];
 
 export default contributors;
