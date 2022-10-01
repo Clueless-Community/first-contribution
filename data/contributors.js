@@ -9,6 +9,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Asma Kacem",
+    branch: "ICT",
+    college: "ENISO",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/asmakacem",
+    github: "https://github.com/AsmaKacem1",
+    gender: "female",
+  },
+  {
     name: "Roshan Kumar",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -232,7 +241,7 @@ const contributors = [
     branch: "CSBS",
     college: "HITK",
     year: 2025,
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/rohit-ranjan-singh-6133901b6/",
     github: "https://github.com/itzROHIT-coder",
     gender: "Male",
   },
@@ -244,6 +253,51 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/k-hari-prasath/",
     github: "https://github.com/khari-on",
     gender: "Male",
+  },
+  {
+    name: "Binay Shaw",
+    branch: "B.Tech/CSE",
+    college: "JIS College of Engineering",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/binayshaw7777/",
+    github: "https://github.com/binayshaw7777",
+    gender: "Male"
+  },
+  {
+    name: 'Ankush',
+    branch: 'Instrumentation and Control Engineering',
+    college: 'Dharmsinh Desai University',
+    year: 2024,
+    linkedin: 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
+    github: 'https://github.com/Ankush-Ladani',
+    gender: 'male'
+  },
+  {
+    name: "Deepanshu",
+    branch: "B.tech/CSE",
+    college: "PDPM IIITDM Jabalpur",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/sdeepanshu17/",
+    github: "https://github.com/sdeepanshu17",
+    gender: "Male"
+  },
+  {
+    name: "Pranav",
+    branch: "B.tech/CSE",
+    college: "SRM Institute of Science and Technology",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
+    github: "https://github.com/Pranav10903",
+    gender: "Male"
+  },
+  {
+    name: "Hussain Amir",
+    branch: "BSCS",
+    college: "University of Engineering & Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/ihussainamir/",
+    github: "https://github.com/Hussain6",
+    gender: "Male"
   },
   {
     name : "Binay Shaw",
@@ -344,7 +398,74 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/hardik-pratap-singh",
   github: "https://github.com/hardik-pratap-singh",
   gender: "male",
+},
+{
+  name: "Yash Gupta",
+  branch: "ECE",
+  college: "IIITA",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/yash-gupta-1106/",
+  github: "https://github.com/yashg-116",
+  gender: "male",
+},
+ {
+  name: "Meghsham Jade",
+  branch: "E&TC",
+  college: "JSPM BSIOTR",
+  year: 2024,
+  linkedin: "https://www.linkedin.com/in/meghsham-jade-2a3406218/",
+  github: "https://github.com/Meghsham15",
+  gender: "male",
+},
+  {
+  name: "Abhiraj Rode",
+  branch: "E&TC",
+  college: "JSPM BSIOTR",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/abhiraj-rode-36232522a",
+  github: "https://github.com/Abhiraj-1604",
+  gender: "male",
+},
+{
+  name: "Divyanshu Jha",
+  branch: "B.Tech/CSE",
+  college: "Vishwakarma Institute of Technology",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/divyanshu-jha-48739a21a",
+  github: "https://github.com/Divyanshu-jhaa",
+  gender: "male",
+},
+{
+  name : "Chetan Singh",
+  branch : "Computer Science and Engineering",
+  college : "GNDEC Ludhiana",
+  year : 2024, //Year of Pass Out
+  linkedin : "https://www.linkedin.com/in/kunwar-chetan-singh-0a45391b8/",
+  github : "https://github.com/chetansingh-2",
+  gender : "Male"
+},
+{
+
+  name : "Noothan AM",
+  branch : "Cse",
+  college : "BMS institute of technology and management",
+  year : 2025, 
+  linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
+  github : "https://github.com/Noothan-am/",
+  gender : "male"
 }
+
+
+{
+    name: "Pratyush Pahari",
+    branch: "CSE AI & ML",
+    college: "Brainware University",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
+    github: "https://github.com/PRATYUSHPAHARI",
+    gender: "male",
+}  
+
 ];
 
 export default contributors;
