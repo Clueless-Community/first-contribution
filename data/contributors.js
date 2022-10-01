@@ -445,14 +445,17 @@ const contributors = [
   gender : "Male"
 },
 {
-    name: "Jai Patel",
-    branch: "Computer Science and Engineering",
-    college: "SPIT Mumbai",
-    year: 2024, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/jai-patel-605900202/",
-    github: "https://github.com/goldenPheonix02",
-    gender: "Male",
-},
+
+  name : "Noothan AM",
+  branch : "Cse",
+  college : "BMS institute of technology and management",
+  year : 2025, 
+  linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
+  github : "https://github.com/Noothan-am/",
+  gender : "male"
+}
+
+
 ];
 
 export default contributors;
