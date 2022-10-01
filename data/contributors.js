@@ -239,6 +239,15 @@ const contributors = [
     github: "https://github.com/itzROHIT-coder",
     gender: "Male",
   },
+  {
+    name: "Akshay Kalekar",
+    branch: "CSE",
+    college: "VIT Bhopal",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/akshay-ajay-kalekar/",
+    github: "https://github.com/akshay-Kalekar",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
