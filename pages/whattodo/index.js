@@ -12,7 +12,7 @@ const index = () => {
 
   return (
     <div>
-    <Document />
+      <Document />
       <Navbar />
       <Announcment />
       <RightImgLeftText
