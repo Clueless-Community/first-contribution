@@ -372,6 +372,7 @@ const contributors = [
   github : "https://github.com/mewxz029",
   gender : "Male"
 },
+}
 ];
 
 export default contributors;
