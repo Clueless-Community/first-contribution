@@ -335,6 +335,15 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/abhilipsa-sahoo-927542b1",
   github : "https://github.com/abhilipsasahoo03",
   gender : "Female"
+},
+{
+  name: "Hardik Pratap Singh",
+  branch: "CSE",
+  college: "IIIT Jabalpur",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/hardik-pratap-singh",
+  github: "https://github.com/hardik-pratap-singh",
+  gender: "male",
 }
 ];
 
