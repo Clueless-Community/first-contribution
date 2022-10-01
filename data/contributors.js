@@ -282,6 +282,15 @@ const contributors = [
   gender : "Male"
 },
 {
+  name : "Parnani Panda",
+  branch : "CSE",
+  college : "KIIT University",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/parnani-panda-a29ba2210",
+  github : "https://github.com/Parnani",
+  gender : "Female"
+},
+{
   name : "Samyak Bhargava",
   branch : "B.tech/CSE",
   college : "PDPM IIITDM Jabalpur",
