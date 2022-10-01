@@ -9,6 +9,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Asma Kacem",
+    branch: "ICT",
+    college: "ENISO",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/asmakacem",
+    github: "https://github.com/AsmaKacem1",
+    gender: "female",
+  },
+  {
     name: "Roshan Kumar",
     branch: "CSE AI & ML",
     college: "HITK",
