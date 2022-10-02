@@ -452,10 +452,8 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
     github : "https://github.com/Noothan-am/",
     gender : "male"
-   },
-
-
-{
+    },
+    {
     name: "Pratyush Pahari",
     branch: "CSE AI & ML",
     college: "Brainware University",
@@ -463,10 +461,10 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
     github: "https://github.com/PRATYUSHPAHARI",
     gender: "male",
-},
+    },
 
 
-  {
+    {
     name: "Prakhar Pandey",
     branch: "B.tech/ISE",
     college: "Dayananda Sagar College of Engineering Bangalore",
@@ -474,8 +472,8 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/prakhar-pandey10/",
     github: "https://github.com/prakhar-1005",
     gender: "Male"
-  },
-                      {
+    },
+    {
         name: "Yash Seth",
         branch: "CSE Core",
         college: "VIT Chennai",
@@ -485,7 +483,8 @@ const contributors = [{
         gender: "male",
     },
 
-  {
+    {
+
     name: "Subhadip Das",
     branch: "B.Tech/EE",
     college: "National Institute of Technology, Jamshedpur",
@@ -493,6 +492,61 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/subhadipdhn/",
     github: "https://github.com/Subhadiptech",
     gender: "Male"
+
+    },
+    {
+        name : "VIDYASAGAR(SAGAR)",
+        branch : "B.Engg/B.Tech in CSE",
+        college : "BNM Institute of Technology",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/tmsagarofficial/",
+        github : "https://github.com/tmsagarofficial/",
+        gender : "Male"
+    },
+    {
+    name: "Akebu Simasiku",
+    branch: "Software Engineering",
+    college: "Zambia ICT College",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/akebu-simasiku-24186720a/?originalSubdomain=zm",
+    github: "https://github.com/akebu6",
+    gender: "Female"
+  },
+  {
+    name: "Amit Kumar Bera",
+    branch: "B.Tech/ECE",
+    college: "National Institute of Technology, Durgapur",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/amit-kumar-bera-990954205/",
+    github: "https://github.com/itzwow",
+    gender: "Male"
+  },
+  {
+    name : "Ephraim Haruna",
+    branch : "Computer Engineering",
+    college : "Ahmadu Bello University Zaria, Nigeria",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/ephraim-haruna-a52b71209/",
+    github : "https://github.com/2bit2bit",
+    gender : "Male"
+    },
+  {
+    name : "Rahul Kumar",
+    branch : "Civil Engineering",
+    college : "Bhagalpur College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/rahul-kumar-072/",
+    github : "https://github.com/iamrahul8",
+    gender : "Male"
+  },
+  {
+    name : "Bhavesh Mishra",
+    branch : "Computer Engineering",
+    college : "Thakur Polytechnic",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/"
+    github : "https://github.com/thefool76",
+    gender : "Male"
   }
 
 ];
