@@ -555,7 +555,17 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
     github : "https://github.com/thefool76",
     gender : "Male"
-  }
+  },
+  {
+    name: "Yash Kishore Parwani",
+    branch: "CSE with Specialization in Software Engineering",
+    college: "SRM Institute of Science and Technology ,KTR",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/yash-parwani-5610/",
+    github: "https://github.com/Yash-Parwani",
+    gender: "male",
+}
+  
 
 ];
 
