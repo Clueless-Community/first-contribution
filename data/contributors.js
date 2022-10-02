@@ -555,6 +555,15 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
     github : "https://github.com/thefool76",
     gender : "Male"
+  },
+  {
+    name : "Subhojeet Das",
+    branch : "Computer Science Engineering",
+    college : "Techno International New Town",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/subhojeet-das-656871198/",
+    github : "https://github.com/SubhojeetDas1107",
+    gender : "Male"
   }
 
 ];
