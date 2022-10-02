@@ -607,7 +607,7 @@ const contributors = [{
   {
     name : "Akash Kotal",
     branch : "Computer Science Engineering",
-    college : "Techno International New Town",
+    college : "Techno International NewTown",
     year : 2024,
     linkedin : "https://www.linkedin.com/in/akash-kotal-8105b71b0/",
     github : "https://github.com/sky01green",
