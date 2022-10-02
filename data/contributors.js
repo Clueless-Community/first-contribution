@@ -8,15 +8,6 @@ const contributors = [{
         gender: "male",
     },
     {
-        name: "Asma Kacem",
-        branch: "ICT",
-        college: "ENISO",
-        year: 2023,
-        linkedin: "https://www.linkedin.com/in/asmakacem",
-        github: "https://github.com/AsmaKacem1",
-        gender: "female",
-    },
-    {
         name: "Roshan Kumar",
         branch: "CSE AI & ML",
         college: "HITK",
@@ -178,9 +169,6 @@ const contributors = [{
         github: "https://github.com/Kumar-Ankit56",
         gender: "MALE",
     },
-
-    
-    
     {
         name: "Subho Ghosh",
         branch: "CSE (AI & ML)",
@@ -849,14 +837,23 @@ const contributors = [{
     gender : "Male"
   },
   {
-name : "Yash Kishore Parwani",
-branch : "CSE with Specialization in Software Engineering",
-college : "SRM Institute of Science and Technology , KTR",
-year : 2024,
-linkedin : "https://www.linkedin.com/in/yash-parwani-5610/",
-github : "https://github.com/Yash-Parwani",
-gender : "Male"
-}
+        name : "Yash Kishore Parwani",
+        branch : "CSE with Specialization in Software Engineering",
+        college : "SRM Institute of Science and Technology , KTR",
+        year : 2024,
+        linkedin : "https://www.linkedin.com/in/yash-parwani-5610/",
+        github : "https://github.com/Yash-Parwani",
+        gender : "Male"
+        },
+{
+        name: "Asma Kacem",
+        branch: "ICT",
+        college: "ENISO",
+        year: 2023,
+        linkedin: "https://www.linkedin.com/in/asmakacem",
+        github: "https://github.com/AsmaKacem1",
+        gender: "female",
+    },
  
 ];
 
