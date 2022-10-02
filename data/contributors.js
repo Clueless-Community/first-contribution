@@ -680,6 +680,15 @@ const contributors = [
   github : "https://github.com/Nehagaddam2909",
   gender : "Female"
 },
+{
+  name : "Prithvi Singh Kirar",
+  branch : "Computer Science and Engineering",
+  college : "SRM Institute of Science and technology",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/prithvi-kirar-956959224/",
+  github : "https://github.com/Pritvii",
+  gender : "Male"
+},
 ];
 
 
