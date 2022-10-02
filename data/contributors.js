@@ -579,6 +579,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Ahnaf Anis",
+    branch: "N/A",
+    college: "N/A",
+    year: "N/A",
+    linkedin: "N/A",
+    github: "https://github.com/Ahnaf-codes",
+    gender: "Male",
+  },
+  {
     name: "Asma Kacem",
     branch: "ICT",
     college: "ENISO",
@@ -595,7 +604,6 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/shaikh-minhaj-softwareengineer/",
     github: "https://github.com/minhaj-313",
     gender: "Male",
-
   },
 
 { 
