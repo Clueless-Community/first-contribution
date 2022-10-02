@@ -1566,6 +1566,15 @@ const contributors = [
   github: "https://github.com/guha-rahul" ,
   gender: "male"  
 },
+{
+  name : "Anand Singh Yadav",
+  branch : "Information Technology",
+  college : "IET Lucknow",
+  year : 2023,
+  linkedin : "https://www.linkedin.com/in/anandsy011/",
+  github : "https://github.com/AnandSY",
+  gender : "Male"
+},
 
 ];
 
