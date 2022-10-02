@@ -698,6 +698,15 @@ const contributors = [
     github: "https://github.com/guha-rahul",
     gender: "male",
   },
+  {
+    name: "Rohit Purkait",
+    branch: "Electrical Engineering",
+    college: "TMSL",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/codeswithroh/",
+    github: "https://github.com/codeswithroh",
+    gender: "male",
+  },
 ];
 
 export default contributors;
