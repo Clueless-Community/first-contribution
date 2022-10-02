@@ -671,6 +671,16 @@ const contributors = [
   github : "https://github.com/siwanijaiswal",
   gender : "Female"
 },
+{
+  name : "Neha Gaddam",
+  branch : "Computer Science and Engineering",
+  college : "WCE, Sangli",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/neha-gaddam/",
+  github : "https://github.com/Nehagaddam2909",
+  gender : "Female"
+},
 ];
+
 
 export default contributors;
