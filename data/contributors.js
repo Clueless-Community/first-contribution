@@ -586,7 +586,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/shaikh-minhaj-softwareengineer/",
     github: "https://github.com/minhaj-313",
     gender: "Male",
-},
+  },
+  {
+    name: "Hendrie Ramdhani",
+    branch: "Informatics Engineering",
+    college: "Islamic State University, Jakarta",
+    year: 2022,
+    linkedin: "https://www.linkedin.com/in/hendrieramdhani/",
+    github: "https://github.com/ramdhanihendrie",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
