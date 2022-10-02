@@ -179,6 +179,8 @@ const contributors = [{
         gender: "MALE",
     },
 
+    
+    
     {
         name: "Subho Ghosh",
         branch: "CSE (AI & ML)",
@@ -251,6 +253,15 @@ const contributors = [{
         linkedin: "https://www.linkedin.com/in/k-hari-prasath/",
         github: "https://github.com/khari-on",
         gender: "Male",
+    },
+    {
+        name: "Ankit",
+        branch: "EE",
+        college: "MNNIT ALLAHABAD",
+        year: 2024, //Year of Pass Out
+        linkedin: "http://www.linkedin.com/in/enigma79",
+        github: "https://github.com/en1gm479",
+        gender: "MALE",
     },
     {
         name: "Binay Shaw",
@@ -539,6 +550,7 @@ const contributors = [{
     github : "https://github.com/iamrahul8",
     gender : "Male"
 },
+    {
     name : "Nicky Kumari",
     branch : "B.Tech/EE",
     college : "National Institute of Technology, Jamshedpur",
@@ -546,8 +558,8 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/knicky/",
     github : "https://github.com/iamnicky",
     gender : "Female"
-  },
-  {
+    },
+    {
     name : "Bhavesh Mishra",
     branch : "Computer Engineering",
     college : "Thakur Polytechnic",
@@ -555,8 +567,26 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
     github : "https://github.com/thefool76",
     gender : "Male"
-  },
+    },
+    {
+    name : "Adarsh Rawat",
+    branch : "CSE",
+    college : "GEHU Dehradun, Uttarakhand",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/adarsh8304/",
+    github : "https://github.com/AKACHI-4",
+    gender : "Male"
+    },
   {
+
+    name : "Aditya More",
+    branch : "Computer Engineering",
+    college : "Pune Institute of Computer Technology",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/aditya-more-9a095422a/",
+    github : "https://github.com/AdityaMore7000/",
+    },
+    {
     name : "Subhojeet Das",
     branch : "Computer Science Engineering",
     college : "Techno International New Town",
@@ -565,7 +595,6 @@ const contributors = [{
     github : "https://github.com/SubhojeetDas1107",
     gender : "Male"
   }
-
 ];
 
 export default contributors;
