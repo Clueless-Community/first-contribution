@@ -595,6 +595,15 @@ const contributors = [{
     github : "https://github.com/SubhojeetDas1107",
     gender : "Male"
   }
+    {
+    name : "Harshit Joshi",
+    branch : "Information Technology",
+    college : "Kalyani Government Engineering College",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/harshit-joshi-40953321b/",
+    github : "https://github.com/Harshit-3905",
+    gender : "Male"
+  }
 ];
 
 export default contributors;
