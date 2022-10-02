@@ -623,7 +623,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/ridhika-joshi-069164221/",
     github: "https://github.com/RidhikaJoshi",
-    gender: "Female"
+    gender: "Female",
   },
   {
     name: "Rahul Kumar Yadav",
@@ -632,7 +632,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/rahul-yadav-2a4b3b199/",
     github: "https://github.com/itzrahulyadav",
-    gender: "Male"
+    gender: "Male",
   },
 
 {
@@ -642,7 +642,7 @@ const contributors = [
   year : 2025,
   linkedin : "https://www.linkedin.com/in/ridhika-joshi-069164221/",
   github : "https://github.com/RidhikaJoshi",
-  gender : "Female"
+  gender : "Female",
 },
 {
   name : "Sahil Singh",
@@ -660,7 +660,7 @@ const contributors = [
   year : 2025,
   linkedin : "https://www.linkedin.com/in/priyanshu-mundra-b66626216/",
   github : "https://github.com/Spyder15",
-  gender : "Male"
+  gender : "Male",
 },
   {
   name : "Siwani Jaiswal",
@@ -669,7 +669,7 @@ const contributors = [
   year : 2024,
   linkedin : "https://www.linkedin.com/in/siwani-jaiswal/",
   github : "https://github.com/siwanijaiswal",
-  gender : "Female"
+  gender : "Female",
 },
   {
   name : "Manish Saha",
@@ -678,7 +678,7 @@ const contributors = [
   year : 2025,
   linkedin : "https://www.linkedin.com/in/manish-saha-076b61221/",
   github : "https://github.com/Manice18",
-  gender : "Male"
+  gender : "Male",
   },
 ];
 
