@@ -179,6 +179,8 @@ const contributors = [{
         gender: "MALE",
     },
 
+    
+    
     {
         name: "Subho Ghosh",
         branch: "CSE (AI & ML)",
@@ -251,6 +253,15 @@ const contributors = [{
         linkedin: "https://www.linkedin.com/in/k-hari-prasath/",
         github: "https://github.com/khari-on",
         gender: "Male",
+    },
+    {
+        name: "Ankit",
+        branch: "EE",
+        college: "MNNIT ALLAHABAD",
+        year: 2024, //Year of Pass Out
+        linkedin: "http://www.linkedin.com/in/enigma79",
+        github: "https://github.com/en1gm479",
+        gender: "MALE",
     },
     {
         name: "Binay Shaw",
