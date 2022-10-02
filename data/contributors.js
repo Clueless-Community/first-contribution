@@ -662,6 +662,15 @@ const contributors = [
   github : "https://github.com/Spyder15",
   gender : "Male"
 },
+  {
+  name : "Siwani Jaiswal",
+  branch : "Computer Science",
+  college : "PDEU, Gandhinagar",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/siwani-jaiswal/",
+  github : "https://github.com/siwanijaiswal",
+  gender : "Female"
+},
 ];
 
 export default contributors;
