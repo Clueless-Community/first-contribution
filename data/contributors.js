@@ -586,7 +586,18 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/shaikh-minhaj-softwareengineer/",
     github: "https://github.com/minhaj-313",
     gender: "Male",
+
+  },
+
+{ 
+  name: "Saif Bagmaru", 
+  branch: "Artificial Intelligence and Data Science", 
+  college: "AISSMS Institute of Information Technology, Pune", 
+  year: 2024, linkedin: "https://in.linkedin.com/in/saif-bagmaru", 
+  github: "https://github.com/saifltr",
+  gender: "Male", 
 },
+
   {
     name: "Sadashay Kanungo",
     branch: "B.E. (CSE) with M.Sc. (Economics)",
@@ -596,6 +607,25 @@ const contributors = [
     github: "https://github.com/SadashayKanungo",
     gender: "Male",
   },
+  {
+    name: "Ridhika Joshi",
+    branch: "Computer Science Engineering",
+    college: "Academy of Technology",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/ridhika-joshi-069164221/",
+    github: "https://github.com/RidhikaJoshi",
+    gender: "Female"
+  },
+  {
+    name: "Rahul Kumar Yadav",
+    branch: "MCA",
+    college: "Jabalpur Engineering College",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/rahul-yadav-2a4b3b199/",
+    github: "https://github.com/itzrahulyadav",
+    gender: "Male"
+  },
+
 {
   name : "Ridhika Joshi",
   branch : "Computer Science Engineering",
