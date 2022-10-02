@@ -144,7 +144,7 @@ const index = () => {
         para=" These valuable members of the community can provide feedback about features, bug reports, and more."
       />
       <section className="mt-10">
-        <div class="container px-5 py-5 mx-auto">
+        <div class="container px-5 py-5 mx-auto dark:bg-gray-700">
           <div class="lg:w-11/12 mx-auto">
             <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
               Complete Git and GitHub Tutorial:

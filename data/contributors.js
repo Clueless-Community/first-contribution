@@ -855,7 +855,7 @@ const contributors = [{
   gender: "female",
 },
 {
-  name: "Ahnaf",
+  name: "Ahnaf Anis",
   branch: "N/A",
   college: "N/A",
   year: "N/A",
