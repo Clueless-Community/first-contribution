@@ -1,4 +1,5 @@
 import React from "react";
+import Image from 'next/image'
 
 const DiscrodHome = () => {
   return (
@@ -24,7 +25,7 @@ const DiscrodHome = () => {
           <div className="flex md:ml-auto md:mr-0 mx-auto items-center flex-shrink-0 space-x-4">
           <a href="https://discord.gg/r5uKBGxT9T" target="_blank">
             <button className="bg-gray-50 sm:inline-flex flex-col sm:flex-row py-28 px-20 rounded-lg items-center justify-center hover:bg-gray-100 focus:outline-none transition-all">
-              <img src="/discord.svg" alt="" />
+              <Image src="/discord.svg" alt="" height="100%" width="100%" />
               <span className="ml-4 flex items-start flex-col leading-none">
                 <span className="text-xs text-gray-600 mb-1 mt-5 sm:mt-auto">JOIN NOW</span>
                 <span className="title-font font-medium">Discord</span>

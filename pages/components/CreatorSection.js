@@ -1,4 +1,5 @@
 import React from "react";
+import Image from 'next/image'
 
 const CreatorSection = () => {
   return (
@@ -12,10 +13,12 @@ const CreatorSection = () => {
             <div className="flex flex-wrap -m-4">
               <div className="lg:w-1/4 lg:mb-0 mb-6 p-4">
                 <div className="h-full text-center">
-                  <img
+                  <Image
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-center object-fit rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                     src="/Roshan.jpeg"
+                    height="100%" 
+                    width="100%"
                   />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Roshan Kumar
@@ -69,10 +72,12 @@ const CreatorSection = () => {
               </div>
               <div className="lg:w-1/4 lg:mb-0 mb-6 p-4">
                 <div className="h-full text-center">
-                  <img
+                  <Image
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                    src="Rajdeep.png"
+                    src="/Rajdeep.png"
+                    height="100%" 
+                    width="100%"
                   />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Rajdeep Sengupta
@@ -123,10 +128,12 @@ const CreatorSection = () => {
               </div>
               <div className="lg:w-1/4 lg:mb-0 p-4">
                 <div className="h-full text-center">
-                  <img
+                  <Image
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                     src="/Nikhil.jpeg"
+                    height="100%" 
+                    width="100%"
                   />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Nikhil Raj
@@ -158,10 +165,12 @@ const CreatorSection = () => {
               </div>
               <div className="lg:w-1/4 lg:mb-0 p-4 mt-8 lg:mt-0">
                 <div className="h-full text-center">
-                  <img
+                  <Image
                     alt="testimonial"
                     className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                     src="/debajyoti.jpeg"
+                    height="100%" 
+                    width="100%"
                   />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Debajyoti Saha 
