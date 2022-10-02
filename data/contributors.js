@@ -544,7 +544,7 @@ const contributors = [{
     branch : "Computer Engineering",
     college : "Thakur Polytechnic",
     year : 2024,
-    linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/"
+    linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
     github : "https://github.com/thefool76",
     gender : "Male"
   }
