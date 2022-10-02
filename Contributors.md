@@ -58,4 +58,5 @@
 - [Nicky Kumari](https://github.com/iamnicky)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Adarsh Rawat](https://github.com/AKACHI-4)
+- [Prithvi Singh Kirar](https://github.com/Pritvii)
 
