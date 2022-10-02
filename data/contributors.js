@@ -550,6 +550,7 @@ const contributors = [{
     github : "https://github.com/iamrahul8",
     gender : "Male"
 },
+    {
     name : "Nicky Kumari",
     branch : "B.Tech/EE",
     college : "National Institute of Technology, Jamshedpur",
@@ -557,8 +558,8 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/knicky/",
     github : "https://github.com/iamnicky",
     gender : "Female"
-  },
-  {
+    },
+    {
     name : "Bhavesh Mishra",
     branch : "Computer Engineering",
     college : "Thakur Polytechnic",
@@ -566,7 +567,16 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
     github : "https://github.com/thefool76",
     gender : "Male"
-  },
+    },
+    {
+    name : "Adarsh Rawat",
+    branch : "CSE",
+    college : "GEHU Dehradun, Uttarakhand",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/adarsh8304/",
+    github : "https://github.com/AKACHI-4",
+    gender : "Male"
+    },
   {
     name : "Subhojeet Das",
     branch : "Computer Science Engineering",
@@ -576,7 +586,6 @@ const contributors = [{
     github : "https://github.com/SubhojeetDas1107",
     gender : "Male"
   }
-
 ];
 
 export default contributors;
