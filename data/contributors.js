@@ -1,4 +1,14 @@
-const contributors = [{
+const contributors = [
+    {
+        name: "Adarsh Rawat",
+        branch: "CSE",
+        college: "GEHU Dehradun, Uttarakhand",
+        year: 2025,
+        linkedin: "https://www.linkedin.com/in/adarsh8304/",
+        github: "https://github.com/AKACHI-4",
+        gender: "male",
+    },
+    {
         name: "Rajdeep Sengupta",
         branch: "CSE AI & ML",
         college: "HITK",
