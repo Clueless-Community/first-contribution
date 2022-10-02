@@ -707,6 +707,15 @@ const contributors = [
     github: "https://github.com/codeswithroh",
     gender: "male",
   },
+  {
+    name: "Prithvi Singh Kirar",
+    branch: "Computer Science and Engineering",
+    college: "SRMIST",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/prithvi-kirar-956959224/",
+    github: "https://github.com/Pritvii",
+    gender: "male",
+  },
 ];
 
 export default contributors;
