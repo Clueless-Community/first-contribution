@@ -854,6 +854,15 @@ const contributors = [{
         github: "https://github.com/AsmaKacem1",
         gender: "female",
     },
+                      {
+        name : "Tayyab Hussain",
+        branch : "TayyabHussain03",
+        college : "Federal University of Science Pakistan",
+        year : 2021, 
+        linkedin : "https://www.linkedin.com/in/tayyabhussain2910/",
+        github : "https://github.com/tayyabhussain03",
+        gender : "Male"
+    },
  
 ];
 
