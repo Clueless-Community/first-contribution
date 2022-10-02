@@ -484,7 +484,7 @@ const contributors = [{
     },
 
     {
-    
+
     name: "Subhadip Das",
     branch: "B.Tech/EE",
     college: "National Institute of Technology, Jamshedpur",
@@ -492,7 +492,7 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/subhadipdhn/",
     github: "https://github.com/Subhadiptech",
     gender: "Male"
-    
+
     },
     {
         name : "VIDYASAGAR(SAGAR)",
@@ -539,7 +539,6 @@ const contributors = [{
     github : "https://github.com/iamrahul8",
     gender : "Male"
 },
-{
     name : "Nicky Kumari",
     branch : "B.Tech/EE",
     college : "National Institute of Technology, Jamshedpur",
@@ -547,7 +546,16 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/knicky/",
     github : "https://github.com/iamnicky",
     gender : "Female"
-}
+  },
+  {
+    name : "Bhavesh Mishra",
+    branch : "Computer Engineering",
+    college : "Thakur Polytechnic",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
+    github : "https://github.com/thefool76",
+    gender : "Male"
+  }
 
 ];
 
