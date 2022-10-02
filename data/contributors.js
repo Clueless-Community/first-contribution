@@ -538,6 +538,14 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/rahul-kumar-072/",
     github : "https://github.com/iamrahul8",
     gender : "Male"
+},
+    name : "Nicky Kumari",
+    branch : "B.Tech/EE",
+    college : "National Institute of Technology, Jamshedpur",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/knicky/",
+    github : "https://github.com/iamnicky",
+    gender : "Female"
   },
   {
     name : "Bhavesh Mishra",
@@ -546,6 +554,15 @@ const contributors = [{
     year : 2024,
     linkedin : "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
     github : "https://github.com/thefool76",
+    gender : "Male"
+  },
+  {
+    name : "Subhojeet Das",
+    branch : "Computer Science Engineering",
+    college : "Techno International New Town",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/subhojeet-das-656871198/",
+    github : "https://github.com/SubhojeetDas1107",
     gender : "Male"
   }
 
