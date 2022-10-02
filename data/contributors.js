@@ -27,6 +27,15 @@ const contributors = [
     gender: "female",
   },
   {
+  name : "Mohd Toukir Khan",
+  branch : "CSE AI",
+  college : "SSTC, Bhilai",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/toukir-khan-499257219/",
+  github : "https://github.com/toukirkhan",
+  gender : "Male"
+  },
+  {
     name: "Nikhil Raj",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -636,15 +645,34 @@ const contributors = [
     gender: "Female",
   },
 
-  {
-    name: "Priyanshu Maitra",
-    branch: "Information Technology",
-    college: "University of Kalyani",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/priyanshumaitra/",
-    github: "https://github.com/priyanshumaitra",
-    gender: "Male",
-  },
+
+{
+  name : "Ridhika Joshi",
+  branch : "Computer Science Engineering",
+  college : "Academy of Technology",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/ridhika-joshi-069164221/",
+  github : "https://github.com/RidhikaJoshi",
+  gender : "Female"
+},
+{
+  name : "Sahil Singh",
+  branch : "Computer Science",
+  college : "Indian Institute of Information Technology, Lucknow",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/sahil-singh-6a11b6229/",
+  github : "https://github.com/SahilSingh177",
+  gender : "Male"
+},
+{
+  name : "Priyanshu Mundra",
+  branch : "Computer Science",
+  college : "Lovely Professional university, phagwara",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/priyanshu-mundra-b66626216/",
+  github : "https://github.com/Spyder15",
+  gender : "Male"
+},
 ];
 
 export default contributors;
