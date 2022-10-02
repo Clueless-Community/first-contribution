@@ -1457,6 +1457,25 @@ const contributors = [
     gender: "Male",
 },
 
+  {
+    name: "Sadashay Kanungo",
+    branch: "B.E. (CSE) with M.Sc. (Economics)",
+    college: "BITS Pilani Goa Campus",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/sadashay-kanungo-22a4321a0/",
+    github: "https://github.com/SadashayKanungo",
+    gender: "Male",
+  },
+{
+  name : "Ridhika Joshi",
+  branch : "Computer Science Engineering",
+  college : "Academy of Technology",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/ridhika-joshi-069164221/",
+  github : "https://github.com/RidhikaJoshi",
+  gender : "Female"
+},
+
 ];
 
 export default contributors;
