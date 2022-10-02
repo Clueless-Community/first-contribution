@@ -93,7 +93,7 @@ const Footer = () => {
           </div>
             </div>
         </div>
-        <div className="bg-blue-500 ">
+        <div className="bg-blue-500 dark:bg-slate-800">
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className="text-gray-50 text-sm text-center sm:text-left">
               © 2022 ClueLess
