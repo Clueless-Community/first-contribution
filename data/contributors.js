@@ -1566,7 +1566,15 @@ const contributors = [
   github: "https://github.com/guha-rahul" ,
   gender: "male"  
 },
-
+{
+  name:"Milena Step",
+  branch: "Computer Science",
+  college: "Uw",
+  year: 2026, 
+  linkedin: null,
+  github: "https://github.com/fideem" ,
+  gender: "female"  
+},
 ];
 
 
