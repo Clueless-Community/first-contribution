@@ -1,6 +1,5 @@
 # Contributors 
 
-- [Adarsh Rawat](https://github.com/AKACHI-4)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
 - [Roshan Kumar](https://github.com/Roshaen)
