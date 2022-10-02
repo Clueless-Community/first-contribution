@@ -635,6 +635,16 @@ const contributors = [
   github : "https://github.com/RidhikaJoshi",
   gender : "Female"
 },
+  
+  {
+    name : "Manish Saha",
+    branch : "Information Technology",
+    college : "RCC Institute of Information Technology",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/manish-saha-076b61221/",
+    github : "https://github.com/Manice18",
+    gender : "Male"
+  }, 
 ];
 
 export default contributors;
