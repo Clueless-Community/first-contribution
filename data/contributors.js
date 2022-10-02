@@ -854,6 +854,16 @@ const contributors = [{
         github: "https://github.com/AsmaKacem1",
         gender: "female",
     },
+
+    {
+      name: "Shaikh Minhaj (minhaj-313)",
+      branch: "Computer Science & IT",
+      college: "MGM College of CS & IT Nanded",
+      year: 2023,
+      linkedin: "https://www.linkedin.com/in/shaikh-minhaj-softwareengineer/",
+      github: "https://github.com/minhaj-313",
+      gender: "Male",
+  },
  
 ];
 
