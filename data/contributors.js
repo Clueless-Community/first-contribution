@@ -653,6 +653,15 @@ const contributors = [
   github : "https://github.com/SahilSingh177",
   gender : "Male"
 },
+  {
+  name : "Priyanshu Mundra",
+  branch : "Computer Science",
+  college : "Lovely Professional university, phagwara",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/priyanshu-mundra-b66626216/",
+  github : "https://github.com/Spyder15",
+  gender : "Male"
+},
 ];
 
 export default contributors;
