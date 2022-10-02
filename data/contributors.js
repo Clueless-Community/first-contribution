@@ -587,6 +587,15 @@ const contributors = [
     github: "https://github.com/minhaj-313",
     gender: "Male",
 },
+{
+  name : "Ridhika Joshi",
+  branch : "Computer Science Engineering",
+  college : "Academy of Technology",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/ridhika-joshi-069164221/",
+  github : "https://github.com/RidhikaJoshi",
+  gender : "Female"
+},
 ];
 
 export default contributors;
