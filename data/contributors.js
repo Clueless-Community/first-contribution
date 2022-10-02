@@ -225,6 +225,15 @@ const contributors = [{
         gender: "Male",
     },
     {
+      name: "Amit Kumar Sahoo",
+      branch: "CSE",
+      college: "KIIT Bhubaneswar",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/",
+      github: "https://github.com/AmitSahoo45",
+      gender: "Male",
+    },
+    {
         name: "Rohit Ranjan Singh",
         branch: "CSBS",
         college: "HITK",
