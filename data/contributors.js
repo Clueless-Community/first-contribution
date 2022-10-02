@@ -587,6 +587,15 @@ const contributors = [
     github: "https://github.com/minhaj-313",
     gender: "Male",
 },
+  {
+    name: "Sadashay Kanungo",
+    branch: "B.E. (CSE) with M.Sc. (Economics)",
+    college: "BITS Pilani Goa Campus",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/sadashay-kanungo-22a4321a0/",
+    github: "https://github.com/SadashayKanungo",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
