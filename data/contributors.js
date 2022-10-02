@@ -594,7 +594,7 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/subhojeet-das-656871198/",
     github : "https://github.com/SubhojeetDas1107",
     gender : "Male"
-  }
+  },
     {
     name : "Harshit Joshi",
     branch : "Information Technology",
@@ -602,6 +602,15 @@ const contributors = [{
     year : 2025,
     linkedin : "https://www.linkedin.com/in/harshit-joshi-40953321b/",
     github : "https://github.com/Harshit-3905",
+    gender : "Male"
+  },
+  {
+    name : "Akash Kotal",
+    branch : "Computer Science Engineering",
+    college : "Techno International New Town",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/akash-kotal-8105b71b0/",
+    github : "https://github.com/sky01green",
     gender : "Male"
   }
 ];
