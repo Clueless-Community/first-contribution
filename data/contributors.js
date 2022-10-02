@@ -472,9 +472,253 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
     github: "https://github.com/PRATYUSHPAHARI",
     gender: "male",
-    },
+}  ,
 
+  {
+    name: "Sanyam Agarwal",
+    branch: "IT",
+    college: "IIITA",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/sanyam-agarwal-a4a385227/",
+    github: "https://github.com/sanyam1259",
+    gender: "Male",
+  },
+  {
+    name: "Abir Santra",
+    branch: "IT",
+    college: "MCKVIoE",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/abir-santra-8a9305205/",
+    github: "https://github.com/AbirSantra",
+    gender: "Male",
+  },
+  {
+    name: "Pritika Bhar",
+    branch: "CSBS",
+    college: "Academy of Technology",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/pritika-bhar-2b54a1222/",
+    github: "https://github.com/pritika163",
+    gender: "Female",
+  },
+  {
+    name: "Agnija Pal",
+    branch: "CS Hons",
+    college: "Seth Anandram Jaipuria College",
+    roll: null,
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/developeragni/",
+    github: "https://github.com/agnijapal",
+    gender: "Male",
+  },
+  {
+    name: "Anish Prashun",
+    branch: "CSE",
+    college: "Amity University Patna",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/anishpras118/",
+    github: "https://github.com/Anishpras",
+    gender: "Male",
+  },
+  {
+    name: "Rohit Ranjan Singh",
+    branch: "CSBS",
+    college: "HITK",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/rohit-ranjan-singh-6133901b6/",
+    github: "https://github.com/itzROHIT-coder",
+    gender: "Male",
+  },
+  {
+    name: "K.hari Prasath",
+    branch: "Bio-Infor",
+    college: "Bharathiyar University",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/k-hari-prasath/",
+    github: "https://github.com/khari-on",
+    gender: "Male",
+  },
+  {
+    name: "Binay Shaw",
+    branch: "B.Tech/CSE",
+    college: "JIS College of Engineering",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/binayshaw7777/",
+    github: "https://github.com/binayshaw7777",
+    gender: "Male"
+  },
+  {
+    name: 'Ankush',
+    branch: 'Instrumentation and Control Engineering',
+    college: 'Dharmsinh Desai University',
+    year: 2024,
+    linkedin: 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
+    github: 'https://github.com/Ankush-Ladani',
+    gender: 'male'
+  },
+  {
+    name: "Deepanshu",
+    branch: "B.tech/CSE",
+    college: "PDPM IIITDM Jabalpur",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/sdeepanshu17/",
+    github: "https://github.com/sdeepanshu17",
+    gender: "Male"
+  },
+  {
+    name: "Pranav",
+    branch: "B.tech/CSE",
+    college: "SRM Institute of Science and Technology",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
+    github: "https://github.com/Pranav10903",
+    gender: "Male"
+  },
+  {
+    name: "Hussain Amir",
+    branch: "BSCS",
+    college: "University of Engineering & Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/ihussainamir/",
+    github: "https://github.com/Hussain6",
+    gender: "Male"
+  },
+  {
+    name : "Binay Shaw",
+    branch : "B.Tech/CSE",
+    college : "JIS College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/binayshaw7777/",
+    github : "https://github.com/binayshaw7777",
+    gender : "Male"
+},
+{
+    name : 'Ankush',
+    branch : 'Instrumentation and Control Engineering',
+    college : 'Dharmsinh Desai University',
+    year : 2024,
+    linkedin : 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
+    github : 'https://github.com/Ankush-Ladani',
+    gender : 'male'
+},
+{
+    name : "Deepanshu",
+    branch : "B.tech/CSE",
+    college : "PDPM IIITDM Jabalpur",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/sdeepanshu17/",
+    github : "https://github.com/sdeepanshu17",
+    gender : "Male"
+},
+{
+  name : "Pranav",
+  branch : "B.tech/CSE",
+  college : "SRM Institute of Science and Technology",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
+  github : "https://github.com/Pranav10903",
+  gender : "Male"
+},
+{
+  name : "Parnani Panda",
+  branch : "CSE",
+  college : "KIIT University",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/parnani-panda-a29ba2210",
+  github : "https://github.com/Parnani",
+  gender : "Female"
+},
+{
+  name : "Samyak Bhargava",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/sammybh6/",
+  github : "https://github.com/sammybh6",
+  gender : "Male"
+},
+{
+  name : "Varun Singh",
+  branch : "B.tech/CSE",
+  college : "PDPM IIITDM Jabalpur",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/varun-singh-018242224/",
+  github : "https://github.com/varun7singh",
+  gender : "Male"
+},
+{
+  name : "Vipul Chaudhary",
+  branch : "B.tech/CSE",
+  college : "PDEU, Gandhinagar",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/vipulchaudhary16",
+  github : "https://github.com/vipulchaudhary16",
+  gender : "Male"
+},
+{
 
+  name : "Tushar Pathak",
+  branch : "B.tech/CSE",
+  college : "Dayananda Sagar College of Engineering Bangalore",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/tushar54594/",
+  github : "https://github.com/tushar54594",
+  gender : "Male"
+},
+{
+  name : "Abhilipsa Sahoo",
+  branch : "B.Tech/CSE",
+  college : "Gandhi Institute for Technological Advancement, Bhubaneswar",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/abhilipsa-sahoo-927542b1",
+  github : "https://github.com/abhilipsasahoo03",
+  gender : "Female"
+},
+{
+  name: "Hardik Pratap Singh",
+  branch: "CSE",
+  college: "IIIT Jabalpur",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/hardik-pratap-singh",
+  github: "https://github.com/hardik-pratap-singh",
+  gender: "male",
+},
+{
+  name: "Yash Gupta",
+  branch: "ECE",
+  college: "IIITA",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/yash-gupta-1106/",
+  github: "https://github.com/yashg-116",
+  gender: "male",
+},
+ {
+  name: "Meghsham Jade",
+  branch: "E&TC",
+  college: "JSPM BSIOTR",
+  year: 2024,
+  linkedin: "https://www.linkedin.com/in/meghsham-jade-2a3406218/",
+  github: "https://github.com/Meghsham15",
+  gender: "male",
+},
+  {
+  name: "Abhiraj Rode",
+  branch: "E&TC",
+  college: "JSPM BSIOTR",
+  year: 2025,
+  linkedin: "https://www.linkedin.com/in/abhiraj-rode-36232522a",
+  github: "https://github.com/Abhiraj-1604",
+  gender: "male",
+},
+{
+  name : "Akshay Kalekar",
+  branch : "CSE CORE",
+  college : "VIT",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/akshay-ajay-kalekar/",
+  github : "https://github.com/akshay-Kalekar",
+  gender : "male"
+},
     {
     name: "Prakhar Pandey",
     branch: "B.tech/ISE",
@@ -493,7 +737,6 @@ const contributors = [{
         github: "https://github.com/yash-seth/",
         gender: "male",
     },
-
     {
 
     name: "Subhadip Das",
@@ -531,6 +774,7 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/amit-kumar-bera-990954205/",
     github: "https://github.com/itzwow",
     gender: "Male"
+
   },
   {
     name : "Ephraim Haruna",
