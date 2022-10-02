@@ -707,6 +707,16 @@ const contributors = [
     github: "https://github.com/codeswithroh",
     gender: "male",
   },
+  {
+    name: "Jaydeep Dey",
+    branch: "Computer Science and Engineering",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
+    github: "https://github.com/jaydeepdey03",
+    gender: "male",
+  },
+  
 ];
 
 export default contributors;
