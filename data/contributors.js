@@ -758,7 +758,18 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/amit-kumar-bera-990954205/",
     github: "https://github.com/itzwow",
     gender: "Male"
-  }
+
+  },
+  {
+    name : "Rahul Kumar",
+    branch : "Civil Engineering",
+    college : "Bhagalpur College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/rahul-kumar-072/",
+    github : "https://github.com/iamrahul8",
+    gender : "Male"
+}
+
 ];
 
 export default contributors;
