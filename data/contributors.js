@@ -594,7 +594,7 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/subhojeet-das-656871198/",
     github : "https://github.com/SubhojeetDas1107",
     gender : "Male"
-  }
+  },
     {
     name : "Harshit Joshi",
     branch : "Information Technology",
