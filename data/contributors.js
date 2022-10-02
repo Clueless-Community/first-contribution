@@ -605,6 +605,15 @@ const contributors = [
   github : "https://github.com/RidhikaJoshi",
   gender : "Female"
 },
+{
+  name : "Sahil Singh",
+  branch : "Computer Science",
+  college : "Indian Institute of Information Technology, Lucknow",
+  year : 2025,
+  linkedin : "https://www.linkedin.com/in/sahil-singh-6a11b6229/",
+  github : "https://github.com/SahilSingh177",
+  gender : "Male"
+},
 ];
 
 export default contributors;
