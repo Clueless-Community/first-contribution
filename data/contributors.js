@@ -587,6 +587,15 @@ const contributors = [
     github: "https://github.com/minhaj-313",
     gender: "Male",
 },
+{
+  name:"Rahul Guha",
+  branch: "CSE with Data Science",
+  college: "HITK",
+  year: 2026, 
+  linkedin: "https://www.linkedin.com/in/rahul-guha-93165220a/",
+  github: "https://github.com/guha-rahul" ,
+  gender: "male"  
+},
 ];
 
 export default contributors;
