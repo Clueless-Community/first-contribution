@@ -522,6 +522,15 @@ const contributors = [{
     gender: "Male"
   },
   {
+    name : "Ephraim Haruna",
+    branch : "Computer Engineering",
+    college : "Ahmadu Bello University Zaria, Nigeria",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/ephraim-haruna-a52b71209/",
+    github : "https://github.com/2bit2bit",
+    gender : "Male"
+    },
+  {
     name : "Rahul Kumar",
     branch : "Civil Engineering",
     college : "Bhagalpur College of Engineering",
