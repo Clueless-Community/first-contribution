@@ -452,10 +452,8 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
     github : "https://github.com/Noothan-am/",
     gender : "male"
-   },
-
-
-{
+    },
+    {
     name: "Pratyush Pahari",
     branch: "CSE AI & ML",
     college: "Brainware University",
@@ -463,10 +461,10 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
     github: "https://github.com/PRATYUSHPAHARI",
     gender: "male",
-},
+    },
 
 
-  {
+    {
     name: "Prakhar Pandey",
     branch: "B.tech/ISE",
     college: "Dayananda Sagar College of Engineering Bangalore",
@@ -474,8 +472,8 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/prakhar-pandey10/",
     github: "https://github.com/prakhar-1005",
     gender: "Male"
-  },
-                      {
+    },
+    {
         name: "Yash Seth",
         branch: "CSE Core",
         college: "VIT Chennai",
@@ -485,7 +483,8 @@ const contributors = [{
         gender: "male",
     },
 
-  {
+    {
+    
     name: "Subhadip Das",
     branch: "B.Tech/EE",
     college: "National Institute of Technology, Jamshedpur",
@@ -493,8 +492,18 @@ const contributors = [{
     linkedin: "https://www.linkedin.com/in/subhadipdhn/",
     github: "https://github.com/Subhadiptech",
     gender: "Male"
-  },
-  {
+    
+    },
+    {
+        name : "VIDYASAGAR(SAGAR)",
+        branch : "B.Engg/B.Tech in CSE",
+        college : "BNM Institute of Technology",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/tmsagarofficial/",
+        github : "https://github.com/tmsagarofficial/",
+        gender : "Male"
+    },
+    {
     name: "Akebu Simasiku",
     branch: "Software Engineering",
     college: "Zambia ICT College",
