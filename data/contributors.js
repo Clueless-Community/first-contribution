@@ -603,7 +603,17 @@ const contributors = [{
     linkedin : "https://www.linkedin.com/in/harshit-joshi-40953321b/",
     github : "https://github.com/Harshit-3905",
     gender : "Male"
-  }
+  },
+  {
+name : "Yash Kishore Parwani",
+branch : "CSE with Specialization in Software Engineering",
+college : "SRM Institute of Science and Technology , KTR",
+year : 2024,
+linkedin : "https://www.linkedin.com/in/yash-parwani-5610/",
+github : "https://github.com/Yash-Parwani",
+gender : "Male"
+}
+ 
 ];
 
 export default contributors;
