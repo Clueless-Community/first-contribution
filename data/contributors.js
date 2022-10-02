@@ -510,6 +510,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Rahul Kumar",
+    branch: "Civil Engineering",
+    college: "Bhagalpur College of Engineering",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/rahul-kumar-072/",
+    github: "https://github.com/iamrahul8",
+    gender: "Male",
+  },
+  {
     name: "Gerardo Alcántara",
     branch: "first-contribution/AddingContribution",
     college: "HarvardX",
