@@ -27,6 +27,15 @@ const contributors = [
     gender: "female",
   },
   {
+  name : "Mohd Toukir Khan",
+  branch : "CSE AI",
+  college : "SSTC, Bhilai",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/toukir-khan-499257219/",
+  github : "https://github.com/toukirkhan",
+  gender : "Male"
+  },
+  {
     name: "Nikhil Raj",
     branch: "CSE AI & ML",
     college: "HITK",
