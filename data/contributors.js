@@ -783,6 +783,16 @@ const contributors = [
   },
   {
 
+    name: "Aman Agrawal",
+    branch: "Computer Science and Engineering",
+    college: "Indian Institute of Technology, Patna",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/aman-agrawal-2b92b3167/",
+    github: "https://github.com/amanagr6697",
+    gender: "Male",
+  },
+{
+
     name : "Md. Fahim Bin Amin",
     branch : "Computer Science and Engineering",
     college : "United International University",
