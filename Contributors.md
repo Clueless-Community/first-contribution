@@ -8,6 +8,7 @@
 - [Anubhab Halder](https://github.com/itsmeAnubhab)
 - [Kingshuk Sarkar](https://github.com/Kingshuk3006)
 - [Pratham Sharma](https://github.com/pratham4434)
+- [Dhruv Rathi](https://github.com/DhruvRathi2001)
 - [Anupam Kumar Sourav](https://github.com/AKSourav)
 - [Jyothi Swaroop Makena](https://github.com/RedJOe-0608)
 - [Debajyoti Saha](https://github.com/Debajyoti14)
