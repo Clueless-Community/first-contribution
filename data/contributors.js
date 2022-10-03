@@ -752,6 +752,15 @@ const contributors = [
     github : "https://github.com/Dhanush-2605",
     gender : "Male"
 },
+{
+  name : "Ankit Anand",
+  branch : "Electronics And Computer Science",
+  college : "KIIT UNIVERSITY",
+  year : 2023, //Year of Pass Out
+  linkedin : "https://www.linkedin.com/in/ankit-anand-376782223/",
+  github : "https://github.com/AnkitAnandMastery17",
+  gender : "Male"
+},
 ];
 
 export default contributors;
