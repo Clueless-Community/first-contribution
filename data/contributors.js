@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name: "Debarshi Das",
+    branch: "BCA",
+    college: "Techno Main Salt Lake",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/senpaisec/",
+    github: "https://github.com/debxrshi",
+    gender: "Male"
+  },
+  {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -708,22 +717,22 @@ const contributors = [
     gender: "male",
   },
   {
-        name : "Swetha N",
-        branch : "Computer Science and Engineering",
-        college : "SASTRA Univerity",
-        year : 2024, //Year of Pass Out
-        linkedin : "https://www.linkedin.com/in/swetha-n-49ba38212/",
-        github : "https://github.com/SwethaN125",
-        gender : "female"
-    },
+    name: "Swetha N",
+    branch: "Computer Science and Engineering",
+    college: "SASTRA Univerity",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/swetha-n-49ba38212/",
+    github: "https://github.com/SwethaN125",
+    gender: "female"
+  },
   {
-      name : "Sumit Kumar",
-      branch : "Electrical & Electronics Engineering",
-      college : "IPS Academy Indore",
-      year : 2023,
-      linkedin : "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
-      github : "https://github.com/sumitkr2000",
-      gender : "Male"
+    name: "Sumit Kumar",
+    branch: "Electrical & Electronics Engineering",
+    college: "IPS Academy Indore",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
+    github: "https://github.com/sumitkr2000",
+    gender: "Male"
   },
   {
     name: "Yash Bajaj",
@@ -743,6 +752,50 @@ const contributors = [
     github: "https://github.com/Farelion",
     gender: "Male",
   },
+  {
+    name:"Milena Step",
+    branch: "Computer Science",
+    college: "Uw",
+    year: 2026, 
+    linkedin: null,
+    github: "https://github.com/fideem" ,
+    gender: "female"  
+  },
+   {
+    name: "Iqra Firdose",
+    branch: "Computer Science and Engineering",
+    college: "SSITS",
+    year: 2024,
+    github: "https://github.com/iqrafirdose",
+    gender: "Female",
+  },
+  {
+    name: "Dhanush",
+    branch: "CSE Ai & Robotics",
+    college: "Vit Chennai",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
+    github: "https://github.com/Dhanush-2605",
+    gender: "Male"
+  },
+  {
+    name: "Zeeshan Ali",
+    branch: "CBSE",
+    college: "Burdwan Model School",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/zeeshan-ali-b5332b215/",
+    github: "https://github.com/AcidOP",
+    gender: "Male"
+  },
+  {
+    name : "Vikash Maurya",
+    branch : "CSE",
+    college : "KIET Group Of Institutions",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/vikash-maurya-669845172/",
+    github : "https://github.com/kalvik09",
+    gender : "Male"
+    },
 ];
 
 export default contributors;

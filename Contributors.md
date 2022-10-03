@@ -59,4 +59,5 @@
 - [Nicky Kumari](https://github.com/iamnicky)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Adarsh Rawat](https://github.com/AKACHI-4)
+- [Ishika Ishani](https://github.com/ishani-1255)
 
