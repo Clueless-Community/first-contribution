@@ -708,22 +708,22 @@ const contributors = [
     gender: "male",
   },
   {
-        name : "Swetha N",
-        branch : "Computer Science and Engineering",
-        college : "SASTRA Univerity",
-        year : 2024, //Year of Pass Out
-        linkedin : "https://www.linkedin.com/in/swetha-n-49ba38212/",
-        github : "https://github.com/SwethaN125",
-        gender : "female"
-    },
-    {
+    name: "Swetha N",
+    branch: "Computer Science and Engineering",
+    college: "SASTRA Univerity",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/swetha-n-49ba38212/",
+    github: "https://github.com/SwethaN125",
+    gender: "female"
+  },
+  {
     name: "Dhanush",
     branch: "CSE AI & Robotics",
     college: "Vit Chennai",
-    year: 2025, 
+    year: 2025,
     linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
     github: "https://github.com/Dhanush-2605",
-    gender: "male",
+    gender: "Male",
   },
 ];
 
