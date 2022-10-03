@@ -902,6 +902,15 @@ const contributors = [
     github: "https://github.com/debxrshi",
     gender: "Male"
   },
+  {
+    name : "Ayush Beniwal",
+    branch : "Mech",
+    college : "IIT BHU",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/ayush-beniwal-b34385124/",
+    github : "https://github.com/ayush-beniwal",
+    gender : "Male"
+    },
 ];
 
 export default contributors;
