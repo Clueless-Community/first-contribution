@@ -764,6 +764,15 @@ const contributors = [
 
   },
   {
+
+    name : "Md. Fahim Bin Amin",
+    branch : "Computer Science and Engineering",
+    college : "United International University",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/fahimfba/",
+    github : "https://github.com/FahimFBA",
+    gender : "Male"
+},
     name: "Marcin Czownicki",
     branch: "Frontend developer",
     college: "None",
@@ -816,6 +825,7 @@ const contributors = [
     github : "https://github.com/kalvik09",
     gender : "Male"
     },
+
 ];
 
 export default contributors;
