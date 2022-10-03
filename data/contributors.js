@@ -787,6 +787,15 @@ const contributors = [
     github : "https://github.com/kalvik09",
     gender : "Male"
     },
+  {
+    name : "Jaydeep Dey",
+    branch : "CSE",
+    college : "Vellore Institute of Technology, Chennai",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/jaydeep-dey03/",
+    github : "https://github.com/jaydeepdey03",
+    gender : "Male"
+    },
 ];
 
 export default contributors;
