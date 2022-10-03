@@ -19,6 +19,7 @@
 - [Md Asif Raza](https://github.com/itsmdasifraza)
 - [Kusumita Ghose](https://github.com/kusumita29)
 - [Arijit Ghosh](https://github.com/Rancho2002)
+- [Dhruv Rathi](https://github.com/DhruvRathi2001)
 - [Ankit Kumar](https://github.com/Kumar-Ankit56)
 - [Subho Ghosh](https://github.com/ighoshsubho)
 - [Sanyam Agarwal](https://github.com/sanyam1259)

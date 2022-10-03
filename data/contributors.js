@@ -715,6 +715,33 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/prithvi-kirar-956959224/",
     github: "https://github.com/Pritvii",
     gender: "male",
+   {
+        name : "Swetha N",
+        branch : "Computer Science and Engineering",
+        college : "SASTRA Univerity",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/swetha-n-49ba38212/",
+        github : "https://github.com/SwethaN125",
+        gender : "female"
+    },
+  {
+      name : "Sumit Kumar",
+      branch : "Electrical & Electronics Engineering",
+      college : "IPS Academy Indore",
+      year : 2023,
+      linkedin : "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
+      github : "https://github.com/sumitkr2000",
+      gender : "Male"
+  },
+  {
+    name: "Yash Bajaj",
+    branch: "Computer Science and Engineering",
+    college: "SMVDU",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/yash-bajaj-b6a525235/",
+    github: "https://github.com/YaSh8202",
+    gender: "Male",
+
   },
 ];
 
