@@ -752,6 +752,15 @@ const contributors = [
     github : "https://github.com/Dhanush-2605",
     gender : "Male"
 },
+  {
+    name : "Vaibhav Bhardwaj",
+    branch : "Electronics and Communication Engineering",
+    college : "BPIT",
+    year : 2025, 
+    linkedin : "https://www.linkedin.com/in/bhardwajvaibhav42",
+    github : "https://github.com/vaibhavx42",
+    gender : "Male"
+},
 ];
 
 export default contributors;
