@@ -725,6 +725,15 @@ const contributors = [
       github : "https://github.com/sumitkr2000",
       gender : "Male"
   },
+  {
+      name : "Advay Sagarkar",
+      branch : "CSE",
+      college : "IIITDMJ",
+      year : 2025, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/advay-sagarkar/",
+      github : "https://github.com/Aragorn-64",
+      gender : "Male"
+  },
 ];
 
 export default contributors;
