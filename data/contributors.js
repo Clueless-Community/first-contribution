@@ -794,6 +794,16 @@ const contributors = [
   },
   {
 
+    name : "Pratham Goenka",
+    branch : "Information Technology Engineering",
+    college : "K. J. Somaiya college of Engineering",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/pratham-goenka-6b4792225/",
+    github : "https://github.com/prathamthe1st",
+    gender : "Male"
+},
+{
+
     name: "Aman Agrawal",
     branch: "Computer Science and Engineering",
     college: "Indian Institute of Technology, Patna",
@@ -892,6 +902,15 @@ const contributors = [
     github: "https://github.com/debxrshi",
     gender: "Male"
   },
+  {
+    name : "Gaurav Verma",
+    branch : "Computer Science and Engineering",
+    college : "IET Lucknow",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/gaurav-verma321/",
+    github : "https://github.com/Gaurav-Verma07",
+    gender : "Male"
+},
 ];
 
 export default contributors;
