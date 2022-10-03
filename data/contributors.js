@@ -769,6 +769,16 @@ const contributors = [
     github: "https://github.com/AcidOP",
     gender: "Male"
   },
+  {
+    name : "Vikash Maurya",
+    branch : "CSE",
+    college : "KIET Group Of Institutions",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/vikash-maurya-669845172/",
+    github : "https://github.com/kalvik09",
+    gender : "Male"
+    },
+  
 ];
 
 export default contributors;
