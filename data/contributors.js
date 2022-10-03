@@ -734,6 +734,15 @@ const contributors = [
     github: "https://github.com/YaSh8202",
     gender: "Male",
   },
+  {
+    name:"Milena Step",
+    branch: "Computer Science",
+    college: "Uw",
+    year: 2026, 
+    linkedin: null,
+    github: "https://github.com/fideem" ,
+    gender: "female"  
+  },
 ];
 
 export default contributors;
