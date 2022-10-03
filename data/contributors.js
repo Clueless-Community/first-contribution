@@ -715,16 +715,35 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/codeswithroh/",
     github: "https://github.com/codeswithroh",
     gender: "male",
+  }, 
+   {
+    name : "Anand Singh Yadav",
+    branch : "Information Technology",
+    college : "IET Lucknow",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/anandsy011/",
+    github : "https://github.com/AnandSY",
+
   },
   {
-    name: "Swetha N",
+    name: "Prithvi Singh Kirar",
+
     branch: "Computer Science and Engineering",
-    college: "SASTRA Univerity",
-    year: 2024, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/swetha-n-49ba38212/",
-    github: "https://github.com/SwethaN125",
-    gender: "female"
-  },
+    college: "SRMIST",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/prithvi-kirar-956959224/",
+    github: "https://github.com/Pritvii",
+    gender: "male",
+    },
+   {
+        name : "Swetha N",
+        branch : "Computer Science and Engineering",
+        college : "SASTRA Univerity",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/swetha-n-49ba38212/",
+        github : "https://github.com/SwethaN125",
+        gender : "female"
+    },
   {
     name: "Sumit Kumar",
     branch: "Electrical & Electronics Engineering",
@@ -741,6 +760,25 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/yash-bajaj-b6a525235/",
     github: "https://github.com/YaSh8202",
+    gender: "Male",
+
+  },
+  {
+
+    name : "Md. Fahim Bin Amin",
+    branch : "Computer Science and Engineering",
+    college : "United International University",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/fahimfba/",
+    github : "https://github.com/FahimFBA",
+    gender : "Male"
+},
+    name: "Marcin Czownicki",
+    branch: "Frontend developer",
+    college: "None",
+    year: 2022,
+    linkedin: "https://www.linkedin.com/in/marczow/",
+    github: "https://github.com/Farelion",
     gender: "Male",
   },
   {
