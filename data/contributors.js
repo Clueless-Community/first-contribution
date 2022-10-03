@@ -1,14 +1,5 @@
 const contributors = [
   {
-    name: "Debarshi Das",
-    branch: "BCA",
-    college: "Techno Main Salt Lake",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/senpaisec/",
-    github: "https://github.com/debxrshi",
-    gender: "Male"
-  },
-  {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -793,6 +784,16 @@ const contributors = [
   },
   {
 
+      name : "Advay Sagarkar",
+      branch : "CSE",
+      college : "IIITDMJ",
+      year : 2025, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/advay-sagarkar/",
+      github : "https://github.com/Aragorn-64",
+      gender : "Male"
+  },
+  {
+
     name: "Aman Agrawal",
     branch: "Computer Science and Engineering",
     college: "Indian Institute of Technology, Patna",
@@ -882,6 +883,15 @@ const contributors = [
     github : "https://github.com/jaydeepdey03",
     gender : "Male"
     },
+      {
+    name: "Debarshi Das",
+    branch: "BCA",
+    college: "Techno Main Salt Lake",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/senpaisec/",
+    github: "https://github.com/debxrshi",
+    gender: "Male"
+  },
 ];
 
 export default contributors;
