@@ -743,6 +743,14 @@ const contributors = [
     github: "https://github.com/YaSh8202",
     gender: "Male",
   },
+   {
+    name: "Iqra Firdose",
+    branch: "Computer Science and Engineering",
+    college: "SSITS",
+    year: 2024,
+    github: "https://github.com/iqrafirdose",
+    gender: "Female",
+  },
   {
     name : "Dhanush",
     branch : "CSE Ai & Robotics",
