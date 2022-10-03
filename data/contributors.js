@@ -744,14 +744,23 @@ const contributors = [
     gender: "Male",
   },
   {
-    name : "Dhanush",
-    branch : "CSE Ai & Robotics",
-    college : "Vit Chennai",
-    year : 2025, 
-    linkedin : "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
-    github : "https://github.com/Dhanush-2605",
-    gender : "Male"
-},
+    name: "Dhanush",
+    branch: "CSE Ai & Robotics",
+    college: "Vit Chennai",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
+    github: "https://github.com/Dhanush-2605",
+    gender: "Male"
+  },
+  {
+    name: "Zeeshan Ali",
+    branch: "CBSE",
+    college: "Burdwan Model School",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/zeeshan-ali-b5332b215/",
+    github: "https://github.com/AcidOP",
+    gender: "Male"
+  },
 ];
 
 export default contributors;
