@@ -707,6 +707,15 @@ const contributors = [
     github: "https://github.com/codeswithroh",
     gender: "male",
   },
+  {
+        name : "Swetha N",
+        branch : "Computer Science and Engineering",
+        college : "SASTRA Univerity",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/swetha-n-49ba38212/",
+        github : "https://github.com/SwethaN125",
+        gender : "female"
+    },
 ];
 
 export default contributors;
