@@ -743,6 +743,7 @@ const contributors = [
     github: "https://github.com/SwethaN125",
     gender: "female",
   },
+  {
     name: "Prithvi Singh Kirar",
 
     branch: "Computer Science and Engineering",
@@ -780,6 +781,7 @@ const contributors = [
     github : "https://github.com/homealone07",
     gender : "Male"
   },
+  {
     name: "Yash Bajaj",
     branch: "Computer Science and Engineering",
     college: "SMVDU",
@@ -818,6 +820,7 @@ const contributors = [
     github : "https://github.com/FahimFBA",
     gender : "Male"
 },
+  {
     name: "Marcin Czownicki",
     branch: "Frontend developer",
     college: "None",
