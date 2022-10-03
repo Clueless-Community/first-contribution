@@ -3,7 +3,7 @@ const contributors = [
     name: "Debarshi Das",
     branch: "BCA",
     college: "Techno Main Salt Lake",
-    year: 204,
+    year: 2024,
     linkedin: "https://www.linkedin.com/in/senpaisec/",
     github: "https://github.com/debxrshi",
     gender: "Male"
