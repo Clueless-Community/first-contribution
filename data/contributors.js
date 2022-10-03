@@ -734,6 +734,15 @@ const contributors = [
     github: "https://github.com/YaSh8202",
     gender: "Male",
   },
+  {
+    name: "Marcin Czownicki",
+    branch: "Frontend developer",
+    college: "None",
+    year: 2022,
+    linkedin: "https://www.linkedin.com/in/marczow/",
+    github: "https://github.com/Farelion",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
