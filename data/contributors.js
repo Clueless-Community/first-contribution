@@ -951,6 +951,15 @@ const contributors = [
     github: "https://github.com/ramdhanihendrie",
     gender: "Male"
   },
+  {
+    name: "Tushar Gupta",
+    branch: "Computer Science and Engineering",
+    college:"Shri Shankaracharya Technical Campus",
+    year:2025,
+    linkedin:"https://www.linkedin.com/in/tushargupta3002/",
+    github:"https://github.com/Tushar-2003",
+    gender:"Male"
+  },
 ];
 
 export default contributors;
