@@ -734,6 +734,15 @@ const contributors = [
     github: "https://github.com/YaSh8202",
     gender: "Male",
   },
+  {
+    name : "Dhanush",
+    branch : "CSE Ai & Robotics",
+    college : "Vit Chennai",
+    year : 2025, 
+    linkedin : "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
+    github : "https://github.com/Dhanush-2605",
+    gender : "Male"
+},
 ];
 
 export default contributors;
