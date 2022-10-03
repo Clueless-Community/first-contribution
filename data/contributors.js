@@ -903,6 +903,15 @@ const contributors = [
     gender: "Male"
   },
   {
+    name : "Ayush Beniwal",
+    branch : "Mech",
+    college : "IIT BHU",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/ayush-beniwal-b34385124/",
+    github : "https://github.com/ayush-beniwal",
+    gender : "Male"
+    },
+  {
     name : "Gaurav Verma",
     branch : "Computer Science and Engineering",
     college : "IET Lucknow",
