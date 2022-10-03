@@ -744,6 +744,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Marcin Czownicki",
+    branch: "Frontend developer",
+    college: "None",
+    year: 2022,
+    linkedin: "https://www.linkedin.com/in/marczow/",
+    github: "https://github.com/Farelion",
+    gender: "Male",
+  },
+  {
     name:"Milena Step",
     branch: "Computer Science",
     college: "Uw",
