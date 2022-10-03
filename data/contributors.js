@@ -708,14 +708,23 @@ const contributors = [
     gender: "male",
   },
   {
-        name : "Swetha N",
-        branch : "Computer Science and Engineering",
-        college : "SASTRA Univerity",
-        year : 2024, //Year of Pass Out
-        linkedin : "https://www.linkedin.com/in/swetha-n-49ba38212/",
-        github : "https://github.com/SwethaN125",
-        gender : "female"
-    },
+    name: "Swetha N",
+    branch: "Computer Science and Engineering",
+    college: "SASTRA Univerity",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/swetha-n-49ba38212/",
+    github: "https://github.com/SwethaN125",
+    gender: "female",
+  },
+  {
+    name: "Md. Fahim Bin Amin",
+    branch: "Computer Science and Engineering",
+    college: "United International University",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/fahimfba/",
+    github: "https://github.com/FahimFBA",
+    gender: "male",
+  }
 ];
 
 export default contributors;
