@@ -892,6 +892,15 @@ const contributors = [
     github: "https://github.com/debxrshi",
     gender: "Male"
   },
+  {
+    name: "Hendrie Ramdhani",
+    branch: "Informatics Engineering",
+    college: "Islamic State University, Jakarta",
+    year: 2022,
+    linkedin: "https://www.linkedin.com/in/hendrieramdhani/",
+    github: "https://github.com/ramdhanihendrie",
+    gender: "Male"
+  },
 ];
 
 export default contributors;
