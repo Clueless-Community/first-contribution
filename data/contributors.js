@@ -754,6 +754,24 @@ const contributors = [
     gender: "Male"
   },
   {
+
+    name : "Ridhika Joshi",
+    branch : "Computer Science Engineering",
+    college : "Academy of Technology",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/ridhika-joshi-069164221/",
+    github : "https://github.com/RidhikaJoshi",
+    gender : "Female"
+  },
+  {
+    name : "Venkat Amith Woonna",
+    branch : "Computer Science Engineering",
+    college : "Vellore Institute of Technology , Chennai",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/venkat-amith-woonna-38bb721b8/",
+    github : "https://github.com/homealone07",
+    gender : "Male"
+  },
     name: "Yash Bajaj",
     branch: "Computer Science and Engineering",
     college: "SMVDU",
@@ -834,6 +852,7 @@ const contributors = [
     github : "https://github.com/jaydeepdey03",
     gender : "Male"
     },
+
 ];
 
 export default contributors;
