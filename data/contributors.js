@@ -425,6 +425,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Zahra Shahid",
+    branch: "MERN",
+    college: "PUCIT",
+    year: 2022,
+    linkedin: "https://www.linkedin.com/in/zahrashahid/",
+    github: "https://github.com/ZahraShahid",
+    gender: "Female",
+  },
+  {
     name: "Pratyush Pahari",
     branch: "CSE AI & ML",
     college: "Brainware University",
@@ -708,22 +717,22 @@ const contributors = [
     gender: "male",
   },
   {
-        name : "Swetha N",
-        branch : "Computer Science and Engineering",
-        college : "SASTRA Univerity",
-        year : 2024, //Year of Pass Out
-        linkedin : "https://www.linkedin.com/in/swetha-n-49ba38212/",
-        github : "https://github.com/SwethaN125",
-        gender : "female"
-    },
+    name: "Swetha N",
+    branch: "Computer Science and Engineering",
+    college: "SASTRA Univerity",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/swetha-n-49ba38212/",
+    github: "https://github.com/SwethaN125",
+    gender: "female",
+  },
   {
-      name : "Sumit Kumar",
-      branch : "Electrical & Electronics Engineering",
-      college : "IPS Academy Indore",
-      year : 2023,
-      linkedin : "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
-      github : "https://github.com/sumitkr2000",
-      gender : "Male"
+    name: "Sumit Kumar",
+    branch: "Electrical & Electronics Engineering",
+    college: "IPS Academy Indore",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
+    github: "https://github.com/sumitkr2000",
+    gender: "Male",
   },
 ];
 
