@@ -716,6 +716,15 @@ const contributors = [
         github : "https://github.com/SwethaN125",
         gender : "female"
     },
+  {
+      name : "Sumit Kumar",
+      branch : "Electrical & Electronics Engineering",
+      college : "IPS Academy Indore",
+      year : 2023,
+      linkedin : "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
+      github : "https://github.com/sumitkr2000",
+      gender : "Male"
+  },
 ];
 
 export default contributors;
