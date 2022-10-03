@@ -892,6 +892,15 @@ const contributors = [
     github: "https://github.com/debxrshi",
     gender: "Male"
   },
+  {
+    name: "Amit Sharma",
+    branch: "MEC",
+    college: "Indian Institute of Technology (BHU) , Varanasi",
+    year: 2025,
+    linkedin: "https://in.linkedin.com/in/amit-sharma-976abb243",
+    github: "https://github.com/AmitSharma512",
+    gender: "Male"
+  },
 ];
 
 export default contributors;
