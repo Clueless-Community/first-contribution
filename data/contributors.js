@@ -791,6 +791,15 @@ const contributors = [
     github: "https://github.com/amanagr6697",
     gender: "Male",
   },
+   {
+    name: "Manisha Parichha",
+    branch: "Computer Science and Engineering",
+    college: "ITER,Bhubaneswar",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/manisha-parichha/",
+    github: "https://github.com/MannyP31",
+    gender: "Female",
+  },
 {
 
     name : "Md. Fahim Bin Amin",
@@ -862,7 +871,6 @@ const contributors = [
     github : "https://github.com/jaydeepdey03",
     gender : "Male"
     },
-
 ];
 
 export default contributors;
