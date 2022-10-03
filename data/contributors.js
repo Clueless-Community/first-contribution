@@ -752,6 +752,15 @@ const contributors = [
     github : "https://github.com/Dhanush-2605",
     gender : "Male"
 },
+ {
+    name : "Ishika Ishani",
+    branch : "Data Science",
+    college : "IIT Madras",
+    year : 2026, 
+    linkedin : "https://www.linkedin.com/in/ishika-ishani/",
+    github : "https://github.com/ishani-1255",
+    gender : "Female"
+},
 ];
 
 export default contributors;
