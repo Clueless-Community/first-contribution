@@ -725,6 +725,15 @@ const contributors = [
       github : "https://github.com/sumitkr2000",
       gender : "Male"
   },
+  {
+    name : "Pratham Goenka",
+    branch : "Information Technology Engineering",
+    college : "K. J. Somaiya college of Engineering",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/pratham-goenka-6b4792225/",
+    github : "https://github.com/prathamthe1st",
+    gender : "Male"
+  },
 ];
 
 export default contributors;
