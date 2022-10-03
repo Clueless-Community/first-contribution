@@ -715,9 +715,19 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/codeswithroh/",
     github: "https://github.com/codeswithroh",
     gender: "male",
+  }, 
+   {
+    name : "Anand Singh Yadav",
+    branch : "Information Technology",
+    college : "IET Lucknow",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/anandsy011/",
+    github : "https://github.com/AnandSY",
+
   },
   {
     name: "Prithvi Singh Kirar",
+
     branch: "Computer Science and Engineering",
     college: "SRMIST",
     year: 2024,
