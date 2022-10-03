@@ -725,6 +725,15 @@ const contributors = [
       github : "https://github.com/sumitkr2000",
       gender : "Male"
   },
+  {
+    name: "Yash Bajaj",
+    branch: "Computer Science and Engineering",
+    college: "SMVDU",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/yash-bajaj-b6a525235/",
+    github: "https://github.com/YaSh8202",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
