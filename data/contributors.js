@@ -902,6 +902,15 @@ const contributors = [
     github: "https://github.com/debxrshi",
     gender: "Male"
   },
+  {
+    name : "Gaurav Verma",
+    branch : "Computer Science and Engineering",
+    college : "IET Lucknow",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/gaurav-verma321/",
+    github : "https://github.com/Gaurav-Verma07",
+    gender : "Male"
+},
 ];
 
 export default contributors;
