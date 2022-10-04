@@ -1238,7 +1238,15 @@ const contributors = [
     github: "https://github.com/Preyash-tryin-to-code",
     gender: "male",
   },
-
+  {
+    name: "Om Prakash Sahoo",
+    branch: "CSE",
+    college: "OUTR, Bhubaneshwar",
+    year: 2024, //Year of Pass Out
+    linkedin: "www.linkedin.com/in/om-prakash-sahoo-2305/",
+    github: "https://github.com/OmPrakashSahoo-05",
+    gender: "male",
+  },
 ];
 
 export default contributors;
