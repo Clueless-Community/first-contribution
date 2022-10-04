@@ -7,6 +7,7 @@
 - [Nikhil Raj](https://github.com/nikhil25803)
 - [Anubhab Halder](https://github.com/itsmeAnubhab)
 - [Kingshuk Sarkar](https://github.com/Kingshuk3006)
+- [Amit Dewangan](https://github.com/Amit-TheOne)
 - [Pratham Sharma](https://github.com/pratham4434)
 - [Anupam Kumar Sourav](https://github.com/AKSourav)
 - [Jyothi Swaroop Makena](https://github.com/RedJOe-0608)
@@ -64,4 +65,8 @@
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Ridham Singhal](https://github.com/RidhamRJ)
 
+- [Wahid Ari](https://github.com/wahid-ari)
+- [KritikaTri](https://github.com/KritikaTri)
+
+  
 
