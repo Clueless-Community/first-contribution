@@ -1,4 +1,5 @@
-import React, {useEffect} from "react";
+import React from "react";
+import Head from 'next/head'
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 import GitCom from "../../components/GitCom";
@@ -6,12 +7,13 @@ import GitDiv from "../../components/GitDiv";
 
 const index = () => {
   
-  useEffect(() => {
-    document.title = 'GitHub commands';
-  });
-
   return (
-    <div>
+   <>
+      <Head>
+        <title>GitHub commands</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
+     <div>
       <Navbar />
       <div className=" dark:bg-gray-700 dark:text-gray-50">
         <h1 className="text-4xl text-center p-5">
@@ -26,19 +28,19 @@ const index = () => {
       <GitCom
         heading="Git status"
         para="• Git status gives information about the branch & files"
-      />
+        />
       <GitDiv command="git status" />
       <GitCom heading="To check push/fetch origin URL" />
       <GitDiv command="git remote -v" />
       <GitCom
         heading="Git pull"
         para="• To gets the updates from remote repository and immediately applies the latest changes in your local."
-      />
+        />
       <GitDiv command="git pull origin main/master" />
       <GitCom
         heading="To undo the changes"
         para="• We need to specify the hash code ( eg. 3321844 ) next to our commit that we would like to undo"
-      />
+        />
       <GitDiv command="git revert hash_code" />
 
       <GitCom heading="To rename a git file" />
@@ -53,7 +55,7 @@ const index = () => {
       <GitCom
         heading="To see all the previous commits"
         para="• Most recent will appear first"
-      />
+        />
       <GitDiv command="git log" />
       <GitCom heading="To see commits of other group authors." />
       <GitDiv command="git shortlog" />
@@ -71,7 +73,7 @@ const index = () => {
       <GitCom
         heading="To find a good/bad commit"
         para="• Initiate git bisect"
-      />
+        />
       <GitDiv command="git bisect start" />
       <GitCom heading="To know about a good commit" />
       <GitDiv command="git bisect good a123" />
@@ -83,7 +85,7 @@ const index = () => {
       <GitCom
         heading="To compare two Git files"
         para="• To compare working directory with the local repo"
-      />
+        />
 
       <GitDiv command="git diff HEAD file_name" />
       <GitCom heading="To compare two branches" />
@@ -91,12 +93,13 @@ const index = () => {
       <GitCom
         heading="There are many commands in Git"
         para="• To compare working directory with the local repo"
-      />
+        />
 
       <GitDiv command="git help" />
 
       <Footer />
-    </div>
+     </div>
+   </>
   );
 };
 
