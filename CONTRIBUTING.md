@@ -67,6 +67,11 @@ Open contributors.js in your favourite text editor and add a new object below th
     },
 ```
 
+Now open Contributors.md in a text editor and add your name and your github link below the exisiting one in given format
+```bash
+   - [your_name](your Github url)
+```
+
 ## 4. Creating a Pull request
 ### Create a branch
 
@@ -135,6 +140,7 @@ git push origin branch_name
      alt="Confirmation message"
      style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
+* Now, you can see your data into Contributors.md and contributors.js
 
 # Want to contribute in the website?
 
