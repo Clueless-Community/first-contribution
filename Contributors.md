@@ -1,5 +1,6 @@
 # Contributors 
 
+- [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
 - [Roshan Kumar](https://github.com/Roshaen)
@@ -7,6 +8,7 @@
 - [Nikhil Raj](https://github.com/nikhil25803)
 - [Anubhab Halder](https://github.com/itsmeAnubhab)
 - [Kingshuk Sarkar](https://github.com/Kingshuk3006)
+- [Amit Dewangan](https://github.com/Amit-TheOne)
 - [Pratham Sharma](https://github.com/pratham4434)
 - [Anupam Kumar Sourav](https://github.com/AKSourav)
 - [Jyothi Swaroop Makena](https://github.com/RedJOe-0608)
@@ -59,8 +61,11 @@
 - [Nicky Kumari](https://github.com/iamnicky)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Adarsh Rawat](https://github.com/AKACHI-4)
+- [Saulo Barros](https://github.com/DinoSaulo)
 - [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Tushar Gupta](https://github.com/Tushar-2003)
-  
-
+- [Ridham Singhal](https://github.com/RidhamRJ)
+- [Wahid Ari](https://github.com/wahid-ari)
+- [KritikaTri](https://github.com/KritikaTri)
+- [Pranjal Raj](https://github.com/pranjal-raj)
