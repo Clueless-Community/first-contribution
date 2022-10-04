@@ -1,23 +1,5 @@
 const contributors = [
   {
-    name: "Sneha Singh",
-    branch: "Information Technology",
-    college: "Motilal Nehru National Institute of Technology, Allahabad",
-    year: 2023, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/snehasingh2001/",
-    github: "https://github.com/Sneha0607",
-    gender: "Female",
-  },
-  {
-    name: "Preyash Yadav",
-    branch: "CSE-Cyber Physiacl Systems",
-    college: "Vellore Institute of Technology, Chennai",
-    year: 2024, //Year of Pass Out
-    linkedin: "linkedin.com/in/preyash-yadav-827a421b6/",
-    github: "https://github.com/Preyash-tryin-to-code",
-    gender: "male",
-  },
-  {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -1185,6 +1167,15 @@ const contributors = [
     gender: "Female",
   },
   {
+    name: "Ashwin Taras",
+    branch: "Computer Engineering",
+    college: "PICT",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/ashwin-taras-665038196",
+    github: "https://github.com/BlackBolt2003",
+    gender: "Male",
+  },
+  {
     name:"Ridham Singhal",
     branch:"N/A (studying in grade 11)",
     college:"N/A (high schooler)",
@@ -1220,7 +1211,24 @@ const contributors = [
     github: "https://github.com/saimaheshtaduri",
     gender: "Male",
   },
-
+  {
+    name: "Sneha Singh",
+    branch: "Information Technology",
+    college: "Motilal Nehru National Institute of Technology, Allahabad",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/snehasingh2001/",
+    github: "https://github.com/Sneha0607",
+    gender: "Female",
+  },
+  {
+    name: "Preyash Yadav",
+    branch: "CSE-Cyber Physiacl Systems",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024, //Year of Pass Out
+    linkedin: "linkedin.com/in/preyash-yadav-827a421b6/",
+    github: "https://github.com/Preyash-tryin-to-code",
+    gender: "male",
+  },
 ];
 
 export default contributors;
