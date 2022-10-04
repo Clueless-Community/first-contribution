@@ -1,13 +1,13 @@
 const contributors = [
-   {
-        name : "Preyash Yadav",
-        branch : "CSE-Cyber Physiacl Systems",
-        college : "Vellore Institute of Technology, Chennai",
-        year : 2024, //Year of Pass Out
-        linkedin : "linkedin.com/in/preyash-yadav-827a421b6/",
-        github : "https://github.com/Preyash-tryin-to-code",
-        gender : "male"
-    },
+  {
+    name: "Preyash Yadav",
+    branch: "CSE-Cyber Physiacl Systems",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024, //Year of Pass Out
+    linkedin: "linkedin.com/in/preyash-yadav-827a421b6/",
+    github: "https://github.com/Preyash-tryin-to-code",
+    gender: "male",
+  },
   {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
@@ -1095,7 +1095,15 @@ const contributors = [
     github: "https://github.com/KritikaTri",
     gender: "Female",
   },
-
+  {
+    name: "Ashwin Taras",
+    branch: "Computer Engineering",
+    college: "PICT",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/ashwin-taras-665038196",
+    github: "https://github.com/BlackBolt2003",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
