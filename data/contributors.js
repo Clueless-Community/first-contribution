@@ -995,7 +995,45 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/ishika-ishani/",
     github: "https://github.com/ishani-1255",
     gender: "Female"
-  }, {
+  }, 
+  {
+
+    name : "Vikash Maurya",
+    branch : "CSE",
+    college : "KIET Group Of Institutions",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/vikash-maurya-669845172/",
+    github : "https://github.com/kalvik09",
+    gender : "Male"
+    },
+  {
+    name : "Jaydeep Dey",
+    branch : "CSE",
+    college : "Vellore Institute of Technology, Chennai",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/jaydeep-dey03/",
+    github : "https://github.com/jaydeepdey03",
+    gender : "Male"
+    },
+   {
+    name : "Ishika Ishani",
+    branch : "Data Science",
+    college : "IIT Madras",
+    year : 2026, 
+    linkedin : "https://www.linkedin.com/in/ishika-ishani/",
+    github : "https://github.com/ishani-1255",
+    gender : "Female"
+    },
+    {
+      name : "anshu nishad",
+      branch : "computer science",
+      college : "united institute of management",
+      year : 2024, 
+      linkedin : "https://www.linkedin.com/in/anshu-nishad/",
+      github : "https://github.com/educationalgamer",
+      gender : "Female"
+      },
+{
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college: "Shri Shankaracharya Technical Campus",
@@ -1013,6 +1051,7 @@ const contributors = [
     github: "https://github.com/wahid-ari",
     gender: "Male"
   },
+  
 
 ];
 
