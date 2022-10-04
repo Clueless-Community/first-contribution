@@ -59,4 +59,4 @@
 - [Nicky Kumari](https://github.com/iamnicky)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Adarsh Rawat](https://github.com/AKACHI-4)
-
+- [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
