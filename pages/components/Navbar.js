@@ -31,17 +31,17 @@ const Navbar = (props) => {
           <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
           
             <Link href="/allcontributors">
-              <a className="mr-5 hover:text-gray-900 cursor-pointer hover:underline transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
+              <a className="mr-5 hover:text-gray-900 cursor-pointer link link-underline link-underline-black transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
                 All Contributors
               </a>
             </Link>
             <Link href="/whattodo">
-            <a className="mr-5 hover:text-gray-900 cursor-pointer hover:underline transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
+            <a className="mr-5 hover:text-gray-900 cursor-pointer link link-underline link-underline-black transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
               What to do?
             </a>
             </Link>
             <Link href="/">
-              <a target="_blank" className="mr-5 hover:text-gray-900 cursor-pointer hover:underline transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
+              <a target="_blank" className="mr-5 hover:text-gray-900 cursor-pointer link link-underline link-underline-black transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
                 Visit main website
               </a>
             </Link>
