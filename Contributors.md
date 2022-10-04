@@ -73,8 +73,5 @@
 - [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
 - [Taduri Saimahesh](https://github.com/saimaheshtaduri)
-<<<<<<< HEAD
 - [Annu Priya](https://github.com/annupriy)
-=======
-
->>>>>>> 6d3ed47cfcde68289bd0c66bb54122223be157df
+- [Sahil Singh](https://github.com/SahilSingh177)
