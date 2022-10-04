@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import styles from './Footer.module.css'
 
 const Footer = () => {
   return (
@@ -10,20 +11,7 @@ const Footer = () => {
         <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
             <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 dark:text-gray-50">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-7 w-7"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
-                />
-              </svg>
+              <img className="w-6" src="/clueless_logo.png" alt="clueless logo" />
               <span className="ml-3 text-xl">ClueLess</span>
             </a>
             <p className="mt-2 text-sm dark:text-gray-50">
@@ -40,8 +28,8 @@ const Footer = () => {
                   <a
                     href="https://github.com/HITK-2025/first-contribution"
                     target="_blank"
-                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline"
-                  >
+                    className={styles.underline}                  
+                    >
                     First Contribution
                   </a>
                 </li>
@@ -51,24 +39,26 @@ const Footer = () => {
               <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3">
                 Pages
               </h2>
-              <nav className="list-none mb-10">
+              <nav className="list-none mb-10 ">
                 <li>
                   <Link href="/">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline">
+                    <a className={styles.underline}>
                       Home
                     </a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/allcontributors">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline">
+                  <a className={styles.underline}>
+
                       All Contibutors
                     </a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/whattodo">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline">
+                  <a className={styles.underline}>
+
                       What to do?
                     </a>
                   </Link>
@@ -76,7 +66,7 @@ const Footer = () => {
               </nav>
             </div>
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3">
+              <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3 ">
                 Community Link
               </h2>
               <nav className="list-none mb-10">
@@ -84,9 +74,12 @@ const Footer = () => {
                   <a
                     href="https://discord.gg/r5uKBGxT9T"
                     target="_blank"
-                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline"
+                    className={styles.underline}
+
                   >
+                  <span className="link link-underline link-underline-black">
                     Discord
+                    </span>
                   </a>
                 </li>
               </nav>
