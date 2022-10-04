@@ -1,4 +1,4 @@
-# Contributors 
+# Contributors
 
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
@@ -65,6 +65,4 @@
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Wahid Ari](https://github.com/wahid-ari)
 - [KritikaTri](https://github.com/KritikaTri)
-
-  
-
+- [Ashwin Taras](https://github.com/BlackBolt2003)
