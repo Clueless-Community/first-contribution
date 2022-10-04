@@ -1130,6 +1130,24 @@ const contributors = [
     github : "https://github.com/pandeyom331",
     gender : "Male"
   },
+    {
+    name : "Harshit Joshi",
+    branch : "Information Technology",
+    college : "Kalyani Government Engineering College",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/harshit-joshi-40953321b/",
+    github : "https://github.com/Harshit-3905",
+    gender : "Male"
+  },
+  {
+    name : "Akash Kotal",
+    branch : "Computer Science Engineering",
+    college : "Techno International NewTown",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/akash-kotal-8105b71b0/",
+    github : "https://github.com/sky01green",
+    gender : "Male"
+  },
   { 
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
