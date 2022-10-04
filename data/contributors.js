@@ -1,13 +1,22 @@
 const contributors = [
-   {
-        name : "Preyash Yadav",
-        branch : "CSE-Cyber Physiacl Systems",
-        college : "Vellore Institute of Technology, Chennai",
-        year : 2024, //Year of Pass Out
-        linkedin : "linkedin.com/in/preyash-yadav-827a421b6/",
-        github : "https://github.com/Preyash-tryin-to-code",
-        gender : "male"
-    },
+  {
+    name: "Sneha Singh",
+    branch: "Information Technology",
+    college: "Motilal Nehru National Institute of Technology, Allahabad",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/snehasingh2001/",
+    github: "https://github.com/Sneha0607",
+    gender: "Female",
+  },
+  {
+    name: "Preyash Yadav",
+    branch: "CSE-Cyber Physiacl Systems",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024, //Year of Pass Out
+    linkedin: "linkedin.com/in/preyash-yadav-827a421b6/",
+    github: "https://github.com/Preyash-tryin-to-code",
+    gender: "male",
+  },
   {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
