@@ -61,4 +61,6 @@
 - [Adarsh Rawat](https://github.com/AKACHI-4)
 - [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
 - [Ishika Ishani](https://github.com/ishani-1255)
+- [Tushar Gupta](https://github.com/Tushar-2003)
+  
 
