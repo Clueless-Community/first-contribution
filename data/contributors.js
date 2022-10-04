@@ -1132,8 +1132,8 @@ const contributors = [
     linkedin:"https://www.linkedin.com/in/ridham-singhal-153721212/",
     github:"https://github.com/RidhamRj",
     gender:"Male"
-  }
-
+  },
+  {
     name: "Pranjal Raj",
     branch: "CSE",
     college: "KIET Group of Institutions",

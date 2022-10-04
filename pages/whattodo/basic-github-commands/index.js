@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
-import GitCom from "../../components/gitCom";
+import GitCom from "../../components/GitCom";
 import GitDiv from "../../components/GitDiv";
 
 const index = () => {
