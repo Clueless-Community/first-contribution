@@ -1,5 +1,6 @@
 # Contributors 
 
+- [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
 - [Roshan Kumar](https://github.com/Roshaen)
