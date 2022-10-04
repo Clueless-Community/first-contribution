@@ -996,6 +996,15 @@ const contributors = [
     github : "https://github.com/ishani-1255",
     gender : "Female"
     },
+    {
+      name : "anshu nishad",
+      branch : "computer science",
+      college : "united institute of management",
+      year : 2024, 
+      linkedin : "https://www.linkedin.com/in/anshu-nishad/",
+      github : "https://github.com/educationalgamer",
+      gender : "Female"
+      },
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college:"Shri Shankaracharya Technical Campus",
@@ -1004,6 +1013,7 @@ const contributors = [
     github:"https://github.com/Tushar-2003",
     gender:"Male"
   },
+  
 
 ];
 
