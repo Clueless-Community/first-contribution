@@ -734,6 +734,15 @@ const contributors = [
     github: "https://github.com/YaSh8202",
     gender: "Male",
   },
+  {
+    name: "A Harindra Reddy",
+    branch: "Information Science and Engineering",
+    college: "Dayananda Sagar College of Engineering",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/a-harindra-reddy-35349920a",
+    github: "https://github.com/NateNear",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
