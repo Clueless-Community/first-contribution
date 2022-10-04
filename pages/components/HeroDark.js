@@ -1,8 +1,8 @@
-import Link from "next/link";
 import React from "react";
 import Particles from "react-tsparticles";
+import Link from "next/link";
 
-const HeroDark = () => {
+const HeroLight = () => {
   return (
     <div className="h-11/12">
       <Particles
@@ -10,7 +10,7 @@ const HeroDark = () => {
         options={{
           background: {
           color: {
-            value: "#374151",
+            value: "",
           },
         },
           fpsLimit: 60,
@@ -43,10 +43,10 @@ const HeroDark = () => {
           },
           particles: {
             color: {
-              value: "#40c9ff",
+              value: "#0000",
             },
             links: {
-              color: "#40c9ff",
+              color: "#0000",
               distance: 150,
               enable: true,
               opacity: 0.5,
@@ -85,19 +85,20 @@ const HeroDark = () => {
         }}
       />
       <div className="relative z-10 w-full h-[95vh] flex flex-col justify-center">
-      <h1 className="text-center text-5xl font-sans font-bold text-gray-50 opacity-90">Welcome to ClueLess Community</h1>
-      <h1 className="text-center text-7xl font-sans mt-8 font-bold text-gray-50 opacity-90 ">Learn. Grow.</h1>
+      <h1 className="text-center text-5xl font-sans font-bold text-blue-600 opacity-90">Welcome to ClueLess Community</h1>
+      <h1 className="text-center text-7xl font-sans mt-8 font-bold text-blue-600 opacity-90 ">Learn. Grow.</h1>
       <div className="w-full justify-center flex">
       <Link href="/whattodo">
-      <button className="px-4 py-2 bg-gray-600 rounded-xl font-bold text-white text-xl my-10 mx-5 hover:bg-blue-500">What to Do?</button>
+      <button className="px-4 py-2 bg-blue-600 opacity-90 rounded-xl font-bold text-white text-xl my-10 mx-5 hover:bg-blue-500">What to Do?</button>
       </Link>
       <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
-      <button className="px-4 py-2 border-gray-50 border-4 text-gray-50 rounded-xl font-bold text-xl my-10 mx-5 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500">Contribute Now</button>
+      <button className="px-4 py-2 border-[#0061ff] border-4 text-[#0061ff] rounded-xl font-bold text-xl my-10 mx-5 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500">Contribute Now</button>
       </a>
       </div>
       </div>
+      
     </div>
   );
 };
 
-export default HeroDark;
+export default HeroLight;
