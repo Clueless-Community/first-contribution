@@ -1086,6 +1086,16 @@ const contributors = [
     github: "https://github.com/priyanshumaitra",
     gender: "Male",
   },
+  {
+    name: "Kritika Tripathi",
+    branch: "Mechanical",
+    college: "IIT BHU",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/kritika-tripathi-b02297225/",
+    github: "https://github.com/KritikaTri",
+    gender: "Female",
+  },
+
 ];
 
 export default contributors;
