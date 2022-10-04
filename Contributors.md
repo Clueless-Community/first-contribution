@@ -1,4 +1,4 @@
-# Contributors 
+# Contributors
 
 - [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
@@ -68,6 +68,8 @@
 - [Ridham Singhal](https://github.com/RidhamRJ)
 - [Wahid Ari](https://github.com/wahid-ari)
 - [KritikaTri](https://github.com/KritikaTri)
+- [Ashwin Taras](https://github.com/BlackBolt2003)
 - [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
 - [Taduri Saimahesh](https://github.com/saimaheshtaduri)
+
