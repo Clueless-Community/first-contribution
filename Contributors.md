@@ -1,4 +1,4 @@
-# Contributors 
+# Contributors
 
 - [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
@@ -64,11 +64,17 @@
 - [Saulo Barros](https://github.com/DinoSaulo)
 - [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
 - [Ishika Ishani](https://github.com/ishani-1255)
+- [Harsh Kanojia](https://github.com/Eyesnatcher-coder)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Ridham Singhal](https://github.com/RidhamRJ)
 - [Wahid Ari](https://github.com/wahid-ari)
 - [KritikaTri](https://github.com/KritikaTri)
+- [Ashwin Taras](https://github.com/BlackBolt2003)
 - [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
 - [Taduri Saimahesh](https://github.com/saimaheshtaduri)
+<<<<<<< HEAD
 - [Annu Priya](https://github.com/annupriy)
+=======
+
+>>>>>>> 6d3ed47cfcde68289bd0c66bb54122223be157df

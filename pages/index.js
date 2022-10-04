@@ -26,8 +26,8 @@ const index = () => {
     <div>
     <Document />
       <Navbar herotheme={HeroTheme} />
-      {!Hometheme && <HeroLight />}
-      {Hometheme === "dark" && <HeroDark />}
+      {!Hometheme && <HeroDark />}
+      {Hometheme === "dark" && <HeroLight />}
       <div className="relative z-10">
         <RecentContributors />
         <DiscordHome />
