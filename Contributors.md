@@ -60,4 +60,5 @@
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Adarsh Rawat](https://github.com/AKACHI-4)
 - [Ishika Ishani](https://github.com/ishani-1255)
+- [Harsh Kanojia](https://github.com/Eyesnatcher-coder)
 

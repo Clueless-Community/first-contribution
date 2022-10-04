@@ -942,6 +942,15 @@ const contributors = [
     github: "https://github.com/AmitSharma512",
     gender: "Male",
   },
+  {
+    name: "Harsh Kanojia",
+    branch: "Information Technology",
+    college: "Indian Institute of Information Technology, Lucknow",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/harsh-kanojia-129145223/",
+    github: "https://github.com/Eyesnatcher-coder",
+    gender: "Male",
+  }
 ];
 
 export default contributors;

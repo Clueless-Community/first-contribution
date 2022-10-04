@@ -1,17 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 const Theme = (props) => {
-  const [theme, setTheme] = useState("light");
-
-  const themeChecker = () => {
-    if (document.documentElement.classList.contains("dark")) {
-      darkTheme();
-    }
-  };
-
-  useEffect(() => {
-    themeChecker();
-  });
+  const [theme, setTheme] = useState();
 
   const darkTheme = () => {
     document.documentElement.classList.add("dark");
@@ -21,6 +11,13 @@ const Theme = (props) => {
     document.documentElement.classList.remove("dark");
     setTheme("light");
   };
+
+  useEffect(() => {
+    if (theme === undefined) darkTheme();
+    else if (document.documentElement.classList.contains("dark")) {
+      darkTheme();
+    }
+  });
 
   return (
     <div>
