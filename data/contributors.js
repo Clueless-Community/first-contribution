@@ -36,6 +36,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Amit Dewangan",
+    branch: "Computer Science and Engineering",
+    college: "Shri Shankaracharya Technical Campus",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/amit--dewangan/",
+    github: "https://github.com/Amit-TheOne",
+    gender: "Male"
+  },
+  {
     name: "Nikhil Raj",
     branch: "CSE AI & ML",
     college: "HITK",
