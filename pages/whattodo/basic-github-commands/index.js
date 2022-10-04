@@ -1,10 +1,15 @@
-import React from "react";
+import React, {useEffect} from "react";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 import GitCom from "../../components/GitCom";
 import GitDiv from "../../components/GitDiv";
 
 const index = () => {
+  
+  useEffect(() => {
+    document.title = 'GitHub commands';
+  });
+
   return (
     <div>
       <Navbar />
