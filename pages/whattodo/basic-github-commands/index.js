@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
-import GitCom from "../../components/gitCom";
+import GitCom from "../../components/GitCom";
 import GitDiv from "../../components/GitDiv";
 
 const index = () => {
@@ -35,10 +35,8 @@ const index = () => {
         para="• We need to specify the hash code ( eg. 3321844 ) next to our commit that we would like to undo"
       />
       <GitDiv command="git revert hash_code" />
-
       <GitCom heading="To rename a git file" />
       <GitDiv command="git mv old_file_name  new_file_name" />
-
       <GitCom heading="Temporarily stores your modified files" />
       <GitDiv command="git stash" />
       <GitCom heading="View all of your stashes" />
@@ -52,17 +50,14 @@ const index = () => {
       <GitDiv command="git log" />
       <GitCom heading="To see commits of other group authors." />
       <GitDiv command="git shortlog" />
-
       <GitCom heading="To see details about a specific commit" />
       <GitDiv command="git show your_commit_hash_code" />
-
       <GitCom heading="To delete tracked file from the current directory" />
       <GitDiv command="git rm file_name" />
       <GitCom heading="To merge a specific branch feature to your directory" />
       <GitDiv command="git merge branch_name" />
       <GitCom heading="To integrates two branches into a single branch" />
       <GitDiv command="git rebase base_name" />
-
       <GitCom
         heading="To find a good/bad commit"
         para="• Initiate git bisect"
@@ -72,14 +67,12 @@ const index = () => {
       <GitDiv command="git bisect good a123" />
       <GitCom heading="To know about a bad commit" />
       <GitDiv command="git bisect bad z123" />
-
       <GitCom heading="To apply a commit from any branch and apply it to any other branch" />
       <GitDiv command="git cherry-pick commmit_hash_code" />
       <GitCom
         heading="To compare two Git files"
         para="• To compare working directory with the local repo"
       />
-
       <GitDiv command="git diff HEAD file_name" />
       <GitCom heading="To compare two branches" />
       <GitDiv command="git diff source_branch target_branch" />
@@ -87,12 +80,9 @@ const index = () => {
         heading="There are many commands in Git"
         para="• To compare working directory with the local repo"
       />
-
       <GitDiv command="git help" />
       <br />
-
       <br />
-
       <Footer />
     </div>
   );

@@ -40,7 +40,7 @@ const Navbar = (props) => {
               What to do?
             </a>
             </Link>
-            <Link href="/">
+            <Link href="https://www.clueless.tech/">
               <a target="_blank" className="mr-5 hover:text-gray-900 cursor-pointer hover:underline transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
                 Visit main website
               </a>
