@@ -1060,6 +1060,26 @@ const contributors = [
     gender: "Female",
   },
   {
+
+    name : "Jaydeep Dey",
+    branch : "CSE",
+    college : "Vellore Institute of Technology, Chennai",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/jaydeep-dey03/",
+    github : "https://github.com/jaydeepdey03",
+    gender : "Male"
+    },
+   {
+    name : "Ishika Ishani",
+    branch : "Data Science",
+    college : "IIT Madras",
+    year : 2026, 
+    linkedin : "https://www.linkedin.com/in/ishika-ishani/",
+    github : "https://github.com/ishani-1255",
+    gender : "Female"
+    },
+    {
+ 
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college: "Shri Shankaracharya Technical Campus",
@@ -1096,6 +1116,15 @@ const contributors = [
     gender: "Female",
   },
   {
+    name:"Ridham Singhal",
+    branch:"N/A (studying in grade 11)",
+    college:"N/A (high schooler)",
+    year:"N/A",
+    linkedin:"https://www.linkedin.com/in/ridham-singhal-153721212/",
+    github:"https://github.com/RidhamRj",
+    gender:"Male"
+  }
+
     name: "Pranjal Raj",
     branch: "CSE",
     college: "KIET Group of Institutions",

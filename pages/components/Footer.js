@@ -40,7 +40,7 @@ const Footer = () => {
                   <a
                     href="https://github.com/HITK-2025/first-contribution"
                     target="_blank"
-                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline"
+                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black"
                   >
                     First Contribution
                   </a>
@@ -51,24 +51,24 @@ const Footer = () => {
               <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3">
                 Pages
               </h2>
-              <nav className="list-none mb-10">
+              <nav className="list-none mb-10 ">
                 <li>
                   <Link href="/">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline">
+                    <a className="text-gray-600 link link-underline link-underline-black hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black">
                       Home
                     </a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/allcontributors">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline">
+                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black">
                       All Contibutors
                     </a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/whattodo">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline">
+                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black">
                       What to do?
                     </a>
                   </Link>
@@ -76,7 +76,7 @@ const Footer = () => {
               </nav>
             </div>
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3">
+              <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3 ">
                 Community Link
               </h2>
               <nav className="list-none mb-10">
@@ -84,9 +84,11 @@ const Footer = () => {
                   <a
                     href="https://discord.gg/r5uKBGxT9T"
                     target="_blank"
-                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline"
+                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer "
                   >
+                  <span className="link link-underline link-underline-black">
                     Discord
+                    </span>
                   </a>
                 </li>
               </nav>
