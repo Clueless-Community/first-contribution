@@ -1,4 +1,13 @@
 const contributors = [
+   {
+        name : "Preyash Yadav",
+        branch : "CSE-Cyber Physiacl Systems",
+        college : "Vellore Institute of Technology, Chennai",
+        year : 2024, //Year of Pass Out
+        linkedin : "linkedin.com/in/preyash-yadav-827a421b6/",
+        github : "https://github.com/Preyash-tryin-to-code",
+        gender : "male"
+    },
   {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
