@@ -9,7 +9,7 @@ const index = () => {
     <div>
       <Navbar />
       <div className=" dark:bg-gray-700 dark:text-gray-50">
-        <h1 className="text-4xl text-center p-5 mt-3 ">
+        <h1 className="text-4xl text-center p-5">
           Git commands one should know!
         </h1>
         <hr className="mx-auto w-2/5 pb-7 " />
@@ -89,9 +89,6 @@ const index = () => {
       />
 
       <GitDiv command="git help" />
-      <br />
-
-      <br />
 
       <Footer />
     </div>
