@@ -789,6 +789,16 @@ const contributors = [
     gender: "Male",
   },
   {
+
+    name: "A Harindra Reddy",
+    branch: "Information Science and Engineering",
+    college: "Dayananda Sagar College of Engineering",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/a-harindra-reddy-35349920a",
+    github: "https://github.com/NateNear",
+    gender: "Male",
+  },
+
     name: "Dhanush",
     branch: "CSE Ai & Robotics",
     college: "Vit Chennai",
@@ -1061,6 +1071,7 @@ const contributors = [
     gender: "Male"
   },
   
+
 
 ];
 
