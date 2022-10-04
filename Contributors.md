@@ -61,13 +61,11 @@
 - [Nicky Kumari](https://github.com/iamnicky)
 - [Bhavesh Mishra](https://github.com/thefool76)
 - [Adarsh Rawat](https://github.com/AKACHI-4)
+- [Saulo Barros](https://github.com/DinoSaulo)
 - [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Ridham Singhal](https://github.com/RidhamRJ)
-
 - [Wahid Ari](https://github.com/wahid-ari)
 - [KritikaTri](https://github.com/KritikaTri)
 - [Pranjal Raj](https://github.com/pranjal-raj)
-  
-
