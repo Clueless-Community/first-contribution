@@ -1095,6 +1095,15 @@ const contributors = [
     github: "https://github.com/KritikaTri",
     gender: "Female",
   },
+  {
+    name: "Pranjal Raj",
+    branch: "CSE",
+    college: "KIET Group of Institutions",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/pranjal-raj-79596a23a/",
+    github: "https://github.com/pranjal-raj",
+    gender: "Male",
+  },
 
 ];
 
