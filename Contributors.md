@@ -63,5 +63,7 @@
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Wahid Ari](https://github.com/wahid-ari)
+- [KritikaTri](https://github.com/KritikaTri)
+
   
 
