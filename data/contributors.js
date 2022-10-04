@@ -1142,6 +1142,15 @@ const contributors = [
     github: "https://github.com/pranjal-raj",
     gender: "Male",
   },
+  {
+    name: "Jahnvi",
+    branch: "IT",
+    college: "IGDTUW",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/jahnvisrivastav/",
+    github: "https://github.com/jahnvi15",
+    gender: "Female",
+  },
 
 ];
 
