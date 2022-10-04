@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import Theme from "./Theme";
-
+import styles from './Navbar.module.css'
 
 const Navbar = (props) => {
 
@@ -31,17 +31,17 @@ const Navbar = (props) => {
           <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
           
             <Link href="/allcontributors">
-              <a className="mr-5 hover:text-gray-900 cursor-pointer hover:underline transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
+              <a className={styles.underline}>
                 All Contributors
               </a>
             </Link>
             <Link href="/whattodo">
-            <a className="mr-5 hover:text-gray-900 cursor-pointer hover:underline transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
+            <a className={styles.underline}>
               What to do?
             </a>
             </Link>
             <Link href="/">
-              <a target="_blank" className="mr-5 hover:text-gray-900 cursor-pointer hover:underline transition-all underline-offset-4 decoration-2 text-lg font-semibold decoration-blue-600 hover:dark:text-gray-300 dark:decoration-blue-300">
+              <a target="_blank" className={styles.underline}>
                 Visit main website
               </a>
             </Link>
