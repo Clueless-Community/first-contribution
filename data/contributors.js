@@ -1031,6 +1031,7 @@ const contributors = [
     github : "https://github.com/kalvik09",
     gender : "Male"
     },
+  {
     name: "Vikash Maurya",
     branch: "CSE",
     college: "KIET Group Of Institutions",
@@ -1192,6 +1193,16 @@ const contributors = [
     github: "https://github.com/jahnvi15",
     gender: "Female",
   },
+    {
+    name: "Mahesh",
+    branch: "CSE",
+    college: "JNTUH",
+    year: 2024,
+    linkedin: "N/A",
+    github: "https://github.com/saimaheshtaduri",
+    gender: "Male",
+  },
+
 ];
 
 export default contributors;
