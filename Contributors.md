@@ -68,4 +68,5 @@
 - [Ridham Singhal](https://github.com/RidhamRJ)
 - [Wahid Ari](https://github.com/wahid-ari)
 - [KritikaTri](https://github.com/KritikaTri)
+- [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
