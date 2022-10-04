@@ -1060,7 +1060,7 @@ const contributors = [
     gender: "Female",
   },
   {
-<<<<<<< HEAD
+
     name : "Jaydeep Dey",
     branch : "CSE",
     college : "Vellore Institute of Technology, Chennai",
@@ -1079,8 +1079,7 @@ const contributors = [
     gender : "Female"
     },
     {
-=======
->>>>>>> 3987a5b6dadd93aa4ec3ab85cdef94269b5d395d
+ 
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college: "Shri Shankaracharya Technical Campus",
