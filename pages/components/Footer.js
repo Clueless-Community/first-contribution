@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import styles from './Footer.module.css'
 
 const Footer = () => {
   return (
@@ -27,8 +28,8 @@ const Footer = () => {
                   <a
                     href="https://github.com/HITK-2025/first-contribution"
                     target="_blank"
-                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black"
-                  >
+                    className={styles.underline}                  
+                    >
                     First Contribution
                   </a>
                 </li>
@@ -41,21 +42,23 @@ const Footer = () => {
               <nav className="list-none mb-10 ">
                 <li>
                   <Link href="/">
-                    <a className="text-gray-600 link link-underline link-underline-black hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black">
+                    <a className={styles.underline}>
                       Home
                     </a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/allcontributors">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black">
+                  <a className={styles.underline}>
+
                       All Contibutors
                     </a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/whattodo">
-                    <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer link link-underline link-underline-black">
+                  <a className={styles.underline}>
+
                       What to do?
                     </a>
                   </Link>
@@ -71,7 +74,8 @@ const Footer = () => {
                   <a
                     href="https://discord.gg/r5uKBGxT9T"
                     target="_blank"
-                    className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer "
+                    className={styles.underline}
+
                   >
                   <span className="link link-underline link-underline-black">
                     Discord

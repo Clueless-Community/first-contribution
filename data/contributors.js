@@ -807,7 +807,16 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "A Harindra Reddy",
+    name : "Dhanush",
+    branch : "CSE Ai & Robotics",
+    college : "Vit Chennai",
+    year : 2025, 
+    linkedin : "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
+    github : "https://github.com/Dhanush-2605",
+    gender : "Male"
+},
+   {
+   name: "A Harindra Reddy",
     branch: "Information Science and Engineering",
     college: "Dayananda Sagar College of Engineering",
     year: 2024,
@@ -834,6 +843,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Vaibhav Bhardwaj",
+    branch : "Electronics and Communication Engineering",
+    college : "BPIT",
+    year : 2025, 
+    linkedin : "https://www.linkedin.com/in/bhardwajvaibhav42/",
+    github : "https://github.com/vaibhavx42",
+    gender : "Male"
+   },
+   {
     name: "Advay Sagarkar",
     branch: "CSE",
     college: "IIITDMJ",
@@ -959,7 +977,6 @@ const contributors = [
     github: "https://github.com/debxrshi",
     gender: "Male",
   },
-
   {
     name: "Ayush Beniwal",
     branch: "Mech",
@@ -1005,6 +1022,15 @@ const contributors = [
     github: "https://github.com/ramdhanihendrie",
     gender: "Male",
   },
+  {
+    name : "Vikash Maurya",
+    branch : "CSE",
+    college : "KIET Group Of Institutions",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/vikash-maurya-669845172/",
+    github : "https://github.com/kalvik09",
+    gender : "Male"
+    },
   {
     name: "Vikash Maurya",
     branch: "CSE",
@@ -1069,7 +1095,6 @@ const contributors = [
     gender: "Female",
   },
   {
-
     name : "Jaydeep Dey",
     branch : "CSE",
     college : "Vellore Institute of Technology, Chennai",
@@ -1087,8 +1112,25 @@ const contributors = [
     github : "https://github.com/ishani-1255",
     gender : "Female"
     },
-    {
- 
+  {
+   name: "Tushar Gupta",
+    branch: "Computer Science and Engineering",
+    college:"Shri Shankaracharya Technical Campus",
+    year:2025,
+    linkedin:"https://www.linkedin.com/in/tushargupta3002/",
+    github:"https://github.com/Tushar-2003",
+    gender:"Male"
+  },
+  {
+    name : "Om Anand Pandey",
+    branch : "Computer Science and Engineering",
+    college : "SRM Institute of Science and Technology",
+    year : 2023, 
+    linkedin : "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
+    github : "https://github.com/pandeyom331",
+    gender : "Male"
+  },
+  { 
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college: "Shri Shankaracharya Technical Campus",
