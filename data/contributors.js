@@ -1285,6 +1285,7 @@ const contributors = [
     github: "https://github.com/nktech-official",
     gender: "male",
   },
+  {
 
     name: "Anshu Joshi",
     branch: "CSE",
