@@ -1312,8 +1312,8 @@ const contributors = [
     github: "https://github.com/sainathpoojary",
     gender: "male",
   },
-  {
-     name : "Manmohan Dhal",
+ {
+    name : "Manmohan Dhal",
     branch : "CSE",
     college : "Institute of Technical Education and Research",
     year : 2024, //Year of Pass Out
@@ -1329,7 +1329,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/paramhans-singh13/",
     github: "https://github.com/Paramhans-Singh",
     gender: "male",
-  },
+ },
 
 ];
 
