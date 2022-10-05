@@ -78,3 +78,4 @@
 - [Varun Kumar Tiwari](https://github.com/varunKT001)
 - [Deepanshu Anand](https://github.com/Deepanshu0810)
 - [Anshu Joshi](https://github.com/ImAnshuJoshi)
+- [Nitesh Kumar](https://github.com/nktech-official)
