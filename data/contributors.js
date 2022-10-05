@@ -1286,7 +1286,6 @@ const contributors = [
     gender: "male",
   },
   {
-
     name: "Anshu Joshi",
     branch: "CSE",
     college: "ABV-IIITM",
@@ -1312,6 +1311,15 @@ const contributors = [
     github: "https://github.com/sainathpoojary",
     gender: "male",
   },
+  {
+     name : "Manmohan Dhal",
+    branch : "CSE",
+    college : "Institute of Technical Education and Research",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/manmohan-04142/",
+    github : "https://github.com/manmohan4142",
+    gender : "Male"
+}
 ];
 
 export default contributors;
