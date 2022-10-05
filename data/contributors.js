@@ -27,6 +27,15 @@ const contributors = [
     gender: "female",
   },
   {
+    name : "Veda C R",
+    branch : "CSE",
+    college : "BMSCE",
+    year : 2024, 
+    linkedin : "https://www.linkedin.com/in/veda-c-r-834992216/",
+    github : "https://github.com/crveda",
+    gender : "Female"
+  },
+  {
     name: "Mohd Toukir Khan",
     branch: "CSE AI",
     college: "SSTC, Bhilai",
