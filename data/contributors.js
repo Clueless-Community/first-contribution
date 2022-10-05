@@ -117,6 +117,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Rahul Kumar Barnwal",
+    branch: "ECE",
+    college: "RITK",
+    year: 2020,
+    linkedin: "https://www.linkedin.com/in/rk-barnwal23/
+    github: "https://github.com/rahulgithub-web",
+    gender: "male",
+  },
+  {
     name: "Sayan Chowdhury",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -825,6 +834,7 @@ const contributors = [
     gender: "Male",
   },
   {
+
     name: "Vaibhav Bhardwaj",
     branch: "Electronics and Communication Engineering",
     college: "BPIT",
@@ -1023,6 +1033,7 @@ const contributors = [
     gender: "Male",
   },
   {
+
     name: "Vikash Maurya",
     branch: "CSE",
     college: "KIET Group Of Institutions",
@@ -1077,6 +1088,7 @@ const contributors = [
     gender: "Female",
   },
   {
+
     name: "anshu nishad",
     branch: "computer science",
     college: "united institute of management",
@@ -1140,6 +1152,7 @@ const contributors = [
     gender: "Male",
   },
   {
+
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college: "Shri Shankaracharya Technical Campus",
@@ -1149,6 +1162,17 @@ const contributors = [
     gender: "Male",
   },
   {
+
+    name: "Siddharth Singh",
+    branch: "Computer Science",
+    college: "Pune University",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/siddharth9890/",
+    github: "https://github.com/Siddharth9890",
+    gender: "Male",
+  },
+  {
+
     name: "Wahid Ari",
     branch: "Informatics Engineering",
     college: "Trunojoyo",
@@ -1276,7 +1300,6 @@ const contributors = [
     gender: "male",
   },
   {
-
     name: "Nitesh Kumar",
     branch: "ECE",
     college: "GNDU, Amritsar",
@@ -1295,6 +1318,7 @@ const contributors = [
     github: "https://github.com/ImAnshuJoshi",
     gender: "male",
   },
+
   {
     name: "Yash Seth",
     branch: "CSE",
@@ -1304,6 +1328,7 @@ const contributors = [
     github: "https://github.com/yash-seth/",
     gender: "male",
   },
+  {
     name: "Sainath Poojary",
     branch: "Computer Engineering",
     college: "Thadomal Shahani Engineering College, Bandra",
@@ -1312,6 +1337,42 @@ const contributors = [
     github: "https://github.com/sainathpoojary",
     gender: "male",
   },
+  {
+    name : "Manmohan Dhal",
+    branch : "CSE",
+    college : "Institute of Technical Education and Research",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/manmohan-04142/",
+    github : "https://github.com/manmohan4142",
+    gender : "Male"
+  },
+  {
+    name : "Aditya Prakash",
+    branch : "CSE",
+    college : "Institute of Technical Education and Research",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/aditya-prakash-4a0438208/",
+    github : "https://github.com/MarkL50",
+    gender : "Male"
+  },
+  {
+    name: "Rahul Kumar Barnwal",
+    branch: "Electronics and Communication Engineering",
+    college: "Vinoba Bhave University Hazaribagh, Jharkhand",
+    year: 2020, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
+    github: "https://github.com/rahulgithub-web",
+    gender: "male",
+  },
+  {
+    name: "Ashmit JaiSarita Gupta",
+    branch: "Engineering Physics",
+    college: "National Istitute Of Technology Hamirpur",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/jaisarita/",
+    github: "https://github.com/devilkiller-ag",
+    gender: "Male",
+  }
 ];
 
 export default contributors;

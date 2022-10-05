@@ -25,7 +25,7 @@ const index = () => {
   return (
     <div>
       <Document />
-      <Navbar herotheme={HeroTheme} />
+      <Navbar herotheme={HeroTheme} homeTheme={Hometheme} />
       {!Hometheme && <HeroLight />}
       {Hometheme === "dark" && <HeroDark />}
       <div className="relative z-10">
