@@ -29,7 +29,7 @@ const Navbar = (props) => {
             </a>
             </Link>
             <Link href="/">
-              <a target="_blank" className={styles.underline}>
+              <a target="_blank" href="https://www.clueless.tech/" className={styles.underline}>
                 Visit main website
               </a>
             </Link>
