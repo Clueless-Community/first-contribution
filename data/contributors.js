@@ -996,6 +996,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Harsh Kanojia",
+    branch: "Information Technology",
+    college: "Indian Institute of Information Technology, Lucknow",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/harsh-kanojia-129145223/",
+    github: "https://github.com/Eyesnatcher-coder",
+    gender: "Male",
+  },
+  {
     name: "Hendrie Ramdhani",
     branch: "Informatics Engineering",
     college: "Islamic State University, Jakarta",
@@ -1211,6 +1220,16 @@ const contributors = [
     github: "https://github.com/saimaheshtaduri",
     gender: "Male",
   },
+    {
+    name: "Annu Priya",
+    branch: "CSB",
+    college: "IIIT Lucknow",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/annu-priya-411064228/",
+    github: "https://github.com/annupriy",
+    gender: "Female",
+  },
+  
   {
     name: "Sneha Singh",
     branch: "Information Technology",
@@ -1229,6 +1248,7 @@ const contributors = [
     github: "https://github.com/Preyash-tryin-to-code",
     gender: "male",
   },
+
 ];
 
 export default contributors;

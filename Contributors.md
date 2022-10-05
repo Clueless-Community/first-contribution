@@ -64,6 +64,7 @@
 - [Saulo Barros](https://github.com/DinoSaulo)
 - [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
 - [Ishika Ishani](https://github.com/ishani-1255)
+- [Harsh Kanojia](https://github.com/Eyesnatcher-coder)
 - [Tushar Gupta](https://github.com/Tushar-2003)
 - [Ridham Singhal](https://github.com/RidhamRJ)
 - [Wahid Ari](https://github.com/wahid-ari)
@@ -72,4 +73,5 @@
 - [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
 - [Taduri Saimahesh](https://github.com/saimaheshtaduri)
-
+- [Annu Priya](https://github.com/annupriy)
+- [Sahil Singh](https://github.com/SahilSingh177)
