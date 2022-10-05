@@ -1274,7 +1274,17 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/deepanshu-anand-55a6b4214/",
     github: "https://github.com/Deepanshu0810",
     gender: "male",
-  }
+  },
+  {
+    name: "Anshu Joshi",
+    branch: "CSE",
+    college: "ABV-IIITM",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/anshu-joshi-9080b6223/",
+    github: "https://github.com/ImAnshuJoshi",
+    gender: "male",
+  },
+  
 ];
 
 export default contributors;
