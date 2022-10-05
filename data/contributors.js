@@ -1303,6 +1303,7 @@ const contributors = [
     github: "https://github.com/yash-seth/",
     gender: "male",
   },
+  {
     name: "Sainath Poojary",
     branch: "Computer Engineering",
     college: "Thadomal Shahani Engineering College, Bandra",
