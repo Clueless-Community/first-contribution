@@ -82,3 +82,4 @@
 - [Yash Seth](https://github.com/yash-seth)
 - [Sainath Poojary](https://github.com/sainathpoojary)
 - [Aditya Prakash](https://github.com/MarkL50)
+- [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag)

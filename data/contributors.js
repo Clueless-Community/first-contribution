@@ -1162,7 +1162,7 @@ const contributors = [
     github: "https://github.com/Siddharth9890",
     gender: "Male",
   },
-
+  {
     name: "Wahid Ari",
     branch: "Informatics Engineering",
     college: "Trunojoyo",
@@ -1343,7 +1343,16 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/aditya-prakash-4a0438208/",
     github : "https://github.com/MarkL50",
     gender : "Male"
-}
+},
+  {
+    name : "Ashmit JaiSarita Gupta",
+    branch : "Engineering Physics",
+    college : "National Istitute of Technology Hamirpur",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/jaisarita/",
+    github : "https://github.com/devilkiller-ag",
+    gender : "Male"
+  },
 
 ];
 
