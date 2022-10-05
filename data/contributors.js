@@ -1294,8 +1294,15 @@ const contributors = [
     github: "https://github.com/ImAnshuJoshi",
     gender: "male",
   },
-  
-
+  {
+    name: "Sainath Poojary",
+    branch: "Computer Engineering",
+    college: "Thadomal Shahani Engineering College, Bandra",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://linkedin.com/in/sainathpoojary",
+    github: "https://github.com/sainathpoojary",
+    gender: "male",
+  },
 ];
 
 export default contributors;
