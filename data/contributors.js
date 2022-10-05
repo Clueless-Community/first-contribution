@@ -1363,6 +1363,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
     github: "https://github.com/rahulgithub-web",
     gender: "male",
+  },
+  {
+    name: "Ashmit JaiSarita Gupta",
+    branch: "Engineering Physics",
+    college: "National Istitute Of Technology Hamirpur",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/jaisarita/",
+    github: "https://github.com/devilkiller-ag",
+    gender: "Male",
   }
 ];
 
