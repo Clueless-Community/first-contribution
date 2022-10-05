@@ -1257,6 +1257,15 @@ const contributors = [
     github: "https://github.com/OmPrakashSahoo-05",
     gender: "male",
   },
+  {
+    name: 'Varun Kumar Tiwari',
+    branch: 'IT',
+    college: 'IIITM',
+    year: 2025,
+    linkedin: 'https://www.linkedin.com/in/varun-tiwari-454591178/',
+    github: 'https://github.com/varunKT001',
+    gender: 'male',
+  },
 ];
 
 export default contributors;
