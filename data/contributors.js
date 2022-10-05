@@ -1276,6 +1276,7 @@ const contributors = [
     gender: "male",
   },
   {
+
     name: "Nitesh Kumar",
     branch: "ECE",
     college: "GNDU, Amritsar",
@@ -1284,6 +1285,17 @@ const contributors = [
     github: "https://github.com/nktech-official",
     gender: "male",
   },
+
+    name: "Anshu Joshi",
+    branch: "CSE",
+    college: "ABV-IIITM",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/anshu-joshi-9080b6223/",
+    github: "https://github.com/ImAnshuJoshi",
+    gender: "male",
+  },
+  
+
 ];
 
 export default contributors;
