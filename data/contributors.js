@@ -792,7 +792,7 @@ const contributors = [
     name : "Dhanush",
     branch : "CSE Ai & Robotics",
     college : "Vit Chennai",
-    year : 2025, 
+    year : 2025,
     linkedin : "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
     github : "https://github.com/Dhanush-2605",
     gender : "Male"
@@ -828,7 +828,7 @@ const contributors = [
     name : "Vaibhav Bhardwaj",
     branch : "Electronics and Communication Engineering",
     college : "BPIT",
-    year : 2025, 
+    year : 2025,
     linkedin : "https://www.linkedin.com/in/bhardwajvaibhav42/",
     github : "https://github.com/vaibhavx42",
     gender : "Male"
@@ -1098,7 +1098,7 @@ const contributors = [
     name : "Ishika Ishani",
     branch : "Data Science",
     college : "IIT Madras",
-    year : 2026, 
+    year : 2026,
     linkedin : "https://www.linkedin.com/in/ishika-ishani/",
     github : "https://github.com/ishani-1255",
     gender : "Female"
@@ -1116,7 +1116,7 @@ const contributors = [
     name : "Om Anand Pandey",
     branch : "Computer Science and Engineering",
     college : "SRM Institute of Science and Technology",
-    year : 2023, 
+    year : 2023,
     linkedin : "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
     github : "https://github.com/pandeyom331",
     gender : "Male"
@@ -1139,7 +1139,7 @@ const contributors = [
     github : "https://github.com/sky01green",
     gender : "Male"
   },
-  { 
+  {
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college: "Shri Shankaracharya Technical Campus",
@@ -1229,7 +1229,7 @@ const contributors = [
     github: "https://github.com/annupriy",
     gender: "Female",
   },
-  
+
   {
     name: "Sneha Singh",
     branch: "Information Technology",
@@ -1284,7 +1284,16 @@ const contributors = [
     github: "https://github.com/ImAnshuJoshi",
     gender: "male",
   },
-  
+  {
+    name:"Harsh Khandelwal",
+    branch:"BCA",
+    college:"JECRC UNIVERSITY",
+    year:"2025",
+    linkedin:"https://www.linkedin.com/in/harshkhandelwal18/",
+    github:"https://github.com/harsh007-github",
+    gender:"Male"
+  },
+
 ];
 
 export default contributors;
