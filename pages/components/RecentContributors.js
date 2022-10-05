@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, { useEffect, useState } from "react";
 import ContributorCard from "../components/ContributorCard";
 import contributors from "../../data/contributors";
 
@@ -6,11 +6,11 @@ const RecentContributors = () => {
 
   function reverseArr(input) {
     var ret = new Array;
-    for(var i = input.length-1; i >= 0; i--) {
-        ret.push(input[i]);
+    for (var i = input.length - 1; i >= 0; i--) {
+      ret.push(input[i]);
     }
     return ret;
-}
+  }
 
   const recentContributors = reverseArr(contributors)
   const topRecentContributors = recentContributors.slice(0, 3)
@@ -29,6 +29,7 @@ const RecentContributors = () => {
               {topRecentContributors.map((contributor) => {
                 return (
                   <ContributorCard
+                    key={contributor.github}
                     name={contributor.name}
                     branch={contributor.branch}
                     college={contributor.college}
