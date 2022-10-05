@@ -8,8 +8,8 @@ const Navbar = (props) => {
 
   return (
     <>
-      <div className="relative z-50">
-        <header className="text-gray-600 body-font bg-gray-50 dark:bg-gray-800 dark:text-white">
+      <div className="z-50 sticky top-0 left-0 w-full">
+        <header className="text-gray-600 body-font bg-gray-50 bg-opacity-50 dark:bg-gray-800 dark:text-white dark:bg-opacity-50 backdrop-filter backdrop-blur-lg shadow-sm">
           <Show breakpoint="(max-width: 400px)">
             <div className="p-4 mr-auto" onClick={() => setShowNav(!showNav)}>
               {!showNav && (

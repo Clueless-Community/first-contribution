@@ -1182,7 +1182,6 @@ const contributors = [
     gender: "Male",
   },
   {
-
     name: "Wahid Ari",
     branch: "Informatics Engineering",
     college: "Trunojoyo",
@@ -1319,7 +1318,6 @@ const contributors = [
     gender: "male",
   },
   {
-
     name: "Anshu Joshi",
     branch: "CSE",
     college: "ABV-IIITM",
@@ -1328,7 +1326,6 @@ const contributors = [
     github: "https://github.com/ImAnshuJoshi",
     gender: "male",
   },
-
   {
     name: "Yash Seth",
     branch: "CSE",
@@ -1373,6 +1370,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
     github: "https://github.com/rahulgithub-web",
     gender: "male",
+  },
+  {
+    name: "Subham Bhattacharya",
+    branch: "CSE",
+    college: "JIS College of Engineering",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/subx",
+    github: "https://github.com/SubxX",
+    gender: "male"
   },
   {
     name: "Ashmit JaiSarita Gupta",
