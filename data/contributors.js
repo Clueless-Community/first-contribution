@@ -1419,6 +1419,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/abhishek777vaishnav/",
     github: "https://github.com/abhishek0777",
     gender: "Male",
+  },
+  {
+    name: "Abhirup Panda",
+    branch: "Computer Engineering",
+    college: "IIIT Bhubaneswar",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/abhirup-panda-a40020214",
+    github: "https://github.com/EvilSeal1980",
+    gender: "Male",
   }
 ];
 
