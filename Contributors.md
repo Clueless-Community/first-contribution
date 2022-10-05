@@ -82,5 +82,6 @@
 - [Nitesh Kumar](https://github.com/nktech-official)
 - [Yash Seth](https://github.com/yash-seth)
 - [Sainath Poojary](https://github.com/sainathpoojary)
+- [Rahul Kumar Barnwal](https://github.com/rahulgithub-web)
 - [Aditya Prakash](https://github.com/MarkL50)
 - [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag)
