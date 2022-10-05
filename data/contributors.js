@@ -1312,6 +1312,15 @@ const contributors = [
     github: "https://github.com/sainathpoojary",
     gender: "male",
   },
+    {
+    name: "Rahul Kumar Barnwal",
+    branch: "Electronics and Communication Engineering",
+    college: "Vinoba Bhave University Hazaribagh, Jharkhand",
+    year: 2020, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
+    github: "https://github.com/rahulgithub-web",
+    gender: "male",
+  },
   {
      name : "Manmohan Dhal",
     branch : "CSE",
