@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name: "Danish Zayan",
+    branch: "MCA",
+    college: "Manuu Hyderabad",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/danishzayan/",
+    github: "https://github.com/danishzayan",
+    gender: "male",
+  },
+  {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -1397,6 +1406,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/hamza-nawab-33b1b9164/",
     github: "https://github.com/blazenn2",
     gender: "Male"
+  },
+  {
+    name: "Abhishek Vaishnav",
+    branch: "Information Technology",
+    college: "Motilal Nehru National Institute Of Technology",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/abhishek777vaishnav/",
+    github: "https://github.com/abhishek0777",
+    gender: "Male",
   }
 ];
 

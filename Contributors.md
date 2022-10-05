@@ -1,5 +1,6 @@
 # Contributors
 
+- [Danish Zayan](https://github.com/danishzayan)
 - [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
@@ -87,3 +88,5 @@
 - [Subham Bhattacharya](https://github.com/SubxX)
 - [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag)
 - [Hamza Nawab](https://github.com/blazenn2)
+- [Abhishek Vaishnav](https://github.com/abhishek0777)
+
