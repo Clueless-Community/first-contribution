@@ -121,7 +121,7 @@ const contributors = [
     branch: "ECE",
     college: "RITK",
     year: 2020,
-    linkedin: "https://www.linkedin.com/in/rk-barnwal23/
+    linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
     github: "https://github.com/rahulgithub-web",
     gender: "male",
   },
@@ -1172,7 +1172,6 @@ const contributors = [
     gender: "Male",
   },
   {
-
     name: "Wahid Ari",
     branch: "Informatics Engineering",
     college: "Trunojoyo",
@@ -1309,7 +1308,6 @@ const contributors = [
     gender: "male",
   },
   {
-
     name: "Anshu Joshi",
     branch: "CSE",
     college: "ABV-IIITM",
@@ -1318,7 +1316,6 @@ const contributors = [
     github: "https://github.com/ImAnshuJoshi",
     gender: "male",
   },
-
   {
     name: "Yash Seth",
     branch: "CSE",
@@ -1338,22 +1335,22 @@ const contributors = [
     gender: "male",
   },
   {
-    name : "Manmohan Dhal",
-    branch : "CSE",
-    college : "Institute of Technical Education and Research",
-    year : 2024, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/manmohan-04142/",
-    github : "https://github.com/manmohan4142",
-    gender : "Male"
+    name: "Manmohan Dhal",
+    branch: "CSE",
+    college: "Institute of Technical Education and Research",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/manmohan-04142/",
+    github: "https://github.com/manmohan4142",
+    gender: "Male"
   },
   {
-    name : "Aditya Prakash",
-    branch : "CSE",
-    college : "Institute of Technical Education and Research",
-    year : 2024, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/aditya-prakash-4a0438208/",
-    github : "https://github.com/MarkL50",
-    gender : "Male"
+    name: "Aditya Prakash",
+    branch: "CSE",
+    college: "Institute of Technical Education and Research",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/aditya-prakash-4a0438208/",
+    github: "https://github.com/MarkL50",
+    gender: "Male"
   },
   {
     name: "Rahul Kumar Barnwal",
@@ -1363,7 +1360,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
     github: "https://github.com/rahulgithub-web",
     gender: "male",
-  }
+  },
+  {
+    name: "Subham Bhattacharya",
+    branch: "CSE",
+    college: "JIS College of Engineering",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/subx",
+    github: "https://github.com/SubxX",
+    gender: "male"
+  },
 ];
 
 export default contributors;
