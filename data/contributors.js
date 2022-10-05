@@ -1162,6 +1162,7 @@ const contributors = [
     github: "https://github.com/Siddharth9890",
     gender: "Male",
   },
+  {
 
     name: "Wahid Ari",
     branch: "Informatics Engineering",
