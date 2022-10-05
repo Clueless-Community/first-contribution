@@ -1370,6 +1370,15 @@ const contributors = [
     github: "https://github.com/SubxX",
     gender: "male"
   },
+  {
+    name: "Ashmit JaiSarita Gupta",
+    branch: "Engineering Physics",
+    college: "National Istitute Of Technology Hamirpur",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/jaisarita/",
+    github: "https://github.com/devilkiller-ag",
+    gender: "Male",
+  }
 ];
 
 export default contributors;
