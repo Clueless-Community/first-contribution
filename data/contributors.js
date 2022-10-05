@@ -1320,8 +1320,8 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/manmohan-04142/",
     github : "https://github.com/manmohan4142",
     gender : "Male"
-}
-    {
+ },
+ {
     name: "Paramhans Singh",
     branch: "IT",
     college: "MAIT, Delhi",
