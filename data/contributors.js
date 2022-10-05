@@ -1238,6 +1238,15 @@ const contributors = [
     github: "https://github.com/Preyash-tryin-to-code",
     gender: "male",
   },
+  {
+    name : "Vijay",
+    branch : "CSE",
+    college : "Warangal",
+    year : 2023,
+    linkedin : "NA",
+    github : "https://github.com/vijay2249",
+    gender : "Male"
+},
 
 ];
 
