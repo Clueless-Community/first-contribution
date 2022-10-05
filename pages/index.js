@@ -24,7 +24,7 @@ const index = () => {
 
   return (
     <div>
-    <Document />
+      <Document />
       <Navbar herotheme={HeroTheme} />
       {!Hometheme && <HeroLight />}
       {Hometheme === "dark" && <HeroDark />}

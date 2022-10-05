@@ -25,12 +25,17 @@ const index = () => {
                 collaboration, meaning any capable user is able to participate
                 online in development, making the number of possible
                 contributors indefinite. The ability to examine the code
-                facilitates public trust in the software.Open source code can be
+                facilitates public trust in the software. Open source code can be
                 used for studying and allows capable end users to adapt software
                 to their personal needs in a similar way user scripts and custom
                 style sheets allow for web sites, and eventually publish the
                 modification as a fork for users with similar preferences, and
-                directly submit possible improvements as pull requests."
+                directly submit possible improvements as pull requests. Source code is the 
+                part of software that most computer users don't ever see; it's the code 
+                computer programmers can manipulate to change how a piece of software—a program 
+                or application—works. Programmers who have access to a computer program's 
+                source code can improve that program by adding features to it or fixing parts 
+                that don't always work correctly."
         img="/open-source.png"
       />
 
@@ -78,6 +83,8 @@ const index = () => {
         para="When we say contributing to open-source, it does not necesarilly mean that you need to know how to code. There are different ways in which you can contribute even if you are a non-coder – but having some coding skills will help you (and the projects) out a lot."
         img="/github.png"
       />
+      
+
       {/* Bullted List */}
       <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
         <div class="container px-5 py-12 mx-auto">
@@ -112,6 +119,7 @@ const index = () => {
           </div>
         </div>
       </section>
+
       <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
         <div class="container px-5 py-5 mx-auto">
           <div class="lg:w-11/12 mx-auto">
