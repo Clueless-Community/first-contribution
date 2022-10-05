@@ -1220,6 +1220,16 @@ const contributors = [
     github: "https://github.com/saimaheshtaduri",
     gender: "Male",
   },
+    {
+    name: "Annu Priya",
+    branch: "CSB",
+    college: "IIIT Lucknow",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/annu-priya-411064228/",
+    github: "https://github.com/annupriy",
+    gender: "Female",
+  },
+  
   {
     name: "Sneha Singh",
     branch: "Information Technology",
