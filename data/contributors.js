@@ -1220,6 +1220,16 @@ const contributors = [
     github: "https://github.com/saimaheshtaduri",
     gender: "Male",
   },
+    {
+    name: "Annu Priya",
+    branch: "CSB",
+    college: "IIIT Lucknow",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/annu-priya-411064228/",
+    github: "https://github.com/annupriy",
+    gender: "Female",
+  },
+  
   {
     name: "Sneha Singh",
     branch: "Information Technology",
@@ -1238,7 +1248,15 @@ const contributors = [
     github: "https://github.com/Preyash-tryin-to-code",
     gender: "male",
   },
-
+  {
+    name: "Om Prakash Sahoo",
+    branch: "CSE",
+    college: "OUTR, Bhubaneshwar",
+    year: 2024, //Year of Pass Out
+    linkedin: "www.linkedin.com/in/om-prakash-sahoo-2305/",
+    github: "https://github.com/OmPrakashSahoo-05",
+    gender: "male",
+  },
 ];
 
 export default contributors;
