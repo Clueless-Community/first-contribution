@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name: "Danish Zayan",
+    branch: "MCA",
+    college: "Manuu Hyderabad",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/danishzayan/",
+    github: "https://github.com/danishzayan",
+    gender: "male",
+  },
+  {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
     college: "HITK",
