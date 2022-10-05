@@ -1266,6 +1266,15 @@ const contributors = [
     github: 'https://github.com/varunKT001',
     gender: 'male',
   },
+  {
+    name: "Deepanshu Anand",
+    branch: "AI and DS",
+    college: "MAIT, Delhi",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/deepanshu-anand-55a6b4214/",
+    github: "https://github.com/Deepanshu0810",
+    gender: "male",
+  }
 ];
 
 export default contributors;
