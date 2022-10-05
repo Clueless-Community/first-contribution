@@ -66,6 +66,7 @@
 - [Ishika Ishani](https://github.com/ishani-1255)
 - [Harsh Kanojia](https://github.com/Eyesnatcher-coder)
 - [Tushar Gupta](https://github.com/Tushar-2003)
+- [Siddharth Singh](https://github.com/Siddharth9890)
 - [Ridham Singhal](https://github.com/RidhamRJ)
 - [Wahid Ari](https://github.com/wahid-ari)
 - [KritikaTri](https://github.com/KritikaTri)

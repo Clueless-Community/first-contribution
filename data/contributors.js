@@ -825,6 +825,7 @@ const contributors = [
     gender: "Male",
   },
   {
+
     name: "Vaibhav Bhardwaj",
     branch: "Electronics and Communication Engineering",
     college: "BPIT",
@@ -1023,6 +1024,7 @@ const contributors = [
     gender: "Male",
   },
   {
+
     name: "Vikash Maurya",
     branch: "CSE",
     college: "KIET Group Of Institutions",
@@ -1077,6 +1079,7 @@ const contributors = [
     gender: "Female",
   },
   {
+
     name: "anshu nishad",
     branch: "computer science",
     college: "united institute of management",
@@ -1140,6 +1143,7 @@ const contributors = [
     gender: "Male",
   },
   {
+
     name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college: "Shri Shankaracharya Technical Campus",
@@ -1149,6 +1153,16 @@ const contributors = [
     gender: "Male",
   },
   {
+
+    name: "Siddharth Singh",
+    branch: "Computer Science",
+    college: "Pune University",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/siddharth9890/",
+    github: "https://github.com/Siddharth9890",
+    gender: "Male",
+  },
+
     name: "Wahid Ari",
     branch: "Informatics Engineering",
     college: "Trunojoyo",
@@ -1330,6 +1344,7 @@ const contributors = [
     github : "https://github.com/MarkL50",
     gender : "Male"
 }
+
 ];
 
 export default contributors;
