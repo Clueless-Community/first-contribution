@@ -121,7 +121,7 @@ const contributors = [
     branch: "ECE",
     college: "RITK",
     year: 2020,
-    linkedin: "https://www.linkedin.com/in/rk-barnwal23/
+    linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
     github: "https://github.com/rahulgithub-web",
     gender: "male",
   },
@@ -286,7 +286,16 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/binayshaw7777/",
     github: "https://github.com/binayshaw7777",
-    gender: "Male",
+    gender: "Male"
+  },
+  {
+    name: 'Ankush',
+    branch: 'Instrumentation and Control Engineering',
+    college: 'Dharmsinh Desai University',
+    year: 2024,
+    linkedin: 'https://www.linkedin.com/in/ankush-ladani-6a0988199/',
+    github: 'https://github.com/Ankush-Ladani',
+    gender: 'male'
   },
   {
     name: "Ankush",
@@ -304,7 +313,8 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sdeepanshu17/",
     github: "https://github.com/sdeepanshu17",
-    gender: "Male",
+
+    gender: "Male"
   },
   {
     name: "Pranav",
@@ -313,7 +323,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
     github: "https://github.com/Pranav10903",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Hussain Amir",
@@ -340,7 +350,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sammybh6/",
     github: "https://github.com/sammybh6",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Varun Singh",
@@ -1338,22 +1348,22 @@ const contributors = [
     gender: "male",
   },
   {
-    name : "Manmohan Dhal",
-    branch : "CSE",
-    college : "Institute of Technical Education and Research",
-    year : 2024, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/manmohan-04142/",
-    github : "https://github.com/manmohan4142",
-    gender : "Male"
+    name: "Manmohan Dhal",
+    branch: "CSE",
+    college: "Institute of Technical Education and Research",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/manmohan-04142/",
+    github: "https://github.com/manmohan4142",
+    gender: "Male"
   },
   {
-    name : "Aditya Prakash",
-    branch : "CSE",
-    college : "Institute of Technical Education and Research",
-    year : 2024, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/aditya-prakash-4a0438208/",
-    github : "https://github.com/MarkL50",
-    gender : "Male"
+    name: "Aditya Prakash",
+    branch: "CSE",
+    college: "Institute of Technical Education and Research",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/aditya-prakash-4a0438208/",
+    github: "https://github.com/MarkL50",
+    gender: "Male"
   },
   {
     name: "Rahul Kumar Barnwal",
