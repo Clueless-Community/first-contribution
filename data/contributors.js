@@ -1290,7 +1290,6 @@ const contributors = [
     gender: "male",
   },
   {
-
     name: "Nitesh Kumar",
     branch: "ECE",
     college: "GNDU, Amritsar",
@@ -1308,6 +1307,7 @@ const contributors = [
     github: "https://github.com/ImAnshuJoshi",
     gender: "male",
   },
+
   {
     name: "Yash Seth",
     branch: "CSE",
