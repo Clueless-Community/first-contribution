@@ -1388,6 +1388,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/jaisarita/",
     github: "https://github.com/devilkiller-ag",
     gender: "Male",
+  },
+  {
+    name: "Abhishek Vaishnav",
+    branch: "Information Technology",
+    college: "Motilal Nehru National Institute Of Technology",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/abhishek777vaishnav/",
+    github: "https://github.com/abhishek0777",
+    gender: "Male",
   }
 ];
 
