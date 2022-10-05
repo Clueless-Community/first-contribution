@@ -1397,6 +1397,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/jaisarita/",
     github: "https://github.com/devilkiller-ag",
     gender: "Male",
+  }, 
+  {
+    name: "Hamza Nawab",
+    branch: "Chemical Engineer",
+    college: "Dawood University of Engineering and Technology",
+    year: 2021, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/hamza-nawab-33b1b9164/",
+    github: "https://github.com/blazenn2",
+    gender: "Male"
   },
   {
     name: "Abhishek Vaishnav",

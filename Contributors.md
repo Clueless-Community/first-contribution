@@ -87,4 +87,6 @@
 - [Aditya Prakash](https://github.com/MarkL50)
 - [Subham Bhattacharya](https://github.com/SubxX)
 - [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag)
+- [Hamza Nawab](https://github.com/blazenn2)
 - [Abhishek Vaishnav](https://github.com/abhishek0777)
+
