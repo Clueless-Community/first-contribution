@@ -73,6 +73,7 @@
 - [Ashwin Taras](https://github.com/BlackBolt2003)
 - [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
+- [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Taduri Saimahesh](https://github.com/saimaheshtaduri)
 - [Annu Priya](https://github.com/annupriy)
 - [Sahil Singh](https://github.com/SahilSingh177)
