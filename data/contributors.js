@@ -121,7 +121,7 @@ const contributors = [
     branch: "ECE",
     college: "RITK",
     year: 2020,
-    linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
+    linkedin: "https://www.linkedin.com/in/rk-barnwal23/
     github: "https://github.com/rahulgithub-web",
     gender: "male",
   },
