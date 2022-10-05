@@ -1419,7 +1419,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/abhishek777vaishnav/",
     github: "https://github.com/abhishek0777",
     gender: "Male",
-  }
+  },
+  {
+    name : "Saransh Sinha",
+    branch : "Computer Science and Engineering",
+    college : "SRM Institute of Science and Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/saranshsinha17/",
+    github : "https://github.com/WraitH17",
+    gender : "Male"
+}
 ];
 
 export default contributors;
