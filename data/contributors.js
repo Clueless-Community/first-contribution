@@ -1296,6 +1296,14 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Yash Seth",
+    branch: "CSE",
+    college: "VIT Chennai",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/yash-seth/",
+    github: "https://github.com/yash-seth/",
+    gender: "male",
+  },
     name: "Sainath Poojary",
     branch: "Computer Engineering",
     college: "Thadomal Shahani Engineering College, Bandra",
