@@ -1320,7 +1320,16 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/manmohan-04142/",
     github : "https://github.com/manmohan4142",
     gender : "Male"
-}
+},
+  {
+    name : "Divine Edwin",
+    branch : "Information and communication science",
+    college : "University of Ilorin",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://linkedin.com/in/divineedwin",
+    github : "https://github.com/Cheeh1",
+    gender : "Male"
+  },
 ];
 
 export default contributors;
