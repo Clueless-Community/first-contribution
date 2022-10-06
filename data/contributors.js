@@ -817,16 +817,16 @@ const contributors = [
     gender: "Male",
   },
   {
-    name : "Dhanush",
-    branch : "CSE Ai & Robotics",
-    college : "Vit Chennai",
-    year : 2025,
-    linkedin : "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
-    github : "https://github.com/Dhanush-2605",
-    gender : "Male"
-},
-   {
-   name: "A Harindra Reddy",
+    name: "Dhanush",
+    branch: "CSE Ai & Robotics",
+    college: "Vit Chennai",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
+    github: "https://github.com/Dhanush-2605",
+    gender: "Male"
+  },
+  {
+    name: "A Harindra Reddy",
     name: "Dhanush",
     branch: "CSE Ai & Robotics",
     college: "Vit Chennai",
@@ -863,15 +863,15 @@ const contributors = [
     gender: "Male",
   },
   {
-    name : "Vaibhav Bhardwaj",
-    branch : "Electronics and Communication Engineering",
-    college : "BPIT",
-    year : 2025,
-    linkedin : "https://www.linkedin.com/in/bhardwajvaibhav42/",
-    github : "https://github.com/vaibhavx42",
-    gender : "Male"
-   },
-   {
+    name: "Vaibhav Bhardwaj",
+    branch: "Electronics and Communication Engineering",
+    college: "BPIT",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/bhardwajvaibhav42/",
+    github: "https://github.com/vaibhavx42",
+    gender: "Male"
+  },
+  {
     name: "Vaibhav Bhardwaj",
     branch: "Electronics and Communication Engineering",
     college: "BPIT",
@@ -1133,24 +1133,24 @@ const contributors = [
     gender: "Female",
   },
   {
-    name : "Jaydeep Dey",
-    branch : "CSE",
-    college : "Vellore Institute of Technology, Chennai",
-    year : 2024,
-    linkedin : "https://www.linkedin.com/in/jaydeep-dey03/",
-    github : "https://github.com/jaydeepdey03",
-    gender : "Male"
-    },
-   {
-    name : "Ishika Ishani",
-    branch : "Data Science",
-    college : "IIT Madras",
-    year : 2026,
-    linkedin : "https://www.linkedin.com/in/ishika-ishani/",
-    github : "https://github.com/ishani-1255",
-    gender : "Female"
-    },
-
+    name: "Jaydeep Dey",
+    branch: "CSE",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
+    github: "https://github.com/jaydeepdey03",
+    gender: "Male"
+  },
+  {
+    name: "Ishika Ishani",
+    branch: "Data Science",
+    college: "IIT Madras",
+    year: 2026,
+    linkedin: "https://www.linkedin.com/in/ishika-ishani/",
+    github: "https://github.com/ishani-1255",
+    gender: "Female"
+  },
+  {
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
@@ -1178,15 +1178,15 @@ const contributors = [
     gender: "Male",
   },
   {
-    name : "Om Anand Pandey",
-    branch : "Computer Science and Engineering",
-    college : "SRM Institute of Science and Technology",
-    year : 2023,
-    linkedin : "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
-    github : "https://github.com/pandeyom331",
-    gender : "Male"
-},
-{
+    name: "Om Anand Pandey",
+    branch: "Computer Science and Engineering",
+    college: "SRM Institute of Science and Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
+    github: "https://github.com/pandeyom331",
+    gender: "Male"
+  },
+  {
     name: "Om Anand Pandey",
     branch: "Computer Science and Engineering",
     college: "SRM Institute of Science and Technology",
@@ -1377,13 +1377,13 @@ const contributors = [
     gender: "male",
   },
   {
-    name:"Harsh Khandelwal",
-    branch:"BCA",
-    college:"JECRC UNIVERSITY",
-    year:"2025",
-    linkedin:"https://www.linkedin.com/in/harshkhandelwal18/",
-    github:"https://github.com/harsh007-github",
-    gender:"Male"
+    name: "Harsh Khandelwal",
+    branch: "BCA",
+    college: "JECRC UNIVERSITY",
+    year: "2025",
+    linkedin: "https://www.linkedin.com/in/harshkhandelwal18/",
+    github: "https://github.com/harsh007-github",
+    gender: "Male"
   },
   {
     name: "Yash Seth",
@@ -1522,23 +1522,23 @@ const contributors = [
     github: "https://github.com/myGlitches",
     gender: "Male",
   },
-{
-    name : "Vijay",
-    branch : "CSE",
-    college : "Warangal",
-    year : 2023,
-    linkedin : "NA",
-    github : "https://github.com/vijay2249",
-    gender : "Male"
+  {
+    name: "Vijay",
+    branch: "CSE",
+    college: "Warangal",
+    year: 2023,
+    linkedin: "NA",
+    github: "https://github.com/vijay2249",
+    gender: "Male"
   },
   {
-    name : "komal",
-    branch : "CSE",
-    college : "MBES COEA",
-    year : 2022, //Year of Pass Out
-    linkedin : "https://github.com/komalswami",
-    github : "https://www.linkedin.com/in/komal-swami-4a539117a",
-    gender : "Female"
+    name: "komal",
+    branch: "CSE",
+    college: "MBES COEA",
+    year: 2022, //Year of Pass Out
+    linkedin: "https://github.com/komalswami",
+    github: "https://www.linkedin.com/in/komal-swami-4a539117a",
+    gender: "Female"
   },
   {
     name: "Abhirup Panda",
@@ -1560,32 +1560,43 @@ const contributors = [
   },
 
   {
-    name : "Saransh Sinha",
-    branch : "CSE",
-    college : "SRM Institute of Science and Technology",
-    year : 2025, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/saranshsinha17/",
-    github : "https://github.com/WraitH17",
-    gender : "Male"
+    name: "Saransh Sinha",
+    branch: "CSE",
+    college: "SRM Institute of Science and Technology",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/saranshsinha17/",
+    github: "https://github.com/WraitH17",
+    gender: "Male"
   },
   {
-    name : "Aritra Das",
-    branch : "CSE",
-    college : "JIS College of Engineering",
-    year : 2024, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/aritra-das-/",
-    github : "https://github.com/aritra-tech",
-    gender : "Male"
-},
+    name: "Aritra Das",
+    branch: "CSE",
+    college: "JIS College of Engineering",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/aritra-das-/",
+    github: "https://github.com/aritra-tech",
+    gender: "Male"
+  },
   {
-  name: "Hritik Bhattacharya",
-  branch: "Computer Science and Engineering",
-  college: "Haldia Institute of Technology",
-  year: 2025, //Year of Pass Out
-  linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
-  github: "https://github.com/hritikbhattacharya",
-  gender: "Male",
-},
+    name: "Hritik Bhattacharya",
+    branch: "Computer Science and Engineering",
+    college: "Haldia Institute of Technology",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
+    github: "https://github.com/hritikbhattacharya",
+    gender: "Male",
+  },
+  {
+    name: "Saransh Dubey",
+    branch: "Computer Science and Engineering",
+    college: "SRM Institute of Science and Technology",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/saransh-dubey-b98b33237",
+    github: "https://github.com/14-saransh",
+    gender: "Male",
+  },
+
+
 ];
 
 export default contributors
