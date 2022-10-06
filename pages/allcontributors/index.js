@@ -11,9 +11,9 @@ const index = () => {
   const totalContributor = contributors.length;
   return (
     <>
+      <div className="dark:bg-gray-700">
       <Document />
       <Navbar />
-      <div className="dark:bg-gray-700">
         <section class="text-gray-600 dark:text-white body-font">
           <div class="container px-5 pt-12 mx-auto">
             <div class="flex flex-col text-center w-full mb-5">
