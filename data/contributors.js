@@ -1419,7 +1419,24 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/abhishek777vaishnav/",
     github: "https://github.com/abhishek0777",
     gender: "Male",
-  }
+  },
+  {
+
+    name: "Rahul Bhatt",
+
+    branch: "BCA",
+
+    college: "GBCC Patiala",
+
+    year: 2023, //Year of Pass Out
+
+    linkedin: "https://www.linkedin.com/in/rahul-bhatt-38ba211ba/",
+
+    github: "https://github.com/rahul-bhatt43",
+
+    gender: "Male",
+
+  },
 ];
 
 export default contributors;
