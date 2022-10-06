@@ -823,7 +823,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
     github: "https://github.com/Dhanush-2605",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "A Harindra Reddy",
@@ -869,7 +869,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/bhardwajvaibhav42/",
     github: "https://github.com/vaibhavx42",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "Vaibhav Bhardwaj",
@@ -1139,7 +1139,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
     github: "https://github.com/jaydeepdey03",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "Ishika Ishani",
@@ -1148,7 +1148,7 @@ const contributors = [
     year: 2026,
     linkedin: "https://www.linkedin.com/in/ishika-ishani/",
     github: "https://github.com/ishani-1255",
-    gender: "Female"
+    gender: "Female",
   },
   {
     name: "Jaydeep Dey",
@@ -1184,7 +1184,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
     github: "https://github.com/pandeyom331",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "Om Anand Pandey",
@@ -1383,7 +1383,7 @@ const contributors = [
     year: "2025",
     linkedin: "https://www.linkedin.com/in/harshkhandelwal18/",
     github: "https://github.com/harsh007-github",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "Yash Seth",
@@ -1494,7 +1494,6 @@ const contributors = [
     gender: "Male",
   },
   {
-
     name: "Vijay",
     branch: "CSE",
     college: "Warangal",
@@ -1529,7 +1528,7 @@ const contributors = [
     year: 2023,
     linkedin: "NA",
     github: "https://github.com/vijay2249",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "komal",
@@ -1538,7 +1537,7 @@ const contributors = [
     year: 2022, //Year of Pass Out
     linkedin: "https://github.com/komalswami",
     github: "https://www.linkedin.com/in/komal-swami-4a539117a",
-    gender: "Female"
+    gender: "Female",
   },
   {
     name: "Abhirup Panda",
@@ -1566,7 +1565,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/saranshsinha17/",
     github: "https://github.com/WraitH17",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "Aritra Das",
@@ -1575,7 +1574,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/aritra-das-/",
     github: "https://github.com/aritra-tech",
-    gender: "Male"
+    gender: "Male",
   },
   {
     name: "Hritik Bhattacharya",
@@ -1605,8 +1604,15 @@ const contributors = [
     github: "https://github.com/14-saransh",
     gender: "Male",
   },
-
-
+  {
+    name: "Mehul Kumar",
+    branch: "CSE-SWE",
+    college: "SRM Institute of Science and Technologies",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/mehulkumar27/",
+    github: "https://github.com/Mehul2711",
+    gender: "Male",
+  }
 ];
 
-export default contributors
+export default contributors;
