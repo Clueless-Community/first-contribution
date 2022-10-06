@@ -82,9 +82,13 @@ const Footer = () => {
                   <Link href="https://twitter.com/by_clueless">
                     <a className={styles.underline}>Twitter</a>
                   </Link>
+                </li>
+                <li>
                   <Link href="https://github.com/Clueless-Community">
                     <a className={styles.underline}>GitHub</a>
                   </Link>
+                </li>
+                <li>
                   <Link href="https://www.linkedin.com/company/clueless-tech/">
                     <a className={styles.underline}>LinkedIn</a>
                   </Link>
