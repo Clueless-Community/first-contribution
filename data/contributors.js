@@ -1096,6 +1096,15 @@ const contributors = [
     github: "https://github.com/ishani-1255",
     gender: "Female",
   },
+    {
+    name: "Protyay Mondal",
+    branch: "Information Technology",
+    college: "IIIT Lucknow",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/protyay-mondal-85b172226/",
+    github: "https://github.com/ProtyayMnd50",
+    gender: "Male",
+  },
   {
     name: "Vikash Maurya",
     branch: "CSE",
@@ -1115,15 +1124,6 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "Ishika Ishani",
-    branch: "Data Science",
-    college: "IIT Madras",
-    year: 2026,
-    linkedin: "https://www.linkedin.com/in/ishika-ishani/",
-    github: "https://github.com/ishani-1255",
-    gender: "Female",
-  },
-  {
     name: "anshu nishad",
     branch: "computer science",
     college: "united institute of management",
@@ -1141,15 +1141,6 @@ const contributors = [
     github : "https://github.com/jaydeepdey03",
     gender : "Male"
     },
-   {
-    name : "Ishika Ishani",
-    branch : "Data Science",
-    college : "IIT Madras",
-    year : 2026,
-    linkedin : "https://www.linkedin.com/in/ishika-ishani/",
-    github : "https://github.com/ishani-1255",
-    gender : "Female"
-    },
     {
     name: "Jaydeep Dey",
     branch: "CSE",
@@ -1160,15 +1151,6 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "Ishika Ishani",
-    branch: "Data Science",
-    college: "IIT Madras",
-    year: 2026,
-    linkedin: "https://www.linkedin.com/in/ishika-ishani/",
-    github: "https://github.com/ishani-1255",
-    gender: "Female",
-  },
-  {
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
@@ -1176,15 +1158,6 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
     github: "https://github.com/jaydeepdey03",
     gender: "Male",
-  },
-  {
-    name: "Ishika Ishani",
-    branch: "Data Science",
-    college: "IIT Madras",
-    year: 2026,
-    linkedin: "https://www.linkedin.com/in/ishika-ishani/",
-    github: "https://github.com/ishani-1255",
-    gender: "Female",
   },
   {
     name: "Tushar Gupta",
