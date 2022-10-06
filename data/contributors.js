@@ -1447,6 +1447,15 @@ const contributors = [
     github : "https://github.com/vijay2249",
     gender : "Male"
   },
+   {
+        name : "komal",
+        branch : "CSE",
+        college : "MBES COEA",
+        year : 2022, //Year of Pass Out
+        linkedin : "https://github.com/komalswami",
+        github : "https://www.linkedin.com/in/komal-swami-4a539117a",
+        gender : "Female"
+    }
 ];
 
 export default contributors;
