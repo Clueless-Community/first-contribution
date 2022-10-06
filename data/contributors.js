@@ -1586,6 +1586,15 @@ const contributors = [
   github: "https://github.com/hritikbhattacharya",
   gender: "Male",
 },
+  {
+    name : "Aman Maurya",
+    branch : "CSE",
+    college : "School of management science ",
+    year : 2023, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/aman-maurya73/",
+    github : "https://github.com/AmanAssassin",
+    gender : "Male"
+  },
 ];
 
 export default contributors
