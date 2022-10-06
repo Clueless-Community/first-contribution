@@ -100,5 +100,4 @@
 - [Abhirup Panda](https://github.com/EvilSeal1980)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
 - [Saransh Sinha](https://github.com/WraitH17)
-- [Prasanta Chettri](https://github.com/prasanta10)
 
