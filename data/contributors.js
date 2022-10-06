@@ -1639,7 +1639,25 @@ const contributors = [
     github: "https://github.com/hritikbhattacharya",
     gender: "Male",
   },
+  {
+    name: "ADITYA RAJ",
+    branch: "ELECTRICAL ENGINEERING",
+    college: "NIT JAMSHEDPUR",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/aditya-raj-963763215/",
+    github: "https://github.com/adityaraj6902",
+    gender: "Male",
+  },
 
+  {
+    name: "Saransh Dubey",
+    branch: "Computer Science and Engineering",
+    college: "SRM Institute of Science and Technology",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/saransh-dubey-b98b33237",
+    github: "https://github.com/14-saransh",
+    gender: "Male",
+  },
   {
     name: "Mehul Kumar",
     branch: "CSE-SWE",
