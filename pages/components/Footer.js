@@ -73,6 +73,24 @@ const Footer = () => {
                 </li>
               </nav>
             </div>
+            <div className="lg:w-1/4 md:w-1/2 w-full px-4">
+              <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3 ">
+                Socials
+              </h2>
+              <nav className="list-none mb-10">
+                <li>
+                  <Link href="https://twitter.com/by_clueless">
+                    <a className={styles.underline}>Twitter</a>
+                  </Link>
+                  <Link href="https://github.com/Clueless-Community">
+                    <a className={styles.underline}>GitHub</a>
+                  </Link>
+                  <Link href="https://www.linkedin.com/company/clueless-tech/">
+                    <a className={styles.underline}>LinkedIn</a>
+                  </Link>
+                </li>
+              </nav>
+            </div>
           </div>
         </div>
         <div className="bg-blue-500 dark:bg-slate-800">
