@@ -85,12 +85,12 @@ const HeroDark = () => {
         }}
       />
       <div className="relative z-10 w-full h-[95vh] flex flex-col justify-center">
-        <h1 className="text-center text-5xl font-sans font-bold text-blue-600 opacity-90">
+        <h1 className="text-center text-7xl font-sans font-bold text-blue-600 opacity-90">
           Welcome to ClueLess Community
         </h1>
-        <h1 className="text-center text-7xl font-sans mt-8 font-bold text-blue-600 opacity-90 ">
+        <h2 className="text-center text-5xl font-sans mt-8 font-bold text-blue-600 opacity-90 ">
           Learn. Grow.
-        </h1>
+        </h2>
         <div className="w-full justify-center flex">
           <Link href="/whattodo" passHref>
             <button className="px-4 py-2 bg-blue-600 opacity-90 rounded-xl font-bold text-white transition-all text-xl my-10 mx-5 hover:bg-blue-500">

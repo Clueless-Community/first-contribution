@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="hidden"></div>
 
       <footer className="text-gray-600 body-font dark:text-white">
-        <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
+        <div className="container px-5 py-12 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
             <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 dark:text-gray-50">
               <img
@@ -19,7 +19,7 @@ const Footer = () => {
               <span className="ml-3 text-xl">ClueLess</span>
             </a>
             <p className="mt-2 text-sm dark:text-gray-50">
-              ClueLess Community Learn. Grow.
+              ClueLess Community, Learn. Grow.
             </p>
           </div>
           <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
@@ -43,7 +43,7 @@ const Footer = () => {
               <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3">
                 Pages
               </h2>
-              <nav className="list-none mb-10 ">
+              <nav className="list-none mb-10 space-y-2">
                 <li>
                   <Link href="/">
                     <a className={styles.underline}>Home</a>
@@ -77,7 +77,7 @@ const Footer = () => {
               <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3 ">
                 Socials
               </h2>
-              <nav className="list-none mb-10">
+              <nav className="list-none mb-10 space-y-2">
                 <li>
                   <Link href="https://twitter.com/by_clueless">
                     <a className={styles.underline}>Twitter</a>
