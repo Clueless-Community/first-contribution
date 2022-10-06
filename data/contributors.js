@@ -1150,7 +1150,7 @@ const contributors = [
     github : "https://github.com/ishani-1255",
     gender : "Female"
     },
-
+  {
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
