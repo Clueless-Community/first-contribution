@@ -7,6 +7,7 @@ import RecentContributors from "./components/RecentContributors";
 import Footer from "./components/Footer";
 import HeroDark from "./components/HeroDark";
 import Document from "./document";
+import Topfab from "./components/Topfab";
 
 const index = () => {
   const [Hometheme, setHomeTheme] = useState("");
@@ -31,8 +32,11 @@ const index = () => {
       <div className="relative z-10">
         <RecentContributors />
         <DiscordHome />
+        <Topfab />
         <CreatorSection />
+        
         <Footer />
+        
       </div>
     </div>
   );

@@ -4,6 +4,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Document from "../document";
 import contributors from "../../data/contributors";
+import Topfab from "../components/Topfab";
 
 
 const index = () => {
@@ -47,6 +48,7 @@ const index = () => {
           </div>
         </section>
         <Footer />
+        <Topfab />
       </div>
     </>
   );
