@@ -90,4 +90,5 @@
 - [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag)
 - [Hamza Nawab](https://github.com/blazenn2)
 - [Abhishek Vaishnav](https://github.com/abhishek0777)
-
+- [Sahil Singh](https://github.com/SahilSingh177)
+- [Vijay2249](https://github.com/vijay2249)
