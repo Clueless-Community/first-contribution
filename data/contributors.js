@@ -1464,7 +1464,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/abhirup-panda-a40020214",
     github: "https://github.com/EvilSeal1980",
     gender: "Male",
-  }
+  },
+  {
+    name: "Paramhans Singh",
+    branch: "IT",
+    college: "MAIT, Delhi",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/paramhans-singh13/",
+    github: "https://github.com/Paramhans-Singh",
+    gender: "male",
+  },
 ];
 
 export default contributors;
