@@ -1594,7 +1594,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/mehulkumar27/",
     github: "https://github.com/Mehul2711",
     gender: "Male",
-  },
+  }
 ];
 
 export default contributors;
