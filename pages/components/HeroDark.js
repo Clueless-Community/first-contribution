@@ -93,7 +93,7 @@ const HeroLight = () => {
         </h1>
         <div className="w-full justify-center flex">
           <Link href="/whattodo">
-            <button className="px-4 py-2 bg-gray-600 rounded-xl font-bold text-white text-xl my-10 mx-5 hover:bg-blue-500">
+            <button className="px-4 py-2 bg-gray-600 rounded-xl font-bold text-white text-xl my-10 mx-5 hover:bg-blue-500 transition-all">
               What to Do?
             </button>
           </Link>
