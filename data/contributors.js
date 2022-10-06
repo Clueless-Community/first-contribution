@@ -1151,7 +1151,7 @@ const contributors = [
     gender : "Female"
     },
 
-    name: "Jaydeep Dey",
+    {name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
     year: 2024,
@@ -1410,6 +1410,15 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/manmohan-04142/",
     github: "https://github.com/manmohan4142",
+    gender: "Male",
+  },
+  {
+    name: "Kartikay Tiwari",
+    branch: "Computer Science & Engineering",
+    college: "Indian Institute of Information Technology and Management, Gwalior",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/kartikay-tiwari-92579921b/",
+    github: "https://github.com/ishtails",
     gender: "Male",
   },
   {
