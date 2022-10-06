@@ -1320,7 +1320,17 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/manmohan-04142/",
     github : "https://github.com/manmohan4142",
     gender : "Male"
-}
+},
+ {
+    name: "Paramhans Singh",
+    branch: "IT",
+    college: "MAIT, Delhi",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/paramhans-singh13/",
+    github: "https://github.com/Paramhans-Singh",
+    gender: "male",
+  },
+   
 ];
 
 export default contributors;
