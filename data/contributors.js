@@ -1150,8 +1150,8 @@ const contributors = [
     github : "https://github.com/ishani-1255",
     gender : "Female"
     },
-
-    {name: "Jaydeep Dey",
+  {
+    name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
     year: 2024,
@@ -1413,15 +1413,6 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "Kartikay Tiwari",
-    branch: "Computer Science & Engineering",
-    college: "Indian Institute of Information Technology and Management, Gwalior",
-    year: 2025, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/kartikay-tiwari-92579921b/",
-    github: "https://github.com/ishtails",
-    gender: "Male",
-  },
-  {
     name: "Divine Edwin",
     branch: "Information and communication science",
     college: "University of Ilorin",
@@ -1594,6 +1585,24 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
   github: "https://github.com/hritikbhattacharya",
   gender: "Male",
+},
+{
+  name: "ADITYA RAJ",
+  branch: "ELECTRICAL ENGINEERING",
+  college: "NIT JAMSHEDPUR",
+  year: 2024, //Year of Pass Out
+  linkedin: "https://www.linkedin.com/in/aditya-raj-963763215/",
+  github: "https://github.com/adityaraj6902",
+  gender: "Male",
+},
+{
+    name: "Kartikay Tiwari",
+    branch: "Computer Science & Engineering",
+    college: "Indian Institute of Information Technology and Management, Gwalior",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/kartikay-tiwari-92579921b/",
+    github: "https://github.com/ishtails",
+    gender: "Male",
 },
 ];
 
