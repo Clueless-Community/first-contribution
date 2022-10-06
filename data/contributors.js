@@ -1676,6 +1676,15 @@ const contributors = [
     github: "https://github.com/ishtails",
     gender: "Male",
 },
+  {
+    name: "Mubeen Ahmad",
+    branch: "bscs",
+    college: "Superior University",
+    year: 2021, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/mubeenahmad571/",
+    github: "https://github.com/MubeenAhmad571",
+    gender: "Male",
+  },
 ];
 
 export default contributors;
