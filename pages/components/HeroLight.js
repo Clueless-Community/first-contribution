@@ -94,7 +94,7 @@ const HeroDark = () => {
         <div className="w-full justify-center flex">
           <Link href="/whattodo" passHref>
             <button className="px-4 py-2 bg-blue-600 opacity-90 rounded-xl font-bold text-white text-xl my-10 mx-5 hover:bg-blue-500">
-              What to Do? hey
+              What to Do?
             </button>
           </Link>
           <a
@@ -103,18 +103,18 @@ const HeroDark = () => {
             rel="noreferrer"
           >
             <button className="px-4 py-2 border-[#0061ff] border-4 text-[#0061ff] rounded-xl font-bold text-xl my-10 mx-5 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500">
-              Contribute Now HEY
+              Contribute Now
             </button>
           </a>
         </div>
         <div class="flex justify-center pt-[20vh]">
           <div class="transition duration-1000 ease-linear animate-bounce bg-white dark:bg-slate-800 p-2 w-10 h-10 ring-1 ring-slate-900/5 dark:ring-slate-200/20 shadow-lg rounded-full flex items-center justify-center">
             <svg
-              class="w-6 h-6 textblack"
+              className="w-6 h-6 textblack"
               fill="none"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
               viewBox="0 0 24 24"
               stroke="currentColor"
             >
