@@ -1150,7 +1150,7 @@ const contributors = [
     github : "https://github.com/ishani-1255",
     gender : "Female"
     },
-
+    {
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
@@ -1585,6 +1585,15 @@ const contributors = [
   linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
   github: "https://github.com/hritikbhattacharya",
   gender: "Male",
+},
+{
+  name : "Sashikanta Mohanty",
+  branch : "CSE",
+  college : "SRM Institute of Science and Technology",
+  year : 2025, //Year of Pass Out
+  linkedin : "www.linkedin.com/in/sashikanta-mohanty",
+  github : "https://github.com/Sashi2002",
+  gender : "Male"
 },
 ];
 
