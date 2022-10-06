@@ -30,7 +30,7 @@ export default function NavContent(props) {
         </Link>
       </nav>
       <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
-        <button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded-xl mt-4 md:mt-0 text-lg transition-all dark:bg-gray-600">
+        <button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-blue-500 rounded-xl mt-4 md:mt-0 text-lg transition-all dark:bg-gray-600">
           Contibute Now
           <svg
             fill="none"
