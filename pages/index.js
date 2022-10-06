@@ -7,6 +7,7 @@ import RecentContributors from "./components/RecentContributors";
 import Footer from "./components/Footer";
 import HeroDark from "./components/HeroDark";
 import Document from "./document";
+import Topfab from "./components/Topfab";
 
 const index = () => {
   const [Hometheme, setHomeTheme] = useState("");
@@ -24,15 +25,18 @@ const index = () => {
 
   return (
     <div>
-    <Document />
-      <Navbar herotheme={HeroTheme} />
-      {!Hometheme && <HeroDark />}
-      {Hometheme === "dark" && <HeroLight />}
+      <Document />
+      <Navbar herotheme={HeroTheme} homeTheme={Hometheme} />
+      {!Hometheme && <HeroLight />}
+      {Hometheme === "dark" && <HeroDark />}
       <div className="relative z-10">
         <RecentContributors />
         <DiscordHome />
+        <Topfab />
         <CreatorSection />
+        
         <Footer />
+        
       </div>
     </div>
   );

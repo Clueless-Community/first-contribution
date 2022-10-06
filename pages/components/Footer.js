@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import styles from './Footer.module.css'
+import styles from "./Footer.module.css";
 
 const Footer = () => {
   return (
@@ -11,7 +11,11 @@ const Footer = () => {
         <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
             <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 dark:text-gray-50">
-              <img className="w-6" src="/clueless_logo.png" alt="clueless logo" />
+              <img
+                className="w-6"
+                src="/clueless_logo.png"
+                alt="clueless logo"
+              />
               <span className="ml-3 text-xl">ClueLess</span>
             </a>
             <p className="mt-2 text-sm dark:text-gray-50">
@@ -28,8 +32,8 @@ const Footer = () => {
                   <a
                     href="https://github.com/HITK-2025/first-contribution"
                     target="_blank"
-                    className={styles.underline}                  
-                    >
+                    className={styles.underline}
+                  >
                     First Contribution
                   </a>
                 </li>
@@ -42,49 +46,56 @@ const Footer = () => {
               <nav className="list-none mb-10 ">
                 <li>
                   <Link href="/">
-                    <a className={styles.underline}>
-                      Home
-                    </a>
+                    <a className={styles.underline}>Home</a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/allcontributors">
-                  <a className={styles.underline}>
-
-                      All Contibutors
-                    </a>
+                    <a className={styles.underline}>All Contibutors</a>
                   </Link>
                 </li>
                 <li>
                   <Link href="/whattodo">
-                  <a className={styles.underline}>
-
-                      What to do?
-                    </a>
+                    <a className={styles.underline}>What to do?</a>
                   </Link>
                 </li>
               </nav>
             </div>
-          <div className="lg:w-1/4 md:w-1/2 w-full px-4">
+            <div className="lg:w-1/4 md:w-1/2 w-full px-4">
               <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3 ">
                 Community Link
               </h2>
               <nav className="list-none mb-10">
                 <li>
-                  <a
-                    href="https://discord.gg/r5uKBGxT9T"
-                    target="_blank"
-                    className={styles.underline}
-
-                  >
-                  <span className="link link-underline link-underline-black">
-                    Discord
-                    </span>
-                  </a>
+                  <Link href="https://discord.gg/r5uKBGxT9T">
+                    <a className={styles.underline}>Discord</a>
+                  </Link>
                 </li>
               </nav>
-          </div>
             </div>
+            <div className="lg:w-1/4 md:w-1/2 w-full px-4">
+              <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3 ">
+                Socials
+              </h2>
+              <nav className="list-none mb-10">
+                <li>
+                  <Link href="https://twitter.com/by_clueless">
+                    <a className={styles.underline}>Twitter</a>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="https://github.com/Clueless-Community">
+                    <a className={styles.underline}>GitHub</a>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="https://www.linkedin.com/company/clueless-tech/">
+                    <a className={styles.underline}>LinkedIn</a>
+                  </Link>
+                </li>
+              </nav>
+            </div>
+          </div>
         </div>
         <div className="bg-blue-500 dark:bg-slate-800">
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
