@@ -30,16 +30,16 @@ export default function NavContent(props) {
         </Link>
       </nav>
       <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
-        <button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-blue-500 rounded-xl mt-4 md:mt-0 text-lg transition-all dark:bg-gray-600">
+        <button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none dark:hover:bg-blue-500 hover:text-white hover:bg-blue-500 rounded-xl mt-4 md:mt-0 text-lg transition-all dark:bg-gray-600">
           Contibute Now
           <svg
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
             strokeLinejoin="round"
-            strokeWidth="2"
+            strokeWidth="3"
             className="w-4 h-4 ml-1"
-            viewBox="0 0 24 24"
+            viewBox="0 -2 24 24"
           >
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>

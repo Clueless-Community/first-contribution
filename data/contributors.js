@@ -1666,7 +1666,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/mehulkumar27/",
     github: "https://github.com/Mehul2711",
     gender: "Male",
-  }
+  },
+  {
+    name: "Kartikay Tiwari",
+    branch: "Computer Science & Engineering",
+    college: "Indian Institute of Information Technology and Management, Gwalior",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/kartikay-tiwari-92579921b/",
+    github: "https://github.com/ishtails",
+    gender: "Male",
+},
 ];
 
 export default contributors;
