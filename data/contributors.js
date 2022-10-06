@@ -1512,7 +1512,16 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/saranshsinha17/",
     github : "https://github.com/WraitH17",
     gender : "Male"
-}
+  },
+  {
+    name : "Aritra Das",
+    branch : "CSE",
+    college : "JIS College of Engineering",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/aritra-das-/",
+    github : "https://github.com/aritra-tech",
+    gender : "Male"
+},
 ];
 
 export default contributors
