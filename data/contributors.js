@@ -817,6 +817,16 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Dhanush",
+    branch : "CSE Ai & Robotics",
+    college : "Vit Chennai",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
+    github : "https://github.com/Dhanush-2605",
+    gender : "Male"
+},
+   {
+   name: "A Harindra Reddy",
     name: "Dhanush",
     branch: "CSE Ai & Robotics",
     college: "Vit Chennai",
@@ -853,6 +863,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Vaibhav Bhardwaj",
+    branch : "Electronics and Communication Engineering",
+    college : "BPIT",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/bhardwajvaibhav42/",
+    github : "https://github.com/vaibhavx42",
+    gender : "Male"
+   },
+   {
     name: "Vaibhav Bhardwaj",
     branch: "Electronics and Communication Engineering",
     college: "BPIT",
@@ -1114,6 +1133,24 @@ const contributors = [
     gender: "Female",
   },
   {
+    name : "Jaydeep Dey",
+    branch : "CSE",
+    college : "Vellore Institute of Technology, Chennai",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/jaydeep-dey03/",
+    github : "https://github.com/jaydeepdey03",
+    gender : "Male"
+    },
+   {
+    name : "Ishika Ishani",
+    branch : "Data Science",
+    college : "IIT Madras",
+    year : 2026,
+    linkedin : "https://www.linkedin.com/in/ishika-ishani/",
+    github : "https://github.com/ishani-1255",
+    gender : "Female"
+    },
+
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
@@ -1141,6 +1178,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Om Anand Pandey",
+    branch : "Computer Science and Engineering",
+    college : "SRM Institute of Science and Technology",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
+    github : "https://github.com/pandeyom331",
+    gender : "Male"
+},
+{
     name: "Om Anand Pandey",
     branch: "Computer Science and Engineering",
     college: "SRM Institute of Science and Technology",
@@ -1329,6 +1375,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/anshu-joshi-9080b6223/",
     github: "https://github.com/ImAnshuJoshi",
     gender: "male",
+  },
+  {
+    name:"Harsh Khandelwal",
+    branch:"BCA",
+    college:"JECRC UNIVERSITY",
+    year:"2025",
+    linkedin:"https://www.linkedin.com/in/harshkhandelwal18/",
+    github:"https://github.com/harsh007-github",
+    gender:"Male"
   },
   {
     name: "Yash Seth",

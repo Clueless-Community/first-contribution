@@ -81,6 +81,7 @@
 - [Varun Kumar Tiwari](https://github.com/varunKT001)
 - [Deepanshu Anand](https://github.com/Deepanshu0810)
 - [Anshu Joshi](https://github.com/ImAnshuJoshi)
+- [Harsh Khandelwal](https://github.com/harsh007-github)
 - [Nitesh Kumar](https://github.com/nktech-official)
 - [Yash Seth](https://github.com/yash-seth)
 - [Sainath Poojary](https://github.com/sainathpoojary)
@@ -94,10 +95,7 @@
 - [Sahil Singh](https://github.com/SahilSingh177)
 - [Vijay2249](https://github.com/vijay2249)
 - [komalswami](https://github.com/komalswami)
-
 - [Suryadipta Sarkar](https://github.com/myGlitches)
-
 - [Abhirup Panda](https://github.com/EvilSeal1980)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
 - [Saransh Sinha](https://github.com/WraitH17)
-
