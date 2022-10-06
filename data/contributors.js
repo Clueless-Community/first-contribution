@@ -1503,7 +1503,15 @@ const contributors = [
     github: "https://github.com/Paramhans-Singh",
     gender: "male",
   },
-
+   {
+    name : "Prasanta Chettri",
+    branch : "CSE",
+    college : "SMVDU",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/prasanta-chettri/",
+    github : "https://github.com/prasanta10/",
+    gender : "Male"
+  },
   {
     name : "Saransh Sinha",
     branch : "CSE",
@@ -1529,15 +1537,6 @@ const contributors = [
   year: 2025, //Year of Pass Out
   linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
   github: "https://github.com/hritikbhattacharya",
-  gender: "Male",
-},
-{
-  name: "Prasanta Chettri",
-  branch: "Computer Science and Engineering",
-  college: "SMVDU",
-  year: 2024,
-  linkedin: "https://www.linkedin.com/in/prasanta-chettri",
-  github: "https://github.com/prasanta10",
   gender: "Male",
 },
 ];
