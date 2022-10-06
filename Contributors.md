@@ -100,3 +100,5 @@
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
 - [Saransh Sinha](https://github.com/WraitH17)
 - [Sashikanta Mohanty](https://github.com/Sashi2002)
+- [Mehul Kumar](https://github.com/Mehul2711)
+
