@@ -1349,6 +1349,24 @@ const contributors = [
     gender: "male",
   },
   {
+     name : "Manmohan Dhal",
+    branch : "CSE",
+    college : "Institute of Technical Education and Research",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/manmohan-04142/",
+    github : "https://github.com/manmohan4142",
+    gender : "Male"
+},
+  {
+    name : "Divine Edwin",
+    branch : "Information and communication science",
+    college : "University of Ilorin",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://linkedin.com/in/divineedwin",
+    github : "https://github.com/Cheeh1",
+    gender : "Male"
+  },
+  {
     name: "Manmohan Dhal",
     branch: "CSE",
     college: "Institute of Technical Education and Research",
@@ -1419,6 +1437,24 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/abhishek777vaishnav/",
     github: "https://github.com/abhishek0777",
     gender: "Male",
+  },
+  {
+    name : "Vijay",
+    branch : "CSE",
+    college : "Warangal",
+    year : 2023,
+    linkedin : "NA",
+    github : "https://github.com/vijay2249",
+    gender : "Male"
+  },
+  {
+    name : "komal",
+    branch : "CSE",
+    college : "MBES COEA",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://github.com/komalswami",
+    github : "https://www.linkedin.com/in/komal-swami-4a539117a",
+    gender : "Female"
   },
   {
     name: "Abhirup Panda",
