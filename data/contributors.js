@@ -299,6 +299,7 @@ const contributors = [
     github: "https://github.com/Hussain6",
     gender: "Male"
   },
+  {
     name : "Binay Shaw",
     branch : "B.Tech/CSE",
     college : "JIS College of Engineering",
