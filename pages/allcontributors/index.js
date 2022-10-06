@@ -4,13 +4,14 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Document from "../document";
 import contributors from "../../data/contributors";
+import Topfab from "../components/Topfab";
 
 
 const index = () => {
   const totalContributor = contributors.length;
   return (
     <>
-    <Document />
+      <Document />
       <Navbar />
       <div className="dark:bg-gray-700">
         <section class="text-gray-600 dark:text-white body-font">
@@ -33,6 +34,7 @@ const index = () => {
               {contributors.map((contributor) => {
                 return (
                   <ContributorCard
+                    key={contributor.github}
                     name={contributor.name}
                     branch={contributor.branch}
                     college={contributor.college}
@@ -47,6 +49,7 @@ const index = () => {
           </div>
         </section>
         <Footer />
+        <Topfab />
       </div>
     </>
   );

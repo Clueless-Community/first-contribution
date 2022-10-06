@@ -6,12 +6,13 @@ import LeftImgRightText from "../components/LeftImgRightText";
 import HeadingPoint from "../components/HeadingPoint";
 import Announcment from "../components/Announcment";
 import Document from "../document";
+import Topfab from "../components/Topfab";
+import GithubBasics from "../components/GithubBasics";
 
 
 const index = () => {
-
   return (
-    <div>
+    <div class="dark:bg-gray-700">
       <Document />
       <Navbar />
       <Announcment />
@@ -26,12 +27,17 @@ const index = () => {
                 collaboration, meaning any capable user is able to participate
                 online in development, making the number of possible
                 contributors indefinite. The ability to examine the code
-                facilitates public trust in the software.Open source code can be
+                facilitates public trust in the software. Open source code can be
                 used for studying and allows capable end users to adapt software
                 to their personal needs in a similar way user scripts and custom
                 style sheets allow for web sites, and eventually publish the
                 modification as a fork for users with similar preferences, and
-                directly submit possible improvements as pull requests."
+                directly submit possible improvements as pull requests. Source code is the 
+                part of software that most computer users don't ever see; it's the code 
+                computer programmers can manipulate to change how a piece of software—a program 
+                or application—works. Programmers who have access to a computer program's 
+                source code can improve that program by adding features to it or fixing parts 
+                that don't always work correctly."
         img="/open-source.png"
       />
 
@@ -79,6 +85,8 @@ const index = () => {
         para="When we say contributing to open-source, it does not necesarilly mean that you need to know how to code. There are different ways in which you can contribute even if you are a non-coder – but having some coding skills will help you (and the projects) out a lot."
         img="/github.png"
       />
+      
+
       {/* Bullted List */}
       <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
         <div class="container px-5 py-12 mx-auto">
@@ -113,6 +121,7 @@ const index = () => {
           </div>
         </div>
       </section>
+
       <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
         <div class="container px-5 py-5 mx-auto">
           <div class="lg:w-11/12 mx-auto">
@@ -143,19 +152,29 @@ const index = () => {
         heading="Community Members/Users"
         para=" These valuable members of the community can provide feedback about features, bug reports, and more."
       />
+      <GithubBasics />
       <section className="mt-10">
-        <div class="container px-5 py-5 mx-auto">
+        <div class="container px-5 py-5 mx-auto dark:bg-gray-700">
           <div class="lg:w-11/12 mx-auto">
             <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
-            Complete Git and GitHub Tutorial:
+              Complete Git and GitHub Tutorial:
             </h1>
-            <iframe  width="400" height="200" src="https://www.youtube.com/embed/apGV9Kg7ics" title="Complete Git and GitHub Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+            <iframe
+              width="400"
+              height="200"
+              src="https://www.youtube.com/embed/apGV9Kg7ics"
+              title="Complete Git and GitHub Tutorial"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+              allowfullscreen
+            ></iframe>
           </div>
         </div>
-      </section> 
+      </section>
       <div className="pt-10 dark:bg-gray-700">
         <Footer />
       </div>
+      <Topfab />
     </div>
   );
 };
