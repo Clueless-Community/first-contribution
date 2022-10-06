@@ -1666,6 +1666,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/mehulkumar27/",
     github: "https://github.com/Mehul2711",
     gender: "Male",
+  },
+  {
+    name : "Mubeen Ahmad",
+    branch : "cs",
+    college : "Superior University",
+    year : 2021, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/mubeenahmad571/",
+    github : "https://github.com/MubeenAhmad571",
+    gender : "Male"
   }
 ];
 
