@@ -1150,7 +1150,7 @@ const contributors = [
     github : "https://github.com/ishani-1255",
     gender : "Female"
     },
-
+  {
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
@@ -1586,7 +1586,7 @@ const contributors = [
   github: "https://github.com/hritikbhattacharya",
   gender: "Male",
 },
-  {
+ {
     name : "Aman Maurya",
     branch : "CSE",
     college : "School of management science ",
@@ -1595,6 +1595,17 @@ const contributors = [
     github : "https://github.com/AmanAssassin",
     gender : "Male"
   },
+
+{
+  name: "ADITYA RAJ",
+  branch: "ELECTRICAL ENGINEERING",
+  college: "NIT JAMSHEDPUR",
+  year: 2024, //Year of Pass Out
+  linkedin: "https://www.linkedin.com/in/aditya-raj-963763215/",
+  github: "https://github.com/adityaraj6902",
+  gender: "Male",
+},
+
 ];
 
 export default contributors
