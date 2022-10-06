@@ -90,4 +90,6 @@
 - [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag)
 - [Hamza Nawab](https://github.com/blazenn2)
 - [Abhishek Vaishnav](https://github.com/abhishek0777)
+- [Rahul Bhatt](https://github.com/rahul-bhatt43)
+
 
