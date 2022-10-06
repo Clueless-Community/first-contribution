@@ -1467,7 +1467,7 @@ const contributors = [
     github: "https://github.com/myGlitches",
     gender: "Male",
   },
-
+{
     name : "Vijay",
     branch : "CSE",
     college : "Warangal",
@@ -1503,6 +1503,16 @@ const contributors = [
     github: "https://github.com/Paramhans-Singh",
     gender: "male",
   },
+
+  {
+    name : "Saransh Sinha",
+    branch : "CSE",
+    college : "SRM Institute of Science and Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/saranshsinha17/",
+    github : "https://github.com/WraitH17",
+    gender : "Male"
+}
 ];
 
 export default contributors
