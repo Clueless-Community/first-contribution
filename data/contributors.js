@@ -1522,6 +1522,15 @@ const contributors = [
     github : "https://github.com/aritra-tech",
     gender : "Male"
 },
+  {
+  name: "Hritik Bhattacharya",
+  branch: "Computer Science and Engineering",
+  college: "Haldia Institute of Technology",
+  year: 2025, //Year of Pass Out
+  linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
+  github: "https://github.com/hritikbhattacharya",
+  gender: "Male",
+},
 ];
 
 export default contributors
