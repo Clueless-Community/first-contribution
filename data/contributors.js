@@ -1447,15 +1447,24 @@ const contributors = [
     github : "https://github.com/vijay2249",
     gender : "Male"
   },
-   {
-        name : "komal",
-        branch : "CSE",
-        college : "MBES COEA",
-        year : 2022, //Year of Pass Out
-        linkedin : "https://github.com/komalswami",
-        github : "https://www.linkedin.com/in/komal-swami-4a539117a",
-        gender : "Female"
-    }
+  {
+    name : "komal",
+    branch : "CSE",
+    college : "MBES COEA",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://github.com/komalswami",
+    github : "https://www.linkedin.com/in/komal-swami-4a539117a",
+    gender : "Female"
+  },
+  {
+    name: "Abhirup Panda",
+    branch: "Computer Engineering",
+    college: "IIIT Bhubaneswar",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/abhirup-panda-a40020214",
+    github: "https://github.com/EvilSeal1980",
+    gender: "Male",
+  }
 ];
 
 export default contributors;
