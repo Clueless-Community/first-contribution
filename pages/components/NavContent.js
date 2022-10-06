@@ -5,9 +5,9 @@ import styles from "./Navbar.module.css";
 
 export default function NavContent(props) {
   return (
-    <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+    <div className="container mx-auto flex flex-wrap p-5 flex-col lg:flex-row items-center">
       <Link href="/">
-        <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0 dark:text-gray-100">
+        <a className="flex title-font font-medium items-center text-gray-900 mb-4 lg:mb-0 dark:text-gray-100">
           <img className="w-6" src="/clueless_logo.png" alt="clueless logo" />
           <span className="ml-3 text-xl ">ClueLess</span>
         </a>
@@ -30,7 +30,7 @@ export default function NavContent(props) {
         </Link>
       </nav>
       <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
-        <button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none dark:hover:bg-blue-500 hover:text-white hover:bg-blue-500 rounded-xl mt-4 md:mt-0 text-lg transition-all dark:bg-gray-600">
+        <button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none dark:hover:bg-blue-500 hover:text-white hover:bg-blue-500 rounded-xl mt-4 lg:mt-0 text-lg transition-all dark:bg-gray-600">
           Contibute Now
           <svg
             fill="none"
