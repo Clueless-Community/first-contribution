@@ -95,3 +95,4 @@
 - [Vijay2249](https://github.com/vijay2249)
 - [komalswami](https://github.com/komalswami)
 - [Abhirup Panda](https://github.com/EvilSeal1980)
+- [Paramhans Singh](https://github.com/Paramhans-Singh)
