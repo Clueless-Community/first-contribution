@@ -26,7 +26,7 @@ Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in t
 [![image](https://www.linkpicture.com/q/contributionCard.png)](https://www.linkpicture.com/view.php?img=LPic6337cb9eb9c08930623349)
 
 
-+ Now, to get your contributiors card, you have to contribute to this repository, following our guidelines.
++ Now, to get your contributor card, you have to contribute to this repository, following our guidelines.
 
 ## How to contribute? 🧐
 

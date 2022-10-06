@@ -7,10 +7,10 @@ import HeadingPoint from "../components/HeadingPoint";
 import Announcment from "../components/Announcment";
 import Document from "../document";
 import Topfab from "../components/Topfab";
+import GithubBasics from "../components/GithubBasics";
 
 
 const index = () => {
-
   return (
     <div class="dark:bg-gray-700">
       <Document />
@@ -152,13 +152,22 @@ const index = () => {
         heading="Community Members/Users"
         para=" These valuable members of the community can provide feedback about features, bug reports, and more."
       />
+      <GithubBasics />
       <section className="mt-10">
         <div class="container px-5 py-5 mx-auto dark:bg-gray-700">
           <div class="lg:w-11/12 mx-auto">
             <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
               Complete Git and GitHub Tutorial:
             </h1>
-            <iframe width="400" height="200" src="https://www.youtube.com/embed/apGV9Kg7ics" title="Complete Git and GitHub Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+            <iframe
+              width="400"
+              height="200"
+              src="https://www.youtube.com/embed/apGV9Kg7ics"
+              title="Complete Git and GitHub Tutorial"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+              allowfullscreen
+            ></iframe>
           </div>
         </div>
       </section>

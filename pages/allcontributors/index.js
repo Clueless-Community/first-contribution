@@ -11,7 +11,7 @@ const index = () => {
   const totalContributor = contributors.length;
   return (
     <>
-    <Document />
+      <Document />
       <Navbar />
       <div className="dark:bg-gray-700">
         <section class="text-gray-600 dark:text-white body-font">
@@ -34,6 +34,7 @@ const index = () => {
               {contributors.map((contributor) => {
                 return (
                   <ContributorCard
+                    key={contributor.github}
                     name={contributor.name}
                     branch={contributor.branch}
                     college={contributor.college}

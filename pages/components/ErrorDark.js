@@ -89,7 +89,7 @@ const ErrorDark = () => {
       <h1 className="text-center text-3xl font-sans font-bold text-white  ">Not Found</h1>
       <div className="w-full justify-center flex">
       <Link href="/">
-      <button className="px-4 py-2 bg-white opacity-90 rounded-xl font-bold text-black text-xl my-10 mx-5 hover:bg-gray-100 flex items-center"><svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <button className="px-4 py-2 bg-white opacity-90 rounded-xl font-bold text-black text-xl my-10 mx-5 hover:bg-gray-100 flex items-center transition-all"><svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
 </svg> Go back to Home</button>
       </Link>
