@@ -52,6 +52,7 @@
 - [Ajay Khatri Chhetri](https://github.com/amajaying)
 - [Noothan AM](https://github.com/Noothan-am/)
 - [Pratyush Pahari](https://github.com/PRATYUSHPAHARI)
+- [Aratrik Basak](https://github.com/Aratrik-02)
 - [Prakhar Pandey](https://github.com/prakhar-1005)
 - [Yash Seth](https://github.com/yash-seth/)
 - [Subhadip Das](https://github.com/Subhadiptech)
