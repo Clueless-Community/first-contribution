@@ -151,3 +151,4 @@ You may add a Comment to your Pull Request
 
 - Now, you can see your data into Contributors.md and contributors.js
 
+## <i>Stuck setting things up? [Refer to this](./SetUp.md) </i>
