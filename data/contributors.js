@@ -1,12 +1,21 @@
 const contributors = [
   {
     name: "Soumya Kushwaha",
-    brnach: "IT-IoT",
+    branch: "IT-IoT",
     college: "MITS Gwalior",
     year: 2024,
     linkedin: "https://www.linkedin.com/in/kushwaha-soumya",
     github: "https://github.com/Soumya-Kushwaha",
     gender: "Female",
+  },
+  {
+    name: "Prabin Subedi",
+    branch: "CS",
+    college: "Merryland College",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/prabincankod",
+    github: "https://github.com/prabincankod",
+    gender: "male",
   },
   {
     name : "Sayantan Naskar",
