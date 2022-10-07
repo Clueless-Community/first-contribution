@@ -147,6 +147,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Aratrik Basak",
+    branch : "CSE",
+    college : "TMSL",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/aratrik-basak-61bbb2200",
+    github : "https://github.com/Aratrik-02",
+    gender : "Male"
+  },
+  {
     name: "Satyam Sharma",
     branch: "CSE",
     college: "HITK",

@@ -79,6 +79,7 @@
 - [Taduri Saimahesh](https://github.com/saimaheshtaduri)
 - [Annu Priya](https://github.com/annupriy)
 - [Sahil Singh](https://github.com/SahilSingh177)
+- [Aratrik Basak](https://github.com/Aratrik-02)
 - [Varun Kumar Tiwari](https://github.com/varunKT001)
 - [Deepanshu Anand](https://github.com/Deepanshu0810)
 - [Anshu Joshi](https://github.com/ImAnshuJoshi)
