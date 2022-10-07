@@ -152,7 +152,7 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/aratrik-basak-61bbb2200/",
     github : "https://github.com/Aratrik-02",
     gender : "Male",
-},
+  },
   {
     name: "Biki Mondal",
     branch: "CSBS",
@@ -1560,6 +1560,15 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/saurav-kumar-jha-885337223/",
     github: "https://github.com/Saurav50",
+    gender: "Male",
+  },
+  {
+    name: "Sivasuriyan",
+    branch: "IT",
+    college: "SVCE",
+    year: 2019,
+    linkedin: "https://www.linkedin.com/in/sivasuriyan-kumarasamy/",
+    github: "https://github.com/sivasuriyankumarasamy",
     gender: "Male",
   },
 ];
