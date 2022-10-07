@@ -48,15 +48,15 @@ const index = () => {
             <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
               Why You Should Contribute to Open-Source?
             </h1>
-            <p className=" text-lg mb-2">
+            <p className=" text-md mb-2">
               Contributing to open source projects can be a rewarding way to
               learn, teach, share, and build experience.
             </p>
-            <p className="font-semibold text-2xl underline">
+            <p className="font-semibold text-xl underline underline-offset-3">
               There are plenty of reasons why you should contribute to an open
               source project, such as:
             </p>
-            <ul className=" list-disc my-5 text-xl mx-auto ml-5">
+            <ul className=" list-disc my-5 text-md mx-auto ml-5">
               <li className="my-2">
                 To improve the software you rely on daily.
               </li>
@@ -91,10 +91,10 @@ const index = () => {
       <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
         <div class="container px-5 py-12 mx-auto">
           <div class="lg:w-11/12 mx-auto">
-            <p className="font-semibold text-3xl underline">
+            <p className="font-semibold text-2xl underline underline-offset-3">
               Some common contributions can be through:
             </p>
-            <ul className=" list-disc my-5 text-xl mx-auto ml-5">
+            <ul className=" list-disc my-5 text-md mx-auto ml-5">
               <li className="my-2">
                 Adding a description to a project's documentation to elaborate
                 on a certain point, mostly referred to as a README file.
