@@ -1620,6 +1620,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
     github: "https://github.com/para-docx",
     gender: "Male",
+  },
+  {
+    name: "Subin Duresh",
+    branch: "Computer Science Engineering",
+    college: "SRMIST",
+    year: 2019,
+    linkedin: "https://www.linkedin.com/in/subin-duresh-73384212b/",
+    github: "https://github.com/SubinDuresh",
+    gender: "Male",
   }
 );
 
