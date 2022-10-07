@@ -1634,6 +1634,15 @@ const contributors = [
     github: "https://github.com/patil-tanay",
     gender: "Male",
    },
+  {
+    name : "Swapnil Aichbhaumik",
+    branch : "CSE",
+    college : "HITK",
+    year : 2025, 
+    linkedin : "https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224/",
+    github : "https://github.com/Swap-nil-2003",
+    gender : "Male",
+    },
    {
     name : "Sakshi Jain",
     branch : "Computer Science Engineering",
