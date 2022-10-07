@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 .link-underline {
     border-bottom-width: 0;
     background-image: linear-gradient(transparent, transparent), linear-gradient(#fff, #fff);
@@ -18,6 +19,7 @@
     background-size: 100% 3px;
     background-position: 0 100%
 }
+
 html {
     scroll-behavior: smooth;
 }
