@@ -1620,7 +1620,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
     github: "https://github.com/para-docx",
     gender: "Male",
-  }
+  },
+  {
+    name: "Tanay Patil",
+    branch: "CSE",
+    college: "Acropolis Institute of Technology and Research, Indore",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/tanay-patil25",
+    github: "https://github.com/patil-tanay",
+    gender: "Male",
+   },
 );
 
 export default contributors;
