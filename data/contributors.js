@@ -26,6 +26,18 @@ const contributors = [
     github: "https://github.com/Rajdip019/Rajdip019",
     gender: "male",
   },
+  
+  
+  {
+    name: "Sattyam Samania",
+    branch: "CSE",
+    college: "ITM UNIVERSE",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/sattyam-samania-3691711b9/",
+    github: "https://github.com/SattyamSamania",
+    gender: "male",
+  },
+  
   {
     name: "Roshan Kumar",
     branch: "CSE AI & ML",
