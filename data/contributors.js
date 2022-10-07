@@ -1427,6 +1427,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Abhishek Dhanke",
+    branch : "CSE",
+    college : "JSPM RSCOE",
+    year : 2024, 
+    linkedin : "https://www.linkedin.com/in/abhishek-dhanke-226354216/",
+    github : "https://github.com/abhishekrd",
+    gender : "Male"
+  },
+  {
     name : "Pratham Rastogi",
     branch : "CSE Data Science",
     college : "The Northcap University",
@@ -1472,5 +1481,7 @@ contributors.unshift({
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  });
+  },
+  );
+ 
 export default contributors;
