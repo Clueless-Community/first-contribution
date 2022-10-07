@@ -26,6 +26,16 @@ const contributors = [
     github: "https://github.com/Rajdip019/Rajdip019",
     gender: "male",
   },
+
+  {
+    name: "Bashar V I",
+    branch: "MECH",
+    college: "DSCE COIMBATORE",
+    year: 2016,
+    linkedin: "https://www.linkedin.com/in/BasharVI",
+    github: "https://github.com/BasharVI",
+    gender: "male",
+  },
   
   
   {
