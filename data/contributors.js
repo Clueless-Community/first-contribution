@@ -1642,7 +1642,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/tanay-patil25",
     github: "https://github.com/patil-tanay",
     gender: "Male",
-   },
+  },
   {
     name : "Swapnil Aichbhaumik",
     branch : "CSE",
@@ -1680,6 +1680,15 @@ const contributors = [
         github : "https://github.com/heysagnik",
         gender : "Male"
     },
+    {
+   name : "Ankit Bhusal",
+    branch : "Bachelor of Computer Application",
+    college : "Lumbini ICT Campus",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/ankitbhusal/",
+    github : "https://github.com/ankitbhusal",
+    gender : "Male"
+},
 ];
 
 
