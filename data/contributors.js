@@ -1445,6 +1445,15 @@ const contributors = [
     gender : "Male"
   },
   {
+  name : "Jugya Kamal Gogoi",
+  branch : "CSE",
+  college : "NITS",
+  year : 2025, 
+  linkedin : "https://www.linkedin.com/in/jugya-kamal-gogoi-5ab594229/",
+  github : "https://github.com/Jugya07",
+  gender : "Male"
+  },
+  {
   name : "Pratham Rastogi",
   branch : "CSE Data Science",
   college : "The Northcap University",
@@ -1453,7 +1462,6 @@ const contributors = [
   github : "https://github.com/Pratham-R",
   gender : "Male"
   },
-
 
 ];
 
