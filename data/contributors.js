@@ -1452,8 +1452,8 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/abhishek-dhanke-226354216/",
     github : "https://github.com/abhishekrd",
     gender : "Male"
-},
-{
+  },
+  {
   name : "Jugya Kamal Gogoi",
   branch : "CSE",
   college : "NITS",
@@ -1461,8 +1461,16 @@ const contributors = [
   linkedin : "https://www.linkedin.com/in/jugya-kamal-gogoi-5ab594229/",
   github : "https://github.com/Jugya07",
   gender : "Male"
-}
-
+  },
+  {
+  name : "Pratham Rastogi",
+  branch : "CSE Data Science",
+  college : "The Northcap University",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/prathamrastogi/",
+  github : "https://github.com/Pratham-R",
+  gender : "Male"
+  },
 
 ];
 
