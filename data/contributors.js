@@ -1761,6 +1761,16 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  
+  {
+    name: "shantanu hardia",
+    branch: "CSE",
+    collage: "AITR",
+    year: 2025,
+    inkedin: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
+    github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
+    gender: "Male",
+  },
 );
 
 export default contributors;
