@@ -8,7 +8,15 @@ const contributors = [
     github: "https://github.com/Soumya-Kushwaha",
     gender: "Female",
   },
-
+  {
+    name : "Sayantan Naskar",
+    branch : "CSE",
+    college : "Chandigarh University",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sayantan-naskar-847a07221/",
+    github : "https://github.com/Arbtrage",
+    gender : "male"
+  },
   {
     name: "Disha Gupta",
     branch: "CSE-Cyber Physiacl Systems",

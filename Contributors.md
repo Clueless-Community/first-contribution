@@ -16,6 +16,7 @@
 - [Anupam Kumar Sourav](https://github.com/AKSourav)
 - [Jyothi Swaroop Makena](https://github.com/RedJOe-0608)
 - [Biki Mondal](https://github.com/BikiLearner)
+- [Sayantan Naskar](https://github.com/Arbtrage)
 - [Sayan Chowdhury](https://github.com/csayanide)
 - [Satyam Sharma](https://github.com/Satyam26-09)
 - [Saeed Ahmed](https://github.com/me-coderr)
