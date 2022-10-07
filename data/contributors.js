@@ -1444,6 +1444,15 @@ const contributors = [
     github: "https://github.com/hafeez25",
     gender: "Male",
   },
+  {
+        name : "Omosaye Moses Iseoluwa",
+        branch : "Computer Science",
+        college : "OAU",
+        year : 2023
+        linkedin : "https://www.linkedin.com/in/omosaye-moses-0204b6191",
+        github : "https://github.com/theselaw",
+        gender : "Male"
+    },
 
 ];
 
