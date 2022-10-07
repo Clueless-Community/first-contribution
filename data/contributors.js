@@ -1473,5 +1473,6 @@ contributors.unshift({
     linkedin: "https://www.linkedin.com/in/jugya-kamal-gogoi-5ab594229/",
     github: "https://github.com/Jugya07",
     gender: "Male",
-  });
+  },
+  );
 export default contributors;
