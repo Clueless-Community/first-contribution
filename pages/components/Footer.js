@@ -90,19 +90,16 @@ const Footer = () => {
               </h2>
               <nav className="list-none mb-10 space-y-2">
                 <li>
-                  <Link href="https://twitter.com/by_clueless" target="_blank">
-                    <a className={styles.underline}>Twitter</a>
-                  </Link>
+                  <a href="https://twitter.com/by_clueless" target="_blank"
+                     className={styles.underline}>Twitter</a>
                 </li>
                 <li>
-                  <Link href="https://github.com/Clueless-Community" target="_blank">
-                    <a className={styles.underline}>GitHub</a>
-                  </Link>
+                  <a href="https://github.com/Clueless-Community" target="_blank"
+                     className={styles.underline}>GitHub</a>
                 </li>
                 <li>
-                  <Link href="https://www.linkedin.com/company/clueless-tech/" target="_blank">
-                    <a className={styles.underline}>LinkedIn</a>
-                  </Link>
+                  <a href="https://www.linkedin.com/company/clueless-tech/" target="_blank"
+                     className={styles.underline}>LinkedIn</a>
                 </li>
               </nav>
             </div>
