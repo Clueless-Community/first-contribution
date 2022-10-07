@@ -123,4 +123,3 @@
 - [Gautam Agarwal](https://github.com/gaut2003)
 - [Sakshi Jain](https://github.com/Sakshi-75)
 - [Avik Kumar Ghosh](https://github.com/avik712)
-- [Sagnik Sahoo](https://github.com/heysagnik)
