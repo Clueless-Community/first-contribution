@@ -1620,7 +1620,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
     github: "https://github.com/para-docx",
     gender: "Male",
-  }
+  },
+  {
+    name : "Sagar Kishore",
+    branch : "Data Science",
+    college : "Lancaster University",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sagarkishore6995/",
+    github : "https://github.com/SagarKishore-PFM",
+    gender : "Male"
+},
 );
 
 export default contributors;
