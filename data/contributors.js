@@ -1905,6 +1905,15 @@ const contributors = [
     github : "https://www.linkedin.com/in/the-mastermind-6b9960248/",
     gender : "Male"
 },
+  {
+    name: "Mubeen Ahmad",
+    branch: "bscs",
+    college: "Superior University",
+    year: 2021, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/mubeenahmad571/",
+    github: "https://github.com/MubeenAhmad571",
+    gender: "Male",
+  },
 ];
 
 
