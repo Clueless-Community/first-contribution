@@ -1652,6 +1652,15 @@ const contributors = [
     github : "https://github.com/Sakshi-75",
     gender : "Female"
    },
+   {
+    name : "Rohan Srivastav",
+    branch : "CSE",
+    college : "VIT Vellore",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/rohansrivastav/",
+    github : "https://github.com/rohannsrivastav",
+    gender : "Male"
+   },
 ];
 
 
