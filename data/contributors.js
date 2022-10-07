@@ -1606,7 +1606,8 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/subin-duresh-73384212b/",
     github: "https://github.com/SubinDuresh",
     gender: "Male",
-  }
+  },
+  {
     name: "Tanay Patil",
     branch: "CSE",
     college: "Acropolis Institute of Technology and Research, Indore",
