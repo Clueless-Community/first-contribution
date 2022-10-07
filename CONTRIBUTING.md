@@ -151,28 +151,6 @@ You may add a Comment to your Pull Request
 
 - Now, you can see your data into Contributors.md and contributors.js
 
-# Want to contribute in the website?
+# Want to Setup Project locally? Follow this ⬇️ 
 
-### Step 1:
-
-```
-git clone https://github.com/Clueless-Community/first-contribution.git
-```
-
-### Step 2:
-
-```
-cd first-contribution
-```
-
-### Step 3:
-
-```
-npm install
-```
-
-### Step 4:
-
-```
-npm run dev
-```
+[Refer to this](./SetUp.md)
