@@ -1436,6 +1436,15 @@ const contributors = [
     gender: "Male",
   },
   {
+
+    name : "Sagnik Ghosh",
+    branch : "Electronics and Communication Engineering",
+    college : "Siliguri Institute of Technology",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sagnik-ghosh26/",
+    github : "https://github.com/sagnik26",
+    gender : "Male"
+
     name: "Ankush Roy",
     branch: "CSE",
     college: "HITK",
@@ -1497,6 +1506,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/prabadhya-upadhyay-4272881a1/",
     github: "https://github.com/Rickey07",
     gender: "Male",
+
   },
 
   {
