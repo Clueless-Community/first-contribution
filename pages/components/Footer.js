@@ -38,13 +38,9 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="/whattodo/basic-github-commands"
-                    target="_blank"
-                    className={styles.underline}
-                  >
-                    Basic GitHub Commands
-                  </a>
+                  <Link href="/whattodo/basic-github-commands" className={styles.underline}>
+                    <a>Basic GitHub Commands</a>
+                  </Link>
                 </li>
               </nav>
             </div>
