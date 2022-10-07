@@ -9,6 +9,15 @@ const contributors = [
     gender: "male",
   },
   {
+        name : "Rahul Karda",
+        branch : "CSE",
+        college : "LNCT Bhopal",
+        year : 2024, 
+        linkedin : "https://www.linkedin.com/in/rahulkarda",
+        github : "https://github.com/rahulkarda",
+        gender : "male"
+  },
+  {
     name: "Rajdeep Sengupta",
     branch: "CSE AI & ML",
     college: "HITK",
