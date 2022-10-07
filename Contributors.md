@@ -111,6 +111,7 @@
 - [Prabadhya Upadhyay](https://github.com/Rickey07)
 - [Bashar V I](https://github.com/BasharVI)
 - [Deep Das](https://github.com/myselfdeepdas)
+- [Manish Kumar Gupta](https://github.com/Heismanish)
 
 
 
