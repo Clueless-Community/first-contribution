@@ -1478,7 +1478,8 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/sagnik-ghosh26/",
     github : "https://github.com/sagnik26",
     gender : "Male"
-
+  },
+  {
     name: "Ankush Roy",
     branch: "CSE",
     college: "HITK",
