@@ -1425,7 +1425,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/anubhav-chakraborty-44b042222/",
     github: "https://github.com/AnubhavChakrabortynits",
     gender: "Male",
-  }
+  },
+  {
+    name : "Abhishek Dhanke",
+    branch : "CSE",
+    college : "JSPM RSCOE",
+    year : 2024, 
+    linkedin : "https://www.linkedin.com/in/abhishek-dhanke-226354216/",
+    github : "https://github.com/abhishekrd",
+    gender : "Male"
+}
 
 ];
 
@@ -1464,5 +1473,7 @@ contributors.unshift({
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  });
+  },
+  );
+ 
 export default contributors;
