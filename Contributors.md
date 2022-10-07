@@ -119,6 +119,7 @@
 - [Manish Kumar Gupta](https://github.com/Heismanish)
 - [Saugat Rimal](https://github.com/saugat-rimal)
 - [Dhruv Pruthi](https://github.com/para-docx)
+- [Mohit Singh](https://github.com/moechadSayshi)
 - [Sagar Kishore](https://github.com/SagarKishore-PFM)
 - [Sivasuriyan Kumarasamy](https://github.com/sivasuriyankumarasamy)
 - [Gautam Agarwal](https://github.com/gaut2003)

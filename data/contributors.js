@@ -1788,7 +1788,34 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/vansh-raj-60877b1bb/",
     github: "https://github.com/vansh-2266",
     gender: "Male",
-  }
+  },
+    {
+    name: "Manish Kumar Gupta",
+    branch: "IT",
+    college: "BPIT",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/manish-kumar-gupta-47878320b/",
+    github: "https://github.com/Heismanish",
+    gender: "Male",
+  },
+  {
+    name: "Dhruv Pruthi",
+    branch: "Electronics and Communication Engineering",
+    college: "GJUST",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
+    github: "https://github.com/para-docx",
+    gender: "Male",
+  },
+  {
+    name : "Mohit singh",
+    branch : "Electronics and Communication Engineering",
+    college : "GKV",
+    year : 2025, //Year of Pass Out
+    linkedin : "LinkedIn Profile URL",
+    github : "https://www.linkedin.com/in/the-mastermind-6b9960248/",
+    gender : "Male"
+},
 ];
 
 
@@ -1833,7 +1860,7 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  }
+  },
 );
 
 export default contributors;
