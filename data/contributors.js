@@ -1653,6 +1653,16 @@ const contributors = [
     gender : "Female"
    },
    {
+
+    name : "Rohan Srivastav",
+    branch : "CSE",
+    college : "VIT Vellore",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/rohansrivastav/",
+    github : "https://github.com/rohannsrivastav",
+    gender : "Male"
+   },
+    {
         name : "SAGNIK SAHOO",
         branch : "CSE",
         college : "DAV PUBLIC SCHOOL, HALDIA",
