@@ -1472,6 +1472,15 @@ const contributors = [
   gender : "Male"
   },
   {
+    name : "Manish Prajapati",
+    branch : "BCA",
+    college : "Gujarat University",
+    year : 2022,
+    linkedin : "https://www.linkedin.com/in/pman47/",
+    github : "https://github.com/pman47",
+    gender : "Male"
+  },
+  {
   name : "Pratham Rastogi",
   branch : "CSE Data Science",
   college : "The Northcap University",
