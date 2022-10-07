@@ -54,6 +54,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name : "Shruti Mishra",
+    branch : "Ai&Ds",
+    college : "Thakur college of engineering and technology",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/shruti-mishra-b270a7203",
+    github : "https://github.com/ShrutiMishra-2002",
+    gender : "Female"
+},
+  {
     name: "Rahul Karda",
     branch: "CSE",
     college: "LNCT Bhopal",
@@ -1625,6 +1634,24 @@ const contributors = [
     github: "https://github.com/patil-tanay",
     gender: "Male",
   },
+  {
+    name : "Swapnil Aichbhaumik",
+    branch : "CSE",
+    college : "HITK",
+    year : 2025, 
+    linkedin : "https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224/",
+    github : "https://github.com/Swap-nil-2003",
+    gender : "Male",
+    },
+   {
+    name : "Sakshi Jain",
+    branch : "Computer Science Engineering",
+    college : "SRM Institute of Science and Technology",
+    year : 2019,
+    linkedin : "https://www.linkedin.com/in/sakshi-jain75/",
+    github : "https://github.com/Sakshi-75",
+    gender : "Female"
+   },
   {
     name : "Ankit Bhusal",
     branch : "Bachelor of Computer Application",

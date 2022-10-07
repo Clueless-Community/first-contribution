@@ -37,15 +37,8 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="/whattodo/basic-github-commands" target="_blank"
-                    className={styles.underline}
-                  >
-                    Basic GitHub Commands
-                  </a>
-
-                  <Link href="/whattodo/basic-github-commands" className={styles.underline}>
-                    <a>Basic GitHub Commands</a>
+                  <Link href="/whattodo/basic-github-commands">
+                    <a className={styles.underline}>Basic GitHub Commands</a>
                   </Link>
                 </li>
               </nav>
@@ -90,19 +83,16 @@ const Footer = () => {
               </h2>
               <nav className="list-none mb-10 space-y-2">
                 <li>
-                  <Link href="https://twitter.com/by_clueless">
-                    <a className={styles.underline}>Twitter</a>
-                  </Link>
+                  <a href="https://twitter.com/by_clueless" target="_blank"
+                     className={styles.underline}>Twitter</a>
                 </li>
                 <li>
-                  <Link href="https://github.com/Clueless-Community">
-                    <a className={styles.underline}>GitHub</a>
-                  </Link>
+                  <a href="https://github.com/Clueless-Community" target="_blank"
+                     className={styles.underline}>GitHub</a>
                 </li>
                 <li>
-                  <Link href="https://www.linkedin.com/company/clueless-tech/">
-                    <a className={styles.underline}>LinkedIn</a>
-                  </Link>
+                  <a href="https://www.linkedin.com/company/clueless-tech/" target="_blank"
+                     className={styles.underline}>LinkedIn</a>
                 </li>
               </nav>
             </div>
