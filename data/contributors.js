@@ -1642,7 +1642,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/tanay-patil25",
     github: "https://github.com/patil-tanay",
     gender: "Male",
-   },
+  },
   {
     name : "Swapnil Aichbhaumik",
     branch : "CSE",
@@ -1680,6 +1680,42 @@ const contributors = [
         github : "https://github.com/heysagnik",
         gender : "Male"
     },
+    {
+   name : "Ankit Bhusal",
+    branch : "Bachelor of Computer Application",
+    college : "Lumbini ICT Campus",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/ankitbhusal/",
+    github : "https://github.com/ankitbhusal",
+    gender : "Male"
+},
+    {
+    name: "Manish Kumar Gupta",
+    branch: "IT",
+    college: "BPIT",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/manish-kumar-gupta-47878320b/",
+    github: "https://github.com/Heismanish",
+    gender: "Male",
+  },
+  {
+    name: "Dhruv Pruthi",
+    branch: "Electronics and Communication Engineering",
+    college: "GJUST",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
+    github: "https://github.com/para-docx",
+    gender: "Male",
+  },
+  {
+    name : "Sagar Kishore",
+    branch : "Data Science",
+    college : "Lancaster University",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sagarkishore6995/",
+    github : "https://github.com/SagarKishore-PFM",
+    gender : "Male"
+},
 ];
 
 
@@ -1734,7 +1770,6 @@ contributors.unshift(
     github: "https://github.com/thaanu2001",
     gender: "Male",
   },
- 
 );
 
 export default contributors;
