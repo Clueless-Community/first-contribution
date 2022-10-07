@@ -16,7 +16,7 @@ const Footer = () => {
                 src="/clueless_logo.png"
                 alt="clueless logo"
               />
-              <span className="ml-3 text-xl">ClueLess</span>
+              <span className="ml-3 text-xl"><a href="https://clueless.vercel.app/">ClueLess</a></span>
             </a>
             <p className="mt-2 text-sm dark:text-gray-50">
               ClueLess Community, Learn. Grow.
