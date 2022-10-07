@@ -103,6 +103,13 @@
 - [Sashikanta Mohanty](https://github.com/Sashi2002)
 - [Saransh Dubey](https://github.com/14-saransh)
 - [Mehul Kumar](https://github.com/Mehul2711)
+- [Ankush Roy](https://github.com/ankushroy25)
 - [Raihan Khan](https://github.com/raihankhan-rk)
 - [Anubhav Chakraborty](https://github.com/AnubhavChakrabortynits)
 - [Subhajit Gorai](https://github.com/Subhajitongit)
+- [Jugya Kamal Gogoi](https://github.com/Jugya07)
+- [Pratham Rastogi](https://github.com/Pratham-R)
+- [Prabadhya Upadhyay](https://github.com/Rickey07)
+- [Bashar V I](https://github.com/BasharVI)
+- [Deep Das](https://github.com/myselfdeepdas)
+
