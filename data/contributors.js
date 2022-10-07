@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name: "Disha Gupta",
+    branch: "CSE-Cyber Physiacl Systems",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/disha-gupta-ba48221b6/",
+    github: "https://github.com/Dishagupta224/",
+    gender: "female",
+  },
+  {
     name: "Danish Zayan",
     branch: "MCA",
     college: "Manuu Hyderabad",
