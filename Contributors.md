@@ -116,6 +116,7 @@
 - [Prabadhya Upadhyay](https://github.com/Rickey07)
 - [Bashar V I](https://github.com/BasharVI)
 - [Deep Das](https://github.com/myselfdeepdas)
+- [Manish Prajapati](https://github.com/pman47)
 - [Manish Kumar Gupta](https://github.com/Heismanish)
 - [Saugat Rimal](https://github.com/saugat-rimal)
 - [Dhruv Pruthi](https://github.com/para-docx)
