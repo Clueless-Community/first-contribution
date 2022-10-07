@@ -1678,6 +1678,15 @@ contributors.unshift(
     github: "https://github.com/nikhil25803",
     gender: "male",
   },
+ {
+        name : "SAGNIK SAHOO",
+        branch : "CSE",
+        college : "DAV PUBLIC SCHOOL, HALDIA",
+        year : 2028, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/heysagnik/",
+        github : "https://github.com/heysagnik",
+        gender : "Male"
+    },
   {
     name: "Debajyoti Saha",
     branch: "CSBS",
