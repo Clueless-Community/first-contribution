@@ -1625,6 +1625,15 @@ const contributors = [
     github: "https://github.com/patil-tanay",
     gender: "Male",
    },
+   {
+    name : "Sakshi Jain",
+    branch : "Computer Science Engineering",
+    college : "SRM Institute of Science and Technology",
+    year : 2019,
+    linkedin : "https://www.linkedin.com/in/sakshi-jain75/",
+    github : "https://github.com/Sakshi-75",
+    gender : "Female"
+   },
 ];
 
 
