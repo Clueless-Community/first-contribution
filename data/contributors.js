@@ -1725,6 +1725,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "Thaanu Perera",
+    branch: "Software Engineering",
+    college: "University of Plymouth",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/thaanu-perera-0a84b9194/",
+    github: "https://github.com/thaanu2001",
+    gender: "Male",
+  },
  
 );
 
