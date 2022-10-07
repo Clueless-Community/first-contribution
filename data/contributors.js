@@ -1404,7 +1404,17 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/kartikay-tiwari-92579921b/",
     github: "https://github.com/ishtails",
     gender: "Male",
-},
+  },
+  {
+    name: "Harsh Jain",
+    branch: "Computer Science & Engineering",
+    college: "Indian Institute of Information Technology, Bhopal",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/harsh-jain-3879111a0/",
+    github: "https://github.com/HarshJa1n",
+    gender: "Male",
+  },
+
 ];
 
 export default contributors;
