@@ -133,3 +133,4 @@
 - [Durgesh Mahajan](https://github.com/durgeshm01722)
 - [Nishant Kumar Singh](https://github.com/Nishant2209)
 - [Vansh Raj](https://github.com/vansh-2266)
+- [João Paulo Dantas](https://github.com/PapelRasgado)
