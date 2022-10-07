@@ -21,8 +21,9 @@ const index = () => {
   }
 
   useEffect(() => {
-    if(search == "") setSearchResult(contributors);
-    else setSearchResult(contributors.filter(item =>item.name.includes(search)));
+
+    setSearchResult(contributors.filter(item => item.name.includes(search)));
+
   }, [search])
   
   return (
