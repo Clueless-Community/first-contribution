@@ -1444,6 +1444,15 @@ const contributors = [
     github: "https://github.com/hafeez25",
     gender: "Male",
   },
+  {
+    name : "Sagnik Ghosh",
+    branch : "Electronics and Communication Engineering",
+    college : "Siliguri Institute of Technology",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sagnik-ghosh26/",
+    github : "https://github.com/sagnik26",
+    gender : "Male"
+  },
 
 ];
 
