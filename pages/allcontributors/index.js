@@ -48,8 +48,9 @@ const index = () => {
               <button className="px-4 py-2 border-[#0061ff] border-4 text-[#0061ff] rounded-xl font-bold text-xl mb-10 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500 flex mx-auto dark:border-gray-50 dark:hover:text-white dark:text-gray-50 dark:hover:border-blue-500">Get Your Contributor Card !</button>
             </a>
             <div style={searchStyles}>
-              <input style={{flex: 1, display:'flex', paddingLeft: 12, border: '1px solid black', borderRadius: 6, color: 'black'}} onChange={(e) => setSearch(e.target.value)}  type="text" placeholder="Search your card " />
-              <button onClick={searchCards} style={{background:'gray', width: 100, color:'white',borderRadius: 6, marginLeft:4}} >Search</button>
+              {/* searchbox */}
+              <input className="hover:bg-blue-500" style={{flex: 1, display:'flex', paddingLeft: 12, border: '4px solid white', borderRadius: 6, color: 'black', background: '#374151'}} onChange={(e) => setSearch(e.target.value)}  type="text" placeholder="Search your card " />
+              <button onClick={searchCards} style={{background:'#4b5563', width: 100, color:'white',borderRadius: 6, marginLeft:4, fontWeight: 'bolder'}} >Search</button>
             </div>
             <div class="flex -m-2 flex-wrap mb-2">
               {searchResult.map((contributor) => {
