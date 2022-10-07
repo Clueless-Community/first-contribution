@@ -129,3 +129,4 @@
 - [Thaanu Perera](https://github.com/thaanu2001)
 - [Ankit Bhusal](https://github.com/ankitbhusal)
 - [Gowri Shankar](https://github.com/Gowrishankar04)
+- [Durgesh Mahajan](https://github.com/durgeshm01722)

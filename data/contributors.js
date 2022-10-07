@@ -1734,6 +1734,15 @@ const contributors = [
     github: "https://github.com/thaanu2001",
     gender: "Male",
   },
+  {
+    name : "Durgesh Mahajan",
+    branch : "Information Technology",
+    college : "D. Y. Patil College of Engineering (DYPCOE), Akurdi, Pune",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/durgesh-mahajan-99bab0212/",
+    github : "https://github.com/durgeshm01722",
+    gender : "Male"
+  },
 ];
 
 
