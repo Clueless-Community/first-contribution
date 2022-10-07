@@ -1435,6 +1435,15 @@ const contributors = [
     github: "https://github.com/HarshJa1n",
     gender: "Male",
   },
+  {
+    name: "Hafizur Rahman",
+    branch: "Computer Science & Engineering",
+    college: "Maharishi University of Intitute and Technology",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/hafeez25",
+    github: "https://github.com/hafeez25",
+    gender: "Male",
+  },
 
 ];
 
