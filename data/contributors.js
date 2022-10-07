@@ -1444,6 +1444,15 @@ const contributors = [
     github: "https://github.com/hafeez25",
     gender: "Male",
   },
+  { 
+    name: "Anubhav Chakraborty",
+    branch: "Computer Science & Engineering",
+    college: "National Institute of Technology Silchar",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/anubhav-chakraborty-44b042222/",
+    github: "https://github.com/AnubhavChakrabortynits",
+    gender: "Male",
+  }
 
 ];
 
