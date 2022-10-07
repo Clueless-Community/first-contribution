@@ -4,6 +4,7 @@ import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 import GitCom from "../../components/GitCom";
 import GitDiv from "../../components/GitDiv";
+import Topfab from "../../components/Topfab";
 
 const index = () => {
   
@@ -99,6 +100,7 @@ const index = () => {
 
       <Footer />
      </div>
+     <Topfab/>
    </>
   );
 };
