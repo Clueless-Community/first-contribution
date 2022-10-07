@@ -1439,6 +1439,7 @@ const contributors = [
     gender: "Male",
   },
   {
+
     name: "Vijay",
     branch: "CSE",
     college: "Warangal",
@@ -1466,7 +1467,7 @@ const contributors = [
     github: "https://github.com/myGlitches",
     gender: "Male",
   },
-  {
+
     name : "Vijay",
     branch : "CSE",
     college : "Warangal",

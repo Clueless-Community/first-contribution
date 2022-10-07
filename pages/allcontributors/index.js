@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import ContributorCard from "../components/ContributorCard";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
@@ -9,23 +9,6 @@ import Topfab from "../components/Topfab";
 
 const index = () => {
   const totalContributor = contributors.length;
-  const [search, setSearch] = useState("");
-  const [searchResult, setSearchResult] = useState(contributors);
-
-  const searchStyles = {
-    width: '100%',
-    margin: '30px 0',
-    display: 'flex',
-    height: 42,
-    overflow:'hidden'
-  }
-
-  function searchCards(){
-    let searchRes = contributors.filter(item =>item.name.includes(search));
-    setSearchResult(searchRes);
-    console.log(searchRes);
-  }
-
   return (
     <>
       <Document />
@@ -47,12 +30,8 @@ const index = () => {
             <a href="https://github.com/HITK-2025/first-contribution" target="_blank">
               <button className="px-4 py-2 border-[#0061ff] border-4 text-[#0061ff] rounded-xl font-bold text-xl mb-10 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500 flex mx-auto dark:border-gray-50 dark:hover:text-white dark:text-gray-50 dark:hover:border-blue-500">Get Your Contributor Card !</button>
             </a>
-            <div style={searchStyles}>
-              <input style={{flex: 1, display:'flex', paddingLeft: 12, border: '1px solid black', borderRadius: 6, color: 'black'}} onKeyDown={(e) => setSearch(e.target.value)}  type="text" placeholder="Search your card " />
-              <button onClick={searchCards} style={{background:'gray', width: 100, color:'white',borderRadius: 6, marginLeft:4}} >Search</button>
-            </div>
             <div class="flex -m-2 flex-wrap mb-2">
-              {searchResult.map((contributor) => {
+              {contributors.map((contributor) => {
                 return (
                   <ContributorCard
                     key={contributor.github}
