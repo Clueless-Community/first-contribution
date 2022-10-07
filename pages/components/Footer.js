@@ -30,14 +30,20 @@ const Footer = () => {
               <nav className="list-none mb-10 space-y-2">
                 <li>
                   <a
-                    href="https://github.com/HITK-2025/first-contribution"
-                    target="_blank"
+                    href="https://github.com/HITK-2025/first-contribution" target="_blank"
                     className={styles.underline}
                   >
                     First Contribution
                   </a>
                 </li>
                 <li>
+                  <a
+                    href="/whattodo/basic-github-commands" target="_blank"
+                    className={styles.underline}
+                  >
+                    Basic GitHub Commands
+                  </a>
+
                   <Link href="/whattodo/basic-github-commands" className={styles.underline}>
                     <a>Basic GitHub Commands</a>
                   </Link>
