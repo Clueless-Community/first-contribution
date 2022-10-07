@@ -168,11 +168,16 @@ cd first-contribution
 ### Step 3:
 
 ```
-npm install
+npm config set legacy-peer-deps true
 ```
 
 ### Step 4:
 
+```
+npm install --force
+```
+
+### Step 5:
 ```
 npm run dev
 ```
