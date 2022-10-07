@@ -1652,6 +1652,15 @@ const contributors = [
     github : "https://github.com/Sakshi-75",
     gender : "Female"
    },
+   {
+        name : "SAGNIK SAHOO",
+        branch : "CSE",
+        college : "DAV PUBLIC SCHOOL, HALDIA",
+        year : 2028, 
+        linkedin : "https://www.linkedin.com/in/heysagnik/",
+        github : "https://github.com/heysagnik",
+        gender : "Male"
+    },
 ];
 
 
@@ -1687,6 +1696,7 @@ contributors.unshift(
     github: "https://github.com/nikhil25803",
     gender: "male",
   },
+
   {
     name: "Debajyoti Saha",
     branch: "CSBS",
@@ -1696,6 +1706,7 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+ 
 );
 
 export default contributors;
