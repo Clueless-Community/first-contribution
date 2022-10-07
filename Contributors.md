@@ -1,6 +1,7 @@
 # Contributors
 
 - [Danish Zayan](https://github.com/danishzayan)
+- [Rahul Karda](https://github.com/rahulkarda)
 - [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
