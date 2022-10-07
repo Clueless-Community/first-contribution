@@ -802,15 +802,6 @@ const contributors = [
     gender: "male",
   },
   {
-    name: "Sumit Kumar",
-    branch: "Electrical & Electronics Engineering",
-    college: "IPS Academy Indore",
-    year: 2023,
-    linkedin: "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
-    github: "https://github.com/sumitkr2000",
-    gender: "Male",
-  },
-  {
     name: "Ridhika Joshi",
     branch: "Computer Science Engineering",
     college: "Academy of Technology",
@@ -1715,6 +1706,15 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/sagarkishore6995/",
     github : "https://github.com/SagarKishore-PFM",
     gender : "Male"
+},
+{
+  name: "Sumit Kumar",
+  branch: "Electrical & Electronics Engineering",
+  college: "IPS Academy Indore",
+  year: 2023,
+  linkedin: "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
+  github: "https://github.com/sumitkr2000",
+  gender: "Male",
 },
 ];
 

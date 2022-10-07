@@ -68,7 +68,7 @@ const Footer = () => {
               </h2>
               <nav className="list-none mb-10">
                 <li>
-                  <a href="https://discord.gg/r5uKBGxT9T" target="_blank">
+                  <a href="https://discord.gg/r5uKBGxT9T" target="_blank"
                      className={styles.underline}>Discord</a>
                 </li>
               </nav>
@@ -94,10 +94,10 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="bg-blue-500 dark:bg-slate-800">
-          <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+        <div className="bg-blue-500 dark:bg-slate-800 text-center">
+          <div className={styles.copyright}>
             <p className="text-gray-50 text-sm text-center sm:text-left">
-              © 2022 ClueLess
+              © 2022 ClueLess 
             </p>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
               <a className="text-gray-50">
