@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name : "Raj Palmal",
+    branch : "Computer Science Engineering",
+    college : "Trident Academy of Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/raj-palmal-a736ab233/",
+    github : "https://github.com/FixxooXD",
+    gender : "Male"
+},
+  {
     name : "Manish Tiwari",
     branch : "Electronics and Instrumentation Engineering",
     college : "Siddaganga Institute of Technology",
