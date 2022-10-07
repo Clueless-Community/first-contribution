@@ -90,17 +90,17 @@ const Footer = () => {
               </h2>
               <nav className="list-none mb-10 space-y-2">
                 <li>
-                  <Link href="https://twitter.com/by_clueless">
+                  <Link href="https://twitter.com/by_clueless" target="_blank">
                     <a className={styles.underline}>Twitter</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://github.com/Clueless-Community">
+                  <Link href="https://github.com/Clueless-Community" target="_blank">
                     <a className={styles.underline}>GitHub</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://www.linkedin.com/company/clueless-tech/">
+                  <Link href="https://www.linkedin.com/company/clueless-tech/" target="_blank">
                     <a className={styles.underline}>LinkedIn</a>
                   </Link>
                 </li>
