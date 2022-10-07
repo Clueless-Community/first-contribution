@@ -106,5 +106,6 @@
 - [Ankush Roy](https://github.com/ankushroy25)
 - [Raihan Khan](https://github.com/raihankhan-rk)
 - [Anubhav Chakraborty](https://github.com/AnubhavChakrabortynits)
+- [Pratham Rastogi](https://github.com/Pratham-R)
 
 

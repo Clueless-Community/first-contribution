@@ -1443,7 +1443,16 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/abhishek-dhanke-226354216/",
     github : "https://github.com/abhishekrd",
     gender : "Male"
-}
+  },
+  {
+  name : "Pratham Rastogi",
+  branch : "CSE Data Science",
+  college : "The Northcap University",
+  year : 2024,
+  linkedin : "https://www.linkedin.com/in/prathamrastogi/",
+  github : "https://github.com/Pratham-R",
+  gender : "Male"
+  },
 
 
 ];
