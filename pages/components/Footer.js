@@ -40,7 +40,6 @@ const Footer = () => {
                 <li>
                   <a
                     href="/whattodo/basic-github-commands"
-                    target="_blank"
                     className={styles.underline}
                   >
                     Basic GitHub Commands
