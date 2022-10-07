@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name : "Raj Palmal",
+    branch : "Computer Science Engineering",
+    college : "Trident Academy of Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/raj-palmal-a736ab233/",
+    github : "https://github.com/FixxooXD",
+    gender : "Male"
+},
+  {
     name : "Manish Tiwari",
     branch : "Electronics and Instrumentation Engineering",
     college : "Siddaganga Institute of Technology",
@@ -1652,6 +1661,25 @@ const contributors = [
     github : "https://github.com/Sakshi-75",
     gender : "Female"
    },
+   {
+
+    name : "Rohan Srivastav",
+    branch : "CSE",
+    college : "VIT Vellore",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/rohansrivastav/",
+    github : "https://github.com/rohannsrivastav",
+    gender : "Male"
+   },
+    {
+        name : "SAGNIK SAHOO",
+        branch : "CSE",
+        college : "DAV PUBLIC SCHOOL, HALDIA",
+        year : 2028, 
+        linkedin : "https://www.linkedin.com/in/heysagnik/",
+        github : "https://github.com/heysagnik",
+        gender : "Male"
+    },
 ];
 
 
@@ -1687,6 +1715,7 @@ contributors.unshift(
     github: "https://github.com/nikhil25803",
     gender: "male",
   },
+
   {
     name: "Debajyoti Saha",
     branch: "CSBS",
@@ -1696,6 +1725,7 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+ 
 );
 
 export default contributors;
