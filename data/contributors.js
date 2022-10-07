@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name : "Tanmoy Karmakar",
+    branch : "Computer Science Engineering",
+    college : "University of Engineering and Management",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/tanmoykarmakar2711/",
+    github : "https://github.com/tanmoy27112000",
+    gender : "Male"
+},
+  {
     name : "Raj Palmal",
     branch : "Computer Science Engineering",
     college : "Trident Academy of Technology",
