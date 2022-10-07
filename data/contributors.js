@@ -1471,7 +1471,15 @@ const contributors = [
   github : "https://github.com/Pratham-R",
   gender : "Male"
   },
-
+  {
+    name : "Prabadhya Upadhyay",
+    branch : "Bachelor of commerce",
+    college : "P.M.B Gujrati Commerce College",
+    year : 2022,
+    linkedin : "https://www.linkedin.com/in/prabadhya-upadhyay-4272881a1/",
+    github : "https://github.com/Rickey07",
+    gender : "Male"
+  }
 ];
 
 
