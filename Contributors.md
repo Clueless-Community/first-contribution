@@ -109,6 +109,7 @@
 - [Ankush Roy](https://github.com/ankushroy25)
 - [Raihan Khan](https://github.com/raihankhan-rk)
 - [Anubhav Chakraborty](https://github.com/AnubhavChakrabortynits)
+- [Subhajit Gorai](https://github.com/Subhajitongit)
 - [Jugya Kamal Gogoi](https://github.com/Jugya07)
 - [Pratham Rastogi](https://github.com/Pratham-R)
 - [Prabadhya Upadhyay](https://github.com/Rickey07)
@@ -116,7 +117,4 @@
 - [Deep Das](https://github.com/myselfdeepdas)
 - [Manish Kumar Gupta](https://github.com/Heismanish)
 - [Dhruv Pruthi](https://github.com/para-docx)
-
-
-
 
