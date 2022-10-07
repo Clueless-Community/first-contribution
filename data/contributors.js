@@ -1734,6 +1734,15 @@ const contributors = [
     github: "https://github.com/thaanu2001",
     gender: "Male",
   },
+  {
+    name:"Nishant Kumar Singh",
+    branch: "IT",
+    college: "Guru Jambheshwar University of Science and Technology, Hisar",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/nishant-kumar-singh-1252nks",
+    github: "https://github.com/Nishant2209",
+    gender: "male"
+  }
 ];
 
 
