@@ -68,8 +68,8 @@ const Footer = () => {
               </h2>
               <nav className="list-none mb-10">
                 <li>
-                  <a href="https://discord.gg/r5uKBGxT9T" target="_blank">
-                     className={styles.underline}>Discord</a>
+                  <a href="https://discord.gg/r5uKBGxT9T" target="_blank" className={styles.underline}>
+                    Discord</a>
                 </li>
               </nav>
             </div>
@@ -80,15 +80,15 @@ const Footer = () => {
               <nav className="list-none mb-10 space-y-2">
                 <li>
                   <a href="https://twitter.com/by_clueless" target="_blank"
-                     className={styles.underline}>Twitter</a>
+                    className={styles.underline}>Twitter</a>
                 </li>
                 <li>
                   <a href="https://github.com/Clueless-Community" target="_blank"
-                     className={styles.underline}>GitHub</a>
+                    className={styles.underline}>GitHub</a>
                 </li>
                 <li>
                   <a href="https://www.linkedin.com/company/clueless-tech/" target="_blank"
-                     className={styles.underline}>LinkedIn</a>
+                    className={styles.underline}>LinkedIn</a>
                 </li>
               </nav>
             </div>
