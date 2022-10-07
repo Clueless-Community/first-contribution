@@ -1610,7 +1610,19 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/manish-kumar-gupta-47878320b/",
     github: "https://github.com/Heismanish",
     gender: "Male",
+  },
+  {
+    name: "Saugat Rimal",
+    branch: "IT",
+    college: "PUSET",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/saugatrimal/",
+    github: "https://github.com/saugat-rimal",
+    gender: "Male",
   }
+
+
+
 );
 
 export default contributors;
