@@ -1425,8 +1425,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/anubhav-chakraborty-44b042222/",
     github: "https://github.com/AnubhavChakrabortynits",
     gender: "Male",
+  },
+  {
+    name : "Pratham Rastogi",
+    branch : "CSE Data Science",
+    college : "The Northcap University",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/prathamrastogi/",
+    github : "https://github.com/Pratham-R",
+    gender : "Male"
   }
-
 ];
 
 contributors.unshift({
