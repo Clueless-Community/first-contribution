@@ -1464,5 +1464,14 @@ contributors.unshift({
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
+  },
+  {
+    name: "Jugys Kamal Gogoi",
+    branch: "CSE",
+    college: "NITS",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/jugya-kamal-gogoi-5ab594229/",
+    github: "https://github.com/Jugya07",
+    gender: "Male",
   });
 export default contributors;
