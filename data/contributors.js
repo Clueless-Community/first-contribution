@@ -1715,7 +1715,16 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/sagarkishore6995/",
     github : "https://github.com/SagarKishore-PFM",
     gender : "Male"
-},
+}, 
+{
+  name: "Gowri Shankar K",
+  branch: "CSE",
+  college: "RMK Engg College",
+  year: 2019,
+  linkedin: "www.linkedin.com/in/gowri-shankar-kathirvel",
+  github: "https://github.com/Gowrishankar04",
+  gender: "Male",
+}
 ];
 
 
