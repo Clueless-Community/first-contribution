@@ -116,6 +116,8 @@
 - [Bashar V I](https://github.com/BasharVI)
 - [Deep Das](https://github.com/myselfdeepdas)
 - [Manish Kumar Gupta](https://github.com/Heismanish)
+- [Saugat Rimal](https://github.com/saugat-rimal)
 - [Dhruv Pruthi](https://github.com/para-docx)
 - [Sivasuriyan Kumarasamy](https://github.com/sivasuriyankumarasamy)
 - [Gautam Agarwal](https://github.com/gaut2003)
+
