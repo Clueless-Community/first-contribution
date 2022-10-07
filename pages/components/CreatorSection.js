@@ -18,9 +18,8 @@ const CreatorSection = () => {
                     Roshan Kumar
                   </h2>
                   <p className="leading-relaxed">
-                    Hey there!! I'm Roshan Kumar | Currently doing app
-                    developement using flutter framework | Interested in
-                    developement and machine learning | Reach me at
+                    Hey there!! I'm Roshan Kumar | CyberSecurity Enthusiast | Into reverse Engineering and kernel developement 
+                    | Loves to play with Linux and solving CTFs | Reach me at
                     roshan0902@pm.me
                   </p>
                   <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
