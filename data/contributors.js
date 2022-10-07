@@ -1608,6 +1608,15 @@ const contributors = [
     gender: "Male",
   },
   {
+
+    name: "Anurag Tiwari",
+    branch: "ECE",
+    college: "SLIET,PUNJAB",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/danurag23/",
+    github: "https://github.com/Danuragtiwari",
+ },
+  {
     name: "Sivasuriyan",
     branch: "IT",
     college: "SVCE",
@@ -1741,6 +1750,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/thaanu-perera-0a84b9194/",
     github: "https://github.com/thaanu2001",
+
     gender: "Male",
   },
   {
