@@ -1444,6 +1444,15 @@ const contributors = [
     github: "https://github.com/hafeez25",
     gender: "Male",
   },
+  {
+    name : "Ankush Roy",
+    branch : "CSE",
+    college : "HITK",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/ankush-roy-b141b2224/",
+    github : "https://github.com/ankushroy25",
+    gender : "Male"
+},
 
 ];
 
