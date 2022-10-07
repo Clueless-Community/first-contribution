@@ -11,20 +11,20 @@ const index = () => {
   const totalContributor = contributors.length;
   return (
     <>
+      <div className="dark:bg-gray-700">
       <Document />
       <Navbar />
-      <div className="dark:bg-gray-700">
         <section class="text-gray-600 dark:text-white body-font">
           <div class="container px-5 pt-12 mx-auto">
             <div class="flex flex-col text-center w-full mb-5">
-              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 dark:text-white underline underline-offset-4">
+              <h1 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-gray-900 dark:text-white underline-offset-4">
                 Our Contributors
               </h1>
               <p class="lg:w-2/3 mx-auto leading-relaxed text-lg font-semibold mb-4">
                 Total Contibutors : {totalContributor}
               </p>
               <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
-                Want to contribute and Have Your Own Contibutor Card on our Website Then Click the Button Below.
+                Want to contribute and Have Your Own Contibutor Card on our Website? <br/><div className="text-lg">Click the Button Below!</div>
               </p>
             </div>
             <a href="https://github.com/HITK-2025/first-contribution" target="_blank">

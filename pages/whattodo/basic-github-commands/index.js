@@ -40,9 +40,8 @@ const index = () => {
         para="• We need to specify the hash code ( eg. 3321844 ) next to our commit that we would like to undo"
       />
       <GitDiv command="git revert hash_code" />
-
-      <GitCom heading="To rename a git file" />
-      <GitDiv command="git mv old_file_name  new_file_name" />
+        <GitCom heading='To rename a git file' />
+        <GitDiv command='git mv old_file_name  new_file_name' />
 
       <GitCom heading="Temporarily stores your modified files" />
       <GitDiv command="git stash" />
@@ -58,15 +57,15 @@ const index = () => {
       <GitCom heading="To see commits of other group authors." />
       <GitDiv command="git shortlog" />
 
-      <GitCom heading="To see details about a specific commit" />
-      <GitDiv command="git show your_commit_hash_code" />
+        <GitCom heading='To see details about a specific commit' />
+        <GitDiv command='git show your_commit_hash_code' />
 
-      <GitCom heading="To delete tracked file from the current directory" />
-      <GitDiv command="git rm file_name" />
-      <GitCom heading="To merge a specific branch feature to your directory" />
-      <GitDiv command="git merge branch_name" />
-      <GitCom heading="To integrates two branches into a single branch" />
-      <GitDiv command="git rebase base_name" />
+        <GitCom heading='To delete tracked file from the current directory' />
+        <GitDiv command='git rm file_name' />
+        <GitCom heading='To merge a specific branch feature to your directory' />
+        <GitDiv command='git merge branch_name' />
+        <GitCom heading='To integrates two branches into a single branch' />
+        <GitDiv command='git rebase base_name' />
 
       <GitCom
         heading="To find a good/bad commit"
@@ -92,12 +91,11 @@ const index = () => {
         heading="There are many commands in Git"
         para="• To compare working directory with the local repo"
       />
-
-      <GitDiv command="git help" />
+        <GitDiv command='git help' />
 
       <Footer />
     </div>
   );
 };
 
-export default index;
+export default index
