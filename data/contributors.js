@@ -777,6 +777,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Prasanta Chettri",
+    branch: "CSE",
+    college: "SMVDU",
+    year: 2024, //YEAR OF PASS OUT
+    linkedin: "https://www.linkedin.com/in/prasanta-chettri/",
+    github: "https://github.com/prasanta10",
+    gender: "Male",
+  },
+  {
     name: "A Harindra Reddy",
     branch: "Information Science and Engineering",
     college: "Dayananda Sagar College of Engineering",

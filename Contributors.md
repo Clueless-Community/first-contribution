@@ -37,6 +37,7 @@
 - [Ankush](https://github.com/Ankush-Ladani)
 - [Deepanshu](https://github.com/sdeepanshu17)
 - [Pranav](https://github.com/Pranav10903)
+- [Prasanta Chettri](https://github.com/prasanta10)
 - [Hussain Amir](https://github.com/Hussain6)
 - [Parnani Panda](https://github.com/Parnani)
 - [Samyak Bhargava](https://github.com/sammybh6)
