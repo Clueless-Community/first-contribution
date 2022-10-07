@@ -27,7 +27,7 @@ const Footer = () => {
               <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3">
                 Resources
               </h2>
-              <nav className="list-none mb-10">
+              <nav className="list-none mb-10 space-y-2">
                 <li>
                   <a
                     href="https://github.com/HITK-2025/first-contribution"
@@ -35,6 +35,15 @@ const Footer = () => {
                     className={styles.underline}
                   >
                     First Contribution
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/whattodo/basic-github-commands"
+                    target="_blank"
+                    className={styles.underline}
+                  >
+                    Basic GitHub Commands
                   </a>
                 </li>
               </nav>
