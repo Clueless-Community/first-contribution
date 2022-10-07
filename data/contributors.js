@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name : "Manish Tiwari",
+    branch : "Electronics and Instrumentation Engineering",
+    college : "Siddaganga Institute of Technology",
+    year : 2023, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/manish-tiwari-0b8a931b4/",
+    github : "https://github.com/manish-9245",
+    gender : "Male"
+},
+  {
     name: "Soumya Kushwaha",
     branch: "IT-IoT",
     college: "MITS Gwalior",
