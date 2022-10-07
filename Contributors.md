@@ -126,5 +126,6 @@
 - [Sakshi Jain](https://github.com/Sakshi-75)
 - [Avik Kumar Ghosh](https://github.com/avik712)
 - [Rohan Srivastav](https://github.com/rohannsrivastav)
+- [Thaanu Perera](https://github.com/thaanu2001)
 - [Ankit Bhusal](https://github.com/ankitbhusal)
 - [Gowri Shankar](https://github.com/Gowrishankar04)
