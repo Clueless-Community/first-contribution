@@ -62,7 +62,15 @@ const contributors = [
     github: "https://github.com/SattyamSamania",
     gender: "male",
   },
-
+  {
+    name: "Subhajit Gorai",
+    branch: "IT",
+    college: "Dr. B. C. Roy Engineering College",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/subhajit-gorai/",
+    github: "https://github.com/Subhajitongit",
+    gender: "male",
+  },
   {
     name: "Aiman Aisha",
     branch: "CSE",
