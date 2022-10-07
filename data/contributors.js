@@ -1772,6 +1772,15 @@ const contributors = [
     gender: "male"
   },
   {
+    name: "João Paulo Alves Dantas",
+    branch: "CC",
+    college: "Federal University of Campina Grande",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/joao-paulo-dantas-631012253/",
+    github: "https://github.com/PapelRasgado",
+    gender: "male",
+  },
+  {
     name: "Vansh Raj",
     branch: "ECE",
     college: "BVPCOE, Pune",
