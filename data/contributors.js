@@ -126,15 +126,6 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "Rahul Kumar Barnwal",
-    branch: "ECE",
-    college: "RITK",
-    year: 2020,
-    linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
-    github: "https://github.com/rahulgithub-web",
-    gender: "male",
-  },
-  {
     name: "Sayan Chowdhury",
     branch: "CSE AI & ML",
     college: "HITK",
@@ -306,15 +297,7 @@ const contributors = [
     github: "https://github.com/Ankush-Ladani",
     gender: "male",
   },
-  {
-    name: "Ankush",
-    branch: "Instrumentation and Control Engineering",
-    college: "Dharmsinh Desai University",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/ankush-ladani-6a0988199/",
-    github: "https://github.com/Ankush-Ladani",
-    gender: "male",
-  },
+
   {
     name: "Deepanshu",
     branch: "B.tech/CSE",
@@ -499,15 +482,6 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "Yash Seth",
-    branch: "CSE Core",
-    college: "VIT Chennai",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/yash-seth/",
-    github: "https://github.com/yash-seth/",
-    gender: "male",
-  },
-  {
     name: "Subhadip Das",
     branch: "B.Tech/EE",
     college: "National Institute of Technology, Jamshedpur",
@@ -606,15 +580,7 @@ const contributors = [
     github: "https://github.com/SubhojeetDas1107",
     gender: "Male",
   },
-  {
-    name: "Harshit Joshi",
-    branch: "Information Technology",
-    college: "Kalyani Government Engineering College",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/harshit-joshi-40953321b/",
-    github: "https://github.com/Harshit-3905",
-    gender: "Male",
-  },
+
   {
     name: "Yash Kishore Parwani",
     branch: "CSE with Specialization in Software Engineering",
@@ -671,15 +637,7 @@ const contributors = [
     github: "https://github.com/SadashayKanungo",
     gender: "Male",
   },
-  {
-    name: "Ridhika Joshi",
-    branch: "Computer Science Engineering",
-    college: "Academy of Technology",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/ridhika-joshi-069164221/",
-    github: "https://github.com/RidhikaJoshi",
-    gender: "Female",
-  },
+
   {
     name: "Rahul Kumar Yadav",
     branch: "MCA",
@@ -690,15 +648,7 @@ const contributors = [
     gender: "Male",
   },
 
-  {
-    name: "Ridhika Joshi",
-    branch: "Computer Science Engineering",
-    college: "Academy of Technology",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/ridhika-joshi-069164221/",
-    github: "https://github.com/RidhikaJoshi",
-    gender: "Female",
-  },
+  
   {
     name: "Sahil Singh",
     branch: "Computer Science",
@@ -772,7 +722,6 @@ const contributors = [
   },
   {
     name: "Prithvi Singh Kirar",
-
     branch: "Computer Science and Engineering",
     college: "SRMIST",
     year: 2024,
@@ -817,25 +766,6 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "Dhanush",
-    branch: "CSE Ai & Robotics",
-    college: "Vit Chennai",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
-    github: "https://github.com/Dhanush-2605",
-    gender: "Male",
-  },
-  {
-    name: "A Harindra Reddy",
-    name: "Dhanush",
-    branch: "CSE Ai & Robotics",
-    college: "Vit Chennai",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
-    github: "https://github.com/Dhanush-2605",
-    gender: "Male",
-  },
-  {
     name: "A Harindra Reddy",
     branch: "Information Science and Engineering",
     college: "Dayananda Sagar College of Engineering",
@@ -844,33 +774,7 @@ const contributors = [
     github: "https://github.com/NateNear",
     gender: "Male",
   },
-  {
-    name: "Dhanush",
-    branch: "CSE Ai & Robotics",
-    college: "Vit Chennai",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
-    github: "https://github.com/Dhanush-2605",
-    gender: "Male",
-  },
-  {
-    name: "Vaibhav Bhardwaj",
-    branch: "Electronics and Communication Engineering",
-    college: "BPIT",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/bhardwajvaibhav42/",
-    github: "https://github.com/vaibhavx42",
-    gender: "Male",
-  },
-  {
-    name: "Vaibhav Bhardwaj",
-    branch: "Electronics and Communication Engineering",
-    college: "BPIT",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/bhardwajvaibhav42/",
-    github: "https://github.com/vaibhavx42",
-    gender: "Male",
-  },
+
   {
     name: "Vaibhav Bhardwaj",
     branch: "Electronics and Communication Engineering",
@@ -979,24 +883,7 @@ const contributors = [
     github: "https://github.com/AcidOP",
     gender: "Male",
   },
-  {
-    name: "Vikash Maurya",
-    branch: "CSE",
-    college: "KIET Group Of Institutions",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/vikash-maurya-669845172/",
-    github: "https://github.com/kalvik09",
-    gender: "Male",
-  },
-  {
-    name: "Jaydeep Dey",
-    branch: "CSE",
-    college: "Vellore Institute of Technology, Chennai",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
-    github: "https://github.com/jaydeepdey03",
-    gender: "Male",
-  },
+  
   {
     name: "Debarshi Das",
     branch: "BCA",
@@ -1059,7 +946,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/hendrieramdhani/",
     github: "https://github.com/ramdhanihendrie",
     gender: "Male",
-  },
+  },  
   {
     name: "Vikash Maurya",
     branch: "CSE",
@@ -1068,60 +955,6 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/vikash-maurya-669845172/",
     github: "https://github.com/kalvik09",
     gender: "Male",
-  },
-  {
-    name: "Vikash Maurya",
-    branch: "CSE",
-    college: "KIET Group Of Institutions",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/vikash-maurya-669845172/",
-    github: "https://github.com/kalvik09",
-    gender: "Male",
-  },
-  {
-    name: "Jaydeep Dey",
-    branch: "CSE",
-    college: "Vellore Institute of Technology, Chennai",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
-    github: "https://github.com/jaydeepdey03",
-    gender: "Male",
-  },
-  {
-    name: "Ishika Ishani",
-    branch: "Data Science",
-    college: "IIT Madras",
-    year: 2026,
-    linkedin: "https://www.linkedin.com/in/ishika-ishani/",
-    github: "https://github.com/ishani-1255",
-    gender: "Female",
-  },
-  {
-    name: "Vikash Maurya",
-    branch: "CSE",
-    college: "KIET Group Of Institutions",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/vikash-maurya-669845172/",
-    github: "https://github.com/kalvik09",
-    gender: "Male",
-  },
-  {
-    name: "Jaydeep Dey",
-    branch: "CSE",
-    college: "Vellore Institute of Technology, Chennai",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
-    github: "https://github.com/jaydeepdey03",
-    gender: "Male",
-  },
-  {
-    name: "Ishika Ishani",
-    branch: "Data Science",
-    college: "IIT Madras",
-    year: 2026,
-    linkedin: "https://www.linkedin.com/in/ishika-ishani/",
-    github: "https://github.com/ishani-1255",
-    gender: "Female",
   },
   {
     name: "anshu nishad",
@@ -1133,24 +966,6 @@ const contributors = [
     gender: "Female",
   },
   {
-    name : "Jaydeep Dey",
-    branch : "CSE",
-    college : "Vellore Institute of Technology, Chennai",
-    year : 2024,
-    linkedin : "https://www.linkedin.com/in/jaydeep-dey03/",
-    github : "https://github.com/jaydeepdey03",
-    gender : "Male"
-    },
-   {
-    name : "Ishika Ishani",
-    branch : "Data Science",
-    college : "IIT Madras",
-    year : 2026,
-    linkedin : "https://www.linkedin.com/in/ishika-ishani/",
-    github : "https://github.com/ishani-1255",
-    gender : "Female"
-    },
-    {
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
@@ -1168,42 +983,7 @@ const contributors = [
     github: "https://github.com/ishani-1255",
     gender: "Female",
   },
-  {
-    name: "Jaydeep Dey",
-    branch: "CSE",
-    college: "Vellore Institute of Technology, Chennai",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
-    github: "https://github.com/jaydeepdey03",
-    gender: "Male",
-  },
-  {
-    name: "Ishika Ishani",
-    branch: "Data Science",
-    college: "IIT Madras",
-    year: 2026,
-    linkedin: "https://www.linkedin.com/in/ishika-ishani/",
-    github: "https://github.com/ishani-1255",
-    gender: "Female",
-  },
-  {
-    name: "Tushar Gupta",
-    branch: "Computer Science and Engineering",
-    college: "Shri Shankaracharya Technical Campus",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/tushargupta3002/",
-    github: "https://github.com/Tushar-2003",
-    gender: "Male",
-  },
-  {
-    name: "Om Anand Pandey",
-    branch: "Computer Science and Engineering",
-    college: "SRM Institute of Science and Technology",
-    year: 2023,
-    linkedin: "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
-    github: "https://github.com/pandeyom331",
-    gender: "Male",
-  },
+
   {
     name: "Om Anand Pandey",
     branch: "Computer Science and Engineering",
@@ -1439,15 +1219,7 @@ const contributors = [
     github: "https://github.com/Cheeh1",
     gender: "Male",
   },
-  {
-    name: "Manmohan Dhal",
-    branch: "CSE",
-    college: "Institute of Technical Education and Research",
-    year: 2024, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/manmohan-04142/",
-    github: "https://github.com/manmohan4142",
-    gender: "Male",
-  },
+
   {
     name: "Aditya Prakash",
     branch: "CSE",
@@ -1539,24 +1311,7 @@ const contributors = [
     github: "https://github.com/myGlitches",
     gender: "Male",
   },
-  {
-    name: "Vijay",
-    branch: "CSE",
-    college: "Warangal",
-    year: 2023,
-    linkedin: "NA",
-    github: "https://github.com/vijay2249",
-    gender: "Male",
-  },
-  {
-    name: "komal",
-    branch: "CSE",
-    college: "MBES COEA",
-    year: 2022, //Year of Pass Out
-    linkedin: "https://github.com/komalswami",
-    github: "https://www.linkedin.com/in/komal-swami-4a539117a",
-    gender: "Female",
-  },
+
   {
     name: "Abhirup Panda",
     branch: "Computer Engineering",
@@ -1594,15 +1349,6 @@ const contributors = [
     github : "https://github.com/aritra-tech",
     gender : "Male"
 },
-  {
-  name: "Hritik Bhattacharya",
-  branch: "Computer Science and Engineering",
-  college: "Haldia Institute of Technology",
-  year: 2025, //Year of Pass Out
-  linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
-  github: "https://github.com/hritikbhattacharya",
-  gender: "Male",
-},
 {
   name : "Sashikanta Mohanty",
   branch : "CSE",
@@ -1612,24 +1358,7 @@ const contributors = [
   github : "https://github.com/Sashi2002",
   gender : "Male"
 },
-{
-    name: "Saransh Sinha",
-    branch: "CSE",
-    college: "SRM Institute of Science and Technology",
-    year: 2025, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/saranshsinha17/",
-    github: "https://github.com/WraitH17",
-    gender: "Male",
-  },
-  {
-    name: "Aritra Das",
-    branch: "CSE",
-    college: "JIS College of Engineering",
-    year: 2024, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/aritra-das-/",
-    github: "https://github.com/aritra-tech",
-    gender: "Male",
-  },
+
   {
     name: "Hritik Bhattacharya",
     branch: "Computer Science and Engineering",
