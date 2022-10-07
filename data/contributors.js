@@ -1444,6 +1444,15 @@ const contributors = [
     github: "https://github.com/hafeez25",
     gender: "Male",
   },
+  {
+    name: "Raihan Khan",
+    branch: "CSE(AI)",
+    college: "Institute of Engineering & Management",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/raihankhan-rk/",
+    github: "https://github.com/raihankhan-rk",
+    gender: "Male",
+  },
 
 ];
 
