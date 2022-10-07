@@ -1471,6 +1471,15 @@ const contributors = [
   github : "https://github.com/Pratham-R",
   gender : "Male"
   },
+  {
+    name: "Bashar V I",
+    branch: "MECH",
+    college: "DSCE COIMBATORE",
+    year: 2016,
+    linkedin: "https://www.linkedin.com/in/BasharVI",
+    github: "https://github.com/BasharVI",
+    gender: "male",
+  },
 
 ];
 
