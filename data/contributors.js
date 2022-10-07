@@ -1735,6 +1735,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Durgesh Mahajan",
+    branch : "Information Technology",
+    college : "D. Y. Patil College of Engineering (DYPCOE), Akurdi, Pune",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/durgesh-mahajan-99bab0212/",
+    github : "https://github.com/durgeshm01722",
+    gender : "Male"
+  },
+  {
     name:"Nishant Kumar Singh",
     branch: "IT",
     college: "Guru Jambheshwar University of Science and Technology, Hisar",
