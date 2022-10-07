@@ -84,7 +84,7 @@ const HeroDark = () => {
           detectRetina: true,
         }}
       />
-      <div className="relative z-10 w-full h-[95vh] flex flex-col justify-center">
+      <div className="relative z-10 w-full flex flex-col justify-center">
         <h1 className="text-center text-7xl font-sans font-bold text-blue-600 opacity-90">
           Welcome to ClueLess Community
         </h1>
