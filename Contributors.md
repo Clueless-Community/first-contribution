@@ -117,4 +117,4 @@
 - [Deep Das](https://github.com/myselfdeepdas)
 - [Manish Kumar Gupta](https://github.com/Heismanish)
 - [Dhruv Pruthi](https://github.com/para-docx)
-- [Gautam Agarwal] (https://github.com/gaut2003)
+- [Gautam Agarwal](https://github.com/gaut2003)
