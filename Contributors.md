@@ -117,5 +117,6 @@
 - [Deep Das](https://github.com/myselfdeepdas)
 - [Manish Kumar Gupta](https://github.com/Heismanish)
 - [Dhruv Pruthi](https://github.com/para-docx)
+- [Sivasuriyan Kumarasamy](https://github.com/sivasuriyankumarasamy)
+- [Gautam Agarwal](https://github.com/gaut2003)
 - [Sakshi Jain](https://github.com/Sakshi-75)
-
