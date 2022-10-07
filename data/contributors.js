@@ -1734,6 +1734,18 @@ const contributors = [
     github: "https://github.com/thaanu2001",
     gender: "Male",
   },
+
+  {
+    name: "Vansh Raj",
+    branch: "ECE",
+    college: "BVPCOE, Pune",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/vansh-raj-60877b1bb/",
+    github: "https://github.com/vansh-2266",
+    gender: "Male",
+  }
+
+
 ];
 
 
