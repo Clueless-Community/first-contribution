@@ -1548,6 +1548,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
+  },
+  {
+    name: "Manish Kumar Gupta",
+    branch: "IT",
+    college: "BPIT",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/manish-kumar-gupta-47878320b/",
+    github: "https://github.com/Heismanish",
+    gender: "Male",
   }
 );
 
