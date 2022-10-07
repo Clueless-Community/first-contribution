@@ -117,4 +117,6 @@
 - [Deep Das](https://github.com/myselfdeepdas)
 - [Manish Kumar Gupta](https://github.com/Heismanish)
 - [Saugat Rimal](https://github.com/saugat-rimal)
+- [Dhruv Pruthi](https://github.com/para-docx)
+
 

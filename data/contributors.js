@@ -1620,6 +1620,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/saugatrimal/",
     github: "https://github.com/saugat-rimal",
     gender: "Male",
+  },
+  {
+    name: "Dhruv Pruthi",
+    branch: "Electronics and Communication Engineering",
+    college: "GJUST",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
+    github: "https://github.com/para-docx",
+    gender: "Male",
   }
 );
 
