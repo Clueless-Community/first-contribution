@@ -1620,7 +1620,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
     github: "https://github.com/para-docx",
     gender: "Male",
-  }
+  },
+  {
+    name : "Mohit singh",
+    branch : "Electronics and Communication Engineering",
+    college : "GKV",
+    year : 2025, //Year of Pass Out
+    linkedin : "LinkedIn Profile URL",
+    github : "https://www.linkedin.com/in/the-mastermind-6b9960248/",
+    gender : "Male"
+},
 );
 
 export default contributors;
