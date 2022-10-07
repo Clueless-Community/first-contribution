@@ -1562,6 +1562,15 @@ const contributors = [
     github: "https://github.com/Saurav50",
     gender: "Male",
   },
+  {
+    name: "Anurag Tiwari",
+    branch: "ECE",
+    college: "SLIET,PUNJAB",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/danurag23/",
+    github: "https://github.com/Danuragtiwari",
+    gender: "Male",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
