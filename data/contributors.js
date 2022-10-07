@@ -26,6 +26,15 @@ const contributors = [
         github : "https://github.com/rahulkarda",
         gender : "male"
   },
+   {
+        name : "Deep das",
+        branch : "CSE-AIML",
+        college : "Haldia Institute of Technology",
+        year : 2024, 
+        linkedin : "https://www.linkedin.com/in/myselfdeepdas",
+        github : "https://github.com/myselfdeepdas",
+        gender : "male"
+  },
   {
     name: "Sattyam Samania",
     branch: "CSE",
