@@ -1,6 +1,7 @@
 # Contributors
 - [Manish Tiwari](https://github.com/manish-9245)
 - [Danish Zayan](https://github.com/danishzayan)
+- [Shruti Mishra](https://github.com/ShrutiMishra-2002)
 - [Rahul Karda](https://github.com/rahulkarda)
 - [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
@@ -121,4 +122,6 @@
 - [Sivasuriyan Kumarasamy](https://github.com/sivasuriyankumarasamy)
 - [Gautam Agarwal](https://github.com/gaut2003)
 - [Swapnil Aichbhaumik](https://github.com/Swap-nil-2003)
+- [Sakshi Jain](https://github.com/Sakshi-75)
+- [Avik Kumar Ghosh](https://github.com/avik712)
 
