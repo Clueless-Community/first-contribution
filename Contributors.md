@@ -129,4 +129,5 @@
 - [Thaanu Perera](https://github.com/thaanu2001)
 - [Ankit Bhusal](https://github.com/ankitbhusal)
 - [Gowri Shankar](https://github.com/Gowrishankar04)
+- [Nishant Kumar Singh](https://github.com/Nishant2209)
 - [Vansh Raj](https://github.com/vansh-2266)
