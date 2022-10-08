@@ -71,11 +71,12 @@ const Footer = () => {
                     <a className="text-gray-600 hover:text-gray-800 hover:dark:text-gray-100 dark:text-gray-200 cursor-pointer hover:underline">
                       What to do?
                     </a>
+                    import LinkedInIcon from '@mui/icons-material/LinkedIn';
                   </Link>
                 </li>
               </nav>
             </div>
-          <div className="lg:w-1/4 md:w-1/2 w-full px-4">
+            <div className="lg:w-1/4 md:w-1/2 w-full px-4">
               <h2 className="title-font font-medium text-gray-900 dark:text-gray-50 tracking-widest text-sm mb-3">
                 Community Link
               </h2>
@@ -90,14 +91,38 @@ const Footer = () => {
                   </a>
                 </li>
               </nav>
-          </div>
             </div>
+          </div>
         </div>
         <div className="bg-blue-500 dark:bg-slate-800">
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className="text-gray-50 text-sm text-center sm:text-left">
               © 2022 ClueLess
             </p>
+
+
+            <div class="footer_socials">
+              <a class="link linkedin" href="$">
+                <i class="fab fa-2x fa-linkedin"></i>
+              </a>
+
+              <a class="link twitter" href="$">
+                <i class="fab fa-2x fa-twitter"></i>
+              </a>
+
+              <a class="link instagram" href="$">
+                <i class="fab fa-2x fa-instagram"></i>
+              </a>
+
+              <a class="link youtube" href="$">
+                <i class="fab fa-2x fa-youtube"></i>
+              </a>
+
+              <a class="link facebook" href="$">
+                <i class="fab fa-2x fa-facebook-f"></i>
+              </a>
+
+            </div>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
               <a className="text-gray-50">
                 <svg

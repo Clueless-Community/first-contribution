@@ -996,12 +996,20 @@ const contributors = [
     github : "https://github.com/ishani-1255",
     gender : "Female"
     },
-    name: "Tushar Gupta",
+    {name: "Tushar Gupta",
     branch: "Computer Science and Engineering",
     college:"Shri Shankaracharya Technical Campus",
     year:2025,
     linkedin:"https://www.linkedin.com/in/tushargupta3002/",
     github:"https://github.com/Tushar-2003",
+    gender:"Male"
+  },
+  {name: "Abhishek Tiwari",
+    branch: "Electronics and communication engineering with IoT",
+    college:"Netaji Subhas University of Technology",
+    year:2025,
+    linkedin:"https://www.linkedin.com/in/abhishek-tiwari-5ba03422b/",
+    github:"https://github.com/AbhishekTiwari23",
     gender:"Male"
   },
 
