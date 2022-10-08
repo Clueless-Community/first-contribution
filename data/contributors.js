@@ -1908,7 +1908,7 @@ const contributors = [
       name : "Stephen Praise",
       branch : "Edu Tech",
       college : "Unilorin",
-      year : 2022,
+      year : 2023,
       linkedin : "https://www.linkedin.com/in/agboola-stephen-praise",
       github : "https://github.com/devbysteph",
       gender : "Male"
