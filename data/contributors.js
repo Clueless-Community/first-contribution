@@ -262,6 +262,15 @@ const contributors = [
       gender: "Female",
     },
     {
+      name: "Kusumita Ghose",
+      branch: "CSE (AI & ML)",
+      college: "HITK",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/kusumita-ghose-a10ba121a",
+      github: "https://github.com/kusumita29",
+      gender: "Female",
+    },
+    {
       name: "Arijit Ghosh",
       branch: "CSE",
       college: "RKMGEC",
@@ -1886,6 +1895,15 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/",
       github: "https://github.com/BurhanRaja",
       gender: "male"
+    }
+    {
+      name:"Chakradhar Ghute",
+      branch :"Information Technology",
+      college : "Sinhgad College of Engineering",
+      year: 2023, //passout year,
+      linkedin : "https://www.linkedin.com/in/chakradharghute/",
+      github : "https://github.com/chakradhar4",
+      gender : "male"
     }
   );
   
