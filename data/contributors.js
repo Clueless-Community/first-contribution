@@ -1967,6 +1967,15 @@ const contributors = [
       linkedin : "https://www.linkedin.com/in/kshitij-agarwal-35b427242/",
       github : "https://github.com/omniscientHorizon",
       gender : "Male"
+      },
+      {
+        name : "Prajwal Gupta",
+        branch : "Information science and engineering",
+        college : "Nitte Meenakshi Institute of Technology",
+        year : 2025, 
+        linkedin : "https://www.linkedin.com/in/prajwal-gupta-28ab3a222/",
+        github : "https://github.com/Prajwalgupta",
+        gender : "Male"
   },
   ];
   
