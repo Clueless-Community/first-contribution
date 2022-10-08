@@ -13,14 +13,20 @@ const CreatorSection = () => {
             <div className="flex flex-wrap -m-4">
               <div className="lg:w-1/4 lg:mb-0 mb-6 p-4">
                 <div className="h-full text-center">
-                  <Image src="/Roshan.jpeg" width={100} height={100} className="w-20 h-20 mb-8 object-center object-fit rounded-full inline-block border-2 border-gray-200 bg-gray-100" />
+                  <Image
+                    src="/Roshan.jpeg"
+                    alt="Photo of Roshan"
+                    width={100}
+                    height={100}
+                    className="w-20 h-20 mb-8 object-center object-fit rounded-full inline-block border-2 border-gray-200 bg-gray-100"
+                  />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Roshan Kumar
                   </h2>
                   <p className="leading-relaxed">
-                    Hey there!! I'm Roshan Kumar | Currently doing app
-                    developement using flutter framework | Interested in
-                    developement and machine learning | Reach me at
+                    Hey there!! I'm Roshan Kumar | CyberSecurity Enthusiast |
+                    Into reverse Engineering and kernel developement | Loves to
+                    play with Linux and solving CTFs | Reach me at
                     roshan0902@pm.me
                   </p>
                   <span className="inline-block h-1 w-10 rounded bg-blue-500 mt-6 "></span>
@@ -70,7 +76,13 @@ const CreatorSection = () => {
               </div>
               <div className="lg:w-1/4 lg:mb-0 mb-6 p-4">
                 <div className="h-full text-center">
-                  <Image src="/Rajdeep.png" width={100} height={100} className="w-20 h-20 mb-8 object-center object-fit rounded-full inline-block border-2 border-gray-200 bg-gray-100" />
+                  <Image
+                    src="/Rajdeep.png"
+                    alt="Photo of Rajdeep"
+                    width={100}
+                    height={100}
+                    className="w-20 h-20 mb-8 object-center object-fit rounded-full inline-block border-2 border-gray-200 bg-gray-100"
+                  />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Rajdeep Sengupta
                   </h2>
@@ -131,7 +143,13 @@ const CreatorSection = () => {
               </div>
               <div className="lg:w-1/4 lg:mb-0 p-4">
                 <div className="h-full text-center">
-                  <Image src="/Nikhil.jpg" width={100} height={100} className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" />
+                  <Image
+                    src="/Nikhil.jpg"
+                    alt="Photo of Nikhil"
+                    width={100}
+                    height={100}
+                    className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
+                  />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Nikhil Raj
                   </h2>
@@ -187,7 +205,13 @@ const CreatorSection = () => {
               </div>
               <div className="lg:w-1/4 lg:mb-0 p-4 mt-8 lg:mt-0">
                 <div className="h-full text-center">
-                  <Image src="/debajyoti.jpeg" width={100} height={100} className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" />
+                  <Image
+                    alt="Photo of debajyoti"
+                    src="/debajyoti.jpeg"
+                    width={100}
+                    height={100}
+                    className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
+                  />
                   <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm dark:text-gray-50 mb-5">
                     Debajyoti Saha
                   </h2>

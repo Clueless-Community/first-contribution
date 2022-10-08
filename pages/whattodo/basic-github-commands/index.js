@@ -1,9 +1,10 @@
-import React from "react"
-import Head from "next/head"
-import Navbar from "../../components/Navbar"
-import Footer from "../../components/Footer"
-import GitCom from "../../components/GitCom"
-import GitDiv from "../../components/GitDiv"
+import React from "react";
+import Head from 'next/head'
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
+import GitCom from "../../components/GitCom";
+import GitDiv from "../../components/GitDiv";
+import Topfab from "../../components/Topfab";
 
 const index = () => {
   return (
@@ -95,11 +96,12 @@ const index = () => {
         />
 
         <GitDiv command='git help' />
+      <Footer />
+     </div>
+     <Topfab/>
+   </>
+  );
+};
 
-        <Footer />
-      </div>
-    </>
-  )
-}
 
 export default index
