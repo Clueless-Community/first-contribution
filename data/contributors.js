@@ -1959,6 +1959,15 @@ const contributors = [
         github : "https://github.com/gaurav-shrestha",
         gender : "Male"
     },
+    {
+      name : "Kshitij Agarwal",
+      branch : "Science",
+      college : "The Heritage School",
+      year : 2023, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/kshitij-agarwal-35b427242/",
+      github : "https://github.com/omniscientHorizon",
+      gender : "Male"
+      },
       {
         name : "Prajwal Gupta",
         branch : "Information science and engineering",
