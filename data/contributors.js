@@ -1957,6 +1957,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+        name : "Sejal Mishra",
+        branch : "Computer Science And Engineering",
+        college : "Asansol Engineering College",
+        year : 2022, 
+        linkedin : "http://www.linkedin.com/in/sejal-mishra-74a56a20b",
+        github : "https://github.com/sejalmishra",
+        gender : "Female"
+    },
   );
   
   export default contributors;
