@@ -16,6 +16,15 @@ const contributors = [
     github : "https://github.com/iabhaychandel",
     gender : "Male"
   },
+  {
+    name : "Azhar Sayyad",
+    branch : "Computer Science Engineering",
+    college : "Anuradha Engineering College",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sayyad-azhar/",
+    github : "https://github.com/Azhar221",
+    gender : "Male"
+  },
     {
       name : "Tanmoy Karmakar",
       branch : "Computer Science Engineering",
