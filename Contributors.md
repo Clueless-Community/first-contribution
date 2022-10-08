@@ -1,4 +1,7 @@
+<!-- @format -->
+
 # Contributors
+
 - [Manish Tiwari](https://github.com/manish-9245)
 - [Danish Zayan](https://github.com/danishzayan)
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)
@@ -143,3 +146,4 @@
 - [Nirdesh Pokharel](https://github.com/codernirdesh)
 - [Sneha Agarwal](https://github.com/isyneha)
 - [Burhanuddin Raja](https://github.com/BurhanRaja)
+- [Gajanan Rathod](https://github.com/gajanansr)
