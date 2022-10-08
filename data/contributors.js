@@ -1958,6 +1958,14 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/saharanitaa1230dreamer/",
       github: "https://github.com/ranitasahaa1230",
       gender: "Female",
+      {
+        name : "Gaurav Pratap Shrestha",
+        branch : "CSIT",
+        college : "National Infotech College",
+        year : 2024,
+        linkedin : "https://www.linkedin.com/in/gaurav-shrestha/",
+        github : "https://github.com/gaurav-shrestha",
+        gender : "Male"
     },
   ];
   
