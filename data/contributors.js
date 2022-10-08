@@ -13,7 +13,7 @@ const contributors = [
         name : "Sejal Mishra",
         branch : "Computer Science And Engineering",
         college : "Asansol Engineering College",
-        year : 2022, 
+        year : 2022,
         linkedin : "http://www.linkedin.com/in/sejal-mishra-74a56a20b",
         github : "https://github.com/sejalmishra",
         gender : "Female"
@@ -206,7 +206,7 @@ const contributors = [
       github: "https://github.com/Amit-TheOne",
       gender: "Male",
     },
-  
+
     {
       name: "Anubhab Halder",
       branch: "CSE AI & ML",
@@ -442,7 +442,7 @@ const contributors = [
       github: "https://github.com/Ankush-Ladani",
       gender: "male",
     },
-  
+
     {
       name: "Deepanshu",
       branch: "B.tech/CSE",
@@ -450,7 +450,7 @@ const contributors = [
       year: 2025,
       linkedin: "https://www.linkedin.com/in/sdeepanshu17/",
       github: "https://github.com/sdeepanshu17",
-  
+
       gender: "Male",
     },
     {
@@ -561,7 +561,7 @@ const contributors = [
       github: "https://github.com/Abhiraj-1604",
       gender: "male",
     },
-  
+
     {
       name: "Chetan Singh",
       branch: "Computer Science and Engineering",
@@ -607,7 +607,7 @@ const contributors = [
       github: "https://github.com/PRATYUSHPAHARI",
       gender: "male",
     },
-  
+
     {
       name: "Akshay Kalekar",
       branch: "CSE CORE",
@@ -725,7 +725,7 @@ const contributors = [
       github: "https://github.com/SubhojeetDas1107",
       gender: "Male",
     },
-  
+
     {
       name: "Yash Kishore Parwani",
       branch: "CSE with Specialization in Software Engineering",
@@ -762,7 +762,7 @@ const contributors = [
       github: "https://github.com/minhaj-313",
       gender: "Male",
     },
-  
+
     {
       name: "Saif Bagmaru",
       branch: "Artificial Intelligence and Data Science",
@@ -772,7 +772,7 @@ const contributors = [
       github: "https://github.com/saifltr",
       gender: "Male",
     },
-  
+
     {
       name: "Sadashay Kanungo",
       branch: "B.E. (CSE) with M.Sc. (Economics)",
@@ -782,7 +782,7 @@ const contributors = [
       github: "https://github.com/SadashayKanungo",
       gender: "Male",
     },
-  
+
     {
       name: "Rahul Kumar Yadav",
       branch: "MCA",
@@ -792,7 +792,7 @@ const contributors = [
       github: "https://github.com/itzrahulyadav",
       gender: "Male",
     },
-  
+
     {
       name: "Sahil Singh",
       branch: "Computer Science",
@@ -918,7 +918,7 @@ const contributors = [
       github: "https://github.com/NateNear",
       gender: "Male",
     },
-  
+
     {
       name: "Vaibhav Bhardwaj",
       branch: "Electronics and Communication Engineering",
@@ -982,7 +982,7 @@ const contributors = [
       github: "https://github.com/AnkitAnandMastery17",
       gender: "Male",
     },
-  
+
     {
       name: "Marcin Czownicki",
       branch: "Frontend developer",
@@ -1027,7 +1027,7 @@ const contributors = [
       github: "https://github.com/AcidOP",
       gender: "Male",
     },
-  
+
     {
       name: "Debarshi Das",
       branch: "BCA",
@@ -1262,7 +1262,7 @@ const contributors = [
       github: "https://github.com/annupriy",
       gender: "Female",
     },
-  
+
     {
       name: "Sneha Singh",
       branch: "Information Technology",
@@ -1371,7 +1371,7 @@ const contributors = [
       github: "https://github.com/Cheeh1",
       gender: "Male",
     },
-  
+
     {
       name: "Aditya Prakash",
       branch: "CSE",
@@ -1453,7 +1453,7 @@ const contributors = [
       github: "https://www.linkedin.com/in/komal-swami-4a539117a",
       gender: "Female",
     },
-  
+
     {
       name: "Suryadipta Sarkar",
       branch: "CST",
@@ -1463,7 +1463,7 @@ const contributors = [
       github: "https://github.com/myGlitches",
       gender: "Male",
     },
-  
+
     {
       name: "Abhirup Panda",
       branch: "Computer Engineering",
@@ -1482,7 +1482,7 @@ const contributors = [
       github: "https://github.com/Paramhans-Singh",
       gender: "male",
     },
-  
+
     {
       name: "Saransh Sinha",
       branch: "CSE",
@@ -1510,7 +1510,7 @@ const contributors = [
       github: "https://github.com/Sashi2002",
       gender: "Male",
     },
-  
+
     {
       name: "Hritik Bhattacharya",
       branch: "Computer Science and Engineering",
@@ -1529,7 +1529,7 @@ const contributors = [
       github: "https://github.com/adityaraj6902",
       gender: "Male",
     },
-  
+
     {
       name: "Saransh Dubey",
       branch: "Computer Science and Engineering",
@@ -1577,7 +1577,7 @@ const contributors = [
       gender: "Male",
     },
     {
-  
+
       name : "Sagnik Ghosh",
       branch : "Electronics and Communication Engineering",
       college : "Siliguri Institute of Technology",
@@ -1657,9 +1657,9 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/prabadhya-upadhyay-4272881a1/",
       github: "https://github.com/Rickey07",
       gender: "Male",
-  
+
     },
-  
+
     {
       name: "Bashar V I",
       branch: "MECH",
@@ -1679,7 +1679,7 @@ const contributors = [
       gender: "Male",
     },
     {
-  
+
       name: "Anurag Tiwari",
       branch: "ECE",
       college: "SLIET,PUNJAB",
@@ -1718,7 +1718,7 @@ const contributors = [
       name : "Swapnil Aichbhaumik",
       branch : "CSE",
       college : "HITK",
-      year : 2025, 
+      year : 2025,
       linkedin : "https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224/",
       github : "https://github.com/Swap-nil-2003",
       gender : "Male",
@@ -1733,7 +1733,7 @@ const contributors = [
       gender : "Female"
      },
      {
-  
+
       name : "Rohan Srivastav",
       branch : "CSE",
       college : "VIT Vellore",
@@ -1746,7 +1746,7 @@ const contributors = [
           name : "SAGNIK SAHOO",
           branch : "CSE",
           college : "DAV PUBLIC SCHOOL, HALDIA",
-          year : 2028, 
+          year : 2028,
           linkedin : "https://www.linkedin.com/in/heysagnik/",
           github : "https://github.com/heysagnik",
           gender : "Male"
@@ -1794,7 +1794,7 @@ const contributors = [
       year: 2023,
       linkedin: "https://www.linkedin.com/in/thaanu-perera-0a84b9194/",
       github: "https://github.com/thaanu2001",
-  
+
       gender: "Male",
     },
     {
@@ -1873,7 +1873,7 @@ const contributors = [
           name : "Aishani Pachauri",
           branch : "CSE",
           college : "Jaypee University of Information Technology",
-          year : 2023, 
+          year : 2023,
           linkedin : "https://www.linkedin.com/in/aishanipachauri/",
           github : "https://github.com/Aishanipach",
           gender : "female"
@@ -1895,7 +1895,7 @@ const contributors = [
         linkedin : "https://www.linkedin.com/in/sneha-agarwal-217a55200/",
         github : "https://github.com/isyneha",
         gender : "Female"
-    },    
+    },
     {
       name: "Burhanuddin Raja",
       branch: "BBA (Commerce)",
@@ -1960,11 +1960,11 @@ const contributors = [
         gender : "Male"
     },
   ];
-  
-  
-  
-  
-  
+
+
+
+
+
   // Don't add any data to this contributors.unshift part Add data above this ⬆️
   contributors.unshift(
     {
@@ -2003,7 +2003,16 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+      {
+        name : "Shaswat Gupta",
+        branch : "ECE",
+        college : "Indian Institute of Information Technology, Design and Manufacturing, Jabalpur",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/shaswat-gupta-16b1891b4/",
+        github : "https://github.com/masterchief164",
+        gender : "Male"
+      },
   );
-  
+
   export default contributors;
-  
+
