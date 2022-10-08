@@ -14,10 +14,19 @@ const contributors = [
         branch : "Computer Science And Engineering",
         college : "Asansol Engineering College",
         year : 2022, 
-        linkedin : "http://www.linkedin.com/in/sejal-mishra-74a56a20b",
-        github : "https://github.com/sejalmishra",
+        linkedin : "https://www.linkedin.com/in/smiti-oswal-11755b223",
+        github : "https://github.com/smitioswal",
         gender : "Female"
   },
+  {
+    name : "Smiti Oswal",
+    branch : "Computer Science And Engineering",
+    college : "Indian Institute of Technology, Mandi",
+    year : 2025, 
+    linkedin : "http://www.linkedin.com/in/sejal-mishra-74a56a20b",
+    github : "https://github.com/sejalmishra",
+    gender : "Female"
+},
   {
       name : "Ritik Gupta",
       branch : "Computer Science and Information Technology",
