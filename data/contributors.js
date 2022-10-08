@@ -1904,6 +1904,15 @@ const contributors = [
         github : "https://github.com/theselaw",
         gender : "Male"
     },
+    {
+      name : "Harshit Sharma",
+      branch : "Mechanical Engineering",
+      college : "Delhi technological University",
+      year : 2024, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/harshitsharma18/",
+      github : "https://github.com/HARSHITSHARMA18",
+      gender : "Male"
+  },
   ];
   
   
