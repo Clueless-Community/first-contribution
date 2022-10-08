@@ -1,7 +1,7 @@
 const contributors = [
 //Add your Details here //
   {
-    name : "Natasha Srivatava",
+    name : "Natasha Srivastava",
     branch : "ECE",
     college : "DTU",
     year : 2022, //Year of Pass Out
