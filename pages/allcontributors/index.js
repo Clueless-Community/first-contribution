@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import ContributorCard from "../components/ContributorCard";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
@@ -20,12 +20,12 @@ const index = () => {
     overflow:'hidden'
   }
 
-  function searchCards(){
-    let searchRes = contributors.filter(item =>item.name.includes(search));
-    setSearchResult(searchRes);
-    console.log(searchRes);
-  }
+  useEffect(() => {
 
+    setSearchResult(contributors.filter(item => item.name.includes(search)));
+
+  }, [search])
+  
   return (
     <>
       <Document />
@@ -48,8 +48,7 @@ const index = () => {
               <button className="px-4 py-2 border-[#0061ff] border-4 text-[#0061ff] rounded-xl font-bold text-xl mb-10 hover:bg-blue-500 hover:text-white transition-all hover:border-blue-500 flex mx-auto dark:border-gray-50 dark:hover:text-white dark:text-gray-50 dark:hover:border-blue-500">Get Your Contributor Card !</button>
             </a>
             <div style={searchStyles}>
-              <input style={{ flex: 1, display: 'flex', paddingLeft: 12, border: '1px solid black', borderRadius: 4, color: 'black' }} onChange={(e) => setSearch(e.target.value)} type="text" placeholder="Search your card " />
-              <button onClick={searchCards} className="bg-gray-800 w-full text-gray-200 rounded ml-4">Search</button>
+              <input style={{flex: 1, display:'flex', paddingLeft: 12, border: '1px solid black', borderRadius: 6, color: 'black'}} onChange={(e) => setSearch(e.target.value)}  type="text" placeholder="Search your card " />
             </div>
             <div class="flex -m-2 flex-wrap mb-2">
               {searchResult.map((contributor) => {
