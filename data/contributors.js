@@ -1,4 +1,4 @@
-const contributors = [
+﻿const contributors = [
     {
       name : "Tanmoy Karmakar",
       branch : "Computer Science Engineering",
@@ -8,6 +8,15 @@ const contributors = [
       github : "https://github.com/tanmoy27112000",
       gender : "Male"
   },
+{
+      name: "Mayuri Kolhe",
+      branch: "CSE",
+      college: "PICT",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/mayuri-kolhe-538883193",
+      github: "https://github.com/MayuriKolhe-2003",
+      gender: "Female",
+    },
     {
       name : "Raj Palmal",
       branch : "Computer Science Engineering",
@@ -1868,6 +1877,7 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+
   );
   
   export default contributors;
