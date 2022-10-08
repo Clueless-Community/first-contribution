@@ -2030,6 +2030,16 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+      name: "Yash Raj Mani",
+      branch: "CSE",
+      college: "VIT Vellore",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/yashrajmani/",
+      github: "https://github.com/yashrajmani",
+      gender: "Male",
+    },
+    
   );
   
   export default contributors;
