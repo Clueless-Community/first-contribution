@@ -149,3 +149,4 @@
 - [Kishan Aghera](https://github.com/kishan-aghera)
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Mihir Panchal](https://github.com/MihiRajeshPanchal)
+- [Atharv Vani](https://github.com/Atharv-110)
