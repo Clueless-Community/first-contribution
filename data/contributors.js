@@ -1,6 +1,15 @@
 const contributors = [
 //Add your Details here //
   {
+    name : "Sayak Saha",
+    branch : "ECE",
+    college : "Future Institute of Engineering and Management",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/sayaksaha10",
+    github : "https://github.com/sayakongit",
+    gender : "Male"
+  },
+  {
     name : "Sage",
     branch : "Engineering",
     college : "Bells Uni.",
