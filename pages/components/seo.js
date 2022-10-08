@@ -14,7 +14,7 @@ const Seo = () => {
         description: "learn. Grow.",
         images: [
           {
-            url: "https://6bd7-36-74-89-71.ngrok.io/opengraph.jpg",
+            url: "https://clueless.vercel.app/opengraph.jpg",
             width: 1200,
             height: 630,
             alt: "Social",
