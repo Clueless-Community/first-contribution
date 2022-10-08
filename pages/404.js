@@ -18,12 +18,12 @@ const ErrorPage = () => {
     HeroTheme();
   }, []);
   return (
-    <div>
-    <Document />
+    <>
+      <Document />
       <Navbar herotheme={HeroTheme} />
       {!Hometheme && <ErrorLight />}
       {Hometheme === "dark" && <ErrorDark />}
-    </div>
+    </>
   );
 };
 

@@ -4,12 +4,10 @@ import Seo from "./components/seo";
 
 function MyApp({ Component, pageProps }) {
   return (
-    <>
-      <RecoilRoot>
-        <Seo />
-        <Component {...pageProps} />
-      </RecoilRoot>
-    </>
+    <RecoilRoot>
+      <Seo />
+      <Component {...pageProps} />
+    </RecoilRoot>
   );
 }
 

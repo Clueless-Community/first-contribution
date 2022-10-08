@@ -1,3 +1,9 @@
+
+<h1 align='center'>We are extremely sorry to inform you that this repo is excluded from Hactoberfest 2022 😢</h1>
+<p align='center'> <b>But the contribution you made will not go waste, it still counts in for swags by Clueless</b> <p>
+
+----
+
 <h1 align='center'>First Contribution 🫂</h1>
 <p align='center'> <b>This project is for those who are new to open-source and looking for make their first contribution </b> <p>
 
