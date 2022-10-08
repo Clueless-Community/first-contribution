@@ -150,6 +150,7 @@
 - [Kishan Aghera](https://github.com/kishan-aghera)
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Mihir Panchal](https://github.com/MihiRajeshPanchal)
+- [Santanu Jana](https://github.com/Santanujana2001)
 - [Gaurav Pratap Shrestha](https://github.com/gaurav-shrestha)
 - [Sukhjeet Singh](https://github.com/00sukhjeet00)
 - [Yash Raj Mani](https://github.com/yashrajmani)
