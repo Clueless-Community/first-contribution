@@ -145,3 +145,4 @@
 - [Sneha Agarwal](https://github.com/isyneha)
 - [Burhanuddin Raja](https://github.com/BurhanRaja)
 - [David Egbugara](https://github.com/da-eb)
+- [Kishan Aghera](https://github.com/kishan-aghera)
