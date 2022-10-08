@@ -1,5 +1,16 @@
 const contributors = [
 //Add your Details here //
+  {
+    name : "Sudhir Verma",
+    branch : "A Level (Software)",
+    college : "NIELIT(DOEACC)",
+    year : 2019, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sudhir-kumar-verma-46a661108",
+    github : "https://github.com/1Fetcher",
+    gender : "Male"
+},
+    {
+
    {
         name : "Vishvesh Jain",
         branch : "Engineering",
