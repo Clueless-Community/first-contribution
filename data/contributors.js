@@ -1,6 +1,15 @@
 const contributors = [
 //Add your Details here //
   {
+    name : "Natasha Srivastava",
+    branch : "ECE",
+    college : "DTU",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/natashasrivastava/",
+    github : "https://github.com/natashasrivastava",
+    gender : "Female"
+  },
+  {
     name : "Aman Kumar Verma",
     branch : "IT",
     college : "Inderprastha Engineering College",
