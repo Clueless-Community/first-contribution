@@ -1,5 +1,14 @@
 const contributors = [
   {
+    name : "Tanmoy Karmakar",
+    branch : "Computer Science Engineering",
+    college : "University of Engineering and Management",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/tanmoykarmakar2711/",
+    github : "https://github.com/tanmoy27112000",
+    gender : "Male"
+},
+  {
     name : "Raj Palmal",
     branch : "Computer Science Engineering",
     college : "Trident Academy of Technology",
@@ -802,15 +811,6 @@ const contributors = [
     gender: "male",
   },
   {
-    name: "Sumit Kumar",
-    branch: "Electrical & Electronics Engineering",
-    college: "IPS Academy Indore",
-    year: 2023,
-    linkedin: "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
-    github: "https://github.com/sumitkr2000",
-    gender: "Male",
-  },
-  {
     name: "Ridhika Joshi",
     branch: "Computer Science Engineering",
     college: "Academy of Technology",
@@ -1064,7 +1064,87 @@ const contributors = [
     github: "https://github.com/ishani-1255",
     gender: "Female",
   },
-
+    {
+    name: "Protyay Mondal",
+    branch: "Information Technology",
+    college: "IIIT Lucknow",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/protyay-mondal-85b172226/",
+    github: "https://github.com/ProtyayMnd50",
+    gender: "Male",
+  },
+  {
+    name: "Om Anand Pandey",
+    branch: "Computer Science and Engineering",
+    college: "SRM Institute of Science and Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
+    github: "https://github.com/pandeyom331",
+    gender: "Male",
+  },
+  {
+    name: "Harshit Joshi",
+    branch: "Information Technology",
+    college: "Kalyani Government Engineering College",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/harshit-joshi-40953321b/",
+    github: "https://github.com/Harshit-3905",
+    gender: "Male",
+  },
+  {
+    name: "anshu nishad",
+    branch: "computer science",
+    college: "united institute of management",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/anshu-nishad/",
+    github: "https://github.com/educationalgamer",
+    gender: "Female",
+  },
+  {
+    name : "Jaydeep Dey",
+    branch : "CSE",
+    college : "Vellore Institute of Technology, Chennai",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/jaydeep-dey03/",
+    github : "https://github.com/jaydeepdey03",
+    gender : "Male"
+    },
+    {
+    name: "Jaydeep Dey",
+    branch: "CSE",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
+    github: "https://github.com/jaydeepdey03",
+    gender: "Male",
+  },
+  {
+    name: "Jaydeep Dey",
+    branch: "CSE",
+    college: "Vellore Institute of Technology, Chennai",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
+    github: "https://github.com/jaydeepdey03",
+    gender: "Male",
+  },
+  {
+    name: "Tushar Gupta",
+    branch: "Computer Science and Engineering",
+    college: "Shri Shankaracharya Technical Campus",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/tushargupta3002/",
+    github: "https://github.com/Tushar-2003",
+    gender: "Male",
+  },
+  {
+    name: "Om Anand Pandey",
+    branch: "Computer Science and Engineering",
+    college: "SRM Institute of Science and Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
+    github: "https://github.com/pandeyom331",
+    gender: "Male",
+  },
   {
     name: "Om Anand Pandey",
     branch: "Computer Science and Engineering",
@@ -1561,6 +1641,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Manish Prajapati",
+    branch : "BCA",
+    college : "Gujarat University",
+    year : 2022,
+    linkedin : "https://www.linkedin.com/in/pman47/",
+    github : "https://github.com/pman47",
+    gender : "Male"
+  },
+  {
     name: "Pratham Rastogi",
     branch: "CSE Data Science",
     college: "The Northcap University",
@@ -1598,6 +1687,15 @@ const contributors = [
     github: "https://github.com/Saurav50",
     gender: "Male",
   },
+  {
+
+    name: "Anurag Tiwari",
+    branch: "ECE",
+    college: "SLIET,PUNJAB",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/danurag23/",
+    github: "https://github.com/Danuragtiwari",
+ },
   {
     name: "Sivasuriyan",
     branch: "IT",
@@ -1715,7 +1813,7 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/sagarkishore6995/",
     github : "https://github.com/SagarKishore-PFM",
     gender : "Male"
-}, 
+  },
 {
   name: "Gowri Shankar K",
   branch: "CSE",
@@ -1732,9 +1830,36 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/thaanu-perera-0a84b9194/",
     github: "https://github.com/thaanu2001",
+
     gender: "Male",
   },
-
+  {
+    name : "Durgesh Mahajan",
+    branch : "Information Technology",
+    college : "D. Y. Patil College of Engineering (DYPCOE), Akurdi, Pune",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/durgesh-mahajan-99bab0212/",
+    github : "https://github.com/durgeshm01722",
+    gender : "Male"
+  },
+  {
+    name:"Nishant Kumar Singh",
+    branch: "IT",
+    college: "Guru Jambheshwar University of Science and Technology, Hisar",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/nishant-kumar-singh-1252nks",
+    github: "https://github.com/Nishant2209",
+    gender: "male"
+  },
+  {
+    name: "João Paulo Alves Dantas",
+    branch: "CC",
+    college: "Federal University of Campina Grande",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/joao-paulo-dantas-631012253/",
+    github: "https://github.com/PapelRasgado",
+    gender: "male",
+  },
   {
     name: "Vansh Raj",
     branch: "ECE",
@@ -1743,9 +1868,61 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/vansh-raj-60877b1bb/",
     github: "https://github.com/vansh-2266",
     gender: "Male",
-  }
-
-
+  },
+  {
+    name: "Sumit Kumar",
+    branch: "Electrical & Electronics Engineering",
+    college: "IPS Academy Indore",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
+    github: "https://github.com/sumitkr2000",
+    gender: "Male",
+  },
+    {
+    name: "Manish Kumar Gupta",
+    branch: "IT",
+    college: "BPIT",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/manish-kumar-gupta-47878320b/",
+    github: "https://github.com/Heismanish",
+    gender: "Male",
+  },
+  {
+    name: "Dhruv Pruthi",
+    branch: "Electronics and Communication Engineering",
+    college: "GJUST",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
+    github: "https://github.com/para-docx",
+    gender: "Male",
+  },
+  {
+    name : "Mohit singh",
+    branch : "Electronics and Communication Engineering",
+    college : "GKV",
+    year : 2025, //Year of Pass Out
+    linkedin : "LinkedIn Profile URL",
+    github : "https://www.linkedin.com/in/the-mastermind-6b9960248/",
+    gender : "Male"
+},
+  {
+    name: "Mubeen Ahmad",
+    branch: "bscs",
+    college: "Superior University",
+    year: 2021, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/mubeenahmad571/",
+    github: "https://github.com/MubeenAhmad571",
+    gender: "Male",
+  },
+{
+        name : "Aishani Pachauri",
+        branch : "CSE",
+        college : "Jaypee University of Information Technology",
+        year : 2023, 
+        linkedin : "https://www.linkedin.com/in/aishanipachauri/",
+        github : "https://github.com/Aishanipach",
+        gender : "female"
+    },
 ];
 
 
@@ -1781,7 +1958,6 @@ contributors.unshift(
     github: "https://github.com/nikhil25803",
     gender: "male",
   },
-
   {
     name: "Debajyoti Saha",
     branch: "CSBS",
@@ -1790,7 +1966,7 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  }
+  },
 );
 
 export default contributors;
