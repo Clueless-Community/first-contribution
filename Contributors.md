@@ -150,3 +150,4 @@
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Mihir Panchal](https://github.com/MihiRajeshPanchal)
 - [Gaurav Pratap Shrestha](https://github.com/gaurav-shrestha)
+- [Sukhjeet Singh](https://github.com/00sukhjeet00)

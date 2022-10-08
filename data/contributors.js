@@ -2003,6 +2003,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+      name : "Sukhjeet Singh",
+      branch : "B.Tech/IT",
+      college : "CDGI",
+      year : 2023,
+      linkedin : "https://www.linkedin.com/in/sukhjeet-singh-891aa51b4/",
+      github : "https://github.com/00sukhjeet00",
+      gender : "Male"
+  },
   );
   
   export default contributors;
