@@ -1904,6 +1904,15 @@ const contributors = [
         github : "https://github.com/theselaw",
         gender : "Male"
     },
+    {
+      name: "Koustav Mondal",
+      branch: "CSE",
+      college: "AUK",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/koustav-mondal/",
+      github: "https://github.com/XxThunderBlastxX",
+      gender: "Male",
+    },
   ];
   
   
