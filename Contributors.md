@@ -1,4 +1,5 @@
 # Contributors
+- [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 - [Rupesh Dubey](https://github.com/rupeshexe)
 - [Manish Tiwari](https://github.com/manish-9245)
 - [Danish Zayan](https://github.com/danishzayan)
@@ -151,3 +152,5 @@
 - [Mihir Panchal](https://github.com/MihiRajeshPanchal)
 - [Gaurav Pratap Shrestha](https://github.com/gaurav-shrestha)
 - [Sukhjeet Singh](https://github.com/00sukhjeet00)
+- [Yash Raj Mani](https://github.com/yashrajmani)
+- [Kshitij Agarwal](https://github.com/omniscientHorizon)
