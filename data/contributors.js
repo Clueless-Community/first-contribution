@@ -1868,7 +1868,7 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
-       {
+    {
         name : "Sneha Agarwal",
         branch : "Chemical",
         college : "HBTUK",
@@ -1877,6 +1877,16 @@ const contributors = [
         github : "https://github.com/isyneha",
         gender : "Female"
     },
+    
+    {
+      name: "Burhanuddin Raja",
+      branch: "BBA (Commerce)",
+      college: "GLS University J.P. Shah",
+      year: 2022,
+      linkedin: "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/",
+      github: "https://github.com/BurhanRaja",
+      gender: "male"
+    }
   );
   
   export default contributors;
