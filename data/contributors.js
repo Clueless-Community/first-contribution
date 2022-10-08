@@ -1958,7 +1958,7 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/santanu-jana-241119201/",
       github: "https://github.com/Santanujana2001",
       gender: "Male",
-    },
+    }
   ];
   
   
