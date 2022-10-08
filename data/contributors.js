@@ -2003,6 +2003,25 @@ const contributors = [
         github : "https://github.com/Prajwalgupta",
         gender : "Male"
   },
+      {
+
+      name : "Sukhjeet Singh",
+      branch : "B.Tech/IT",
+      college : "CDGI",
+      year : 2023,
+      linkedin : "https://www.linkedin.com/in/sukhjeet-singh-891aa51b4/",
+      github : "https://github.com/00sukhjeet00",
+      gender : "Male"
+  },
+  {
+      name: "Yash Raj Mani",
+      branch: "CSE",
+      college: "VIT Vellore",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/yashrajmani/",
+      github: "https://github.com/yashrajmani",
+      gender: "Male",
+    },
   ];
   
   
@@ -2047,15 +2066,7 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
-    {
-      name: "Yash Raj Mani",
-      branch: "CSE",
-      college: "VIT Vellore",
-      year: 2024,
-      linkedin: "https://www.linkedin.com/in/yashrajmani/",
-      github: "https://github.com/yashrajmani",
-      gender: "Male",
-    },
+
     
   );
   
