@@ -141,3 +141,5 @@
 - [João Paulo Dantas](https://github.com/PapelRasgado)
 - [Aishani Pachauri](https://github.com/Aishanipach)
 - [Nirdesh Pokharel](https://github.com/codernirdesh)
+- [Sneha Agarwal](https://github.com/isyneha)
+- [Burhanuddin Raja](https://github.com/BurhanRaja)
