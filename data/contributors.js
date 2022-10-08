@@ -1957,6 +1957,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+      name: "Diya Vijay",
+      branch: "IT",
+      college: "RTU",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/diya-vijay-3a8440204/",
+      github: "https://github.com/DiyaVj",
+      gender: "Female",
+    },
   );
   
   export default contributors;
