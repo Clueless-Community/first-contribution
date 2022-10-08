@@ -1,5 +1,14 @@
 const contributors = [
 //Add your Details here //
+   {
+        name : "Vishvesh Jain",
+        branch : "Engineering",
+        college : "IGNOU",
+        year : 2020, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/vishvesh-jain-a11b6761/",
+        github : "https://github.com/vishveshjain",
+        gender : "Male"
+   },
   {
     name : "Natasha Srivastava",
     branch : "ECE",
