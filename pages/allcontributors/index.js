@@ -22,7 +22,7 @@ const index = () => {
 
   useEffect(() => {
 
-    setSearchResult(contributors.filter(item => item.name.includes(search)));
+    setSearchResult(contributors.filter(item => item.name.toLowerCase().includes(search)));
 
   }, [search])
   
