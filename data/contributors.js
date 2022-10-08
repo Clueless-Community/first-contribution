@@ -1868,6 +1868,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+       {
+        name : "Sneha Agarwal",
+        branch : "Chemical",
+        college : "HBTUK",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/sneha-agarwal-217a55200/",
+        github : "https://github.com/isyneha",
+        gender : "Female"
+    },
   );
   
   export default contributors;
