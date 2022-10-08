@@ -1850,7 +1850,16 @@
       linkedin: "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/",
       github: "https://github.com/BurhanRaja",
       gender: "male"
-    }
+    },
+    {
+      name:"Bhavya Singh",
+      branch: "Computer Science",
+      college: "JK Institute of Applied Physics and Technology",
+      year:2025,
+      linkedin: "https://www.linkedin.com/in/bhavya-singh-677932227/",
+      github: "https://github.com/bhavyasingh75",
+      gender: "female"
+    },
   ];
   
   
