@@ -1,6 +1,14 @@
 const contributors = [
 //Add your Details here //
   {
+    name : "Aman Kumar Verma",
+    branch : "IT",
+    college : "Inderprastha Engineering College",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/aman-kumar-verma-961339200",
+    github : "https://github.com/AmanKumarVerma11",
+  },
+  {
     name : "Sayak Saha",
     branch : "ECE",
     college : "Future Institute of Engineering and Management",
