@@ -1,4 +1,5 @@
 # Contributors
+- [Rupesh Dubey](https://github.com/rupeshexe)
 - [Manish Tiwari](https://github.com/manish-9245)
 - [Danish Zayan](https://github.com/danishzayan)
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)

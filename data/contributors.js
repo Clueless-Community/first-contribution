@@ -1,5 +1,13 @@
 ﻿const contributors = [
     {
+    name : "Rupesh Dubey",
+    branch : "Computer Applications",
+    college : "Amity University Online",
+    year : 2025, //Year of Pass Out
+    github : "https://github.com/rupeshexe",
+    gender : "Male"
+  },
+    {
       name : "Tanmoy Karmakar",
       branch : "Computer Science Engineering",
       college : "University of Engineering and Management",
