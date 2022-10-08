@@ -3,23 +3,34 @@
 @tailwind utilities;
 
 .link-underline {
-    border-bottom-width: 0;
-    background-image: linear-gradient(transparent, transparent), linear-gradient(#fff, #fff);
-    background-size: 0 3px;
-    background-position: 0 100%;
-    background-repeat: no-repeat;
-    transition: background-size .5s ease-in-out;
+  border-bottom-width: 0;
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(#fff, #fff);
+  background-size: 0 3px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.5s ease-in-out;
 }
 
 .link-underline-black {
-    background-image: linear-gradient(transparent, transparent), linear-gradient(rgb(34, 214, 255), rgb(34, 178, 255))
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(rgb(34, 214, 255), rgb(34, 178, 255));
 }
 
 .link-underline:hover {
-    background-size: 100% 3px;
-    background-position: 0 100%
+  background-size: 100% 3px;
+  background-position: 0 100%;
 }
 
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
+}
+
+#tsparticles canvas {
+  z-index: -1 !important;
+}
+#__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }

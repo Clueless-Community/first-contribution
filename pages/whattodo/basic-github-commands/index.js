@@ -5,6 +5,7 @@ import Footer from "../../components/Footer";
 import GitCom from "../../components/GitCom";
 import GitDiv from "../../components/GitDiv";
 import Topfab from "../../components/Topfab";
+import PageContentWrapper from '../../components/PageContentWrapper'
 
 const index = () => {
   return (
@@ -13,8 +14,8 @@ const index = () => {
         <title>GitHub commands</title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />
       </Head>
-      <div>
-        <Navbar />
+      <Navbar />
+      <PageContentWrapper>
         <div className=' dark:bg-gray-700 dark:text-gray-50'>
           <h1 className='text-4xl text-center p-5'>
             Git commands one should know!
@@ -96,10 +97,10 @@ const index = () => {
         />
 
         <GitDiv command='git help' />
+      </PageContentWrapper>
       <Footer />
-     </div>
-     <Topfab/>
-   </>
+      <Topfab />
+    </>
   );
 };
 
