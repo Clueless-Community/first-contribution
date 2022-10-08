@@ -1868,6 +1868,15 @@
       github: "https://github.com/bhavyasingh75",
       gender: "female"
     },
+    {
+      name:"Kishan Aghera",
+      branch: "Computer Engineering",
+      college: "Vishwakarma Government Engineering College, Ahmedabad",
+      year: 2021,
+      linkedin: "https://www.linkedin.com/in/kishan-aghera/",
+      github: "https://github.com/kishan-aghera",
+      gender: "male"
+    },
   ];
   
   
