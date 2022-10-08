@@ -1950,6 +1950,15 @@ const contributors = [
         github : "https://github.com/MihirRajeshPanchal",
         gender : "Male"
     },
+    {
+      name: "Santanu Jana",
+      branch: "CSE",
+      college: "HETC",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/santanu-jana-241119201/",
+      github: "https://github.com/Santanujana2001",
+      gender: "Male",
+    },
   ];
   
   
