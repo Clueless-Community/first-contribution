@@ -1921,6 +1921,15 @@
       github: "https://github.com/da-eb",
       gender: "Male",
     },
+       {
+        name : "Pranav Tyagi",
+        branch : "CSIT",
+        college : "KIET Group of Institutions",
+        year : 2024,
+        linkedin : "www.linkedin.com/in/pranav-tyagi-519056220",
+        github : "https://github.com/impranavtg",
+        gender : "Male"
+    },
   );
   
   export default contributors;
