@@ -1957,6 +1957,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+      name : "Ritik Gupta",
+      branch : "Computer Science and Information Technology",
+      college : "KIET Group of Institutions",
+      year : 2025,
+      linkedin : "https://www.linkedin.com/in/ritikgupta88/",
+      github : "https://github.com/ritikgupta88",
+      gender : "Male"
+    },
   );
   
   export default contributors;
