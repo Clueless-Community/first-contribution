@@ -1,4 +1,5 @@
 # Contributors
+- [Rupesh Dubey](https://github.com/rupeshexe)
 - [Manish Tiwari](https://github.com/manish-9245)
 - [Danish Zayan](https://github.com/danishzayan)
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)
@@ -143,4 +144,7 @@
 - [João Paulo Dantas](https://github.com/PapelRasgado)
 - [Aishani Pachauri](https://github.com/Aishanipach)
 - [Nirdesh Pokharel](https://github.com/codernirdesh)
-
+- [Sneha Agarwal](https://github.com/isyneha)
+- [Burhanuddin Raja](https://github.com/BurhanRaja)
+- [David Egbugara](https://github.com/da-eb)
+- [Kishan Aghera](https://github.com/kishan-aghera)
