@@ -1959,6 +1959,15 @@ const contributors = [
         github : "https://github.com/MihirRajeshPanchal",
         gender : "Male"
     },
+      {
+        name : "Gaurav Pratap Shrestha",
+        branch : "CSIT",
+        college : "National Infotech College",
+        year : 2024,
+        linkedin : "https://www.linkedin.com/in/gaurav-shrestha/",
+        github : "https://github.com/gaurav-shrestha",
+        gender : "Male"
+    },
   ];
   
   
