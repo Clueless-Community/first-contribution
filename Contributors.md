@@ -138,4 +138,5 @@
 - [Nishant Kumar Singh](https://github.com/Nishant2209)
 - [Vansh Raj](https://github.com/vansh-2266)
 - [João Paulo Dantas](https://github.com/PapelRasgado)
+- [Aishani Pachauri](https://github.com/Aishanipach)
 - [Nirdesh Pokharel](https://github.com/codernirdesh)
