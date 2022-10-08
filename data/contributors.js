@@ -350,6 +350,17 @@ const contributors = [
       github: "https://github.com/kusumita29",
       gender: "Female",
     },
+
+    {
+      name :"Arpan Mandal",
+      branch:"Information Technology",
+      college:"IIEST Shibpur",
+      year:"2025",
+      linkdin:"https://www.linkedin.com/in/arpan-mandal-a17b81229/",
+      github:"https://github.com/Arpaninformationtech",
+      gender:"Male",
+    },
+
     {
       name: "Arijit Ghosh",
       branch: "CSE",
