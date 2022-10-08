@@ -1,6 +1,15 @@
 const contributors = [
 //Add your Details here //
   {
+    name : "Natasha Srivatava",
+    branch : "ECE",
+    college : "DTU",
+    year : 2022, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/natashasrivastava/",
+    github : "https://github.com/natashasrivastava",
+    gender : "Female"
+  },
+  {
     name : "Sage",
     branch : "Engineering",
     college : "Bells Uni.",
@@ -1993,15 +2002,6 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
       github: "https://github.com/Debajyoti14",
       gender: "Male",
-    },
-    {
-            name : "Natasha Srivatava",
-            branch : "ECE",
-            college : "DTU",
-            year : 2022, //Year of Pass Out
-            linkedin : "https://www.linkedin.com/in/natashasrivastava/",
-            github : "https://github.com/natashasrivastava",
-            gender : "Female"
     },
   );
   
