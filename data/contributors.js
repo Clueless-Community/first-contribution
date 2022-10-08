@@ -1904,6 +1904,15 @@
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+      name: "David Egbugara",
+      branch: "da-eb-new",
+      college: "Unilag",
+      year: 2022,
+      linkedin: "https://www.linkedin.com/in/david-ebube-egbugara-98b947103/",
+      github: "https://github.com/da-eb",
+      gender: "Male",
+    },
   );
   
   export default contributors;
