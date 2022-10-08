@@ -1,4 +1,5 @@
 const contributors = [
+//Add your Details here //
   {
     name : "Sage",
     branch : "Engineering",
@@ -8,9 +9,24 @@ const contributors = [
     github : "https://github.com/theadeyemiolayinka",
     gender : "Programmer"
   },
-  //Add your Details here
-  //
-
+  {
+        name : "Sejal Mishra",
+        branch : "Computer Science And Engineering",
+        college : "Asansol Engineering College",
+        year : 2022, 
+        linkedin : "http://www.linkedin.com/in/sejal-mishra-74a56a20b",
+        github : "https://github.com/sejalmishra",
+        gender : "Female"
+  },
+  {
+      name : "Ritik Gupta",
+      branch : "Computer Science and Information Technology",
+      college : "KIET Group of Institutions",
+      year : 2025,
+      linkedin : "https://www.linkedin.com/in/ritikgupta88/",
+      github : "https://github.com/ritikgupta88",
+      gender : "Male"
+  },
   {
     name : "Rupesh Dubey",
     branch : "Computer Applications",
@@ -1977,15 +1993,6 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
       github: "https://github.com/Debajyoti14",
       gender: "Male",
-    },
-    {
-      name : "Ritik Gupta",
-      branch : "Computer Science and Information Technology",
-      college : "KIET Group of Institutions",
-      year : 2025,
-      linkedin : "https://www.linkedin.com/in/ritikgupta88/",
-      github : "https://github.com/ritikgupta88",
-      gender : "Male"
     },
   );
   
