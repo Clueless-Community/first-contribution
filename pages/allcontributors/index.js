@@ -5,6 +5,8 @@ import Footer from "../components/Footer";
 import Document from "../document";
 import contributors from "../../data/contributors";
 import Topfab from "../components/Topfab";
+import PageContentWrapper from '../components/PageContentWrapper'
+import Image from 'next/image'
 
 
 const index = () => {
@@ -17,7 +19,7 @@ const index = () => {
     margin: '30px 0',
     display: 'flex',
     height: 42,
-    overflow:'hidden'
+    overflow: 'hidden'
   }
 
   useEffect(() => {
@@ -25,12 +27,12 @@ const index = () => {
     setSearchResult(contributors.filter(item => item.name.toLowerCase().includes(search)));
 
   }, [search])
-  
+
   return (
     <>
       <Document />
       <Navbar />
-      <div className="dark:bg-gray-700">
+      <PageContentWrapper>
         <section class="text-gray-600 dark:text-white body-font">
           <div class="container px-5 pt-12 mx-auto">
             <div class="flex flex-col text-center w-full mb-5">
@@ -50,9 +52,24 @@ const index = () => {
               </a>
             </button>
             <div style={searchStyles}>
-              <input style={{flex: 1, display:'flex', paddingLeft: 12, border: '1px solid black', borderRadius: 6, color: 'black'}} onChange={(e) => setSearch(e.target.value)}  type="text" placeholder="Search your card " />
+              <input style={{ flex: 1, display: 'flex', paddingLeft: 12, border: '1px solid black', borderRadius: 6, color: 'black' }} onChange={(e) => setSearch(e.target.value)} type="text" placeholder="Search your card " />
             </div>
             <div class="flex -m-2 flex-wrap mb-2">
+              {
+                !Boolean(searchResult.length) && (
+                  <div className="text-center w-full">
+                    <Image
+                      src="/empty_data.png"
+                      alt="No Result"
+                      width={100}
+                      height={100}
+                      className="inline-block"
+                    />
+                    <span className="text-lg block">No search result found with "<b>{search}</b>"</span>
+                  </div>
+                )
+              }
+
               {searchResult.map((contributor) => {
                 return (
                   <ContributorCard
@@ -70,9 +87,9 @@ const index = () => {
             </div>
           </div>
         </section>
-        <Footer />
-        <Topfab />
-      </div>
+      </PageContentWrapper>
+      <Footer />
+      <Topfab />
     </>
   );
 };
