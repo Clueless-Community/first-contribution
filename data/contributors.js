@@ -1,5 +1,17 @@
 const contributors = [
-    {
+  {
+    name : "Sage",
+    branch : "Engineering",
+    college : "Bells Uni.",
+    year : 2026,
+    linkedin : "https://www.linkedin.com/in/olayinka-adeyemi-6209451a2",
+    github : "https://github.com/theadeyemiolayinka",
+    gender : "Programmer"
+  },
+  //Add your Details here
+  //
+
+  {
     name : "Rupesh Dubey",
     branch : "Computer Applications",
     college : "Amity University Online",
