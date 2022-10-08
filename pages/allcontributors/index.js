@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import ContributorCard from "../components/ContributorCard";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
@@ -20,12 +20,12 @@ const index = () => {
     overflow:'hidden'
   }
 
-  function searchCards(){
-    let searchRes = contributors.filter(item =>item.name.includes(search));
-    setSearchResult(searchRes);
-    console.log(searchRes);
-  }
+  useEffect(() => {
 
+    setSearchResult(contributors.filter(item => item.name.includes(search)));
+
+  }, [search])
+  
   return (
     <>
       <Document />
@@ -49,7 +49,6 @@ const index = () => {
             </a>
             <div style={searchStyles}>
               <input style={{flex: 1, display:'flex', paddingLeft: 12, border: '1px solid black', borderRadius: 6, color: 'black'}} onChange={(e) => setSearch(e.target.value)}  type="text" placeholder="Search your card " />
-              <button onClick={searchCards} style={{background:'gray', width: 100, color:'white',borderRadius: 6, marginLeft:4}} >Search</button>
             </div>
             <div class="flex -m-2 flex-wrap mb-2">
               {searchResult.map((contributor) => {
