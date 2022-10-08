@@ -148,3 +148,4 @@
 - [Burhanuddin Raja](https://github.com/BurhanRaja)
 - [David Egbugara](https://github.com/da-eb)
 - [Kishan Aghera](https://github.com/kishan-aghera)
+- [Mihir Panchal](https://github.com/MihiRajeshPanchal)
