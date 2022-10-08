@@ -1,4 +1,32 @@
 const contributors = [
+  //Add your Details here //
+  {
+    name: "Sage",
+    branch: "Engineering",
+    college: "Bells Uni.",
+    year: 2026,
+    linkedin: "https://www.linkedin.com/in/olayinka-adeyemi-6209451a2",
+    github: "https://github.com/theadeyemiolayinka",
+    gender: "Programmer",
+  },
+  {
+    name: "Sejal Mishra",
+    branch: "Computer Science And Engineering",
+    college: "Asansol Engineering College",
+    year: 2022,
+    linkedin: "http://www.linkedin.com/in/sejal-mishra-74a56a20b",
+    github: "https://github.com/sejalmishra",
+    gender: "Female",
+  },
+  {
+    name: "Ritik Gupta",
+    branch: "Computer Science and Information Technology",
+    college: "KIET Group of Institutions",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/ritikgupta88/",
+    github: "https://github.com/ritikgupta88",
+    gender: "Male",
+  },
   {
     name: "Rupesh Dubey",
     branch: "Computer Applications",
@@ -1907,6 +1935,24 @@ const contributors = [
     github: "https://github.com/theselaw",
     gender: "Male",
   },
+  {
+    name: "Mihir Rajesh Panchal",
+    branch: "Information Technology",
+    college: "Shri Bhagubhai Mafatlal Polytechnic",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/mihir-panchal-9b6677220/",
+    github: "https://github.com/MihirRajeshPanchal",
+    gender: "Male",
+  },
+  {
+    name: "J S Vignesh Kanna",
+    branch: "ECE",
+    college: "TCE",
+    year: 2021,
+    linkedin: "https://www.linkedin.com/in/jsvigneshkanna/",
+    github: "https://github.com/jsvigneshkanna",
+    gender: "Male",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -1945,15 +1991,6 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
-    gender: "Male",
-  },
-  {
-    name: "J S Vignesh Kanna",
-    branch: "ECE",
-    college: "TCE",
-    year: 2021,
-    linkedin: "https://www.linkedin.com/in/jsvigneshkanna/",
-    github: "https://github.com/jsvigneshkanna",
     gender: "Male",
   }
 );
