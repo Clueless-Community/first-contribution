@@ -1815,6 +1815,15 @@ const contributors = [
           github : "https://github.com/Aishanipach",
           gender : "female"
       },
+      {
+        name: "Kumar Santosh",
+        branch: "CSE",
+        college: "Odisha University of Technology and Research",
+        year: 2025, //Year of Pass Out
+        linkedin: "https://www.linkedin.com/in/kumar-santosh-192491203/",
+        github: "https://github.com/KuSantosh100",
+        gender: "Male",
+      },
   ];
   
   
