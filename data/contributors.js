@@ -1092,15 +1092,6 @@ const contributors = [
       gender: "Male",
     },
     {
-      name: "Om Anand Pandey",
-      branch: "Computer Science and Engineering",
-      college: "SRM Institute of Science and Technology",
-      year: 2023,
-      linkedin: "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
-      github: "https://github.com/pandeyom331",
-      gender: "Male",
-    },
-    {
       name: "Harshit Joshi",
       branch: "Information Technology",
       college: "Kalyani Government Engineering College",
