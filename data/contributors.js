@@ -9,8 +9,6 @@ const contributors = [
     github : "https://github.com/1Fetcher",
     gender : "Male"
 },
-    {
-
    {
         name : "Vishvesh Jain",
         branch : "Engineering",
@@ -2042,7 +2040,7 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/santanu-jana-241119201/",
       github: "https://github.com/Santanujana2001",
       gender: "Male",
-    }
+    },
       {
         name : "Gaurav Pratap Shrestha",
         branch : "CSIT",
