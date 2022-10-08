@@ -1869,6 +1869,16 @@ const contributors = [
       gender: "Male",
     },
     {
+        name : "Sneha Agarwal",
+        branch : "Chemical",
+        college : "HBTUK",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/sneha-agarwal-217a55200/",
+        github : "https://github.com/isyneha",
+        gender : "Female"
+    },
+    
+    {
       name: "Burhanuddin Raja",
       branch: "BBA (Commerce)",
       college: "GLS University J.P. Shah",
