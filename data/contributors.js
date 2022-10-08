@@ -1651,6 +1651,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "Nirdesh Pokharel",
+    branch: "Computer Science and Information Technology",
+    college: "Shreeyantra College",
+    year: 2027, // Graduation Year
+    linkedin: "https://www.linkedin.com/in/pokhrel-nirdesh/",
+    github: "https://github.com/coderNirdesh",
+    gender: "Male",
+  },
 );
 
 export default contributors;
