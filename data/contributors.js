@@ -1994,6 +1994,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+      name: "Anjali Kundliya",
+      branch: "B.Sc.(Hons) Computer Science",
+      college: "SRCASW, University of Delhi",
+      year: 2023,
+      linkedin: "https://www.linkedin.com/in/anjalikundliya/",
+      github: "https://github.com/anjali-kundliya05",
+      gender: "Female",
+    },
   );
   
   export default contributors;
