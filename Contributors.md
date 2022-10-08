@@ -139,7 +139,6 @@
 - [Durgesh Mahajan](https://github.com/durgeshm01722)
 - [Nishant Kumar Singh](https://github.com/Nishant2209)
 - [Vansh Raj](https://github.com/vansh-2266)
-- [João Paulo Da>>>>>>> main
 - [Sumit Kumar](https://github.com/sumitkr2000)
 - [João Paulo Dantas](https://github.com/PapelRasgado)
 - [Aishani Pachauri](https://github.com/Aishanipach)
@@ -149,3 +148,4 @@
 - [David Egbugara](https://github.com/da-eb)
 - [Kishan Aghera](https://github.com/kishan-aghera)
 - [Sejal Mishra](https://github.com/sejalmishra)
+- [Mihir Panchal](https://github.com/MihiRajeshPanchal)
