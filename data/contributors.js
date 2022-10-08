@@ -1914,7 +1914,6 @@ const contributors = [
     github: "https://github.com/MubeenAhmad571",
     gender: "Male",
   },
-
 {
         name : "Aishani Pachauri",
         branch : "CSE",
@@ -1959,7 +1958,6 @@ contributors.unshift(
     github: "https://github.com/nikhil25803",
     gender: "male",
   },
-
   {
     name: "Debajyoti Saha",
     branch: "CSBS",
@@ -1969,8 +1967,6 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-  
-   
 );
 
 export default contributors;
