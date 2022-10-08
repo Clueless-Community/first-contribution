@@ -1,6 +1,15 @@
 const contributors = [
 //Add your Details here //
   {
+    name : "Sayak Saha",
+    branch : "ECE",
+    college : "Future Institute of Engineering and Management",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/sayaksaha10",
+    github : "https://github.com/sayakongit",
+    gender : "Male"
+  },
+  {
     name : "Sage",
     branch : "Engineering",
     college : "Bells Uni.",
@@ -1959,6 +1968,24 @@ const contributors = [
         github : "https://github.com/gaurav-shrestha",
         gender : "Male"
     },
+    {
+      name : "Kshitij Agarwal",
+      branch : "Science",
+      college : "The Heritage School",
+      year : 2023, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/kshitij-agarwal-35b427242/",
+      github : "https://github.com/omniscientHorizon",
+      gender : "Male"
+      },
+      {
+        name : "Prajwal Gupta",
+        branch : "Information science and engineering",
+        college : "Nitte Meenakshi Institute of Technology",
+        year : 2025, 
+        linkedin : "https://www.linkedin.com/in/prajwal-gupta-28ab3a222/",
+        github : "https://github.com/Prajwalgupta",
+        gender : "Male"
+  },
   ];
   
   
