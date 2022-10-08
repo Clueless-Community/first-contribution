@@ -9,6 +9,23 @@ const contributors = [
     gender : "Male"
 },
     {
+    name : "Rupesh Dubey",
+    branch : "Computer Applications",
+    college : "Amity University Online",
+    year : 2025, //Year of Pass Out
+    github : "https://github.com/rupeshexe",
+    gender : "Male"
+  },
+  {
+    name : "Abhay Chandel",
+    branch : "Computer Science Engineering",
+    college : "Shree Krishna University",
+    year : 2022, // Fresher
+    linkedin : "https://www.linkedin.com/in/abhay-chandel-538628205/",
+    github : "https://github.com/iabhaychandel",
+    gender : "Male"
+  },
+    {
       name : "Tanmoy Karmakar",
       branch : "Computer Science Engineering",
       college : "University of Engineering and Management",
@@ -17,6 +34,15 @@ const contributors = [
       github : "https://github.com/tanmoy27112000",
       gender : "Male"
   },
+{
+      name: "Mayuri Kolhe",
+      branch: "CSE",
+      college: "PICT",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/mayuri-kolhe-538883193",
+      github: "https://github.com/MayuriKolhe-2003",
+      gender: "Female",
+    },
     {
       name : "Raj Palmal",
       branch : "Computer Science Engineering",
@@ -1833,6 +1859,60 @@ const contributors = [
         github: "https://github.com/KuSantosh100",
         gender: "Male",
       },
+      {
+        name : "Sneha Agarwal",
+        branch : "Chemical",
+        college : "HBTUK",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/sneha-agarwal-217a55200/",
+        github : "https://github.com/isyneha",
+        gender : "Female"
+    },    
+    {
+      name: "Burhanuddin Raja",
+      branch: "BBA (Commerce)",
+      college: "GLS University J.P. Shah",
+      year: 2022,
+      linkedin: "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/",
+      github: "https://github.com/BurhanRaja",
+      gender: "male"
+    },
+    {
+      name:"Bhavya Singh",
+      branch: "Computer Science",
+      college: "JK Institute of Applied Physics and Technology",
+      year:2025,
+      linkedin: "https://www.linkedin.com/in/bhavya-singh-677932227/",
+      github: "https://github.com/bhavyasingh75",
+      gender: "female"
+    },
+    {
+      name:"Kishan Aghera",
+      branch: "Computer Engineering",
+      college: "Vishwakarma Government Engineering College, Ahmedabad",
+      year: 2021,
+      linkedin: "https://www.linkedin.com/in/kishan-aghera/",
+      github: "https://github.com/kishan-aghera",
+      gender: "male"
+    },
+        {
+      name: "David Egbugara",
+      branch: "da-eb-new",
+      college: "Unilag",
+      year: 2022,
+      linkedin: "https://www.linkedin.com/in/david-ebube-egbugara-98b947103/",
+      github: "https://github.com/da-eb",
+      gender: "Male",
+    },
+      {
+        name : "Omosaye Moses Iseoluwa",
+        branch : "Computer Science",
+        college : "OAU",
+        year : 2023,
+        linkedin : "https://www.linkedin.com/in/omosaye-moses-0204b6191",
+        github : "https://github.com/theselaw",
+        gender : "Male"
+    },
   ];
   
   
