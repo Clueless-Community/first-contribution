@@ -7,6 +7,15 @@
     github : "https://github.com/rupeshexe",
     gender : "Male"
   },
+  {
+    name : "Abhay Chandel",
+    branch : "Computer Science Engineering",
+    college : "Shree Krishna University",
+    year : 2022, // Fresher
+    linkedin : "https://www.linkedin.com/in/abhay-chandel-538628205/",
+    github : "https://github.com/iabhaychandel",
+    gender : "Male"
+  },
     {
       name : "Tanmoy Karmakar",
       branch : "Computer Science Engineering",
