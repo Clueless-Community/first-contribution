@@ -1923,6 +1923,16 @@ const contributors = [
         github : "https://github.com/Aishanipach",
         gender : "female"
     },
+    
+    {
+      name: "Bhavya Singh",
+      branch: "Computer Science Engineering",
+      college: "J.K Institute of Applied Physics and Technology",
+      year: 2025, //Year of Pass Out
+      linkedin: "https://www.linkedin.com/in/bhavya-singh-677932227/",
+      github: "https://github.com/bhavyasingh75",
+      gender: "Female",
+    }
 ];
 
 
