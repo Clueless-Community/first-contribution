@@ -1931,6 +1931,15 @@
       gender: "Male",
     },
     {
+      name: "Stephen Praise",
+      branch: "Educational Tech.",
+      college: "Unilorin",
+      year: 2022,
+      linkedin: "https://www.linkedin.com/in/agboola-stephen-praise/",
+      github: "https://github.com/Devbysteph",
+      gender: "Male",
+    },
+    {
       name: "David Egbugara",
       branch: "da-eb-new",
       college: "Unilag",
