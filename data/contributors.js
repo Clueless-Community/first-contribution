@@ -217,6 +217,15 @@ const contributors = [
       gender: "male",
     },
     {
+      name: "Rohit Garud",
+      branch: "Civil",
+      college: "Viit",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/rohitgarud",
+      github: "https://github.com/rohitgarud21",
+      gender: "Male",
+    },
+    {
       name: "Sattyam Samania",
       branch: "CSE",
       college: "ITM UNIVERSE",
