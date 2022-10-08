@@ -1925,6 +1925,15 @@ const contributors = [
         github : "https://github.com/theselaw",
         gender : "Male"
     },
+      {
+        name : "Mihir Rajesh Panchal",
+        branch : "Information Technology",
+        college : "Shri Bhagubhai Mafatlal Polytechnic",
+        year : 2023,
+        linkedin : "https://www.linkedin.com/in/mihir-panchal-9b6677220/",
+        github : "https://github.com/MihirRajeshPanchal",
+        gender : "Male"
+    },
   ];
   
   
