@@ -1914,6 +1914,16 @@ const contributors = [
     github: "https://github.com/MubeenAhmad571",
     gender: "Male",
   },
+
+{
+        name : "Aishani Pachauri",
+        branch : "CSE",
+        college : "Jaypee University of Information Technology",
+        year : 2023, 
+        linkedin : "https://www.linkedin.com/in/aishanipachauri/",
+        github : "https://github.com/Aishanipach",
+        gender : "female"
+    },
 ];
 
 
@@ -1960,15 +1970,7 @@ contributors.unshift(
     gender: "Male",
   },
   
-   {
-        name : "Aishani Pachauri",
-        branch : "CSE",
-        college : "Jaypee University of Information Technology",
-        year : 2023, 
-        linkedin : "https://www.linkedin.com/in/aishanipachauri/",
-        github : "https://github.com/Aishanipach",
-        gender : "female"
-    },
+   
 );
 
 export default contributors;
