@@ -108,6 +108,7 @@
 - [Sashikanta Mohanty](https://github.com/Sashi2002)
 - [Saransh Dubey](https://github.com/14-saransh)
 - [Mehul Kumar](https://github.com/Mehul2711)
+- [Moses Omosaye](https://github.com/theselaw)
 - [Mubeen Ahmad](https://github.com/MubeenAhmad571)
 - [Mehul Kumar](https://github.com/Mehul2711)`
 - [Ankush Roy](https://github.com/ankushroy25)
@@ -138,6 +139,7 @@
 - [Durgesh Mahajan](https://github.com/durgeshm01722)
 - [Nishant Kumar Singh](https://github.com/Nishant2209)
 - [Vansh Raj](https://github.com/vansh-2266)
+- [João Paulo Da>>>>>>> main
 - [Sumit Kumar](https://github.com/sumitkr2000)
 - [João Paulo Dantas](https://github.com/PapelRasgado)
 - [Aishani Pachauri](https://github.com/Aishanipach)
