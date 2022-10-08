@@ -10,7 +10,15 @@ const contributors = [
   },
   //Add your Details here
   //
-
+  {
+    name : "Pradeep Sharma",
+    branch : "Mechanical Engineering",
+    college : "IIT BHU",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/rudeparkeet/",
+    github : "https://github.com/pradeepsh2203",
+    gender : "Male"
+  },
   {
     name : "Rupesh Dubey",
     branch : "Computer Applications",
