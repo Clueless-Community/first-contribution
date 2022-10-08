@@ -1,6 +1,15 @@
 const contributors = [
 //Add your Details here //
   {
+    name : "Sharon",
+    branch : "BCA",
+    college : "St. Berchmans college",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/sharon-shaji-817162217/",
+    github : "https://github.com/shaderone",
+    gender : "Male"
+  },
+  {
     name : "Sage",
     branch : "Engineering",
     college : "Bells Uni.",
