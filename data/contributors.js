@@ -1904,6 +1904,15 @@ const contributors = [
         github : "https://github.com/theselaw",
         gender : "Male"
     },
+    {
+      name : "Stephen Praise",
+      branch : "Edu Tech",
+      college : "Unilorin",
+      year : 2023,
+      linkedin : "https://www.linkedin.com/in/agboola-stephen-praise",
+      github : "https://github.com/devbysteph",
+      gender : "Male"
+  },
   ];
   
   
