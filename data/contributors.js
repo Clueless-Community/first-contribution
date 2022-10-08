@@ -1,4 +1,4 @@
-const contributors = [
+﻿const contributors = [
     {
       name : "Tanmoy Karmakar",
       branch : "Computer Science Engineering",
@@ -8,6 +8,15 @@ const contributors = [
       github : "https://github.com/tanmoy27112000",
       gender : "Male"
   },
+{
+      name: "Mayuri Kolhe",
+      branch: "CSE",
+      college: "PICT",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/mayuri-kolhe-538883193",
+      github: "https://github.com/MayuriKolhe-2003",
+      gender: "Female",
+    },
     {
       name : "Raj Palmal",
       branch : "Computer Science Engineering",
@@ -1824,6 +1833,24 @@ const contributors = [
         github: "https://github.com/KuSantosh100",
         gender: "Male",
       },
+      {
+        name : "Sneha Agarwal",
+        branch : "Chemical",
+        college : "HBTUK",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/sneha-agarwal-217a55200/",
+        github : "https://github.com/isyneha",
+        gender : "Female"
+    },    
+    {
+      name: "Burhanuddin Raja",
+      branch: "BBA (Commerce)",
+      college: "GLS University J.P. Shah",
+      year: 2022,
+      linkedin: "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/",
+      github: "https://github.com/BurhanRaja",
+      gender: "male"
+    }
   ];
   
   
@@ -1868,25 +1895,6 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
-    {
-        name : "Sneha Agarwal",
-        branch : "Chemical",
-        college : "HBTUK",
-        year : 2024, //Year of Pass Out
-        linkedin : "https://www.linkedin.com/in/sneha-agarwal-217a55200/",
-        github : "https://github.com/isyneha",
-        gender : "Female"
-    },
-    
-    {
-      name: "Burhanuddin Raja",
-      branch: "BBA (Commerce)",
-      college: "GLS University J.P. Shah",
-      year: 2022,
-      linkedin: "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/",
-      github: "https://github.com/BurhanRaja",
-      gender: "male"
-    }
   );
   
   export default contributors;
