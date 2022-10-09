@@ -2165,6 +2165,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+     {
+        name : "Harshit Sharma",
+        branch : "Mechanical Engineering",
+        college : "HBTU K",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/harshit-sharma--/",
+        github : "https://github.com/harshti-sharma-gits/",
+        gender : "Male"
+    },
   );
   
   export default contributors;
