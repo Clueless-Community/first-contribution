@@ -2189,6 +2189,15 @@ const contributors = [
 		github: "https://github.com/aayush-1412",
 		gender: "Male",
 	},
+	{
+		name: "Atharv Phadnis",
+		branch: "Computer Engineering",
+		college: "Sinhgad College of Engineering",
+		year: 2021,
+		linkedin: "https://www.linkedin.com/in/atharv-phadnis",
+		github: "https://github.com/Athi223",
+		gender: "Male",
+	},
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️

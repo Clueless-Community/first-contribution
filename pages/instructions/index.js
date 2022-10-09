@@ -56,13 +56,26 @@ const index = () => {
 									refer to this tutorial
 								</a>
 							</p>
+							<ul className=" list-disc my-5 text-md mx-auto ml-5">
+								<li className="my-2">
+									<p className=" text-md mb-4">To initialize Git, write:</p>
+									<GitDiv command="git init" />
+								</li>
+								<li className="my-2">
+									<p className=" text-md mb-4">
+										To configure your local Git username
+									</p>
+									<GitDiv command="git config --global user.name &ldquo;github username&rdquo;" />
+								</li>
+
+								<li className="my-2">
+									<p className=" text-md mb-4">
+										To configure your local Git password
+									</p>
+									<GitDiv command="git config --global user.name &ldquo;github password&rdquo;" />
+								</li>
+							</ul>
 						</div>
-						<GitCom heading="To initialize Git, write:" />
-						<GitDiv command="git init" />
-						<GitCom heading="To configure your local Git username" />
-						<GitDiv command="git config --global user.name &ldquo;github username&rdquo;" />
-						<GitCom heading="To configure your local Git password" />
-						<GitDiv command="git config --global user.name &ldquo;github password&rdquo;" />
 					</div>
 
 					{/* Fork the repo */}
@@ -81,19 +94,12 @@ const index = () => {
 							<ul className=" list-disc my-5 text-md mx-auto ml-5">
 								<li className="my-2">
 									<p className=" text-md mb-4">
-										So go to the{" "}
-										<a
-											href="https://github.com/Clueless-Community/first-contribution"
-											target={"_blank"}
-											className="text-[#0061ff]"
-										>
-											first-contributions
-										</a>{" "}
-										repository and fork the repository by clicking on the 'Fork'
-										button as show below.
+										So go to the first-contributions repository and fork the
+										repository by clicking on the 'Fork' button as show below.
 									</p>
+
 									<div className="my-8">
-										<Image src={fork2} alt="forking" />
+										<Image src={fork2} alt="forking" layout="responsive" />
 									</div>
 								</li>
 								<li className="my-2">
@@ -102,10 +108,10 @@ const index = () => {
 										Repository
 									</p>
 									<div className="my-8">
-										<Image src={code_git} alt="forking" />
+										<Image src={code_git} alt="forking" layout="responsive" />
 									</div>
 									<div className="my-8">
-										<Image src={code_copy} alt="forking" />
+										<Image src={code_copy} alt="forking" layout="responsive" />
 									</div>
 								</li>
 							</ul>
@@ -149,7 +155,7 @@ const index = () => {
 										below.
 									</p>
 									<div className="my-8 w-full">
-										<Image src={format} alt="forking" />
+										<Image src={format} alt="forking" layout="responsive" />
 									</div>
 								</li>
 								<li className="my-2">
@@ -229,7 +235,7 @@ const index = () => {
 								<li className="my-2">
 									<p className=" text-md mb-4">Click on "Contribute"</p>
 									<div className="my-8 w-full">
-										<Image src={pull1} alt="forking" />
+										<Image src={pull1} alt="forking" layout="responsive" />
 									</div>
 								</li>
 								<li className="my-2">
@@ -237,13 +243,13 @@ const index = () => {
 										Now click on "Open Pull Request"
 									</p>
 									<div className="my-8 w-full">
-										<Image src={pull2} alt="forking" />
+										<Image src={pull2} alt="forking" layout="responsive" />
 									</div>
 								</li>
 								<li className="my-2">
 									<p className=" text-md mb-4">Click on "Create pull request</p>
 									<div className="my-8 w-full">
-										<Image src={pull3} alt="forking" />
+										<Image src={pull3} alt="forking" layout="responsive" />
 									</div>
 								</li>
 								<li className="my-2">
@@ -252,7 +258,7 @@ const index = () => {
 										pull request
 									</p>
 									<div className="my-8 w-full">
-										<Image src={pull4} alt="forking" />
+										<Image src={pull4} alt="forking" layout="responsive" />
 									</div>
 								</li>
 								<li className="my-2">
@@ -262,7 +268,7 @@ const index = () => {
 										request !
 									</p>
 									<div className="my-8 w-full">
-										<Image src={pull5} alt="forking" />
+										<Image src={pull5} alt="forking" layout="responsive" />
 									</div>
 								</li>
 								<li className="my-2">

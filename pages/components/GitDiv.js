@@ -1,6 +1,24 @@
-import React from "react";
+import React, {useState, useEffect} from "react";
 
 const GitDiv = (props) => {
+  const [copy,setCopy] = useState("copy");
+
+  function handleCopy(){
+     setCopy("copied");
+     navigator.clipboard.writeText(props.command);
+  }
+
+  useEffect(() => {
+    const timeout = setTimeout(() => {
+      setCopy("copy");
+    }, 2000);
+  
+    return () => {
+      clearTimeout(timeout);
+    }
+  }, [copy])
+  
+
   return (
     <section className="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
       <div className=" container mx-auto  ">
@@ -12,6 +30,7 @@ const GitDiv = (props) => {
                 <code className="text-gray-900 text-xl title-font font-medium mb-1 dark:text-gray-100 ">
                   {props.command}
                 </code>
+                <button onClick={handleCopy} style={{float: 'right'}}>{copy}</button>
               </div>
             </div>
           </div>
