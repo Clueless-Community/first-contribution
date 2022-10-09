@@ -1950,6 +1950,15 @@ const contributors = [
         github : "https://github.com/MihirRajeshPanchal",
         gender : "Male"
     },
+    {
+      name : "Ranita Saha",
+      branch : "CSE",
+      college : "HITK",
+      year : 2021,
+      linkedin : "https://www.linkedin.com/in/saharanitaa1230dreamer/",
+      github : "https://github.com/ranitasahaa1230",
+      gender : "Female"
+  },
   ];
   
   
