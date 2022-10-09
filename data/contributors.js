@@ -2122,6 +2122,14 @@ const contributors = [
       gender: "Female",
     },
     {
+      name: "Harshit Sharma",
+      branch: "Mechanical Engineering",
+      college: "Delhi Technological University",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/harshitsharma18/",
+      github: "https://github.com/HARSHITSHARMA18",
+      gender: "male",
+    },{
       name: "Tusshar Paul",
       branch: "Electronics and Communication Engineering",
       college: "NIT Hamirpur",
@@ -2137,6 +2145,7 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/aayush-singh-2b5912176/",
       github: "https://github.com/aayush-1412",
       gender: "Male",
+
     },
   ];
   
