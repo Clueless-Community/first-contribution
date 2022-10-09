@@ -2202,6 +2202,15 @@ const contributors = [
     github : "https://github.com/Athi223",
     gender : "Male"
   },
+  {
+    name: "Shivam Pathak",
+    branch: "Electronics and Communication Engineering",
+    college: "UIET - K",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/shivampathak-/",
+    github: "https://github.com/ShivamPathak99",
+    gender: "Male"
+  },
 ];
   
   
@@ -2244,6 +2253,7 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    
 
   );
   
