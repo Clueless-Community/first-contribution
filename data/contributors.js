@@ -179,6 +179,15 @@ const contributors = [
       gender: "female",
     },
     {
+      name: "Ankit Kumar",
+      branch: "Diploma in Computer Engineering",
+      college: "DSEU Shakarput Campus 1",
+      year: 2023, //Year of Pass Out
+      linkedin: "https://www.linkedin.com/Kumar-Ankit56",
+      github: "https://github.com/Kumar-Ankit56",
+      gender: "Male",
+    },
+    {
       name: "Danish Zayan",
       branch: "MCA",
       college: "Manuu Hyderabad",
@@ -2113,7 +2122,6 @@ const contributors = [
       gender: "Female",
     },
     {
-
       name: "Harshit Sharma",
       branch: "Mechanical Engineering",
       college: "Delhi Technological University",
@@ -2122,6 +2130,14 @@ const contributors = [
       github: "https://github.com/HARSHITSHARMA18",
       gender: "male",
     },{
+      name: "Tusshar Paul",
+      branch: "Electronics and Communication Engineering",
+      college: "NIT Hamirpur",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/tusshar-paul-a01529233/",
+      github: "https://github.com/tussharpaul13",
+    },
+    {
       name: "Aayush Kumar Singh",
       branch: "IT",
       college: "IEMK",
