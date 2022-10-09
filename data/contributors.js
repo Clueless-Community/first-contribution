@@ -2096,6 +2096,15 @@ const contributors = [
       github: "https://github.com/anjali-kundliya05",
       gender: "Female",
     },
+    {
+      name: "Harshit Sharma",
+      branch: "Mechanical Engineering",
+      college: "Delhi Technological University",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/harshitsharma18/",
+      github: "https://github.com/HARSHITSHARMA18",
+      gender: "male",
+    },
   ];
   
   

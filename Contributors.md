@@ -159,3 +159,4 @@
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)
 - [Rahul Karda](https://github.com/rahulkarda)
 - [Sneha Singh](https://github.com/Sneha0607)
+- [Harshit Sharma](https://github.com/HARSHITSHARMA18)
