@@ -1,4 +1,5 @@
 # Contributors
+
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
 - [Roshan Kumar](https://github.com/Roshaen)
@@ -145,6 +146,7 @@
 - [Koustav Mondal](https://github.com/XxThunderBlastxX)
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Mihir Panchal](https://github.com/MihiRajeshPanchal)
+- [Ranita Saha](https://github.com/ranitasahaa1230)
 - [Anjali Kundliya](https://github.com/anjali-kundliya05)
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Gaurav Pratap Shrestha](https://github.com/gaurav-shrestha)
@@ -159,3 +161,5 @@
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)
 - [Rahul Karda](https://github.com/rahulkarda)
 - [Sneha Singh](https://github.com/Sneha0607)
+- [Aayush Kumar Singh](https://github.com/aayush-1412)
+- [Om Sarraf](https://github.com/itsOmSarraf)
