@@ -179,6 +179,15 @@ const contributors = [
       gender: "female",
     },
     {
+      name: "Ankit Kumar",
+      branch: "Diploma in Computer Engineering",
+      college: "DSEU Shakarput Campus 1",
+      year: 2023, //Year of Pass Out
+      linkedin: "https://www.linkedin.com/Kumar-Ankit56",
+      github: "https://github.com/Kumar-Ankit56",
+      gender: "Male",
+    },
+    {
       name: "Danish Zayan",
       branch: "MCA",
       college: "Manuu Hyderabad",
@@ -1583,6 +1592,13 @@ const contributors = [
       github: "https://github.com/Sashi2002",
       gender: "Male",
     },
+        {name : "Om Sarraf",
+      branch : "CSE",
+      year: 2026, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/itsOmSarraf",
+      github : "https://github.com/itsOmSarraf",
+      gender : "Male"
+  },
   
     {
       name: "Hritik Bhattacharya",
@@ -2033,6 +2049,15 @@ const contributors = [
         gender : "Male"
     },
     {
+      name : "Ranita Saha",
+      branch : "CSE",
+      college : "HITK",
+      year : 2021,
+      linkedin : "https://www.linkedin.com/in/saharanitaa1230dreamer/",
+      github : "https://github.com/ranitasahaa1230",
+      gender : "Female"
+  },
+{
       name: "Santanu Jana",
       branch: "CSE",
       college: "HETC",
@@ -2103,6 +2128,14 @@ const contributors = [
       year: 2025,
       linkedin: "https://www.linkedin.com/in/tusshar-paul-a01529233/",
       github: "https://github.com/tussharpaul13",
+    },
+    {
+      name: "Aayush Kumar Singh",
+      branch: "IT",
+      college: "IEMK",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/aayush-singh-2b5912176/",
+      github: "https://github.com/aayush-1412",
       gender: "Male",
     },
   ];

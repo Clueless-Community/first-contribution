@@ -44,9 +44,9 @@ const index = () => {
         />
 
         {/* Bullted List */}
-        <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
-          <div class="container px-5 py-12 mx-auto">
-            <div class="lg:w-11/12 mx-auto">
+        <section className="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
+          <div className="container px-5 py-12 mx-auto">
+            <div className="lg:w-11/12 mx-auto">
               <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
                 Why You Should Contribute to Open-Source?
               </h1>
@@ -90,9 +90,9 @@ const index = () => {
 
 
         {/* Bullted List */}
-        <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
-          <div class="container px-5 py-12 mx-auto">
-            <div class="lg:w-11/12 mx-auto">
+        <section className="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
+          <div className="container px-5 py-12 mx-auto">
+            <div className="lg:w-11/12 mx-auto">
               <p className="font-semibold text-2xl underline underline-offset-3">
                 Some common contributions can be through:
               </p>
@@ -124,9 +124,9 @@ const index = () => {
           </div>
         </section>
 
-        <section class="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
-          <div class="container px-5 py-5 mx-auto">
-            <div class="lg:w-11/12 mx-auto">
+        <section className="text-gray-600 body-font overflow-hidden dark:bg-gray-700 dark:text-gray-200">
+          <div className="container px-5 py-5 mx-auto">
+            <div className="lg:w-11/12 mx-auto">
               <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
                 Roles in a typical OS Project In a typical OS project we will have
                 the following people:
@@ -156,8 +156,8 @@ const index = () => {
         />
         <GithubBasics />
         <section className="mt-10">
-          <div class="container px-5 py-5 mx-auto dark:bg-gray-700">
-            <div class="lg:w-11/12 mx-auto">
+          <div className="container px-5 py-5 mx-auto dark:bg-gray-700">
+            <div className="lg:w-11/12 mx-auto">
               <h1 className="title-font mb-4 text-3xl font-medium text-slate-900 dark:text-gray-50">
                 Complete Git and GitHub Tutorial:
               </h1>
