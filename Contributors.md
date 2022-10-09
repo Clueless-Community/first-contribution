@@ -167,3 +167,4 @@
 - [Aayush Kumar Singh](https://github.com/aayush-1412)
 - [Om Sarraf](https://github.com/itsOmSarraf)
 - [Atharv Phadnis](https://github.com/Athi223)
+- [Shivam Pathak](https://github.com/ShivamPathak99)
