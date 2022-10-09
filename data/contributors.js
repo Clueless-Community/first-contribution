@@ -2174,6 +2174,15 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {
+      name : "Piyush",
+      branch : "CSE",
+      college : "JSPM's RSCOE",
+      year : 2024,
+      linkedin : "https://www.linkedin.com/in/piyushbhangale/",
+      github : "https://github.com/officialpiyush",
+      gender : "Male"
+    },
   );
   
   export default contributors;
