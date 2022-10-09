@@ -2140,6 +2140,13 @@ const contributors = [
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
+    {name : "Om Sarraf",
+      branch : "CSE",
+      year: 2026, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/itsOmSarraf",
+      github : "https://github.com/itsOmSarraf",
+      gender : "Male"
+  }
   );
   
   export default contributors;
