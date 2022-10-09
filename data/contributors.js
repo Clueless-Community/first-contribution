@@ -2149,6 +2149,15 @@ const contributors = [
       github : "https://github.com/00sukhjeet00",
       gender : "Male"
   },
+  {
+      name : "Atharv Phadnis",
+      branch : "Computer Engineering",
+      college : "Sinhgad College of Engineering",
+      year : 2021,
+      linkedin : "https://www.linkedin.com/in/atharv-phadnis",
+      github : "https://github.com/Athi223",
+      gender : "Male"
+  },
 ];
 
 
