@@ -1,5 +1,6 @@
 # Contributors
 
+- [Smit Padaliya](https://github.com/Smit-05)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
 - [Roshan Kumar](https://github.com/Roshaen)
@@ -161,5 +162,7 @@
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)
 - [Rahul Karda](https://github.com/rahulkarda)
 - [Sneha Singh](https://github.com/Sneha0607)
+- [Harshit Sharma](https://github.com/HARSHITSHARMA18)
+- [Tusshar Paul](https://github.com/tussharpaul13)
 - [Aayush Kumar Singh](https://github.com/aayush-1412)
 - [Om Sarraf](https://github.com/itsOmSarraf)
