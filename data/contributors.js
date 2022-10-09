@@ -2149,24 +2149,24 @@ const contributors = [
       github : "https://github.com/00sukhjeet00",
       gender : "Male"
   },
-];
-
-
-
-
-
-// Don't add any data to this contributors.unshift part Add data above this ⬆️
-contributors.unshift(
-  {
-    name: "Rajdeep Sengupta",
-    branch: "CSE AI & ML",
-    college: "HITK",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/rajdeep-sengupta/",
-    github: "https://github.com/Rajdip019/Rajdip019",
-    gender: "male",
-  },
-  {
+       {
+        name : "Harshit Sharma",
+        branch : "Mechanical Engineering",
+        college : "HBTU K",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/harshit-sharma--/",
+        github : "https://github.com/harshti-sharma-gits/",
+        gender : "Male"
+    {
+      name : "Piyush",
+      branch : "CSE",
+      college : "JSPM's RSCOE",
+      year : 2024,
+      linkedin : "https://www.linkedin.com/in/piyushbhangale/",
+      github : "https://github.com/officialpiyush",
+      gender : "Male"
+    },
+      {
       name: "Yash Raj Mani",
       branch: "CSE",
       college: "VIT Vellore",
@@ -2193,9 +2193,7 @@ contributors.unshift(
       github: "https://github.com/aayush-1412",
       gender: "Male",
     },
-  ];
-  
-  
+];
   
   
   
@@ -2237,15 +2235,7 @@ contributors.unshift(
       github: "https://github.com/Debajyoti14",
       gender: "Male",
     },
-    {
-      name : "Piyush",
-      branch : "CSE",
-      college : "JSPM's RSCOE",
-      year : 2024,
-      linkedin : "https://www.linkedin.com/in/piyushbhangale/",
-      github : "https://github.com/officialpiyush",
-      gender : "Male"
-    },
+
   );
   
   export default contributors;
