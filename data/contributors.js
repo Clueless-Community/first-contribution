@@ -2096,6 +2096,15 @@ const contributors = [
       github: "https://github.com/anjali-kundliya05",
       gender: "Female",
     },
+    {
+      name: "Tusshar Paul",
+      branch: "Electronics and Communication Engineering",
+      college: "NIT Hamirpur",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/tusshar-paul-a01529233/",
+      github: "https://github.com/tussharpaul13",
+      gender: "Male",
+    },
   ];
   
   
