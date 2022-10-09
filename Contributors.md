@@ -161,5 +161,6 @@
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)
 - [Rahul Karda](https://github.com/rahulkarda)
 - [Sneha Singh](https://github.com/Sneha0607)
+- [Tusshar Paul](https://github.com/tussharpaul13)
 - [Aayush Kumar Singh](https://github.com/aayush-1412)
 - [Om Sarraf](https://github.com/itsOmSarraf)
