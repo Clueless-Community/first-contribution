@@ -2150,59 +2150,102 @@ const contributors = [
       gender : "Male"
   },
   {
-      name : "Atharv Phadnis",
-      branch : "Computer Engineering",
-      college : "Sinhgad College of Engineering",
-      year : 2021,
-      linkedin : "https://www.linkedin.com/in/atharv-phadnis",
-      github : "https://github.com/Athi223",
+      name : "Harshit Sharma",
+      branch : "Mechanical Engineering",
+      college : "HBTU K",
+      year : 2024, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/harshit-sharma--/",
+      github : "https://github.com/harshti-sharma-gits/",
       gender : "Male"
-  },
-];
-
-
-
-
-
-// Don't add any data to this contributors.unshift part Add data above this ⬆️
-contributors.unshift(
   {
-    name: "Rajdeep Sengupta",
-    branch: "CSE AI & ML",
-    college: "HITK",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/rajdeep-sengupta/",
-    github: "https://github.com/Rajdip019/Rajdip019",
-    gender: "male",
+    name : "Piyush",
+    branch : "CSE",
+    college : "JSPM's RSCOE",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/piyushbhangale/",
+    github : "https://github.com/officialpiyush",
+    gender : "Male"
   },
   {
-    name: "Roshan Kumar",
-    branch: "CSE AI & ML",
-    college: "HITK",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/roshan-kumar-176918202/",
-    github: "https://github.com/Roshaen",
-    gender: "male",
-  },
-  {
-    name: "Nikhil Raj",
-    branch: "CSE AI & ML",
-    college: "HITK",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/nikhil-raj-117246232/",
-    github: "https://github.com/nikhil25803",
-    gender: "male",
-  },
-  {
-    name: "Debajyoti Saha",
-    branch: "CSBS",
-    college: "HITK",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
-    github: "https://github.com/Debajyoti14",
+    name: "Yash Raj Mani",
+    branch: "CSE",
+    college: "VIT Vellore",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/yashrajmani/",
+    github: "https://github.com/yashrajmani",
     gender: "Male",
   },
-);
+  {
+    name: "Anjali Kundliya",
+    branch: "B.Sc.(Hons) Computer Science",
+    college: "SRCASW, University of Delhi",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/anjalikundliya/",
+    github: "https://github.com/anjali-kundliya05",
+    gender: "Female",
+  },
+  {
+    name: "Aayush Kumar Singh",
+    branch: "IT",
+    college: "IEMK",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/aayush-singh-2b5912176/",
+    github: "https://github.com/aayush-1412",
+    gender: "Male",
+  },
+  {
+    name : "Atharv Phadnis",
+    branch : "Computer Engineering",
+    college : "Sinhgad College of Engineering",
+    year : 2021,
+    linkedin : "https://www.linkedin.com/in/atharv-phadnis",
+    github : "https://github.com/Athi223",
+    gender : "Male"
+  },
+];
+  
+  
+  
+  // Don't add any data to this contributors.unshift part Add data above this ⬆️
+  contributors.unshift(
+    {
+      name: "Rajdeep Sengupta",
+      branch: "CSE AI & ML",
+      college: "HITK",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/rajdeep-sengupta/",
+      github: "https://github.com/Rajdip019/Rajdip019",
+      gender: "male",
+    },
+    {
+      name: "Roshan Kumar",
+      branch: "CSE AI & ML",
+      college: "HITK",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/roshan-kumar-176918202/",
+      github: "https://github.com/Roshaen",
+      gender: "male",
+    },
+    {
+      name: "Nikhil Raj",
+      branch: "CSE AI & ML",
+      college: "HITK",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/nikhil-raj-117246232/",
+      github: "https://github.com/nikhil25803",
+      gender: "male",
+    },
+    {
+      name: "Debajyoti Saha",
+      branch: "CSBS",
+      college: "HITK",
+      year: 2025,
+      linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
+      github: "https://github.com/Debajyoti14",
+      gender: "Male",
+    },
 
-export default contributors;
+  );
+  
+  export default contributors;
 
