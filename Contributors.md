@@ -146,6 +146,7 @@
 - [Koustav Mondal](https://github.com/XxThunderBlastxX)
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Mihir Panchal](https://github.com/MihiRajeshPanchal)
+- [Ranita Saha](https://github.com/ranitasahaa1230)
 - [Anjali Kundliya](https://github.com/anjali-kundliya05)
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Gaurav Pratap Shrestha](https://github.com/gaurav-shrestha)
