@@ -179,6 +179,15 @@ const contributors = [
       gender: "female",
     },
     {
+      name: "Ankit Kumar",
+      branch: "Diploma in Computer Engineering",
+      college: "DSEU Shakarput Campus 1",
+      year: 2023, //Year of Pass Out
+      linkedin: "https://www.linkedin.com/Kumar-Ankit56",
+      github: "https://github.com/Kumar-Ankit56",
+      gender: "Male",
+    },
+    {
       name: "Danish Zayan",
       branch: "MCA",
       college: "Manuu Hyderabad",
