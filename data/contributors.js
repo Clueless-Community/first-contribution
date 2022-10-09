@@ -1583,6 +1583,13 @@ const contributors = [
       github: "https://github.com/Sashi2002",
       gender: "Male",
     },
+        {name : "Om Sarraf",
+      branch : "CSE",
+      year: 2026, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/itsOmSarraf",
+      github : "https://github.com/itsOmSarraf",
+      gender : "Male"
+  },
   
     {
       name: "Hritik Bhattacharya",
@@ -2104,6 +2111,15 @@ const contributors = [
       linkedin: "https://www.linkedin.com/in/anjalikundliya/",
       github: "https://github.com/anjali-kundliya05",
       gender: "Female",
+    },
+    {
+      name: "Aayush Kumar Singh",
+      branch: "IT",
+      college: "IEMK",
+      year: 2024,
+      linkedin: "https://www.linkedin.com/in/aayush-singh-2b5912176/",
+      github: "https://github.com/aayush-1412",
+      gender: "Male",
     },
   ];
   
