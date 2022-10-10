@@ -1,6 +1,15 @@
 const contributors = [
     //Add your Details here //
     {
+        name: "Princeton D'souza",
+        branch: "Computer Engineering",
+        college: "DY Patil College of Engineering",
+        year: 2024, //Year of Pass Out
+        linkedin: "https://www.linkedin.com/in/princeton-dsouza/",
+        github: "https://github.com/Princeton21",
+        gender: "Male",
+    },
+    {
         name: "Smit Padaliya",
         branch: "Computer Engineering",
         college: "Dharmsinh Desai University",
