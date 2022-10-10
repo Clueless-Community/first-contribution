@@ -1603,6 +1603,7 @@ const contributors = [
     {
         name: "Om Sarraf",
         branch: "CSE",
+		college: "None",
         year: 2026, //Year of Pass Out
         linkedin: "https://www.linkedin.com/in/itsOmSarraf",
         github: "https://github.com/itsOmSarraf",
