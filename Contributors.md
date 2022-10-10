@@ -1,6 +1,7 @@
 # Contributors
 
 - [Smit Padaliya](https://github.com/Smit-05)
+- [Shubhra Gupta](https://github.com/shubhra-g)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
 - [Roshan Kumar](https://github.com/Roshaen)
