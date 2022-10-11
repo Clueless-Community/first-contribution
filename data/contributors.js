@@ -2265,7 +2265,16 @@ contributors.unshift(
     linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
     github: "https://github.com/psantosh16",
     gender: "Male",
-  }
+  },
+  {
+    name : "Arunima Chaudhuri",
+    branch : "CSE",
+    college : "GCECT",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/arunima-chaudhuri-95217b194/",
+    github : "https://github.com/tinniaru3005",
+    gender : "Female"
+ }
 );
 
 export default contributors;
