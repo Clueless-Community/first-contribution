@@ -921,6 +921,15 @@ const contributors = [
     gender: "Female",
   },
   {
+    name: "Vanga Aravind Shounik",
+    branch: "Computer Science and Engineering",
+    college: "Indian Institute of Technology, Hyderabad",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/aravind-shounik-vanga/",
+    github: "https://github.com/AravindShounik",
+    gender: "Male",
+  },
+  {
     name: "Rahul Guha",
     branch: "CSE with Data Science",
     college: "HITK",
