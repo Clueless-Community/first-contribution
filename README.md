@@ -29,7 +29,9 @@ Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in t
 + [This](https://clueless.vercel.app/) is the website we have created for our first contributors, routing to the [contributors](https://clueless.vercel.app/allcontributors) page, you will see a few cards with some details of the contributor.
 
 
-[![image](https://www.linkpicture.com/q/contributionCard.png)](https://www.linkpicture.com/view.php?img=LPic6337cb9eb9c08930623349)
+[![image](https://user-images.githubusercontent.com/77603501/194948359-810af94d-d89d-4b65-ae02-1a722bcf228e.png)](https://clueless.vercel.app/allcontributors)
+
+
 
 
 + Now, to get your contributor card, you have to contribute to this repository, following our guidelines.
