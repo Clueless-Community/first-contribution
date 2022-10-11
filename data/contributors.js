@@ -2263,6 +2263,16 @@ const contributors = [
     github : "https://github.com/soustab10",
     gender : "Male"
 },
+  {
+    name: "shantanu hardia",
+    branch: "CSE",
+    collage: "AITR",
+    year: 2025,
+    inkedin: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
+    github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
+    gender: "Male",
+  },
+
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
