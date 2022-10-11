@@ -921,6 +921,15 @@ const contributors = [
     gender: "Female",
   },
   {
+    name: "Vanga Aravind Shounik",
+    branch: "Computer Science and Engineering",
+    college: "Indian Institute of Technology, Hyderabad",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/aravind-shounik-vanga/",
+    github: "https://github.com/AravindShounik",
+    gender: "Male",
+  },
+  {
     name: "Rahul Guha",
     branch: "CSE with Data Science",
     college: "HITK",
@@ -2217,6 +2226,43 @@ const contributors = [
     github: "https://github.com/devjain2309",
     gender: "Male",
   },
+      {
+        name: "Princeton D'souza",
+        branch: "Computer Engineering",
+        college: "DY Patil College of Engineering",
+        year: 2024, //Year of Pass Out
+        linkedin: "https://www.linkedin.com/in/princeton-dsouza/",
+        github: "https://github.com/Princeton21",
+        gender: "Male",
+    },
+  {
+    name : "Arunima Chaudhuri",
+    branch : "CSE",
+    college : "GCECT",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/arunima-chaudhuri-95217b194/",
+    github : "https://github.com/tinniaru3005",
+    gender : "Female"
+ },
+ 
+  {
+    name: "Santosh Phadtare",
+    branch: "CS",
+    college: "BVCOE NM",
+    year: 2025,
+    linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
+    github: "https://github.com/psantosh16",
+    gender: "Male",
+  },
+  {
+    name : "Soustab Haldar",
+    branch : "CSE",
+    college : "Indian Institute of Technology(BHU) Varanasi",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/soustab-haldar-022ba8229/",
+    github : "https://github.com/soustab10",
+    gender : "Male"
+},
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2257,24 +2303,7 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-  {
-    name: "Santosh Phadtare",
-    branch: "CS",
-    college: "BVCOE NM",
-    year: 2025,
-    linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
-    github: "https://github.com/psantosh16",
-    gender: "Male",
-  },
-  {
-    name : "Soustab Haldar",
-    branch : "CSE",
-    college : "Indian Institute of Technology(BHU) Varanasi",
-    year : 2026, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/soustab-haldar-022ba8229/",
-    github : "https://github.com/soustab10",
-    gender : "Male"
-},
+
 );
 
 export default contributors;

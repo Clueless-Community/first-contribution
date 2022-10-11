@@ -1,5 +1,6 @@
 # Contributors
 
+- [Princeton D'souza](https://github.com/Princeton21)
 - [Smit Padaliya](https://github.com/Smit-05)
 - [Shubhra Gupta](https://github.com/shubhra-g)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
@@ -142,6 +143,7 @@
 - [Nirdesh Pokharel](https://github.com/codernirdesh)
 - [Sudhir Verma](https://github.com/1Fetcher)
 - [Sneha Agarwal](https://github.com/isyneha)
+- [Vanga Aravind Shounik](https://github.com/AravindShounik)
 - [Burhanuddin Raja](https://github.com/BurhanRaja)
 - [David Egbugara](https://github.com/da-eb)
 - [Kishan Aghera](https://github.com/kishan-aghera)
