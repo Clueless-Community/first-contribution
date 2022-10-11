@@ -20,3 +20,11 @@
     transform: scaleX(1);
     transform-origin: bottom left;
   }
+
+  .copyright {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

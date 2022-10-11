@@ -1,3 +1,9 @@
+
+<h1 align='center'>We are extremely sorry to inform you that this repo is excluded from Hactoberfest 2022 😢</h1>
+<p align='center'> <b>But the contribution you made will not go waste, it still counts in for swags by Clueless</b> <p>
+
+----
+
 <h1 align='center'>First Contribution 🫂</h1>
 <p align='center'> <b>This project is for those who are new to open-source and looking for make their first contribution </b> <p>
 
@@ -23,7 +29,9 @@ Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in t
 + [This](https://clueless.vercel.app/) is the website we have created for our first contributors, routing to the [contributors](https://clueless.vercel.app/allcontributors) page, you will see a few cards with some details of the contributor.
 
 
-[![image](https://www.linkpicture.com/q/contributionCard.png)](https://www.linkpicture.com/view.php?img=LPic6337cb9eb9c08930623349)
+[![image](https://user-images.githubusercontent.com/77603501/194948359-810af94d-d89d-4b65-ae02-1a722bcf228e.png)](https://clueless.vercel.app/allcontributors)
+
+
 
 
 + Now, to get your contributor card, you have to contribute to this repository, following our guidelines.
