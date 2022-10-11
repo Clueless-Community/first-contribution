@@ -2265,7 +2265,16 @@ contributors.unshift(
     linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
     github: "https://github.com/psantosh16",
     gender: "Male",
-  }
+  },
+  {
+    name : "Soustab Haldar",
+    branch : "CSE",
+    college : "Indian Institute of Technology(BHU) Varanasi",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/soustab-haldar-022ba8229/",
+    github : "https://github.com/soustab10",
+    gender : "Male"
+},
 );
 
 export default contributors;
