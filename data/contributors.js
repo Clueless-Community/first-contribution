@@ -2217,6 +2217,43 @@ const contributors = [
     github: "https://github.com/devjain2309",
     gender: "Male",
   },
+    {
+    name: "Santosh Phadtare",
+    branch: "CS",
+    college: "BVCOE NM",
+    year: 2025,
+    linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
+    github: "https://github.com/psantosh16",
+    gender: "Male",
+  },
+      {
+        name: "Princeton D'souza",
+        branch: "Computer Engineering",
+        college: "DY Patil College of Engineering",
+        year: 2024, //Year of Pass Out
+        linkedin: "https://www.linkedin.com/in/princeton-dsouza/",
+        github: "https://github.com/Princeton21",
+        gender: "Male",
+    },
+
+  {
+    name: "Santosh Phadtare",
+    branch: "CS",
+    college: "BVCOE NM",
+    year: 2025,
+    linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
+    github: "https://github.com/psantosh16",
+    gender: "Male",
+  },
+  {
+    name : "Arunima Chaudhuri",
+    branch : "CSE",
+    college : "GCECT",
+    year : 2023,
+    linkedin : "https://www.linkedin.com/in/arunima-chaudhuri-95217b194/",
+    github : "https://github.com/tinniaru3005",
+    gender : "Female"
+ }
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2257,24 +2294,6 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-  {
-    name: "Santosh Phadtare",
-    branch: "CS",
-    college: "BVCOE NM",
-    year: 2025,
-    linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
-    github: "https://github.com/psantosh16",
-    gender: "Male",
-  },
-  {
-    name : "Arunima Chaudhuri",
-    branch : "CSE",
-    college : "GCECT",
-    year : 2023,
-    linkedin : "https://www.linkedin.com/in/arunima-chaudhuri-95217b194/",
-    github : "https://github.com/tinniaru3005",
-    gender : "Female"
- }
 );
 
 export default contributors;
