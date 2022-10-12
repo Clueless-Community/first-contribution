@@ -224,6 +224,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Sourasish Mondal",
+    branch: "CSE",
+    college: "B. P. Poddar Institute of Management and Technology",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/sourasishmondal",
+    github: "https://github.com/souraOP",
+    gender: "male",
+  },
+  {
     name: "Deep das",
     branch: "CSE-AIML",
     college: "Haldia Institute of Technology",
