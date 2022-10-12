@@ -2313,6 +2313,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "Naincy Kumari",
+    branch: "CSE",
+    college: "BPPIMT",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/naincy-kumari-972b32223/",
+    github: "https://github.com/Naincy04",
+    gender: "Female",
+  },
 
 );
 
