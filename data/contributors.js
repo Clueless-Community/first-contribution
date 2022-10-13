@@ -2272,6 +2272,16 @@ const contributors = [
     github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
     gender: "Male",
   },
+  {
+    name: "Naincy Kumari",
+    branch: "CSE",
+    collage: "BPPIMT",
+    year: 2025,
+    inkedin: "https://www.linkedin.com/in/naincy-kumari-972b32223/",
+    github: "https://github.com/Naincy04",
+    gender: "Female",
+  },
+
 
 ];
 
