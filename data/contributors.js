@@ -2290,6 +2290,15 @@ const contributors = [
     github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
     gender: "Male",
   },
+ {
+    name: "Soham Saha Roy",
+    branch: "CSE",
+    collage: "RCCIIT",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/soham-saha-roy-788115206/",
+    github: "https://github.com/infuman69",
+    gender: "Male",
+ },
 
 ];
 
