@@ -1,6 +1,9 @@
 # Contributors
 
+
+- [Javesh Lodha](https://github.com/javesshhh)
 - [Princeton D'souza](https://github.com/Princeton21)
+- [Apurv Tiwari](https://github.com/Mahakal0123))
 - [Smit Padaliya](https://github.com/Smit-05)
 - [Shubhra Gupta](https://github.com/shubhra-g)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
@@ -36,6 +39,7 @@
 - [K.hari Prasath](https://github.com/khari-on)
 - [Binay Shaw](https://github.com/binayshaw7777)
 - [Ankush](https://github.com/Ankush-Ladani)
+- [Sourasish Mondal](https://github.com/souraOP)
 - [Deepanshu](https://github.com/sdeepanshu17)
 - [Pranav](https://github.com/Pranav10903)
 - [Prasanta Chettri](https://github.com/prasanta10)
@@ -174,3 +178,4 @@
 - [Sourav Nayek](https://github.com/SOURAV416)
 - [Soustab Haldar](https://github.com/soustab10)
 - [Harsh Kalra](https://github.com/harshkalra2003)
+- [Malavi Pande](https://github.com/Malavi1)
