@@ -2360,7 +2360,16 @@ contributors.unshift(
         github : "https://github.com/harshkalra200",
         gender : "Male"
    },
-
+  {
+        name : "Lalit Chaudhary",
+        branch : "Computer Science Engineering",
+        college : "SRM",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/codelalit/",
+        github : "https://github.com/CodeLalit007",
+        gender : "Male"
+   },
+  
 );
 
 export default contributors;
