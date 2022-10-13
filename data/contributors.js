@@ -2331,6 +2331,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "Rutuja Khilare",
+    branch: "Information Technology",
+    college: "Walchand College of Engineering, Sangli",
+    year: 2024, 
+    linkedin: "https://www.linkedin.com/in/rutuja-khilare-b2198021a/",
+    github: "https://github.com/rutuja369",
+    gender: "Female",
+  }
 
 );
 
