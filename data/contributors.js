@@ -1,6 +1,16 @@
 const contributors = [
   //Add your Details here //
   {
+    name : "Javesh Lodha",
+    branch : "BTech/ECE",
+    college : "IIIT Allahabad",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/javesh-lodha-11b68715a/",
+    github : "https://github.com/javesshhh",
+    gender : "Male"
+  },
+  
+  {
     name: "Smit Padaliya",
     branch: "Computer Engineering",
     college: "Dharmsinh Desai University",
