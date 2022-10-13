@@ -2309,6 +2309,15 @@ const contributors = [
     github: "https://github.com/Naincy04",
     gender: "Female",
   },
+  {
+    name : "Rajendra Rakha",
+    branch : "Science Engineering",
+    college : "POLINEMA",
+    year : 2023,
+    linkedin : "linkedin.com/in/rajendra-rakha-1b7675196/",
+    github : "https://github.com/rjndrkha",
+    gender : "Male"
+},
 
 
 ];
@@ -2360,6 +2369,7 @@ contributors.unshift(
         github : "https://github.com/harshkalra200",
         gender : "Male"
    },
+   
 
 );
 
