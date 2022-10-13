@@ -1,6 +1,7 @@
 # Contributors
 
 - [Princeton D'souza](https://github.com/Princeton21)
+- [Apurv Tiwari](https://github.com/Mahakal0123))
 - [Smit Padaliya](https://github.com/Smit-05)
 - [Shubhra Gupta](https://github.com/shubhra-g)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
