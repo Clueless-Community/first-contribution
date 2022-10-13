@@ -2351,6 +2351,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+        name : "Harsh Kalra",
+        branch : "Mechanical Engineering",
+        college : "HBTU",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/harsh-k-7723101b2/",
+        github : "https://github.com/harshkalra200",
+        gender : "Male"
+   },
 
 );
 
