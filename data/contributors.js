@@ -19,6 +19,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Ricktho Sarkar",
+    branch : "Ceramic Engineering",
+    college : "IIT BHU",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/ricktho-sarkar-b82b59251",
+    github : "https://github.com/Ricktho1",
+    gender : "Male"
+},
+  {
     name: "Vishvesh Jain",
     branch: "Engineering",
     college: "IGNOU",
