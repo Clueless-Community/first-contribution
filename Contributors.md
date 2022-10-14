@@ -179,3 +179,4 @@
 - [Soustab Haldar](https://github.com/soustab10)
 - [Harsh Kalra](https://github.com/harshkalra2003)
 - [Malavi Pande](https://github.com/Malavi1)
+- [Rajneel Anuraj](https://github.com/thisisrajneel)

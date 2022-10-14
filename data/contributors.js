@@ -2360,6 +2360,15 @@ contributors.unshift(
         github : "https://github.com/harshkalra200",
         gender : "Male"
    },
+   {
+    name : "Rajneel Anuraj",
+    branch : "Electronics and Communication Engineering",
+    college : "JSS Academy of Technical Eduction, Noida",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/thisisrajneel/",
+    github : "https://github.com/thisisrajneel",
+    gender : "Male"
+  },
 
 );
 
