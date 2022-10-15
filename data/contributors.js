@@ -2360,6 +2360,15 @@ contributors.unshift(
         github : "https://github.com/harshkalra200",
         gender : "Male"
    },
+   {
+    name : "Riya Jaiswal",
+    branch : "Information Science and Engineering",
+    college : "NMIT",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/riya-jaiswal-2060771b1/",
+    github : "https://github.com/riyajaiswal25",
+    gender : "Female"
+},
 
 );
 
