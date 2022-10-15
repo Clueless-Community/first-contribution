@@ -1,5 +1,15 @@
 const contributors = [
   //Add your Details here //
+
+  {
+    name : "Mohd Kaleem Saqlaini",
+    branch : "Computer Science & Engineering",
+    college : "Aryan Institute of Technology",
+    year : 2023, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/saqlainkaleem/",
+    github : "https://github.com/saqlainkaleem",
+    gender : "Male"
+},
   {
     name : "Javesh Lodha",
     branch : "BTech/ECE",
