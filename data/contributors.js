@@ -2338,6 +2338,7 @@ const contributors = [
     github : "https://github.com/thisisrajneel",
     gender : "Male"
   },
+  {
     name : "Riya Jaiswal",
     branch : "Information Science and Engineering",
     college : "NMIT",
@@ -2365,6 +2366,15 @@ const contributors = [
         gender : "Male"
    },
 
+{
+        name : "Krishnika Gupta",
+        branch : "Computer Science Engineering",
+        college : "MITS",
+        year : 2024,
+        linkedin : "https://www.linkedin.com/in/krishnika-gupta-9aa380206",
+        github : "https://github.com/krish68201",
+        gender : "Female"
+   },
 
 ];
 
