@@ -74,6 +74,15 @@ const contributors = [
     github: "https://github.com/AmanKumarVerma11",
   },
   {
+    name: "Manish Tyagi",
+    branch: "CSE",
+    college: "Galgotias University",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/manish-tyagi-8b7b22217",
+    github: "https://www.github.com/money8203",
+    gender: "Male",
+  },
+  {
     name: "Sayak Saha",
     branch: "ECE",
     college: "Future Institute of Engineering and Management",
