@@ -2,6 +2,7 @@ const contributors = [
   //Add your Details here //
 
   {
+
     name: "Mohd Kaleem Saqlaini",
     branch: "Computer Science & Engineering",
     college: "Aryan Institute of Technology",
@@ -11,15 +12,23 @@ const contributors = [
     gender: "Male",
   },
   {
-    name: "Javesh Lodha",
-    branch: "BTech/ECE",
-    college: "IIIT Allahabad",
-    year: 2025, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/javesh-lodha-11b68715a/",
-    github: "https://github.com/javesshhh",
-    gender: "Male",
-  },
-
+    name : "Mohd Kaleem Saqlaini",
+    branch : "Computer Science & Engineering",
+    college : "Aryan Institute of Technology",
+    year : 2023, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/saqlainkaleem/",
+    github : "https://github.com/saqlainkaleem",
+    gender : "Male"
+},
+    {
+    name : "Kavya Lokuge",
+    branch : "Information Technology",
+    college : "University of Sri Jayewardenepura",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/kavya-lokuge-7a085619b/",
+    github : "https://github.com/kavyaLokuge",
+    gender : "Female"
+},
   {
     name: "Smit Padaliya",
     branch: "Computer Engineering",
