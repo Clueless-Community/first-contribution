@@ -1,6 +1,7 @@
 # Contributors
 
 - [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
+- [Kavya Lokuge](https://github.com/kavyaLokuge)
 - [Javesh Lodha](https://github.com/javesshhh)
 - [Princeton D'souza](https://github.com/Princeton21)
 - [Apurv Tiwari](https://github.com/Mahakal0123))
