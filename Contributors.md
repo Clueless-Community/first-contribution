@@ -1,5 +1,6 @@
 # Contributors
 
+- [Manish Tyagi](https://www.github.com/money8203)
 - [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
 - [Kavya Lokuge](https://github.com/kavyaLokuge)
 - [Javesh Lodha](https://github.com/javesshhh)
