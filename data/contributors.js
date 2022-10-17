@@ -10,6 +10,15 @@ const contributors = [
     github : "https://github.com/saqlainkaleem",
     gender : "Male"
 },
+    {
+    name : "Kavya Lokuge",
+    branch : "Information Technology",
+    college : "University of Sri Jayewardenepura",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/kavya-lokuge-7a085619b/",
+    github : "https://github.com/kavyaLokuge",
+    gender : "Female"
+},
   {
     name : "Javesh Lodha",
     branch : "BTech/ECE",
