@@ -50,6 +50,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Perumall Pardhiv",
+    branch: "Information Technology",
+    college: "IIIT Lucknow",
+    year: 2025, //Year of Pass Out
+    linkdin: "https://www.linkedin.com/in/perumall-pardhiv-3159a6228/",
+    github: "https://github.com/Perumallpardhiv",
+    gender: "Male",
+  },
+  {
     name: "Ricktho Sarkar",
     branch: "Ceramic Engineering",
     college: "IIT BHU",
