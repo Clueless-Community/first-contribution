@@ -1,5 +1,15 @@
 const contributors = [
   //Add your Details here //
+  {
+
+    name: "Subrata Bhuin",
+    branch: "Computer Science & Engineering",
+    college: "BP POddar Institute Of Management And Technology",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/subratabhuin8918/",
+    github: "https://github.com/Over-Thinker",
+    gender: "Male",
+  },
 
   {
 
@@ -11,15 +21,7 @@ const contributors = [
     github: "https://github.com/saqlainkaleem",
     gender: "Male",
   },
-  {
-    name : "Mohd Kaleem Saqlaini",
-    branch : "Computer Science & Engineering",
-    college : "Aryan Institute of Technology",
-    year : 2023, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/saqlainkaleem/",
-    github : "https://github.com/saqlainkaleem",
-    gender : "Male"
-},
+
     {
     name : "Kavya Lokuge",
     branch : "Information Technology",
