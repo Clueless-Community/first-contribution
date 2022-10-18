@@ -2453,7 +2453,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/koushikdutta/",
     github: "https://github.com/iamkoushik1999",
     gender: "Male",
-  }
+  },
+  {
+    name : "Dhruva N L Choudhary",
+    branch : "CSAI",
+    college : "IIIT Lucknow",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/dhruva-n-l-choudhary-199793223/",
+    github : "https://github.com/DHRUVA-N-L-CHOUDHARY",
+    gender : "Male"
+},
 );
 
 export default contributors;
