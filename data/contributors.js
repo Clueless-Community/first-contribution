@@ -1,5 +1,14 @@
 const contributors = [
 //Add your Details here //
+{
+  name : "Subrata Bhuin",
+  branch : "Computer Science & Engineering",
+  college : "BP Poddar Institute Of Management & Tehcnology",
+  year : 2025, //Year of Pass Out
+  linkedin : "https://www.linkedin.com/in/subratabhuin8918/",
+  github : "https://github.com/Over-Thinker",
+  gender : "Male"
+},
   {
     name : "Sudhir Verma",
     branch : "A Level (Software)",
