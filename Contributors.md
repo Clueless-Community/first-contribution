@@ -1,6 +1,7 @@
 # Contributors
 
 - [Manish Tyagi](https://www.github.com/money8203)
+- [Subrata Bhuin](https://github.com/Over-Thinker)
 - [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
 - [Kavya Lokuge](https://github.com/kavyaLokuge)
 - [Javesh Lodha](https://github.com/javesshhh)
