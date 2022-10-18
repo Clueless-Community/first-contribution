@@ -5,6 +5,7 @@
 - [Kavya Lokuge](https://github.com/kavyaLokuge)
 - [Javesh Lodha](https://github.com/javesshhh)
 - [Princeton D'souza](https://github.com/Princeton21)
+- [Perumall Pardhiv](https://github.com/Perumallpardhiv)
 - [Apurv Tiwari](https://github.com/Mahakal0123))
 - [Smit Padaliya](https://github.com/Smit-05)
 - [Shubhra Gupta](https://github.com/shubhra-g)
