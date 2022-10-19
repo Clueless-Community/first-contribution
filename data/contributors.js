@@ -1744,6 +1744,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Akanksha Lagad",
+    branch: "Electronics and Telecommunication",
+    college: "Institute of information technology,Pune",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/akankshalagad/",
+    github: "https://github.com/akankshalagad13",
+    gender: "Female",
+  },
+  {
     name: "Hafizur Rahman",
     branch: "Computer Science & Engineering",
     college: "Maharishi University of Intitute and Technology",
