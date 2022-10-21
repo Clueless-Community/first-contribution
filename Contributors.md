@@ -186,3 +186,4 @@
 - [Rajneel Anuraj](https://github.com/thisisrajneel)
 - [Krishnika Gupta](https://github.com/krish68201)
 - [Lalit Chaudhary](https://github.com/codelalit007)
+- [Miraz Mondal](https://github.com/miraz-mondal)

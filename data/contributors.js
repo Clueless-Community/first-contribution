@@ -2404,6 +2404,16 @@ const contributors = [
     github: "https://github.com/krish68201",
     gender: "Female",
   },
+
+  {
+    name : "Miraz Mondal",
+    branch : "Bachelor of Computer Application",
+    college : "Future Institute of Engineering and Management",
+    year : 2023, 
+    linkedin : "https://www.linkedin.com/in/miraz-mondal/",
+    github : "https://github.com/miraz-mondal",
+    gender : "Male"
+},
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
