@@ -23,6 +23,17 @@ const contributors = [
 
   {
 
+    name: "Tanya Rastogi",
+    branch: "Computer Science & Engineering",
+    college: "JSS Academy Of Technical Education",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/tanya-rastogi-577141202/",
+    github: "https://github.com/iamtanya-22",
+    gender: "Female",
+  }, 
+
+  {
+
     name: "Mohd Kaleem Saqlaini",
     branch: "Computer Science & Engineering",
     college: "Aryan Institute of Technology",
