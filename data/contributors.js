@@ -1,6 +1,16 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Rishikesh Pandey",
+    branch: "Science",
+    college: "MGKVP",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/rishikeshpandey1/",
+    github: "https://github.com/rishiofficial",
+    gender: "Male",
+  },
+
+  {
 
     name: "Subrata Bhuin",
     branch: "Computer Science & Engineering",
@@ -1744,6 +1754,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Akanksha Lagad",
+    branch: "Electronics and Telecommunication",
+    college: "Institute of information technology,Pune",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/akankshalagad/",
+    github: "https://github.com/akankshalagad13",
+    gender: "Female",
+  },
+  {
     name: "Hafizur Rahman",
     branch: "Computer Science & Engineering",
     college: "Maharishi University of Intitute and Technology",
@@ -2420,6 +2439,15 @@ const contributors = [
     year : 2025, //Year of Pass Out
     linkedin : "https://www.linkedin.com/in/dhruva-n-l-choudhary-199793223/",
     github : "https://github.com/DHRUVA-N-L-CHOUDHARY",
+  },
+
+  {
+    name : "Miraz Mondal",
+    branch : "Bachelor of Computer Application",
+    college : "Future Institute of Engineering and Management",
+    year : 2023, 
+    linkedin : "https://www.linkedin.com/in/miraz-mondal/",
+    github : "https://github.com/miraz-mondal",
     gender : "Male"
 },
 ];
