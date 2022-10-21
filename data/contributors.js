@@ -2404,6 +2404,24 @@ const contributors = [
     github: "https://github.com/krish68201",
     gender: "Female",
   },
+    {
+    name: "Koushik Dutta",
+    branch: "BCA",
+    college: "NSEC",
+    year: 2022,
+    linkedin: "https://www.linkedin.com/in/koushikdutta/",
+    github: "https://github.com/iamkoushik1999",
+    gender: "Male",
+  },
+  {
+    name : "Dhruva N L Choudhary",
+    branch : "CSAI",
+    college : "IIIT Lucknow",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/dhruva-n-l-choudhary-199793223/",
+    github : "https://github.com/DHRUVA-N-L-CHOUDHARY",
+    gender : "Male"
+},
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2445,24 +2463,7 @@ contributors.unshift(
     gender: "Male",
   },
 
-  {
-    name: "Koushik Dutta",
-    branch: "BCA",
-    college: "NSEC",
-    year: 2022,
-    linkedin: "https://www.linkedin.com/in/koushikdutta/",
-    github: "https://github.com/iamkoushik1999",
-    gender: "Male",
-  },
-  {
-    name : "Dhruva N L Choudhary",
-    branch : "CSAI",
-    college : "IIIT Lucknow",
-    year : 2025, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/dhruva-n-l-choudhary-199793223/",
-    github : "https://github.com/DHRUVA-N-L-CHOUDHARY",
-    gender : "Male"
-},
+
 );
 
 export default contributors;
