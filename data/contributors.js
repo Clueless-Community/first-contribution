@@ -1,6 +1,16 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Rishikesh Pandey",
+    branch: "Science",
+    college: "MGKVP",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/rishikeshpandey1/",
+    github: "https://github.com/rishiofficial",
+    gender: "Male",
+  },
+
+  {
 
     name: "Subrata Bhuin",
     branch: "Computer Science & Engineering",
