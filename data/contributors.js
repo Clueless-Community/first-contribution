@@ -2359,6 +2359,16 @@ const contributors = [
     gender: "Male",
   },
   {
+
+    name: "Rutuja Khilare",
+    branch: "Information Technology",
+    college: "Walchand College of Engineering, Sangli",
+    year: 2024, 
+    linkedin: "https://www.linkedin.com/in/rutuja-khilare-b2198021a/",
+    github: "https://github.com/rutuja369",
+    gender: "Female",
+  },
+  {
     name: "Naincy Kumari",
     branch: "CSE",
     collage: "BPPIMT",
@@ -2468,6 +2478,16 @@ const contributors = [
         github : "https://github.com/harshkalra200",
         gender : "Male"
    },
+
+  {
+        name : "Lalit Chaudhary",
+        branch : "Computer Science Engineering",
+        college : "SRM",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/codelalit/",
+        github : "https://github.com/CodeLalit007",
+        gender : "Male"
+   },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2508,6 +2528,7 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+
 
 );
 
