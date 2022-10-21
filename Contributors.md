@@ -184,6 +184,7 @@
 - [Soustab Haldar](https://github.com/soustab10)
 - [Harsh Kalra](https://github.com/harshkalra2003)
 - [Malavi Pande](https://github.com/Malavi1)
+- [Rajendra Rakha](https://github.com/rjndrkha)
 - [Rajneel Anuraj](https://github.com/thisisrajneel)
 - [Krishnika Gupta](https://github.com/krish68201)
 - [Lalit Chaudhary](https://github.com/codelalit007)

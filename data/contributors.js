@@ -2367,6 +2367,15 @@ const contributors = [
     github: "https://github.com/Naincy04",
     gender: "Female",
   },
+  {
+    name : "Rajendra Rakha",
+    branch : "Science Engineering",
+    college : "POLINEMA",
+    year : 2023,
+    linkedin : "linkedin.com/in/rajendra-rakha-1b7675196/",
+    github : "https://github.com/rjndrkha",
+    gender : "Male"
+},
 
   {
     name: "Harsh Kalra",
@@ -2450,6 +2459,15 @@ const contributors = [
     github : "https://github.com/miraz-mondal",
     gender : "Male"
 },
+  {
+        name : "Harsh Kalra",
+        branch : "Mechanical Engineering",
+        college : "HBTU",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/harsh-k-7723101b2/",
+        github : "https://github.com/harshkalra200",
+        gender : "Male"
+   },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2490,7 +2508,6 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-
 
 );
 
