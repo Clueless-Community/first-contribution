@@ -273,7 +273,7 @@ const index = () => {
 								</li>
 								<li className="my-2">
 									<p className=" text-md mb-4">
-										Now, you can see your data into Contributors.md anad
+										Now, you can see your data into Contributors.md and
 										contributors.js
 									</p>
 								</li>

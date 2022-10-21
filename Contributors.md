@@ -1,8 +1,13 @@
 # Contributors
 
+- [Manish Tyagi](https://www.github.com/money8203)
+- [Subrata Bhuin](https://github.com/Over-Thinker)
 - [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
+- [Dhruva N L Choudhary](https://github.com/DHRUVA-N-L-CHOUDHARY)
+- [Kavya Lokuge](https://github.com/kavyaLokuge)
 - [Javesh Lodha](https://github.com/javesshhh)
 - [Princeton D'souza](https://github.com/Princeton21)
+- [Perumall Pardhiv](https://github.com/Perumallpardhiv)
 - [Apurv Tiwari](https://github.com/Mahakal0123))
 - [Smit Padaliya](https://github.com/Smit-05)
 - [Shubhra Gupta](https://github.com/shubhra-g)
@@ -179,4 +184,8 @@
 - [Soustab Haldar](https://github.com/soustab10)
 - [Harsh Kalra](https://github.com/harshkalra2003)
 - [Malavi Pande](https://github.com/Malavi1)
+- [Rajendra Rakha](https://github.com/rjndrkha)
 - [Rajneel Anuraj](https://github.com/thisisrajneel)
+- [Krishnika Gupta](https://github.com/krish68201)
+- [Lalit Chaudhary](https://github.com/codelalit007)
+- [Miraz Mondal](https://github.com/miraz-mondal)
