@@ -2363,7 +2363,7 @@ const contributors = [
     name: "Rutuja Khilare",
     branch: "Information Technology",
     college: "Walchand College of Engineering, Sangli",
-    year: 2024, 
+    year: 2024,
     linkedin: "https://www.linkedin.com/in/rutuja-khilare-b2198021a/",
     github: "https://github.com/rutuja369",
     gender: "Female",
@@ -2464,7 +2464,7 @@ const contributors = [
     name : "Miraz Mondal",
     branch : "Bachelor of Computer Application",
     college : "Future Institute of Engineering and Management",
-    year : 2023, 
+    year : 2023,
     linkedin : "https://www.linkedin.com/in/miraz-mondal/",
     github : "https://github.com/miraz-mondal",
     gender : "Male"
@@ -2488,6 +2488,15 @@ const contributors = [
         github : "https://github.com/CodeLalit007",
         gender : "Male"
    },
+     {
+    name: "Dennis Hundertmark",
+    branch: "N/A",
+    college: "N/A",
+    year: "N/A",
+    linkedin: "N/A",
+    github: "https://github.com/mnkyjs",
+    gender: "Male",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2528,8 +2537,6 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-
-
 );
 
 export default contributors;
