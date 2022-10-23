@@ -2488,6 +2488,15 @@ const contributors = [
         github : "https://github.com/CodeLalit007",
         gender : "Male"
    },
+     {
+    name: "Dennis Hundertmark",
+    branch: "N/A",
+    college: "N/A",
+    year: "N/A",
+    linkedin: "N/A",
+    github: "https://github.com/mnkyjs",
+    gender: "Male",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2528,17 +2537,6 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-  {
-    name: "Dennis Hundertmark",
-    branch: "N/A",
-    college: "N/A",
-    year: "N/A",
-    linkedin: "N/A",
-    github: "https://github.com/mnkyjs",
-    gender: "Male",
-  },
-
-
 );
 
 export default contributors;
