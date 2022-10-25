@@ -2546,6 +2546,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name : "Muhammad Mobeen",
+    branch : "Computer Scientist",
+    college : "Institute of Space Technology",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/mobeen360/",
+    github : "https://github.com/muhammad-mobeen",
+    gender : "Male"
+  },
 );
 
 export default contributors;
