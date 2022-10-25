@@ -189,6 +189,7 @@
 - [Krishnika Gupta](https://github.com/krish68201)
 - [Lalit Chaudhary](https://github.com/codelalit007)
 - [Miraz Mondal](https://github.com/miraz-mondal)
+- [Soumojit Chakraborty](https://github.com/SOUMOJIT-CHAKRABORTY)
 - [Dennis Hundertmark](https://github.com/mnkyjs)
 - [Muhammad Mobeen](https://github.com/muhammad-mobeen)
 - [Tuhin Bar](https://github.com/TuhinBar)
