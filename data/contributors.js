@@ -2497,6 +2497,15 @@ const contributors = [
     github: "https://github.com/mnkyjs",
     gender: "Male",
   },
+  {
+    name: "Tuhin Bar",
+    branch: "BCA",
+    college: "FIEM",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/tuhin-bar/",
+    github: "https://github.com/TuhinBar",
+    gender: "Male",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
