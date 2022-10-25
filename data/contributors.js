@@ -2475,15 +2475,51 @@ const contributors = [
     github: "https://github.com/harshkalra200",
     gender: "Male",
   },
-
   {
-    name: "Lalit Chaudhary",
-    branch: "Computer Science Engineering",
-    college: "SRM",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/codelalit/",
-    github: "https://github.com/CodeLalit007",
+        name : "Lalit Chaudhary",
+        branch : "Computer Science Engineering",
+        college : "SRM",
+        year : 2025,
+        linkedin : "https://www.linkedin.com/in/codelalit/",
+        github : "https://github.com/CodeLalit007",
+        gender : "Male"
+   },
+     {
+    name: "Dennis Hundertmark",
+    branch: "N/A",
+    college: "N/A",
+    year: "N/A",
+    linkedin: "N/A",
+    github: "https://github.com/mnkyjs",
     gender: "Male",
+  },
+  {
+    name: "Tuhin Bar",
+    branch: "BCA",
+    college: "FIEM",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/tuhin-bar/",
+    github: "https://github.com/TuhinBar",
+    gender: "Male",
+  },
+    {
+
+    name: "Soumojit Chakraborty",
+    branch: "CSE",
+    college: "FIEM",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/soumojit-ch/",
+    github: "https://github.com/SOUMOJIT-CHAKRABORTY",
+    gender: "Male",
+  },
+{
+    name : "Muhammad Mobeen",
+    branch : "Computer Scientist",
+    college : "Institute of Space Technology",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/mobeen360/",
+    github : "https://github.com/muhammad-mobeen",
+    gender : "Male"
   },
 ];
 
@@ -2525,15 +2561,8 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-  {
-    name: "Soumojit Chakraborty",
-    branch: "CSE",
-    college: "FIEM",
-    year: 2024, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/soumojit-ch/",
-    github: "https://github.com/SOUMOJIT-CHAKRABORTY",
-    gender: "Male",
-  }
+
+
 );
 
 export default contributors;
