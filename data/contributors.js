@@ -1,6 +1,16 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Rohit Kumar Agarwal",
+    branch: "Computer Science & Engineering",
+    college: "HITK",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/rohitzerofour/",
+    github: "https://github.com/rohitzerofour",
+    gender: "Male",
+  },
+
+  {
     name: "Rishikesh Pandey",
     branch: "Science",
     college: "MGKVP",
