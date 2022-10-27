@@ -24,8 +24,18 @@ const index = () => {
         </div>
         <GitCom heading='Viewing branches' />
         <GitDiv command='git branch --list' />
+        <GitCom heading='Creating a branch' />
+        <GitDiv command='git branch [branch name]' />
+        <GitCom heading='Switching from one branch to another' />
+        <GitDiv command='git checkout [branch name]  ' />
         <GitCom heading='Deleting a branch' />
         <GitDiv command='git branch -d branch_name' />
+        <GitCom
+          heading='Git config'
+          para='• It sets the developer name and email address with pushed commits on github.'
+        />
+        <GitDiv command='git config --global user.name “[name]”  ' />
+        <GitDiv command='git config --global user.email “[email address]”    ' />
         <GitCom
           heading='Git status'
           para='• Git status gives information about the branch & files'
@@ -33,11 +43,26 @@ const index = () => {
         <GitDiv command='git status' />
         <GitCom heading='To check push/fetch origin URL' />
         <GitDiv command='git remote -v' />
+        <GitCom heading='git init'
+        para='• Git init helps to start a new repository'
+        />
+        <GitDiv command='git init [repository name]' />
         <GitCom
           heading='Git pull'
           para='• To gets the updates from remote repository and immediately applies the latest changes in your local.'
         />
         <GitDiv command='git pull origin main/master' />
+        <GitCom heading='Git clone'
+        para='• Git clone helps us to download repository via URL from github.'
+        />
+        <GitDiv command='git clone [url]' />
+
+        <GitCom heading='Git add'
+        para='• Git add helps us to adds a file with filename or totalfile to the staging area.'
+        />
+        <GitDiv command='git add [filename]' />
+        <GitDiv command='git add .' />
+
         <GitCom
           heading='To undo the changes'
           para='• We need to specify the hash code ( eg. 3321844 ) next to our commit that we would like to undo'
@@ -91,6 +116,13 @@ const index = () => {
         <GitDiv command='git diff HEAD file_name' />
         <GitCom heading='To compare two branches' />
         <GitDiv command='git diff source_branch target_branch' />
+
+        <GitCom heading='To  compact all commits in one commit' />
+        <GitDiv command='$ git rebase -i HEAD~3' />
+        <GitDiv command='pick 3123cb90
+squash 8560f5fb
+squash 70644096' />
+
         <GitCom
           heading='There are many commands in Git'
           para='• To compare working directory with the local repo'
