@@ -2572,6 +2572,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name : "Amitesh Patra",
+    branch : "CSE",
+    college : "BITD",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/amitesh-patra",
+    github : "https://github.com/AmiteshPatra",
+    gender : "Male"
+  },
 
 
 );
