@@ -2572,8 +2572,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
-
-
+  {
+    name: "Lotfi Jebali",
+    branch: "CS",
+    college: "HICS",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/lotfijbeli/",
+    github: "https://github.com/lotfijb",
+    gender: "Male",
+  },
 );
 
 export default contributors;
