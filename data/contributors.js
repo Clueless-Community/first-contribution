@@ -2250,6 +2250,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Silky Modi",
+    branch: "Computer Science & Engineering",
+    college: "Medi-Caps University",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/silky-modi-b11879227",
+    github: "https://github.com/silky-modi22",
+    gender: "female",
+  },
+  {
     name: "Harshit Sharma",
     branch: "Mechanical Engineering",
     college: "HBTU K",
@@ -2571,17 +2580,7 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  },{
-    name: "Silky Modi",
-    branch: "Computer Science & Engineering",
-    college: "Medi-Caps University",
-    year: 2025, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/silky-modi-b11879227",
-    github: "https://github.com/silky-modi22",
-    gender: "female",
   },
-
-
 );
 
 export default contributors;
