@@ -194,3 +194,4 @@
 - [Dennis Hundertmark](https://github.com/mnkyjs)
 - [Muhammad Mobeen](https://github.com/muhammad-mobeen)
 - [Tuhin Bar](https://github.com/TuhinBar)
+- [Lotfi Jebali](https://github.com/lotfijb)
