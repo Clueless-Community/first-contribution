@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import HeroDark from "./components/HeroDark";
 import Document from "./document";
 import Topfab from "./components/Topfab";
+import PageContentWrapper from './components/PageContentWrapper'
 
 const index = () => {
   const [Hometheme, setHomeTheme] = useState("");
@@ -24,21 +25,19 @@ const index = () => {
   }, []);
 
   return (
-    <div>
+    <>
       <Document />
       <Navbar herotheme={HeroTheme} homeTheme={Hometheme} />
       {!Hometheme && <HeroLight />}
       {Hometheme === "dark" && <HeroDark />}
-      <div className="relative z-10">
+      <PageContentWrapper className="relative z-10 !bg-transparent">
         <RecentContributors />
         <DiscordHome />
         <Topfab />
         <CreatorSection />
-        
-        <Footer />
-        
-      </div>
-    </div>
+      </PageContentWrapper>
+      <Footer />
+    </>
   );
 };
 

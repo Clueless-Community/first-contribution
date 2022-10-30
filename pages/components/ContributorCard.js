@@ -5,7 +5,7 @@ const ContributorCard = (props) => {
   return (
     <>
 
-        <div className="p-2 lg:w-1/3 md:w-1/2 w-full ">
+        <div onClick={() => window.open(props.github, '_blank')} className="p-2 lg:w-1/3 md:w-1/2 w-full cursor-pointer">
           <div className="h-full flex md:flex-col xl:flex-row items-center border-gray-200 border p-4 rounded-lg dark:bg-gray-600 bg-gray-50">
               <div className="md:mb-3 xl:mb-0">
             <ChakraProvider>
