@@ -1,5 +1,11 @@
 # Contributors
 
+- [Rupesh Dubey](https://github.com/rupeshexe)
+- [Manish Tiwari](https://github.com/manish-9245)
+- [Danish Zayan](https://github.com/danishzayan)
+- [Shruti Mishra](https://github.com/ShrutiMishra-2002)
+- [Rahul Karda](https://github.com/rahulkarda)
+- [Sneha Singh](https://github.com/Sneha0607)
 - [Manish Tyagi](https://www.github.com/money8203)
 - [Subrata Bhuin](https://github.com/Over-Thinker)
 - [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
@@ -157,6 +163,7 @@
 - [Burhanuddin Raja](https://github.com/BurhanRaja)
 - [David Egbugara](https://github.com/da-eb)
 - [Kishan Aghera](https://github.com/kishan-aghera)
+- [J S Vignesh Kanna](https://github.com/jsvigneshkanna)
 - [Koustav Mondal](https://github.com/XxThunderBlastxX)
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Mihir Panchal](https://github.com/MihiRajeshPanchal)
