@@ -2396,6 +2396,15 @@ const contributors = [
     github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
     gender: "Male",
   },
+    {
+    name: "Debankar Dutta Chowdhury",
+    branch: "CSE",
+    college: "Tezpur University",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/debankar-dutta-chowdhury-b61b29201/",
+    github: "https://github.com/deedeecee",
+    gender: "Male",
+  },
   {
     name: "Rutuja Khilare",
     branch: "Information Technology",
