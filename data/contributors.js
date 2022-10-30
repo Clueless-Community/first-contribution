@@ -2272,6 +2272,15 @@ const contributors = [
     github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
     gender: "Male",
   },
+    {
+    name: "Debankar Dutta Chowdhury",
+    branch: "CSE",
+    college: "Tezpur University",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/debankar-dutta-chowdhury-b61b29201/",
+    github: "https://github.com/deedeecee",
+    gender: "Male",
+  },
 
 ];
 
@@ -2311,15 +2320,6 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
-    gender: "Male",
-  },
-  {
-    name: "Debankar Dutta Chowdhury",
-    branch: "CSE",
-    college: "Tezpur University",
-    year: 2024,
-    linkedin: "https://www.linkedin.com/in/debankar-dutta-chowdhury-b61b29201/",
-    github: "https://github.com/deedeecee",
     gender: "Male",
   },
 );
