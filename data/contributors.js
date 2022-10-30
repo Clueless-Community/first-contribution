@@ -1,5 +1,15 @@
 const contributors = [
   //Add your Details here //
+   {
+    name: "Arindam Majumder",
+    branch: "Computer Science & Engineering",
+    college: "MAKAUT",
+    year: 2026,
+    linkedin: "https://www.linkedin.com/in/arindam-majumder-021bb623b/",
+    github: "https://github.com/Arindam200",
+    gender: "Male",
+  },
+
   {
     name: "Rohit Kumar Agarwal",
     branch: "Computer Science & Engineering",
