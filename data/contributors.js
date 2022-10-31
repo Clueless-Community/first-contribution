@@ -2579,6 +2579,15 @@ const contributors = [
     github : "https://github.com/AmiteshPatra",
     gender : "Male"
   },
+  {
+    name : "Tan S. Akıncı",
+    branch : "Electronic Engineering",
+    college : "Polytechnic University of Turin",
+    year : 2025,
+    linkedin : "https://www.linkedin.com/in/tan-siret-akinci-9b7996b6/",
+    github : "https://github.com/yutyo",
+    gender : "Male"
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
