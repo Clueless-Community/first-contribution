@@ -49,7 +49,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/tanya-rastogi-577141202/",
     github: "https://github.com/iamtanya-22",
     gender: "Female",
-  }, 
+  },
 
   {
     name: "Mohd Kaleem Saqlaini",
@@ -2619,6 +2619,16 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "Munsat Rukaya",
+    branch: "Architecture",
+    college: "BUET",
+    year: 2018,
+    linkedin: "https://www.linkedin.com/in/amunsat/",
+    github: "https://github.com/Munsat",
+    gender: "Female",
+  },
 );
+
 
 export default contributors;
