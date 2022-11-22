@@ -1,5 +1,14 @@
 const contributors = [
   //Add your Details here //
+  {
+    name : "Parth Bhuva",
+    branch : "Computer Engineering",
+    college : "U.V. Patel College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/parth-bhuva-58a560251/",
+    github : "https://github.com/ParthBhuva97",
+    gender : "Male"
+},
    {
     name: "Arindam Majumder",
     branch: "Computer Science & Engineering",
