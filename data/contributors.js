@@ -2619,6 +2619,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name : "Pranav Ajith",
+    branch : "Computer Science",
+    college : "IIT-BHU",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/pranavajithofficial/",
+    github : "github.com/pranavajith",
+    gender : "Male"
+}
 );
 
 export default contributors;
