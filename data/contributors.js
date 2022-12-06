@@ -2619,6 +2619,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "Fernando Galvan",
+    branch: "nando_branch",
+    college: "None",
+    year: "N/A",
+    linkedin: "https://www.linkedin.com/in/ngalvan00/",
+    github: "https://github.com/NandoLofi",
+    gender: "Male",
+  },
 );
 
 export default contributors;
