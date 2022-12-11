@@ -78,7 +78,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/tanya-rastogi-577141202/",
     github: "https://github.com/iamtanya-22",
     gender: "Female",
-  }, 
+  },
 
   {
     name: "Mohd Kaleem Saqlaini",
@@ -2163,6 +2163,15 @@ const contributors = [
     github: "https://github.com/BurhanRaja",
     gender: "male",
   },
+    {
+    name: "Munsat Rukaya",
+    branch: "Architecture",
+    college: "BUET",
+    year: 2018,
+    linkedin: "https://www.linkedin.com/in/amunsat/",
+    github: "https://github.com/Munsat",
+    gender: "Female",
+  },
   {
     name: "Bhavya Singh",
     branch: "Computer Science",
@@ -2658,5 +2667,6 @@ contributors.unshift(
     gender: "Male",
   },
 );
+
 
 export default contributors;
