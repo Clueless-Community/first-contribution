@@ -1,7 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
-
+    name: "Manikanta Cheepurupalli",
+    branch: "Computer Science & Engineering",
+    college: "Avanthi Institute of Engineering & Technology",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/manikanta528/",
+    github: "https://github.com/Manikanta528",
+    gender: "Male",
+  },
+{
     name : "Parth Bhuva",
     branch : "Computer Engineering",
     college : "U.V. Patel College of Engineering",
