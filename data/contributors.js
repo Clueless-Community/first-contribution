@@ -1,5 +1,25 @@
 const contributors = [
   //Add your Details here //
+  {
+
+    name : "Parth Bhuva",
+    branch : "Computer Engineering",
+    college : "U.V. Patel College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/parth-bhuva-58a560251/",
+    github : "https://github.com/ParthBhuva97",
+    gender : "Male"
+},
+{
+    name : "Sreeja Kar Choudhury",
+    branch : "Computer Science & Engineering",
+    college : "Future Institute of Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sreeja-kar-choudhury-4a91a4234/",
+    github : "https://github.com/sreeja-kc",
+    gender : "Female"
+
+},
    {
     name: "Arindam Majumder",
     branch: "Computer Science & Engineering",
@@ -7,6 +27,15 @@ const contributors = [
     year: 2026,
     linkedin: "https://www.linkedin.com/in/arindam-majumder-021bb623b/",
     github: "https://github.com/Arindam200",
+    gender: "Male",
+  },
+    {
+    name: "Fernando Galvan",
+    branch: "nando_branch",
+    college: "None",
+    year: "N/A",
+    linkedin: "https://www.linkedin.com/in/ngalvan00/",
+    github: "https://github.com/NandoLofi",
     gender: "Male",
   },
 
@@ -575,6 +604,15 @@ const contributors = [
     github: "https://github.com/pritika163",
     gender: "Female",
   },
+    {
+    name : "Pranav Ajith",
+    branch : "Computer Science",
+    college : "IIT-BHU",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/pranavajithofficial/",
+    github : "github.com/pranavajith",
+    gender : "Male"
+},
   {
     name: "Agnija Pal",
     branch: "CS Hons",
@@ -2125,6 +2163,15 @@ const contributors = [
     github: "https://github.com/BurhanRaja",
     gender: "male",
   },
+    {
+    name: "Munsat Rukaya",
+    branch: "Architecture",
+    college: "BUET",
+    year: 2018,
+    linkedin: "https://www.linkedin.com/in/amunsat/",
+    github: "https://github.com/Munsat",
+    gender: "Female",
+  },
   {
     name: "Bhavya Singh",
     branch: "Computer Science",
@@ -2618,15 +2665,6 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  },
-  {
-    name: "Munsat Rukaya",
-    branch: "Architecture",
-    college: "BUET",
-    year: 2018,
-    linkedin: "https://www.linkedin.com/in/amunsat/",
-    github: "https://github.com/Munsat",
-    gender: "Female",
   },
 );
 
