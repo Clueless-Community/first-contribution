@@ -1,5 +1,14 @@
 const contributors = [
   //Add your Details here //
+  {
+    name : "Sreeja Kar Choudhury",
+    branch : "Computer Science & Engineering",
+    college : "Future Institute of Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sreeja-kar-choudhury-4a91a4234/",
+    github : "https://github.com/sreeja-kc",
+    gender : "Female"
+},
    {
     name: "Arindam Majumder",
     branch: "Computer Science & Engineering",
