@@ -9,6 +9,15 @@ const contributors = [
     github: "https://github.com/Arindam200",
     gender: "Male",
   },
+    {
+    name: "Fernando Galvan",
+    branch: "nando_branch",
+    college: "None",
+    year: "N/A",
+    linkedin: "https://www.linkedin.com/in/ngalvan00/",
+    github: "https://github.com/NandoLofi",
+    gender: "Male",
+  },
 
   {
     name: "Rohit Kumar Agarwal",
@@ -2617,15 +2626,6 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
-    gender: "Male",
-  },
-  {
-    name: "Fernando Galvan",
-    branch: "nando_branch",
-    college: "None",
-    year: "N/A",
-    linkedin: "https://www.linkedin.com/in/ngalvan00/",
-    github: "https://github.com/NandoLofi",
     gender: "Male",
   },
 );
