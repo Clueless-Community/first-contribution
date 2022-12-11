@@ -205,3 +205,5 @@
 - [Tuhin Bar](https://github.com/TuhinBar)
 - [Amitesh Patra](https://github.com/AmiteshPatra)
 - [Manikanta Cheepurupalli](https://github.com/Manikanta528)
+- [Munsat Rukaya](https://github.com/Munsat)
+- [Sreeja_Kar_Choudhury](https://github.com/sreeja-kc)
