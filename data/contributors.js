@@ -1,6 +1,16 @@
 const contributors = [
   //Add your Details here //
   {
+
+    name : "Parth Bhuva",
+    branch : "Computer Engineering",
+    college : "U.V. Patel College of Engineering",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/parth-bhuva-58a560251/",
+    github : "https://github.com/ParthBhuva97",
+    gender : "Male"
+},
+{
     name : "Sreeja Kar Choudhury",
     branch : "Computer Science & Engineering",
     college : "Future Institute of Technology",
@@ -8,6 +18,7 @@ const contributors = [
     linkedin : "https://www.linkedin.com/in/sreeja-kar-choudhury-4a91a4234/",
     github : "https://github.com/sreeja-kc",
     gender : "Female"
+
 },
    {
     name: "Arindam Majumder",
