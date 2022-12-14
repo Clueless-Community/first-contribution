@@ -2683,6 +2683,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "s-shemmee",
+    branch: "Computer Science",
+    college: "FSSM",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/shemmee/",
+    github: "https://github.com/s-shemmee",
+    gender: "Female",
+  },
 );
 
 export default contributors;
