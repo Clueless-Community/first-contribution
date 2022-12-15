@@ -2643,6 +2643,15 @@ const contributors = [
     github : "https://github.com/yutyo",
     gender : "Male"
   },
+    {
+    name: "s-shemmee",
+    branch: "Computer Science",
+    college: "FSSM",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/shemmee/",
+    github: "https://github.com/s-shemmee",
+    gender: "Female",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
