@@ -2692,6 +2692,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+{
+    name: "Deep Saikia",
+    branch: "Computer Science & Engineering",
+    college: "NIT Silchar",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/deep-saikia/",
+    github: "https://github.com/saikiaDeep",
+    gender: "Male",
+  },
 );
 
 export default contributors;
