@@ -45,7 +45,6 @@
 - [Sanyam Agarwal](https://github.com/sanyam1259)
 - [Abir Santra](https://github.com/AbirSantra)
 - [Pritika Bhar](https://github.com/pritika163)
-- [Agnija Pal](https://github.com/agnijapal)
 - [Anish Prashun](https://github.com/Anishpras)
 - [Rohit Ranjan Singh](https://github.com/itzROHIT-coder)
 - [K.hari Prasath](https://github.com/khari-on)
