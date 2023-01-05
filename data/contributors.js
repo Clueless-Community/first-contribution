@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "sunlianyu",
+    branch: "Computer Science and Technology",
+    college: "Harbin University of Science and Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.cn/in/lianyu-sun-8476a125a",
+    github: "https://github.com/7y-9",
+    gender: "Male",
+  },
+  {
     name: "Manikanta Cheepurupalli",
     branch: "Computer Science & Engineering",
     college: "Avanthi Institute of Engineering & Technology",
