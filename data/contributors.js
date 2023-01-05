@@ -9,6 +9,15 @@ const contributors = [
     github: "https://github.com/Manikanta528",
     gender: "Male",
   },
+  {
+    name: "Deep Saikia",
+    branch: "Computer Science & Engineering",
+    college: "NIT Silchar",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/deep-saikia/",
+    github: "https://github.com/saikiaDeep",
+    gender: "Male",
+  },
 {
     name : "Parth Bhuva",
     branch : "Computer Engineering",
@@ -2690,15 +2699,6 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
-    gender: "Male",
-  },
-{
-    name: "Deep Saikia",
-    branch: "Computer Science & Engineering",
-    college: "NIT Silchar",
-    year: 2025,
-    linkedin: "https://www.linkedin.com/in/deep-saikia/",
-    github: "https://github.com/saikiaDeep",
     gender: "Male",
   },
 );
