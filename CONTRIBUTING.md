@@ -74,7 +74,7 @@ Open contributors.js in your favourite text editor and add a new object below th
 Now open Contributors.md in a text editor and add your name and your github link below the exisiting one in given format
 
 ```bash
-   - [your_name](your Github url)
+   - [Sumit Sharma](https://github.com/sumit-sharma-02)
 ```
 
 ## 4. Creating a Pull request
@@ -151,6 +151,6 @@ You may add a Comment to your Pull Request
 
 - Now, you can see your data into Contributors.md and contributors.js
 
-# Want to Setup Project locally? Follow this ⬇️ 
+# Want to Setup Project locally? Follow this ⬇️
 
 [Refer to this](./SetUp.md)
