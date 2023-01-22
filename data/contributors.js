@@ -2488,6 +2488,15 @@ const contributors = [
         github : "https://github.com/CodeLalit007",
         gender : "Male"
    },
+  {
+        name : "Pritam Kumar Mani",
+        branch : "Computer Science",
+        college : "Midnapore College Autonomous",
+        year : 2023,
+        linkedin : "https://www.linkedin.com/in/pritam-kumar-mani-37bb62215/",
+        github : "https://github.com/Pritam991",
+        gender : "Male"
+   },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
