@@ -48,7 +48,7 @@ git config --global user.email "email address"
 - Clone the Forked project on your local system
 
 ```bash
-git clone https://github.com/HITK-2025/first-contribution.git
+git clone https://github.com/<your_github_username>/first-contribution.git
 ```
 
 - Make the changes
