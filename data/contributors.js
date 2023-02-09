@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Ganesh Mourya",
+    branch: "Bachelors of Science in Information Technology",
+    college: "Sahyog College of Management Studies and Information Technology",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/alkaison/",
+    github: "https://github.com/alkaison",
+    gender: "Male",
+  },
+  {
     name: "Manikanta Cheepurupalli",
     branch: "Computer Science & Engineering",
     college: "Avanthi Institute of Engineering & Technology",
