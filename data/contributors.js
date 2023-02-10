@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Sunlianyu",
+    branch: "Computer Science and Technology",
+    college: "Harbin University of Science and Technology",
+    year: 2023,
+    linkedin: "https://www.linkedin.cn/in/lianyu-sun-8476a125a",
+    github: "https://github.com/7y-9",
+    gender: "Male",
+  },
+  {
     name: "Sumit Sharma",
     branch: "Computer Applications",
     college: "Amrita Vishwa Vidyapeetham",
