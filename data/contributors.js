@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Rishikesh K V",
+    branch: "Computer Science & Engineering",
+    college: "Government College Of Engineering Kannur",
+    year: 2024, //Year of Pass Out
+    linkedin: "www.linkedin.com/in/rishikesh-kv",
+    github: "https://github.com/rishi9808",
+    gender: "Male",
+  },
+  {
     name: "Ganesh Mourya",
     branch: "Information Technology",
     college: "Sahyog College of Management Studies and Information Technology",
