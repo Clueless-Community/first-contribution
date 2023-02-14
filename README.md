@@ -1,22 +1,7 @@
 
-<h1 align='center'>We are extremely sorry to inform you that this repo is excluded from Hactoberfest 2022 😢</h1>
-<p align='center'> <b>But the contribution you made will not go waste, it still counts in for swags by Clueless</b> <p>
+<h1 align='center'>Contribute and learn about the w</h1>
 
 ----
-
-<h1 align='center'>First Contribution 🫂</h1>
-<p align='center'> <b>This project is for those who are new to open-source and looking for make their first contribution </b> <p>
-
----
-## Hacktoberfest
-
-You can contribute to this project under [Hacktoberfest 2022](https://hacktoberfest.com/) 💫
-
-![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
-
-Hacktoberfest 2022 is finally here, and we're pretty excited about it. We think it's a great time to encourage, recognise and reward developers in the community who dedicate their time to creating for others.
-
-Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion.
 
 #### Tips for Contributors:
 
