@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useMemo } from "react";
 import ContributorCard from "../components/ContributorCard";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
@@ -8,10 +8,20 @@ import Topfab from "../components/Topfab";
 import PageContentWrapper from "../components/PageContentWrapper";
 import Image from "next/image";
 
+const useSearch = (contributors, search) => {
+	return useMemo(() => {
+	return contributors.filter(
+		(item) =>
+		item.name.toLowerCase(search) ||
+		item.college.toLowerCase(search)
+	);
+	}, [contributors, search]);
+};
+
 const index = () => {
 	const totalContributor = contributors.length;
 	const [search, setSearch] = useState("");
-	const [searchResult, setSearchResult] = useState(contributors);
+	const searchResult = useSearch(contributors, search);
 
 	const searchStyles = {
 		width: "100%",
@@ -20,17 +30,7 @@ const index = () => {
 		height: 42,
 		overflow: "hidden",
 	};
-
-	useEffect(() => {
-		setSearchResult(
-			contributors.filter(
-				(item) =>
-					item.name.toLowerCase().includes(search) ||
-					item.college.toLowerCase().includes(search)
-			)
-		);
-	}, [search]);
-
+  
 	return (
 		<>
 			<Document />
