@@ -2569,6 +2569,15 @@ const contributors = [
     gender: "Male",
   },
   {
+        name : "Pritam Kumar Mani",
+        branch : "Computer Science",
+        college : "Midnapore College Autonomous",
+        year : 2023,
+        linkedin : "https://www.linkedin.com/in/pritam-kumar-mani-37bb62215/",
+        github : "https://github.com/Pritam991",
+        gender : "Male"
+   },
+   {
     name: "Muhammad Mobeen",
     branch: "Computer Scientist",
     college: "Institute of Space Technology",
