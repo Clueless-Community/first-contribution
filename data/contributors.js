@@ -2652,6 +2652,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
+  },
+  {
+    name: "Rahul Dutta",
+    branch: "BCA",
+    college: "Maulana Abul Kalam Azad University of Technology, West Bengal",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/irahuldutta02",
+    github: "https://github.com/irahuldutta02",
+    gender: "Male",
   }
 );
 
