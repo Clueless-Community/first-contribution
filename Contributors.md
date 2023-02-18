@@ -1,5 +1,6 @@
 # Contributors
-- [Rishikesh K V](https://github.com/rishi9808) 
+
+- [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
 - [Rupesh Dubey](https://github.com/rupeshexe)
 - [Manish Tiwari](https://github.com/manish-9245)
@@ -211,3 +212,4 @@
 - [s_shemmee](https://github.com/s-shemmee)
 - [sunlianyu](https://github.com/7y-9)
 - [Sumit Sharma](https://github.com/sumit-sharma-02)
+- [Manish Syal](https://github.com/Manish-Syal123)
