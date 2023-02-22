@@ -91,7 +91,16 @@ const contributors = [
     github: "https://github.com/rohitzerofour",
     gender: "Male"
   },
-
+  {
+    name: "Richard Callaby",
+    branch: "School of Information Sciences & Management",
+    college: "University of South Florida",
+    year: 2002,
+    linkedin: "https://www.linkedin.com/in/richardcallaby",
+    github: "https://github.com/rcallaby",
+    gender: "Male"
+  },
+  
   {
     name: "Rishikesh Pandey",
     branch: "Science",
