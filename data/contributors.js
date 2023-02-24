@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name : "Roshan Kumar",
+    branch : "CSE",
+    college : "Unversity College of Engineering and Technology , Hazaribagh",
+    year : 2024, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/roshan-kumar7989/",
+    github : "https://github.com/roshan798",
+    gender : "Male"
+},
+  {
     name: "Sunlianyu",
     branch: "Computer Science and Technology",
     college: "Harbin University of Science and Technology",
