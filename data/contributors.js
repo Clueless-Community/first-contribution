@@ -10,6 +10,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Nancy",
+    branch: "Information Technology and Engineering",
+    college: "Maharaja Institute of Technology ",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/nancy-kasaudhan-06592921b/",
+    github: "https://github.com/nancyKasaudhan20",
+    gender: "Female",
+  },
+  {
     name: "Sumit Sharma",
     branch: "Computer Applications",
     college: "Amrita Vishwa Vidyapeetham",
