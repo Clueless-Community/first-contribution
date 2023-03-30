@@ -18,6 +18,15 @@ const contributors = [
     github: "https://github.com/sumit-sharma-02",
     gender: "Male",
   },
+   {
+    name: "Karan Chauhan",
+    branch: "Computer Science and Technology",
+    college: "Ganpata University University ",
+    year: 2023,
+    linkedin: "https://www.linkedin.cn/in/lianyu-sun-8476a125a",
+    github: "https://github.com/Karansingh1153",
+    gender: "Male",
+  },
   {
     name: "Rishikesh K V",
     branch: "Computer Science & Engineering",
