@@ -2613,6 +2613,15 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
+  {
+    name: "Daksh Singh Rathore",
+    branch: "CSE",
+    college: "NSEC",
+    year: 2026,
+    linkedIn: "https://www.linkedin.com/in/daksh-singh-rathore-%F0%9F%87%AE%F0%9F%87%B3-84aa981aa/",
+    github: "https://github.com/DSR1729",
+    gender: "Male",
+  }
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
