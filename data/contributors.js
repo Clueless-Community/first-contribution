@@ -1,5 +1,14 @@
 const contributors = [
   //Add your Details here //
+   {
+        name : "B C SAMRUDH",
+        branch : "AI/ML",
+        college : "PES UNIVERSITY",
+        year : 2026,
+        linkedin : "https://www.linkedin.com/in/samrudhbc/",
+        github : "https://github.com/bcsamrudh",
+        gender : "Male"
+    },
   {
     name: "Sunlianyu",
     branch: "Computer Science and Technology",
