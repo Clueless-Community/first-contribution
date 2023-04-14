@@ -1,4 +1,5 @@
 # Contributors
+- [B C Samrudh](https://github.com/bcsamrudh)
 - [Rishikesh K V](https://github.com/rishi9808) 
 - [Ganesh Mourya](https://github.com/Alkaison)
 - [Rupesh Dubey](https://github.com/rupeshexe)
