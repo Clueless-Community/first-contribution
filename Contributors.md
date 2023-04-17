@@ -1,5 +1,7 @@
 # Contributors
-- [Rishikesh K V](https://github.com/rishi9808) 
+
+- [Ekam Bitt](https://github.com/Ekam-Bitt)
+- [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
 - [Rupesh Dubey](https://github.com/rupeshexe)
 - [Manish Tiwari](https://github.com/manish-9245)
@@ -15,7 +17,7 @@
 - [Javesh Lodha](https://github.com/javesshhh)
 - [Princeton D'souza](https://github.com/Princeton21)
 - [Perumall Pardhiv](https://github.com/Perumallpardhiv)
-- [Apurv Tiwari](https://github.com/Mahakal0123))
+- [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Smit Padaliya](https://github.com/Smit-05)
 - [Shubhra Gupta](https://github.com/shubhra-g)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
