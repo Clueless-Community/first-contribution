@@ -2661,6 +2661,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
+  },
+  {
+    name: "Prem Mohan Kushwaha",
+    branch: "BSc.IT",
+    college: "Marwari College Ranchi Jharkhand",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/prem-mohan-kushwaha-95bbb2207",
+    github: "https://github.com/pmkushwaha",
+    gender: "Male",
   }
 );
 
