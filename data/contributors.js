@@ -28,6 +28,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Mukhtar Khan",
+    branch: "Information Technology",
+    college: "AITR",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/mukhtar02/",
+    github: "https://github.com/MUKHTAR-02",
+    gender: "Male",
+  },
+  {
     name: "Rishikesh K V",
     branch: "Computer Science & Engineering",
     college: "Government College Of Engineering Kannur",
