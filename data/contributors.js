@@ -2661,16 +2661,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  }
+  },
   {
-    name : "Debmalya Sen",
-    branch : "Commerce",
-    college : "about to go to college",
-    year : 2027, //Year of Pass Out
-    linkedin : "https://www.linkedin.com/in/debmalyasen1/",
-    github : "https://github.com/debmalya37",
-    gender : "male",
-},
+    name: "Debmalya Sen",
+    branch: "Commerce",
+    college: "about to go to college",
+    year: 2027, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/debmalyasen1/",
+    github: "https://github.com/debmalya37",
+    gender: "male",
+  }
 );
 
 export default contributors;
