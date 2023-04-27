@@ -2669,7 +2669,7 @@ contributors.unshift(
     year : 2027, //Year of Pass Out
     linkedin : "https://www.linkedin.com/in/debmalyasen1/",
     github : "https://github.com/debmalya37",
-    gender : "male"
+    gender : "male",
 },
 );
 
