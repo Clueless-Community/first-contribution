@@ -1,11 +1,11 @@
 import React, { useState, useMemo } from "react";
 import ContributorCard from "../components/ContributorCard";
+import PageContentWrapper from "../components/PageContentWrapper";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Document from "../document";
 import contributors from "../../data/contributors";
 import Topfab from "../components/Topfab";
-import PageContentWrapper from "../components/PageContentWrapper";
 import Image from "next/image";
 
 const useSearch = (contributors, search) => {

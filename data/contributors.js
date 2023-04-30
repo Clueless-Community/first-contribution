@@ -1,14 +1,5 @@
 const contributors = [
   //Add your Details here //
-  {
-    name: "Mukesh Kumar",
-    branch: "BS Software Engineering",
-    college: "Virtual University of Pakistan",
-    year: 2025, //Year of Pass Out
-    linkedin: "https://www.linkedin.com/in/mukesh-kumar-87a12b19a",
-    github: "https://github.com/MukeshOdhano",
-    gender: "Male",
-  },
     {
     name: "Mukesh Kumar",
     branch: "BS Software Engineering",
