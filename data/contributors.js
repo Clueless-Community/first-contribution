@@ -2670,6 +2670,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Shawn Harrison",
+    branch: "Software Engineer",
+    college: "App Academy",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/shawn-harrison-353b5b96/",
+    github: "https://github.com/thelazrus",
+    gender: "Male",
   }
 );
 
