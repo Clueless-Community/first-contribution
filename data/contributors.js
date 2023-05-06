@@ -1251,6 +1251,15 @@ const contributors = [
     github: "https://github.com/FahimFBA",
     gender: "Male",
   },
+ {
+    name : "HamzaB",
+    branch : "BComm",
+    college : "GBC",
+    year : 2024,
+    linkedin : "https://www.linkedin.com/in/hamza-brka-7b4bb4210/",
+    github : "https://github.com/waffletester",
+    gender : "Male",
+    },
   {
     name: "Ankit Anand",
     branch: "Electronics And Computer Science",
