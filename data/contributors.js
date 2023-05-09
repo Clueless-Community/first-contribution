@@ -13,9 +13,18 @@ const contributors = [
     name: "Sunlianyu",
     branch: "Computer Science and Technology",
     college: "Harbin University of Science and Technology",
-    year: 2023,
+    year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.cn/in/lianyu-sun-8476a125a",
     github: "https://github.com/7y-9",
+    gender: "Male",
+  },
+  {
+    name: "Poulav Bhowmick",
+    branch: "Electronics and Communication",
+    college: "Heritage Institute of Technology",
+    year: 2026, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/poulav-bhowmick-12445624a/",
+    github: "https://github.com/PoulavBhowmick",
     gender: "Male",
   },
   {
