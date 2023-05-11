@@ -2633,7 +2633,7 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/rajdeep-sengupta/",
     github: "https://github.com/Rajdip019/Rajdip019",
-    gender: "male",
+    gender: "male"
   },
   {
     name: "Roshan Kumar",
@@ -2642,7 +2642,7 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/roshan-kumar-176918202/",
     github: "https://github.com/Roshaen",
-    gender: "male",
+    gender: "male"
   },
   {
     name: "Nikhil Raj",
@@ -2651,7 +2651,7 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/nikhil-raj-117246232/",
     github: "https://github.com/nikhil25803",
-    gender: "male",
+    gender: "male"
   },
   {
     name: "Debajyoti Saha",
@@ -2660,7 +2660,7 @@ contributors.unshift(
     year: 2025,
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Debmalya Sen",
@@ -2669,7 +2669,16 @@ contributors.unshift(
     year: 2027, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
-    gender: "male",
+    gender: "male"
+  },
+  {
+    name: "Deepak Behera",
+    branch: "CSE",
+    college: "Govt Polytechnic Dhenkanal",
+    year: 2021,
+    linkdin: "https://www.linkedin.com/in/deepak-behera-114b79208",
+    github: "https://github.com/Deepak189251",
+    gender: "Male"
   }
 );
 
