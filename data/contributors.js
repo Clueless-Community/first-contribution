@@ -10,6 +10,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : “Rishikesh Jagadale aka Little Monster”,
+    branch : “ENTC”,
+    college : “MGM’s JNEC”,
+    year : 2023, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/rishikesh-jagadale-331812207/",
+    github : "https://github.com/rissh",
+    gender : “Male”
+  },
+  {
     name: "Sunlianyu",
     branch: "Computer Science and Technology",
     college: "Harbin University of Science and Technology",
