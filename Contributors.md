@@ -2,6 +2,7 @@
 
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Rishikesh K V](https://github.com/rishi9808)
+- [Rishikesh Jagadale](https://github.com/rissh)
 - [Ganesh Mourya](https://github.com/Alkaison)
 - [Rupesh Dubey](https://github.com/rupeshexe)
 - [Manish Tiwari](https://github.com/manish-9245)
