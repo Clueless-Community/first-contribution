@@ -2670,6 +2670,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+   {
+    name: "Gambhir Sharma",
+    branch: "Computer Science",
+    college: "about to go to college",
+    year: 2027, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/gambhir-sharma-3460b91b6/",
+    github: "https://github.com/gambhirsharma",
+    gender: "male",
   }
 );
 
