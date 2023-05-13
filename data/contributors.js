@@ -2670,6 +2670,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Mayank Singh",
+    branch: "Computer",
+    college: "Better not to mention",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/mayankonli/",
+    github: "https://github.com/codescalper",
+    gender: "male",
   }
 );
 
