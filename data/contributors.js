@@ -2622,6 +2622,15 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
+  {
+      name : "Pape Ngagne Ndiaye",
+      branch : "Computer Science",
+      college : "EILCO",
+      year : 2020, //Year of Pass Out
+      linkedin : "https://www.linkedin.com/in/pape-ngagne-ndiaye-545899172/",
+      github : "https://github.com/PapisKang",
+      gender : "Male"
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
