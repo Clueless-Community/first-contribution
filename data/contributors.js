@@ -1,13 +1,22 @@
 const contributors = [
   //Add your Details here //
   {
+    name : "Sagar Rana",
+    branch : "Electronics and Communication Engineering",
+    college : "Heritage Institute of Technology",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sagar-rana-hitk/",
+    github : "https://github.com/SoarinSkySagar",
+    gender : "Male"
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
     year: 2026, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/ekam-bitt-584645203/",
     github: "https://github.com/Ekam-Bitt",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sunlianyu",
@@ -16,7 +25,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.cn/in/lianyu-sun-8476a125a",
     github: "https://github.com/7y-9",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sumit Sharma",
@@ -25,7 +34,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sumitsharma002/",
     github: "https://github.com/sumit-sharma-02",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rishikesh K V",
@@ -34,7 +43,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "www.linkedin.com/in/rishikesh-kv",
     github: "https://github.com/rishi9808",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ganesh Mourya",
@@ -43,7 +52,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/alkaison/",
     github: "https://github.com/alkaison",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Manikanta Cheepurupalli",
@@ -52,7 +61,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/manikanta528/",
     github: "https://github.com/Manikanta528",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Parth Bhuva",
@@ -61,7 +70,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/parth-bhuva-58a560251/",
     github: "https://github.com/ParthBhuva97",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sreeja Kar Choudhury",
@@ -70,7 +79,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sreeja-kar-choudhury-4a91a4234/",
     github: "https://github.com/sreeja-kc",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Arindam Majumder",
@@ -79,7 +88,7 @@ const contributors = [
     year: 2026,
     linkedin: "https://www.linkedin.com/in/arindam-majumder-021bb623b/",
     github: "https://github.com/Arindam200",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Fernando Galvan",
@@ -88,7 +97,7 @@ const contributors = [
     year: "N/A",
     linkedin: "https://www.linkedin.com/in/ngalvan00/",
     github: "https://github.com/NandoLofi",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -98,7 +107,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/rohitzerofour/",
     github: "https://github.com/rohitzerofour",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -108,7 +117,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/rishikeshpandey1/",
     github: "https://github.com/rishiofficial",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -118,7 +127,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/subratabhuin8918/",
     github: "https://github.com/Over-Thinker",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -128,7 +137,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/tanya-rastogi-577141202/",
     github: "https://github.com/iamtanya-22",
-    gender: "Female",
+    gender: "Female"
   },
 
   {
@@ -138,7 +147,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/saqlainkaleem/",
     github: "https://github.com/saqlainkaleem",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -148,7 +157,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/kavya-lokuge-7a085619b/",
     github: "https://github.com/kavyaLokuge",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Smit Padaliya",
@@ -157,7 +166,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/smit-padaliya",
     github: "https://github.com/Smit-05",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sudhir Verma",
@@ -166,7 +175,7 @@ const contributors = [
     year: 2019, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sudhir-kumar-verma-46a661108",
     github: "https://github.com/1Fetcher",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Perumall Pardhiv",
@@ -175,7 +184,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkdin: "https://www.linkedin.com/in/perumall-pardhiv-3159a6228/",
     github: "https://github.com/Perumallpardhiv",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ricktho Sarkar",
@@ -184,7 +193,7 @@ const contributors = [
     year: 2026, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/ricktho-sarkar-b82b59251",
     github: "https://github.com/Ricktho1",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Vishvesh Jain",
@@ -193,7 +202,7 @@ const contributors = [
     year: 2020, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/vishvesh-jain-a11b6761/",
     github: "https://github.com/vishveshjain",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Natasha Srivastava",
@@ -202,7 +211,7 @@ const contributors = [
     year: 2022, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/natashasrivastava/",
     github: "https://github.com/natashasrivastava",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Aman Kumar Verma",
@@ -211,7 +220,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/aman-kumar-verma-961339200",
     github: "https://github.com/AmanKumarVerma11",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Manish Tyagi",
@@ -220,7 +229,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/manish-tyagi-8b7b22217",
     github: "https://www.github.com/money8203",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sayak Saha",
@@ -229,7 +238,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/sayaksaha10",
     github: "https://github.com/sayakongit",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sage",
@@ -247,7 +256,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/smiti-oswal-11755b223",
     github: "https://github.com/smitioswal",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Smiti Oswal",
@@ -256,7 +265,7 @@ const contributors = [
     year: 2025,
     linkedin: "http://www.linkedin.com/in/sejal-mishra-74a56a20b",
     github: "https://github.com/sejalmishra",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Ritik Gupta",
@@ -265,7 +274,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/ritikgupta88/",
     github: "https://github.com/ritikgupta88",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rupesh Dubey",
@@ -273,7 +282,7 @@ const contributors = [
     college: "Amity University Online",
     year: 2025, //Year of Pass Out
     github: "https://github.com/rupeshexe",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Abhay Chandel",
@@ -282,7 +291,7 @@ const contributors = [
     year: 2022, // Fresher
     linkedin: "https://www.linkedin.com/in/abhay-chandel-538628205/",
     github: "https://github.com/iabhaychandel",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Azhar Sayyad",
@@ -291,7 +300,7 @@ const contributors = [
     year: 2022, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sayyad-azhar/",
     github: "https://github.com/Azhar221",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Tanmoy Karmakar",
@@ -300,7 +309,7 @@ const contributors = [
     year: 2022, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/tanmoykarmakar2711/",
     github: "https://github.com/tanmoy27112000",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Mayuri Kolhe",
@@ -309,7 +318,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/mayuri-kolhe-538883193",
     github: "https://github.com/MayuriKolhe-2003",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Raj Palmal",
@@ -318,7 +327,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/raj-palmal-a736ab233/",
     github: "https://github.com/FixxooXD",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Manish Tiwari",
@@ -327,7 +336,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/manish-tiwari-0b8a931b4/",
     github: "https://github.com/manish-9245",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Soumya Kushwaha",
@@ -336,7 +345,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/kushwaha-soumya",
     github: "https://github.com/Soumya-Kushwaha",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Prabin Subedi",
@@ -345,7 +354,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/prabincankod",
     github: "https://github.com/prabincankod",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sayantan Naskar",
@@ -354,7 +363,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sayantan-naskar-847a07221/",
     github: "https://github.com/Arbtrage",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Disha Gupta",
@@ -363,7 +372,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/disha-gupta-ba48221b6/",
     github: "https://github.com/Dishagupta224/",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Ankit Kumar",
@@ -372,7 +381,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/Kumar-Ankit56",
     github: "https://github.com/Kumar-Ankit56",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Danish Zayan",
@@ -381,7 +390,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/danishzayan/",
     github: "https://github.com/danishzayan",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Shruti Mishra",
@@ -390,7 +399,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/shruti-mishra-b270a7203",
     github: "https://github.com/ShrutiMishra-2002",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Rahul Karda",
@@ -399,7 +408,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/rahulkarda",
     github: "https://github.com/rahulkarda",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sourasish Mondal",
@@ -408,7 +417,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sourasishmondal",
     github: "https://github.com/souraOP",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Deep das",
@@ -417,7 +426,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/myselfdeepdas",
     github: "https://github.com/myselfdeepdas",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rohit Garud",
@@ -426,7 +435,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/rohitgarud",
     github: "https://github.com/rohitgarud21",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sattyam Samania",
@@ -435,7 +444,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/sattyam-samania-3691711b9/",
     github: "https://github.com/SattyamSamania",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Subhajit Gorai",
@@ -444,7 +453,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/subhajit-gorai/",
     github: "https://github.com/Subhajitongit",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Aiman Aisha",
@@ -453,7 +462,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/aiman-aisha-84a932220/",
     github: "https://github.com/aimanaisha",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Mohd Toukir Khan",
@@ -462,7 +471,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/toukir-khan-499257219/",
     github: "https://github.com/toukirkhan",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Amit Dewangan",
@@ -471,7 +480,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/amit--dewangan/",
     github: "https://github.com/Amit-TheOne",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -481,7 +490,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/anubhab-halder-289bb2218/",
     github: "https://github.com/itsmeAnubhab",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Kingshuk Sarkar",
@@ -490,7 +499,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/kingshuk-sarkar-8850aa222/",
     github: "https://github.com/Kingshuk3006",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Pratham Sharma",
@@ -499,7 +508,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/pratham-sharma-aa243b21b",
     github: "https://github.com/pratham4434",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Anupam Kumar Sourav",
@@ -508,7 +517,7 @@ const contributors = [
     year: 2025,
     linkedin: "linkedin.com/in/anupam-kumar-sourav-9bb43a22a",
     github: "https://github.com/AKSourav",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Jyothi Swaroop Makena",
@@ -517,7 +526,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/jyothi-swaroop-makena-024661227/",
     github: "https://github.com/RedJOe-0608",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Aratrik Basak",
@@ -526,7 +535,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/aratrik-basak-61bbb2200/",
     github: "https://github.com/Aratrik-02",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Biki Mondal",
@@ -535,7 +544,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/biki-mondal-40bb80229/",
     github: "https://github.com/BikiLearner",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sayan Chowdhury",
@@ -544,7 +553,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sayan-chowdhury-57108b227/",
     github: "https://github.com/csayanide",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Satyam Sharma",
@@ -553,7 +562,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/satyam-sharma-31914222a",
     github: "https://github.com/Satyam26-09",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Saeed Ahmed",
@@ -562,7 +571,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/saeed-ahmed-264ab421b/",
     github: "https://github.com/me-coderr",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Md.Shadab Imran",
@@ -571,7 +580,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/shadab-imran-2461a321a/",
     github: "https://github.com/ShadabImran07",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Md Asif Raza",
@@ -580,7 +589,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/itsmdasifraza",
     github: "https://github.com/itsmdasifraza",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Kusumita Ghose",
@@ -589,7 +598,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/kusumita-ghose-a10ba121a",
     github: "https://github.com/kusumita29",
-    gender: "Female",
+    gender: "Female"
   },
 
   {
@@ -599,7 +608,7 @@ const contributors = [
     year: "2025",
     linkdin: "https://www.linkedin.com/in/arpan-mandal-a17b81229/",
     github: "https://github.com/Arpaninformationtech",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -609,7 +618,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/arijit-ghosh-902a4b220/",
     github: "https://github.com/Rancho2002",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Subho Ghosh",
@@ -618,7 +627,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/thesubhoghosh/",
     github: "https://github.com/ighoshsubho",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sanyam Agarwal",
@@ -627,7 +636,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sanyam-agarwal-a4a385227/",
     github: "https://github.com/sanyam1259",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Abir Santra",
@@ -636,7 +645,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/abir-santra-8a9305205/",
     github: "https://github.com/AbirSantra",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Pritika Bhar",
@@ -645,7 +654,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/pritika-bhar-2b54a1222/",
     github: "https://github.com/pritika163",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Pranav Ajith",
@@ -654,7 +663,7 @@ const contributors = [
     year: 2026, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/pranavajithofficial/",
     github: "github.com/pranavajith",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -664,7 +673,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/anishpras118/",
     github: "https://github.com/Anishpras",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rohit Ranjan Singh",
@@ -673,7 +682,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/rohit-ranjan-singh-6133901b6/",
     github: "https://github.com/itzROHIT-coder",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "K.hari Prasath",
@@ -682,7 +691,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/k-hari-prasath/",
     github: "https://github.com/khari-on",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ankit",
@@ -691,7 +700,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "http://www.linkedin.com/in/enigma79",
     github: "https://github.com/en1gm479",
-    gender: "MALE",
+    gender: "Male"
   },
   {
     name: "Binay Shaw",
@@ -700,7 +709,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/binayshaw7777/",
     github: "https://github.com/binayshaw7777",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ankush",
@@ -709,7 +718,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/ankush-ladani-6a0988199/",
     github: "https://github.com/Ankush-Ladani",
-    gender: "male",
+    gender: "Male"
   },
 
   {
@@ -720,7 +729,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/sdeepanshu17/",
     github: "https://github.com/sdeepanshu17",
 
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Pranav",
@@ -729,7 +738,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/pranav-tatavarthy-9057501bb/",
     github: "https://github.com/Pranav10903",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Hussain Amir",
@@ -738,7 +747,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/ihussainamir/",
     github: "https://github.com/Hussain6",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Parnani Panda",
@@ -747,7 +756,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/parnani-panda-a29ba2210",
     github: "https://github.com/Parnani",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Samyak Bhargava",
@@ -756,7 +765,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sammybh6/",
     github: "https://github.com/sammybh6",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Varun Singh",
@@ -765,7 +774,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/varun-singh-018242224/",
     github: "https://github.com/varun7singh",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Vipul Chaudhary",
@@ -774,7 +783,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/vipulchaudhary16",
     github: "https://github.com/vipulchaudhary16",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Tushar Pathak",
@@ -783,7 +792,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/tushar54594/",
     github: "https://github.com/tushar54594",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Abhilipsa Sahoo",
@@ -792,7 +801,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/abhilipsa-sahoo-927542b1",
     github: "https://github.com/abhilipsasahoo03",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Hardik Pratap Singh",
@@ -801,7 +810,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/hardik-pratap-singh",
     github: "https://github.com/hardik-pratap-singh",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Yash Gupta",
@@ -810,7 +819,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/yash-gupta-1106/",
     github: "https://github.com/yashg-116",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Meghsham Jade",
@@ -819,7 +828,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/meghsham-jade-2a3406218/",
     github: "https://github.com/Meghsham15",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Abhiraj Rode",
@@ -828,7 +837,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/abhiraj-rode-36232522a",
     github: "https://github.com/Abhiraj-1604",
-    gender: "male",
+    gender: "Male"
   },
 
   {
@@ -838,7 +847,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/kunwar-chetan-singh-0a45391b8/",
     github: "https://github.com/chetansingh-2",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ajay Khatri Chhetri",
@@ -847,7 +856,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/amajaying/",
     github: "https://github.com/amajaying",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Noothan AM",
@@ -856,7 +865,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/noothan-a-m-7495ab222/",
     github: "https://github.com/Noothan-am/",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Zahra Shahid",
@@ -865,7 +874,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/zahrashahid/",
     github: "https://github.com/ZahraShahid",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Pratyush Pahari",
@@ -874,7 +883,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/pratyush-pahari-4141ab212/",
     github: "https://github.com/PRATYUSHPAHARI",
-    gender: "male",
+    gender: "Male"
   },
 
   {
@@ -884,7 +893,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/akshay-ajay-kalekar/",
     github: "https://github.com/akshay-Kalekar",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Prakhar Pandey",
@@ -893,7 +902,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/prakhar-pandey10/",
     github: "https://github.com/prakhar-1005",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Subhadip Das",
@@ -902,7 +911,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/subhadipdhn/",
     github: "https://github.com/Subhadiptech",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "VIDYASAGAR(SAGAR)",
@@ -911,7 +920,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/tmsagarofficial/",
     github: "https://github.com/tmsagarofficial/",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Akebu Simasiku",
@@ -921,7 +930,7 @@ const contributors = [
     linkedin:
       "https://www.linkedin.com/in/akebu-simasiku-24186720a/?originalSubdomain=zm",
     github: "https://github.com/akebu6",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Amit Kumar Bera",
@@ -930,7 +939,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/amit-kumar-bera-990954205/",
     github: "https://github.com/itzwow",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ephraim Haruna",
@@ -939,7 +948,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/ephraim-haruna-a52b71209/",
     github: "https://github.com/2bit2bit",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rahul Kumar",
@@ -948,7 +957,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/rahul-kumar-072/",
     github: "https://github.com/iamrahul8",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Nicky Kumari",
@@ -957,7 +966,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/knicky/",
     github: "https://github.com/iamnicky",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Bhavesh Mishra",
@@ -966,7 +975,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/bhavesh-mishra-a6951221b/",
     github: "https://github.com/thefool76",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Adarsh Rawat",
@@ -975,7 +984,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/adarsh8304/",
     github: "https://github.com/AKACHI-4",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Aditya More",
@@ -992,7 +1001,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/subhojeet-das-656871198/",
     github: "https://github.com/SubhojeetDas1107",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1002,7 +1011,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/yash-parwani-5610/",
     github: "https://github.com/Yash-Parwani",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ahnaf Anis",
@@ -1011,7 +1020,7 @@ const contributors = [
     year: "N/A",
     linkedin: "N/A",
     github: "https://github.com/Ahnaf-codes",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Asma Kacem",
@@ -1020,7 +1029,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/asmakacem",
     github: "https://github.com/AsmaKacem1",
-    gender: "female",
+    gender: "Female"
   },
   {
     name: "Shaikh Minhaj (minhaj-313)",
@@ -1029,7 +1038,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/shaikh-minhaj-softwareengineer/",
     github: "https://github.com/minhaj-313",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1039,7 +1048,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://in.linkedin.com/in/saif-bagmaru",
     github: "https://github.com/saifltr",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1049,7 +1058,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/sadashay-kanungo-22a4321a0/",
     github: "https://github.com/SadashayKanungo",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1059,7 +1068,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/rahul-yadav-2a4b3b199/",
     github: "https://github.com/itzrahulyadav",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1069,7 +1078,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sahil-singh-6a11b6229/",
     github: "https://github.com/SahilSingh177",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Priyanshu Mundra",
@@ -1078,7 +1087,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/priyanshu-mundra-b66626216/",
     github: "https://github.com/Spyder15",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Siwani Jaiswal",
@@ -1087,7 +1096,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/siwani-jaiswal/",
     github: "https://github.com/siwanijaiswal",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Neha Gaddam",
@@ -1096,7 +1105,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/neha-gaddam/",
     github: "https://github.com/Nehagaddam2909",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Vanga Aravind Shounik",
@@ -1105,7 +1114,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/aravind-shounik-vanga/",
     github: "https://github.com/AravindShounik",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rahul Guha",
@@ -1114,7 +1123,7 @@ const contributors = [
     year: 2026,
     linkedin: "https://www.linkedin.com/in/rahul-guha-93165220a/",
     github: "https://github.com/guha-rahul",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Rohit Purkait",
@@ -1123,7 +1132,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/codeswithroh/",
     github: "https://github.com/codeswithroh",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Anand Singh Yadav",
@@ -1140,7 +1149,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/swetha-n-49ba38212/",
     github: "https://github.com/SwethaN125",
-    gender: "female",
+    gender: "Female"
   },
   {
     name: "Prithvi Singh Kirar",
@@ -1149,7 +1158,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/prithvi-kirar-956959224/",
     github: "https://github.com/Pritvii",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Ridhika Joshi",
@@ -1158,7 +1167,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/ridhika-joshi-069164221/",
     github: "https://github.com/RidhikaJoshi",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Venkat Amith Woonna",
@@ -1167,7 +1176,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/venkat-amith-woonna-38bb721b8/",
     github: "https://github.com/homealone07",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Yash Bajaj",
@@ -1176,7 +1185,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/yash-bajaj-b6a525235/",
     github: "https://github.com/YaSh8202",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Prasanta Chettri",
@@ -1185,7 +1194,7 @@ const contributors = [
     year: 2024, //YEAR OF PASS OUT
     linkedin: "https://www.linkedin.com/in/prasanta-chettri/",
     github: "https://github.com/prasanta10",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "A Harindra Reddy",
@@ -1194,7 +1203,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/a-harindra-reddy-35349920a",
     github: "https://github.com/NateNear",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1204,7 +1213,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/bhardwajvaibhav42/",
     github: "https://github.com/vaibhavx42",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Advay Sagarkar",
@@ -1213,7 +1222,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/advay-sagarkar/",
     github: "https://github.com/Aragorn-64",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Pratham Goenka",
@@ -1222,7 +1231,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/pratham-goenka-6b4792225/",
     github: "https://github.com/prathamthe1st",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Aman Agrawal",
@@ -1231,7 +1240,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/aman-agrawal-2b92b3167/",
     github: "https://github.com/amanagr6697",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Manisha Parichha",
@@ -1240,7 +1249,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/manisha-parichha/",
     github: "https://github.com/MannyP31",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Md. Fahim Bin Amin",
@@ -1249,7 +1258,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/fahimfba/",
     github: "https://github.com/FahimFBA",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ankit Anand",
@@ -1258,7 +1267,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/ankit-anand-376782223/",
     github: "https://github.com/AnkitAnandMastery17",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1268,7 +1277,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/marczow/",
     github: "https://github.com/Farelion",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Milena Step",
@@ -1277,7 +1286,7 @@ const contributors = [
     year: 2026,
     linkedin: null,
     github: "https://github.com/fideem",
-    gender: "female",
+    gender: "Female"
   },
   {
     name: "Iqra Firdose",
@@ -1285,7 +1294,7 @@ const contributors = [
     college: "SSITS",
     year: 2024,
     github: "https://github.com/iqrafirdose",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Dhanush",
@@ -1294,7 +1303,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/dhanush-vellasiri-9a495021b/",
     github: "https://github.com/Dhanush-2605",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Zeeshan Ali",
@@ -1303,7 +1312,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/zeeshan-ali-b5332b215/",
     github: "https://github.com/AcidOP",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1313,7 +1322,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/senpaisec/",
     github: "https://github.com/debxrshi",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ayush Beniwal",
@@ -1322,7 +1331,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/ayush-beniwal-b34385124/",
     github: "https://github.com/ayush-beniwal",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Gaurav Verma",
@@ -1331,7 +1340,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/gaurav-verma321/",
     github: "https://github.com/Gaurav-Verma07",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Saiyam Jain",
@@ -1340,7 +1349,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/sairev",
     github: "https://github.com/SaiRev0",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Amit Sharma",
@@ -1349,7 +1358,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://in.linkedin.com/in/amit-sharma-976abb243",
     github: "https://github.com/AmitSharma512",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Harsh Kanojia",
@@ -1358,7 +1367,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/harsh-kanojia-129145223/",
     github: "https://github.com/Eyesnatcher-coder",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Hendrie Ramdhani",
@@ -1367,7 +1376,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/hendrieramdhani/",
     github: "https://github.com/ramdhanihendrie",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Vikash Maurya",
@@ -1376,7 +1385,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/vikash-maurya-669845172/",
     github: "https://github.com/kalvik09",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Jaydeep Dey",
@@ -1385,7 +1394,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/jaydeep-dey03/",
     github: "https://github.com/jaydeepdey03",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ishika Ishani",
@@ -1394,7 +1403,7 @@ const contributors = [
     year: 2026,
     linkedin: "https://www.linkedin.com/in/ishika-ishani/",
     github: "https://github.com/ishani-1255",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Protyay Mondal",
@@ -1403,7 +1412,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/protyay-mondal-85b172226/",
     github: "https://github.com/ProtyayMnd50",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "anshu nishad",
@@ -1412,7 +1421,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/anshu-nishad/",
     github: "https://github.com/educationalgamer",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Tushar Gupta",
@@ -1421,7 +1430,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/tushargupta3002/",
     github: "https://github.com/Tushar-2003",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Om Anand Pandey",
@@ -1430,7 +1439,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/om-anand-pandey-85612b1ab/",
     github: "https://github.com/pandeyom331",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Harshit Joshi",
@@ -1439,7 +1448,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/harshit-joshi-40953321b/",
     github: "https://github.com/Harshit-3905",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Akash Kotal",
@@ -1448,7 +1457,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/akash-kotal-8105b71b0/",
     github: "https://github.com/sky01green",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Siddharth Singh",
@@ -1457,7 +1466,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/siddharth9890/",
     github: "https://github.com/Siddharth9890",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Wahid Ari",
@@ -1466,7 +1475,7 @@ const contributors = [
     year: 2021,
     linkedin: "https://www.linkedin.com/in/wahidari/",
     github: "https://github.com/wahid-ari",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Priyanshu Maitra",
@@ -1475,7 +1484,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/priyanshumaitra/",
     github: "https://github.com/priyanshumaitra",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Kritika Tripathi",
@@ -1484,7 +1493,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/kritika-tripathi-b02297225/",
     github: "https://github.com/KritikaTri",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Ashwin Taras",
@@ -1493,7 +1502,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/ashwin-taras-665038196",
     github: "https://github.com/BlackBolt2003",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ridham Singhal",
@@ -1502,7 +1511,7 @@ const contributors = [
     year: "N/A",
     linkedin: "https://www.linkedin.com/in/ridham-singhal-153721212/",
     github: "https://github.com/RidhamRj",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Pranjal Raj",
@@ -1511,7 +1520,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/pranjal-raj-79596a23a/",
     github: "https://github.com/pranjal-raj",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Jahnvi",
@@ -1520,7 +1529,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/jahnvisrivastav/",
     github: "https://github.com/jahnvi15",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Mahesh",
@@ -1529,7 +1538,7 @@ const contributors = [
     year: 2024,
     linkedin: "N/A",
     github: "https://github.com/saimaheshtaduri",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Annu Priya",
@@ -1538,7 +1547,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/annu-priya-411064228/",
     github: "https://github.com/annupriy",
-    gender: "Female",
+    gender: "Female"
   },
 
   {
@@ -1548,7 +1557,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/snehasingh2001/",
     github: "https://github.com/Sneha0607",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Preyash Yadav",
@@ -1557,7 +1566,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "linkedin.com/in/preyash-yadav-827a421b6/",
     github: "https://github.com/Preyash-tryin-to-code",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Om Prakash Sahoo",
@@ -1566,7 +1575,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "www.linkedin.com/in/om-prakash-sahoo-2305/",
     github: "https://github.com/OmPrakashSahoo-05",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Varun Kumar Tiwari",
@@ -1575,7 +1584,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/varun-tiwari-454591178/",
     github: "https://github.com/varunKT001",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Deepanshu Anand",
@@ -1584,7 +1593,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/deepanshu-anand-55a6b4214/",
     github: "https://github.com/Deepanshu0810",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Nitesh Kumar",
@@ -1593,7 +1602,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/nitesh-kumar-8a6651221/",
     github: "https://github.com/nktech-official",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Anshu Joshi",
@@ -1602,7 +1611,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/anshu-joshi-9080b6223/",
     github: "https://github.com/ImAnshuJoshi",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Harsh Khandelwal",
@@ -1611,7 +1620,7 @@ const contributors = [
     year: "2025",
     linkedin: "https://www.linkedin.com/in/harshkhandelwal18/",
     github: "https://github.com/harsh007-github",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Yash Seth",
@@ -1620,7 +1629,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/yash-seth/",
     github: "https://github.com/yash-seth/",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Sainath Poojary",
@@ -1629,7 +1638,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://linkedin.com/in/sainathpoojary",
     github: "https://github.com/sainathpoojary",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Manmohan Dhal",
@@ -1638,7 +1647,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/manmohan-04142/",
     github: "https://github.com/manmohan4142",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Divine Edwin",
@@ -1647,7 +1656,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://linkedin.com/in/divineedwin",
     github: "https://github.com/Cheeh1",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1657,7 +1666,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/aditya-prakash-4a0438208/",
     github: "https://github.com/MarkL50",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rahul Kumar Barnwal",
@@ -1666,7 +1675,7 @@ const contributors = [
     year: 2020, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/rk-barnwal23/",
     github: "https://github.com/rahulgithub-web",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Subham Bhattacharya",
@@ -1675,7 +1684,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/subx",
     github: "https://github.com/SubxX",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Ashmit JaiSarita Gupta",
@@ -1684,7 +1693,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/jaisarita/",
     github: "https://github.com/devilkiller-ag",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sarthak Sachdeva",
@@ -1693,7 +1702,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sarthakk24/",
     github: "https://github.com/sarthakk24",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Hamza Nawab",
@@ -1702,7 +1711,7 @@ const contributors = [
     year: 2021, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/hamza-nawab-33b1b9164/",
     github: "https://github.com/blazenn2",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Abhishek Vaishnav",
@@ -1711,7 +1720,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/abhishek777vaishnav/",
     github: "https://github.com/abhishek0777",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Vijay",
@@ -1720,7 +1729,7 @@ const contributors = [
     year: 2023,
     linkedin: "NA",
     github: "https://github.com/vijay2249",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "komal",
@@ -1729,7 +1738,7 @@ const contributors = [
     year: 2022, //Year of Pass Out
     linkedin: "https://github.com/komalswami",
     github: "https://www.linkedin.com/in/komal-swami-4a539117a",
-    gender: "Female",
+    gender: "Female"
   },
 
   {
@@ -1739,7 +1748,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/suryadipta-sarkar-b12a41194/",
     github: "https://github.com/myGlitches",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1749,7 +1758,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/abhirup-panda-a40020214",
     github: "https://github.com/EvilSeal1980",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Paramhans Singh",
@@ -1758,7 +1767,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/paramhans-singh13/",
     github: "https://github.com/Paramhans-Singh",
-    gender: "male",
+    gender: "Male"
   },
 
   {
@@ -1768,7 +1777,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/saranshsinha17/",
     github: "https://github.com/WraitH17",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Aritra Das",
@@ -1777,7 +1786,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/aritra-das-/",
     github: "https://github.com/aritra-tech",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sashikanta Mohanty",
@@ -1786,7 +1795,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "www.linkedin.com/in/sashikanta-mohanty",
     github: "https://github.com/Sashi2002",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Om Sarraf",
@@ -1795,7 +1804,7 @@ const contributors = [
     year: 2026, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/itsOmSarraf",
     github: "https://github.com/itsOmSarraf",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1805,7 +1814,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/hritik-bhattacharya-631847210/",
     github: "https://github.com/hritikbhattacharya",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "ADITYA RAJ",
@@ -1814,7 +1823,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/aditya-raj-963763215/",
     github: "https://github.com/adityaraj6902",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1824,7 +1833,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/saransh-dubey-b98b33237",
     github: "https://github.com/14-saransh",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Mehul Kumar",
@@ -1833,7 +1842,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/mehulkumar27/",
     github: "https://github.com/Mehul2711",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Kartikay Tiwari",
@@ -1843,7 +1852,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/kartikay-tiwari-92579921b/",
     github: "https://github.com/ishtails",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Harsh Jain",
@@ -1852,7 +1861,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/harsh-jain-3879111a0/",
     github: "https://github.com/HarshJa1n",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Akanksha Lagad",
@@ -1861,7 +1870,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/akankshalagad/",
     github: "https://github.com/akankshalagad13",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Hafizur Rahman",
@@ -1870,7 +1879,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/hafeez25",
     github: "https://github.com/hafeez25",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sagnik Ghosh",
@@ -1879,7 +1888,7 @@ const contributors = [
     year: 2022, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sagnik-ghosh26/",
     github: "https://github.com/sagnik26",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ankush Roy",
@@ -1888,7 +1897,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/ankush-roy-b141b2224/",
     github: "https://github.com/ankushroy25",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Raihan Khan",
@@ -1897,7 +1906,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/raihankhan-rk/",
     github: "https://github.com/raihankhan-rk",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Anubhav Chakraborty",
@@ -1906,7 +1915,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/anubhav-chakraborty-44b042222/",
     github: "https://github.com/AnubhavChakrabortynits",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Abhishek Dhanke",
@@ -1915,7 +1924,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/abhishek-dhanke-226354216/",
     github: "https://github.com/abhishekrd",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Jugya Kamal Gogoi",
@@ -1924,7 +1933,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/jugya-kamal-gogoi-5ab594229/",
     github: "https://github.com/Jugya07",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Manish Prajapati",
@@ -1933,7 +1942,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/pman47/",
     github: "https://github.com/pman47",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Pratham Rastogi",
@@ -1942,7 +1951,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/prathamrastogi/",
     github: "https://github.com/Pratham-R",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Prabadhya Upadhyay",
@@ -1951,7 +1960,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/prabadhya-upadhyay-4272881a1/",
     github: "https://github.com/Rickey07",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -1961,7 +1970,7 @@ const contributors = [
     year: 2016,
     linkedin: "https://www.linkedin.com/in/BasharVI",
     github: "https://github.com/BasharVI",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Saurav Kumar Jha",
@@ -1970,7 +1979,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/saurav-kumar-jha-885337223/",
     github: "https://github.com/Saurav50",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Anurag Tiwari",
@@ -1987,7 +1996,7 @@ const contributors = [
     year: 2019,
     linkedin: "https://www.linkedin.com/in/sivasuriyan-kumarasamy/",
     github: "https://github.com/sivasuriyankumarasamy",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Subin Duresh",
@@ -1996,7 +2005,7 @@ const contributors = [
     year: 2019,
     linkedin: "https://www.linkedin.com/in/subin-duresh-73384212b/",
     github: "https://github.com/SubinDuresh",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Tanay Patil",
@@ -2005,7 +2014,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/tanay-patil25",
     github: "https://github.com/patil-tanay",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Swapnil Aichbhaumik",
@@ -2014,7 +2023,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224/",
     github: "https://github.com/Swap-nil-2003",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sakshi Jain",
@@ -2023,7 +2032,7 @@ const contributors = [
     year: 2019,
     linkedin: "https://www.linkedin.com/in/sakshi-jain75/",
     github: "https://github.com/Sakshi-75",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Rohan Srivastav",
@@ -2032,7 +2041,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/rohansrivastav/",
     github: "https://github.com/rohannsrivastav",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "SAGNIK SAHOO",
@@ -2041,7 +2050,7 @@ const contributors = [
     year: 2028,
     linkedin: "https://www.linkedin.com/in/heysagnik/",
     github: "https://github.com/heysagnik",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ankit Bhusal",
@@ -2050,7 +2059,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/ankitbhusal/",
     github: "https://github.com/ankitbhusal",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Manish Kumar Gupta",
@@ -2059,7 +2068,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/manish-kumar-gupta-47878320b/",
     github: "https://github.com/Heismanish",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sagar Kishore",
@@ -2068,7 +2077,7 @@ const contributors = [
     year: 2022, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sagarkishore6995/",
     github: "https://github.com/SagarKishore-PFM",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Gowri Shankar K",
@@ -2077,7 +2086,7 @@ const contributors = [
     year: 2019,
     linkedin: "www.linkedin.com/in/gowri-shankar-kathirvel",
     github: "https://github.com/Gowrishankar04",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Thaanu Perera",
@@ -2087,7 +2096,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/thaanu-perera-0a84b9194/",
     github: "https://github.com/thaanu2001",
 
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Durgesh Mahajan",
@@ -2096,7 +2105,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/durgesh-mahajan-99bab0212/",
     github: "https://github.com/durgeshm01722",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Nishant Kumar Singh",
@@ -2105,7 +2114,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/nishant-kumar-singh-1252nks",
     github: "https://github.com/Nishant2209",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "João Paulo Alves Dantas",
@@ -2114,7 +2123,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/joao-paulo-dantas-631012253/",
     github: "https://github.com/PapelRasgado",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Vansh Raj",
@@ -2123,7 +2132,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/vansh-raj-60877b1bb/",
     github: "https://github.com/vansh-2266",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sumit Kumar",
@@ -2132,7 +2141,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/sumit-kumar-rai-b59290233/",
     github: "https://github.com/sumitkr2000",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Dhruv Pruthi",
@@ -2141,7 +2150,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/dhruv-kumar-a86a88213/",
     github: "https://github.com/para-docx",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Mohit singh",
@@ -2150,7 +2159,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "LinkedIn Profile URL",
     github: "https://www.linkedin.com/in/the-mastermind-6b9960248/",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Mubeen Ahmad",
@@ -2159,7 +2168,7 @@ const contributors = [
     year: 2021, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/mubeenahmad571/",
     github: "https://github.com/MubeenAhmad571",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Aishani Pachauri",
@@ -2168,7 +2177,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/aishanipachauri/",
     github: "https://github.com/Aishanipach",
-    gender: "female",
+    gender: "Female"
   },
   {
     name: "Kumar Santosh",
@@ -2177,7 +2186,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/kumar-santosh-192491203/",
     github: "https://github.com/KuSantosh100",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sneha Agarwal",
@@ -2186,7 +2195,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/sneha-agarwal-217a55200/",
     github: "https://github.com/isyneha",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Burhanuddin Raja",
@@ -2195,7 +2204,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/",
     github: "https://github.com/BurhanRaja",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "Munsat Rukaya",
@@ -2204,7 +2213,7 @@ const contributors = [
     year: 2018,
     linkedin: "https://www.linkedin.com/in/amunsat/",
     github: "https://github.com/Munsat",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Bhavya Singh",
@@ -2213,7 +2222,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/bhavya-singh-677932227/",
     github: "https://github.com/bhavyasingh75",
-    gender: "female",
+    gender: "Female"
   },
   {
     name: "Kishan Aghera",
@@ -2222,7 +2231,7 @@ const contributors = [
     year: 2021,
     linkedin: "https://www.linkedin.com/in/kishan-aghera/",
     github: "https://github.com/kishan-aghera",
-    gender: "male",
+    gender: "Male"
   },
   {
     name: "David Egbugara",
@@ -2231,7 +2240,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/david-ebube-egbugara-98b947103/",
     github: "https://github.com/da-eb",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Omosaye Moses Iseoluwa",
@@ -2240,7 +2249,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/omosaye-moses-0204b6191",
     github: "https://github.com/theselaw",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Koustav Mondal",
@@ -2249,7 +2258,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/koustav-mondal/",
     github: "https://github.com/XxThunderBlastxX",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Mihir Rajesh Panchal",
@@ -2258,7 +2267,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/mihir-panchal-9b6677220/",
     github: "https://github.com/MihirRajeshPanchal",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Ranita Saha",
@@ -2267,7 +2276,7 @@ const contributors = [
     year: 2021,
     linkedin: "https://www.linkedin.com/in/saharanitaa1230dreamer/",
     github: "https://github.com/ranitasahaa1230",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Santanu Jana",
@@ -2276,7 +2285,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/santanu-jana-241119201/",
     github: "https://github.com/Santanujana2001",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Gaurav Pratap Shrestha",
@@ -2285,7 +2294,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/gaurav-shrestha/",
     github: "https://github.com/gaurav-shrestha",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Kshitij Agarwal",
@@ -2294,7 +2303,7 @@ const contributors = [
     year: 2023, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/kshitij-agarwal-35b427242/",
     github: "https://github.com/omniscientHorizon",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Prajwal Gupta",
@@ -2303,7 +2312,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/prajwal-gupta-28ab3a222/",
     github: "https://github.com/Prajwalgupta",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Yash Raj Mani",
@@ -2312,7 +2321,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/yashrajmani/",
     github: "https://github.com/yashrajmani",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Aayush Kumar Singh",
@@ -2321,7 +2330,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/aayush-singh-2b5912176/",
     github: "https://github.com/aayush-1412",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Sukhjeet Singh",
@@ -2330,7 +2339,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/sukhjeet-singh-891aa51b4/",
     github: "https://github.com/00sukhjeet00",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Silky Modi",
@@ -2339,7 +2348,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/silky-modi-b11879227",
     github: "https://github.com/silky-modi22",
-    gender: "female",
+    gender: "Female"
   },
   {
     name: "Harshit Sharma",
@@ -2348,7 +2357,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/harshit-sharma--/",
     github: "https://github.com/harshti-sharma-gits/",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Piyush",
@@ -2357,7 +2366,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/piyushbhangale/",
     github: "https://github.com/officialpiyush",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Anjali Kundliya",
@@ -2366,7 +2375,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/anjalikundliya/",
     github: "https://github.com/anjali-kundliya05",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Atharv Phadnis",
@@ -2375,7 +2384,7 @@ const contributors = [
     year: 2021,
     linkedin: "https://www.linkedin.com/in/atharv-phadnis",
     github: "https://github.com/Athi223",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Shubhra Gupta",
@@ -2384,7 +2393,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/shubhra-g/",
     github: "https://github.com/shubhra-g",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Dev Jain",
@@ -2393,7 +2402,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/devjainofficial/",
     github: "https://github.com/devjain2309",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Princeton D'souza",
@@ -2402,7 +2411,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/princeton-dsouza/",
     github: "https://github.com/Princeton21",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Arunima Chaudhuri",
@@ -2411,7 +2420,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/arunima-chaudhuri-95217b194/",
     github: "https://github.com/tinniaru3005",
-    gender: "Female",
+    gender: "Female"
   },
 
   {
@@ -2421,7 +2430,7 @@ const contributors = [
     year: 2025,
     linkedin: "www.linkedin.com/in/santosh-phadtare-20ef16",
     github: "https://github.com/psantosh16",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Soustab Haldar",
@@ -2430,7 +2439,7 @@ const contributors = [
     year: 2026, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/soustab-haldar-022ba8229/",
     github: "https://github.com/soustab10",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "shantanu hardia",
@@ -2439,7 +2448,7 @@ const contributors = [
     year: 2025,
     inkedin: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
     github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Debankar Dutta Chowdhury",
@@ -2448,7 +2457,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/debankar-dutta-chowdhury-b61b29201/",
     github: "https://github.com/deedeecee",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rutuja Khilare",
@@ -2457,7 +2466,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/rutuja-khilare-b2198021a/",
     github: "https://github.com/rutuja369",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Naincy Kumari",
@@ -2466,7 +2475,7 @@ const contributors = [
     year: 2025,
     inkedin: "https://www.linkedin.com/in/naincy-kumari-972b32223/",
     github: "https://github.com/Naincy04",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Rajendra Rakha",
@@ -2475,7 +2484,7 @@ const contributors = [
     year: 2023,
     linkedin: "linkedin.com/in/rajendra-rakha-1b7675196/",
     github: "https://github.com/rjndrkha",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Rajneel Anuraj",
@@ -2484,7 +2493,7 @@ const contributors = [
     year: 2025, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/thisisrajneel/",
     github: "https://github.com/thisisrajneel",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Riya Jaiswal",
@@ -2493,7 +2502,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/riya-jaiswal-2060771b1/",
     github: "https://github.com/riyajaiswal25",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Harsh Kalra",
@@ -2502,7 +2511,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/harsh-k-7723101b2/",
     github: "https://github.com/harshkalra200",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Lalit Chaudhary",
@@ -2511,7 +2520,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/codelalit/",
     github: "https://github.com/CodeLalit007",
-    gender: "Male",
+    gender: "Male"
   },
 
   {
@@ -2521,7 +2530,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/krishnika-gupta-9aa380206",
     github: "https://github.com/krish68201",
-    gender: "Female",
+    gender: "Female"
   },
   {
     name: "Koushik Dutta",
@@ -2530,7 +2539,7 @@ const contributors = [
     year: 2022,
     linkedin: "https://www.linkedin.com/in/koushikdutta/",
     github: "https://github.com/iamkoushik1999",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Dhruva N L Choudhary",
@@ -2548,7 +2557,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/miraz-mondal/",
     github: "https://github.com/miraz-mondal",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Dennis Hundertmark",
@@ -2557,7 +2566,7 @@ const contributors = [
     year: "N/A",
     linkedin: "N/A",
     github: "https://github.com/mnkyjs",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Tuhin Bar",
@@ -2566,7 +2575,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/tuhin-bar/",
     github: "https://github.com/TuhinBar",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Soumojit Chakraborty",
@@ -2575,7 +2584,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/soumojit-ch/",
     github: "https://github.com/SOUMOJIT-CHAKRABORTY",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Pritam Kumar Mani",
@@ -2584,7 +2593,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/pritam-kumar-mani-37bb62215/",
     github: "https://github.com/Pritam991",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Muhammad Mobeen",
@@ -2593,7 +2602,7 @@ const contributors = [
     year: 2024, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/mobeen360/",
     github: "https://github.com/muhammad-mobeen",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Amitesh Patra",
@@ -2602,7 +2611,7 @@ const contributors = [
     year: 2024,
     linkedin: "https://www.linkedin.com/in/amitesh-patra",
     github: "https://github.com/AmiteshPatra",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "Tan S. Akıncı",
@@ -2611,7 +2620,7 @@ const contributors = [
     year: 2025,
     linkedin: "https://www.linkedin.com/in/tan-siret-akinci-9b7996b6/",
     github: "https://github.com/yutyo",
-    gender: "Male",
+    gender: "Male"
   },
   {
     name: "s-shemmee",
@@ -2620,7 +2629,7 @@ const contributors = [
     year: 2023,
     linkedin: "https://www.linkedin.com/in/shemmee/",
     github: "https://github.com/s-shemmee",
-    gender: "Female",
+    gender: "Female"
   },
 ];
 
