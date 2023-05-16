@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name : "Sagnik Raha",
+    branch : "B.Tech Computer Science and Engineering",
+    college : "Institute of Engineering and Management",
+    year : 2026,
+    linkedin : "https://www.linkedin.com/in/sagnikraha/",
+    github : "https://github.com/sagnik-004",
+    gender : "Male"
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
