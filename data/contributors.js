@@ -2671,6 +2671,14 @@ contributors.unshift(
     github: "https://github.com/debmalya37",
     gender: "male",
   }
-);
-
+),
+{
+  name : "Sagnik Pramanik",
+  branch : "CSE",
+  college : "HIT-K",
+  year : 2026, //Year of Pass Out
+  linkedin : "https://www.linkedin.com/in/sagnik-pramanik-53284b272/",
+  github : "https://github.com/sagnik-p",
+  gender : "Male"
+};
 export default contributors;
