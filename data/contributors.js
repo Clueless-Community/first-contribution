@@ -2652,7 +2652,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
-  }
+  },
+  {
+    name : "Mustafa Chaiwala",
+    branch : "Computer Science and Business Systems",
+    college : "HITK",
+    year : 2026,
+    linkedin : "https://www.linkedin.com/in/mustafa-chaiwala-7a3890226/",
+    github : "https://github.com/Blaze5333",
+    gender : "Male"
+},
 );
 
 export default contributors;
