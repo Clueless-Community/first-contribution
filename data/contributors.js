@@ -2622,6 +2622,15 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
+  {
+    name: "sujal gupta",
+    branch: "Computer Science",
+    college: "Graphic era hill university, Dehradun",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/sujalgupta244/",
+    github: "https://github.com/SujalGupta244",
+    gender: "Male",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️

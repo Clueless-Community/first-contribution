@@ -8,6 +8,11 @@ import Topfab from "../components/Topfab";
 import PageContentWrapper from "../components/PageContentWrapper";
 import Image from "next/image";
 
+
+export const metadata = {
+
+}
+
 const useSearch = (contributors, search) => {
 	return useMemo(() => {
 	return contributors.filter(
