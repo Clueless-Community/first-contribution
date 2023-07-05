@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name : "Bhushan Nalawade",
+    branch:"B.tech computer science and engineering",
+    college : "GHRCEM",
+    year:2024,
+    linkedin:"https://www.linkedin.com/in/bhushan-nalawade-437415207/",
+    github: "https://github.com/BhushanNalawade",
+    gender:"Male"
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
