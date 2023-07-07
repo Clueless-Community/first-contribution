@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Sandeep Kumar",
+    branch: "Computer Science",
+    college: "Kirori Mal College, Delhi University",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/sandepten",
+    github: "https://github.com/sandepten",
+    gender: "Male",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
