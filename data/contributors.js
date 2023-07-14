@@ -2670,7 +2670,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+        name: "Jaydeep Solanki",
+        branch: "Electronics and Communication",
+        college: "Institute of Technology, Nirma University",
+        year: 2026,
+        linkedin: "https://www.linkedin.com/in/debmalyasen1/",
+        github: "https://www.linkedin.com/in/jaydeep-solanki-79ab61253/",
+        gender: "Male",
+   }
 );
 
 export default contributors;
