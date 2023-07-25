@@ -2670,7 +2670,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+   {
+        name : "Tamanna Singh",
+        branch : "Mechanical Engineering",
+        college : "Maharaja Agrasen Institute of Technology",
+        year : 2024, 
+        linkedin : "https://www.linkedin.com/in/tamanna-singh-5a1705246/",
+        github : "https://github.com/tamannaaaaa",
+        gender : "Female"
+    },
 );
 
 export default contributors;
