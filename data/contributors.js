@@ -2670,7 +2670,17 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Qingzhou Xu",
+    branch : "Information and Communication Technology",
+    college : "University of Tasmania",
+    year : 2021, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/qingzhou-andrew-xu-083387205/",
+    github : "https://github.com/HingjauDev",
+    gender : "Male"
+},
+
 );
 
 export default contributors;
