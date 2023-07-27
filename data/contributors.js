@@ -1,5 +1,14 @@
 const contributors = [
-  //Add your Details here //
+    //Add your Details here //
+    {
+	name : "Ritam Sanyal",
+	branch : "B.Tech [Information Technology]",
+	college : "Gurunanak Institute of Technology",
+	year : 2025,
+	linkedin : "https://www.linkedin.com/in/ritamsanyal/",
+	github : "https://github.com/RitamSanyal",
+	gender : "Male",
+    },
   {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",

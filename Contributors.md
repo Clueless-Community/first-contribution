@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ritam Sanyal](https://github.com/RitamSanyal)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
