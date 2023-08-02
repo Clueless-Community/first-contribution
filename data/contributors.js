@@ -2670,7 +2670,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+    }
+   {
+       name: "Ivan Potgieter",
+       branch: "Information Technology",
+       college: "NWU",
+       year: 2023, //Year of Pass Out
+       linkedin: "https://www.linkedin.com/in/ivanpotgieter/",
+       github: "https://github.com/IvanPotgieter01",
+       gender: "Male"
+   },
 );
 
 export default contributors;
