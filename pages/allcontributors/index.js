@@ -9,11 +9,15 @@ import PageContentWrapper from "../components/PageContentWrapper";
 import Image from "next/image";
 
 const useSearch = (contributors, search) => {
-	return useMemo(() => {
+	return useMemo(() => {	
 	return contributors.filter(
-		(item) =>
-		item.name.toLowerCase(search) ||
-		item.college.toLowerCase(search)
+		(item) =>{
+			let strName = item.name.toLowerCase();
+			let strCollege = item.college.toLowerCase();
+			if(strName.includes(search) || strCollege.includes(search) ){
+				return item;
+			}	
+		}
 	);
 	}, [contributors, search]);
 };
