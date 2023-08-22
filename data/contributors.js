@@ -2162,6 +2162,16 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Sanjeev Kumar Sahoo",
+    branch: "CSE",
+    college: "Gandhi Institute for Technology (GIFT),Bhuabaneswer",
+    year: 2022,
+    linkedin: "",
+    github: "https://github.com/sanjeevkumar321",
+    gender: "male",
+  },
+  
+  {
     name: "Aishani Pachauri",
     branch: "CSE",
     college: "Jaypee University of Information Technology",
