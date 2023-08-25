@@ -7,6 +7,7 @@ import contributors from "../../data/contributors";
 import Topfab from "../components/Topfab";
 import PageContentWrapper from "../components/PageContentWrapper";
 import Image from "next/image";
+import { FixedSizeGrid as Grid } from "react-window";
 
 const useSearch = (contributors, search) => {
 	return useMemo(() => {	
@@ -22,19 +23,67 @@ const useSearch = (contributors, search) => {
 	}, [contributors, search]);
 };
 
+function  VirtualGrid( { searchResult } ){
+
+	const Cell = ({ rowIndex , columnIndex , style }) =>{
+		const itemIndex = rowIndex * 2 + columnIndex;
+		if (itemIndex >= searchResult.length) {
+			return null; // Return an empty cell if there are no more items to render
+		  }
+	  
+		  const item = searchResult[itemIndex];
+		  
+	const searchStyles = {
+		width: "100%",
+		
+		display: "flex",
+		height: "250px",
+		overflow: "hidden",
+		
+		
+		
+	};
+
+	  
+		  return (
+			<div  className="GridItemEven" style={ style }>
+			  <ContributorCard
+				name={item.name}
+				branch={item.branch}
+				college={item.college}
+				year={item.year} 
+				linkedin={item.linkedin}
+				github={item.github}
+				gender={item.gender}
+				style={searchStyles}
+			  />
+
+			 
+			</div>
+		  );
+		};
+		return(
+			<Grid columnCount={3}
+			className="Grid"
+			columnWidth={450}
+			height={1500}
+			rowCount={searchResult.length/3}
+			rowHeight={350}
+			width={2500}>
+				{Cell}
+			</Grid>
+		)
+		
+		}
+
 const index = () => {
 	const totalContributor = contributors.length;
 	const [search, setSearch] = useState("");
 	const searchResult = useSearch(contributors, search);
 
-	const searchStyles = {
-		width: "100%",
-		margin: "30px 0",
-		display: "flex",
-		height: 42,
-		overflow: "hidden",
-	};
-  
+	
+
+	
 	return (
 		<>
 			<Document />
@@ -59,7 +108,7 @@ const index = () => {
 								Get Your Contributor Card !
 							</a>
 						</button>
-						<div style={searchStyles}>
+						<div>
 							<input
 								style={{
 									flex: 1,
@@ -68,6 +117,8 @@ const index = () => {
 									border: "1px solid black",
 									borderRadius: 6,
 									color: "black",
+									marginBottom:"25px",
+									width: "100%"
 								}}
 								onChange={(e) => setSearch(e.target.value)}
 								type="text"
@@ -89,22 +140,9 @@ const index = () => {
 									</span>
 								</div>
 							)}
-
-							{searchResult.map((contributor) => {
-								return (
-									<ContributorCard
-										key={contributor.github}
-										name={contributor.name}
-										branch={contributor.branch}
-										college={contributor.college}
-										year={contributor.year}
-										linkedin={contributor.linkedin}
-										github={contributor.github}
-										gender={contributor.gender}
-									/>
-								);
-							})}
+							 
 						</div>
+						<VirtualGrid searchResult={searchResult} />
 					</div>
 				</section>
 			</PageContentWrapper>
