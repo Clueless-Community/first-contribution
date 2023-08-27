@@ -2435,7 +2435,7 @@ const contributors = [
   {
     name: "shantanu hardia",
     branch: "CSE",
-    collage: "AITR",
+    college: "AITR",
     year: 2025,
     inkedin: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
     github: "https://www.linkedin.com/in/shantanu-hardia-909bb524a",
@@ -2462,7 +2462,7 @@ const contributors = [
   {
     name: "Naincy Kumari",
     branch: "CSE",
-    collage: "BPPIMT",
+    college: "BPPIMT",
     year: 2025,
     inkedin: "https://www.linkedin.com/in/naincy-kumari-972b32223/",
     github: "https://github.com/Naincy04",
@@ -2622,6 +2622,15 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
+    {
+    name: "Satvik Manchanda",
+    branch: "B.Tech Computer Science and Engineering",
+    college: "SRM University",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/satvik-manchanda-418a13243/",
+    github: "https://github.com/Satvik1769",
+    gender: "Male",
+  }
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️

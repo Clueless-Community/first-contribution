@@ -2,11 +2,14 @@ import React from "react";
 import { Avatar, ChakraProvider } from "@chakra-ui/react";
 
 const ContributorCard = (props) => {
+  const width ={
+    width: '100%',
+  }
   return (
     <>
 
-        <div onClick={() => window.open(props.github, '_blank')} className="p-2 lg:w-1/3 md:w-1/2 w-full cursor-pointer">
-          <div className="h-full flex md:flex-col xl:flex-row items-center border-gray-200 border p-4 rounded-lg dark:bg-gray-600 bg-gray-50">
+        <div onClick={() => window.open(props.github, '_blank')} className="p-2 lg:w-1/3 md:w-1/2 w-full cursor-pointer" style={props.style}>
+          <div className="h-full flex md:flex-col xl:flex-row items-center border-gray-200 border p-4 rounded-lg dark:bg-gray-600 bg-gray-50" style={width}>
               <div className="md:mb-3 xl:mb-0">
             <ChakraProvider>
                 <Avatar size="xl" name={props.name} src={`https://avatars.dicebear.com/api/bottts/${props.name}.svg`}/>
