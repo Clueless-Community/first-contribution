@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Aameer Khan",
+    branch: "B.Tech Artificial Intelligence and Machine Learning",
+    college: "Rajalakshmi Engineering College",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/aameer-khan-198230213",
+    github: "https://github.com/aameerk",
+    gender: "Male",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
