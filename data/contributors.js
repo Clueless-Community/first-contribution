@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Nishant Gaurav",
+    branch: "CSIT",
+    college: "ITER, SOA University",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/nishantgaurav19/",
+    github: "https://github.com/Imbiber",
+    gender: "Male",
   }
 );
 
