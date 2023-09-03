@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+   {
+    name: "Mukul Ojha",
+    branch: "Computer Science",
+    college: "MBM university",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/mukul-ojha-99650a200",
+    github: "https://github.com/mukul314",
+    gender: "male",
   }
 );
 
