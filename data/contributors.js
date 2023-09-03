@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Akhilesh Nadgiri",
+    branch: "B.E. Inofrmatiion Technology",
+    college: "PES Modern College of Engineering",
+    year: 2024, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/akhilesh-nadgiri",
+    github: "https://github.com/akhil3shh",
+    gender: "Male",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
