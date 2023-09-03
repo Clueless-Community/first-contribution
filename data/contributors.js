@@ -310,6 +310,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/mayuri-kolhe-538883193",
     github: "https://github.com/MayuriKolhe-2003",
     gender: "Female",
+  }, 
+  {
+    name: "Manish Kuniyal",
+    branch: "ECE",
+    college: "JIIT",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/manish-kuniyal-b0329024b",
+    github: "https://github.com/manish0kuniyal",
+    gender: "male",
   },
   {
     name: "Raj Palmal",
