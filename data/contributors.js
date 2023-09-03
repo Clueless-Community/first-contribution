@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Sanchit Baweja",
+    branch: "Computer Science and Engineering",
+    college: "MSIT",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/sanchitbaweja/",
+    github: "https://github.com/sanchit45",
+    gender: "male",
   }
 );
 
