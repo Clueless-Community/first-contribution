@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Vivek E",
+    branch: "CSE",
+    college: "MRCE",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/evivek2000/",
+    github: "https://github.com/vivekelle",
+    gender: "male",
   }
 );
 
