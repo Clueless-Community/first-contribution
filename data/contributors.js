@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Shivam Bajpai",
+    branch: "B E Computer Science and Engineering",
+    college: "Chitkara University Institute of Engineering and Technology",
+    year: 2026,
+    linkedin: "https://www.linkedin.com/in/shivam-bajpai-1497091b4/",
+    github: "https://github.com/ShivamBajpai04",
+    gender: "Male",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
