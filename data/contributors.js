@@ -1,5 +1,14 @@
 const contributors = [
   //Add your Details here //
+ {
+        name : "cosplayy",
+        branch : "Computer Science & Engineering",
+        college : "College Name",
+        year : 2025, //Year of Pass Out
+        linkedin : "LinkedIn Profile URL",
+        github : "https://github.com/cosplayy",
+        gender : "male"
+    },
   {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
@@ -63,6 +72,7 @@ const contributors = [
     github: "https://github.com/ParthBhuva97",
     gender: "Male",
   },
+  
   {
     name: "Sreeja Kar Choudhury",
     branch: "Computer Science & Engineering",
