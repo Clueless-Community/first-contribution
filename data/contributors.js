@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name : "Poorvi J Nayak",
+    branch : "Computer Science and Engineering",
+    college : "Manipal Insitute of Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/poorvi-j-nayak-628aab215",
+    github : "https://github.com/poorvijn",
+    gender : "Female"
   }
 );
 
