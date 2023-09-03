@@ -3,6 +3,7 @@
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
+- [Chandan Arya](https://github.com/alpha2lucifer)
 - [Rupesh Dubey](https://github.com/rupeshexe)
 - [Manish Tiwari](https://github.com/manish-9245)
 - [Danish Zayan](https://github.com/danishzayan)

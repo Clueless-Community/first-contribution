@@ -10,6 +10,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Chandan Arya",
+    branch : "Computer Science and Engineering (Internet of Things)",
+    college : "Netaji Subhas University of Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/chandan-chandan-51bb061a1",
+    github : "https://github.com/alpha2lucifer",
+    gender : "Male",      
+  },
+  {
     name: "Sunlianyu",
     branch: "Computer Science and Technology",
     college: "Harbin University of Science and Technology",
