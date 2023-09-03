@@ -135,6 +135,7 @@
 - [Pratham Rastogi](https://github.com/Pratham-R)
 - [Prabadhya Upadhyay](https://github.com/Rickey07)
 - [Bashar V I](https://github.com/BasharVI)
+- [HamzaB](https://github.com/waffletester)
 - [Deep Das](https://github.com/myselfdeepdas)
 - [Manish Prajapati](https://github.com/pman47)
 - [Manish Kumar Gupta](https://github.com/Heismanish)
