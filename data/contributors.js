@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+   {
+        name : "Manisha Kundnani",
+        branch: "Masters of Computer Application",
+        college: "Compucom Institute of Technology and Management",
+        year : 2023, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/manisha-kundnani",
+        github: "https://github.com/Manishak798"
+        gender: "Female"
+    },
 );
 
 export default contributors;
