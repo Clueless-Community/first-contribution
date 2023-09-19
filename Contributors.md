@@ -17,6 +17,7 @@
 - [Javesh Lodha](https://github.com/javesshhh)
 - [Princeton D'souza](https://github.com/Princeton21)
 - [Perumall Pardhiv](https://github.com/Perumallpardhiv)
+- [Bhavya Soni](https://github.com/bhavy03)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Smit Padaliya](https://github.com/Smit-05)
 - [Shubhra Gupta](https://github.com/shubhra-g)
