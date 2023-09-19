@@ -1379,6 +1379,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Bhavya Soni",
+    branch: "CSE",
+    college: "College of Technology and Engineering",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/bhavya-soni-01644a230/",
+    github: "https://github.com/bhavy03",
+    gender: "Male"
+  },
+  {
     name: "Jaydeep Dey",
     branch: "CSE",
     college: "Vellore Institute of Technology, Chennai",
@@ -2622,7 +2631,7 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
-    {
+  {
     name: "Satvik Manchanda",
     branch: "B.Tech Computer Science and Engineering",
     college: "SRM University",
