@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name : "Sivaprasad",
+    branch : "none",
+    college : "none",
+    year : "2018",
+    linkdin : "https://www.linkedin.com/in/siva-prasadtyl/",
+    github : "https://github.com/Siva0012",
+    gender : "male"
   }
 );
 
