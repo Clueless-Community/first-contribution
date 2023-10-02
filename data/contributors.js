@@ -2679,7 +2679,17 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Sumita Pathak",
+    branch : "CSE with AI&ML",
+    college : "Dr.Sudhir Chandra Sur Institute of Engineering and Sports Complex",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sumita-pathak-91699a215/",
+    github : "https://github.com/SumiTechTo",
+    gender : "Female"
+}
+
 );
 
 export default contributors;
