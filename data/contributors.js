@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Nabendu Biswas",
+    branch: "B.Tech Computer Science and Engineering",
+    college: "S.S.S.I.S.T Sehore",
+    year: 2004, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/nabendu-biswas/",
+    github: "https://github.com/nabendu82",
+    gender: "Male",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
