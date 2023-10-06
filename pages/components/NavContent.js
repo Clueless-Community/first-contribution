@@ -22,7 +22,7 @@ export default function NavContent(props) {
 				<Link href="/">
 					<a
 						target="_blank"
-						href="https://www.clueless.tech/"
+						href="https://www.clueless.live/"
 						className={styles.underline}
 					>
 						Visit main website
