@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Grace Icay",
+    branch : "Computer Science",
+    college : "University of the Philippines Visayas",
+    year : 2017,
+    linkedin : "https://www.linkedin.com/in/mary-grygjeanne-grace-icay-109184140/",
+    github : "https://github.com/digracesion",
+    gender : "Female"
+  },
 );
 
 export default contributors;
