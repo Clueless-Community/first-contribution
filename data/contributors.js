@@ -10,6 +10,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Devanshu Masodker",
+    branch: "B.Tech CSE AIML",
+    college: "Technocrats Institute of Technology",
+    year: 2025, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/devanshu-masodker-624782227/",
+    github: "https://github.com/Devanshumasodker",
+    gender: "Male",
+  },
+  {
     name: "Sunlianyu",
     branch: "Computer Science and Technology",
     college: "Harbin University of Science and Technology",
