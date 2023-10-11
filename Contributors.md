@@ -204,6 +204,7 @@
 - [Soumojit Chakraborty](https://github.com/SOUMOJIT-CHAKRABORTY)
 - [Dennis Hundertmark](https://github.com/mnkyjs)
 - [Muhammad Mobeen](https://github.com/muhammad-mobeen)
+- [Tanmay Agarwal](https://github.com/TanmayAgarwal123)
 - [Tuhin Bar](https://github.com/TuhinBar)
 - [Amitesh Patra](https://github.com/AmiteshPatra)
 - [Tan S. Akıncı](https://github.com/yutyo)
