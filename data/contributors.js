@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name : "Sabeha Khan",
+    branch : "CS",
+    college : "CUNY Queens College",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/sabeha-k321/",
+    github : "https://github.com/Sab3ha",
+    gender : "Female"
+},
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
