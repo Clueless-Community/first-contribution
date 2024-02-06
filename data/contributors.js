@@ -2622,7 +2622,7 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
-    {
+  {
     name: "Satvik Manchanda",
     branch: "B.Tech Computer Science and Engineering",
     college: "SRM University",
@@ -2630,7 +2630,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/satvik-manchanda-418a13243/",
     github: "https://github.com/Satvik1769",
     gender: "Male",
-  }
+  },
+  {
+    name: "Trisha Hurley",
+    branch: "Commerce",
+    college: "University of New South Wales",
+    year: 2027, //Year of Pass Out
+    linkedin: "LinkedIn Profile URL",
+    github: "https://github.com/Xia3412",
+    gender: "Female",
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
