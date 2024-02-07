@@ -15,6 +15,7 @@
 - [Dhruva N L Choudhary](https://github.com/DHRUVA-N-L-CHOUDHARY)
 - [Kavya Lokuge](https://github.com/kavyaLokuge)
 - [Javesh Lodha](https://github.com/javesshhh)
+- [sai chandra](https://github.com/saichandra-1)
 - [Princeton D'souza](https://github.com/Princeton21)
 - [Perumall Pardhiv](https://github.com/Perumallpardhiv)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
