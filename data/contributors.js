@@ -2630,6 +2630,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/satvik-manchanda-418a13243/",
     github: "https://github.com/Satvik1769",
     gender: "Male",
+  },
+    {
+    name: "Dhruv Sharma",
+    branch: "Commerce",
+    college: "University of New South Wales( UNSW )",
+    year: 2023, //Year of Pass Out
+    linkedin: "N/A",
+    github: "https://github.com/kish7105",
+    gender: "male",
   }
 ];
 
