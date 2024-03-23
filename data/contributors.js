@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Piyush Bhuyan",
+    branch: "Computer Science",
+    college: "IIT Patna",
+    year: 2026, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/piyush_bhuyan-451178218/",
+    github: "https://github.com/peeeooosss",
+    gender: "male",
   }
 );
 
