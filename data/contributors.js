@@ -2670,7 +2670,17 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+ {
+    name: "Anri van Tonder",
+    branch: "IT",
+    college: "North-WEst University, Potchefstroom",
+    year: 2024, 
+    linkedin: "https://www.linkedin.com/in/anri-van-tonder-898b67242/",
+    github: "https://github.com/AnrivT",
+    gender: "female",
   }
+
 );
 
 export default contributors;
