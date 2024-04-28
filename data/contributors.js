@@ -169,6 +169,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name : "Raghav Sharma",
+    branch : "Computer Science and Engineering",
+    college : "Dronacharya College of Engineering",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/raghavsharmaweb3/",
+    github : "https://www.github.com/Some1Uknow",
+    gender : "Your Gender"
+},
+  {
     name: "Perumall Pardhiv",
     branch: "Information Technology",
     college: "IIIT Lucknow",
