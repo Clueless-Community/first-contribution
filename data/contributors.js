@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Gourav Yadav",
+    branch : "B.tech Cse",
+    college : "VITB",
+    year : 2026, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/gourav-yadavvit/",
+    github : "https://github.com/Gauravdevlo/",
+    gender : "male"
+}
 );
 
 export default contributors;
