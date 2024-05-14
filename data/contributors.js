@@ -1,5 +1,6 @@
 const contributors = [
   //Add your Details here //
+
   {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
@@ -2679,7 +2680,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Sk Murshid Alam",
+    branch : "Information Technology",
+    college : "College Name",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/",
+    github : "https://github.com/m-alam13",
+    gender : "Male"
+}
 );
 
 export default contributors;
