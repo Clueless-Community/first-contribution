@@ -1,0 +1,26 @@
+.underline {
+    display: inline-block;
+    position: relative;
+    font-weight: 600;
+    font-size:1.125rem;
+    margin-right:1.25rem;
+    line-height: 1.75rem;
+  }
+  
+  .underline:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #03a2f2;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .underline:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
