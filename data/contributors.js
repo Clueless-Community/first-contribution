@@ -2630,7 +2630,16 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/satvik-manchanda-418a13243/",
     github: "https://github.com/Satvik1769",
     gender: "Male",
-  }
+  },
+  {
+        name : "Salim Rutaganda",
+        branch : "Computer Engineering",
+        college : "about to go to college",
+        year : 2027, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/salim-rutaganda-a18139317/",
+        github : "https://github.com/rutaganda-salim",
+        gender : "Male"
+    }
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2679,7 +2688,8 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+   
 );
 
 export default contributors;
