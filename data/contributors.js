@@ -813,6 +813,15 @@ const contributors = [
     gender: "male",
   },
   {
+    name: "Aditya",
+    branch: "E&TC",
+    college: "AIT",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/aditya-joshi-440519228/",
+    github: "https://github.com/adityajoshi692003",
+    gender: "male",
+  },
+  {
     name: "Meghsham Jade",
     branch: "E&TC",
     college: "JSPM BSIOTR",
