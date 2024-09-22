@@ -2622,7 +2622,7 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
-    {
+  {
     name: "Satvik Manchanda",
     branch: "B.Tech Computer Science and Engineering",
     college: "SRM University",
@@ -2630,7 +2630,7 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/satvik-manchanda-418a13243/",
     github: "https://github.com/Satvik1769",
     gender: "Male",
-  }
+  },
 ];
 
 // Don't add any data to this contributors.unshift part Add data above this ⬆️
@@ -2678,6 +2678,15 @@ contributors.unshift(
     year: 2027, //Year of Pass Out
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
+    gender: "male",
+  },
+  {
+    name: "Raman Bajpai",
+    branch: "Mechanical Engineering",
+    college: "ABESEC",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/raman-bajpai-b498a61b8/",
+    github: "https://github.com/ramanbajpai7",
     gender: "male",
   }
 );
