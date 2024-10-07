@@ -168,6 +168,15 @@ const contributors = [
     github: "https://github.com/1Fetcher",
     gender: "Male",
   },
+   {
+        name : "Your Name",
+        branch : "Your stream/branch",
+        college : "College Name",
+        year : 2025, //Year of Pass Out
+        linkedin : "LinkedIn Profile URL",
+        github : "GitHub Profile URL",
+        gender : "Your Gender"
+  },
   {
     name: "Perumall Pardhiv",
     branch: "Information Technology",
