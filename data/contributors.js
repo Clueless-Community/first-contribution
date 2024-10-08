@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Jathniel Argueza",
+    branch: "Information Technology",
+    college: "AMA Computer College",
+    year: 2013,
+    linkedin: "https://www.linkedin.com/in/jathniel-argueza/",
+    github: "https://github.com/jathniel",
+    gender: "Male",
   }
 );
 
