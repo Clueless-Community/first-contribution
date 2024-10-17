@@ -2630,6 +2630,15 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/satvik-manchanda-418a13243/",
     github: "https://github.com/Satvik1769",
     gender: "Male",
+  },
+  {
+    name: "John Ntirintis",
+    branch: "Computer Science",
+    college: "Hellenic American College",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/john-ntirintis/",
+    github: "https://github.com/JohnNtirintis",
+    gender: "Male",
   }
 ];
 
