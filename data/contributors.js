@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Shresth Pratyush",
+    branch : "ECE",
+    college : "IIIT Ranchi",
+    year : 2027, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/shresth-pratyush-556a99315/",
+    github : "https://github.com/Shresth-12",
+    gender : "Male"
+},
 );
 
 export default contributors;
