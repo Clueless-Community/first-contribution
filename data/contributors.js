@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Sneha Ilager",
+    branch: "Computer scienece and engineering",
+    college: "Dayananda Sagar University",
+    year: 2026, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/sneha-ilager-4833002ba",
+    github: "https://github.com/snehaIlager",
+    gender: "female",
   }
 );
 
