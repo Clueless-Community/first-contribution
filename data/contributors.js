@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Hunain Mahudawala",
+    branch : "BCA/Fulll Stack Web Development",
+    college : "Parul University",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/hunain-mahudawala/",
+    github : "https://github.com/hunain053",
+    gender : "male"
+},
 );
 
 export default contributors;
