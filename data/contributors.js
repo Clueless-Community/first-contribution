@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Navyasri Sangem",
+    branch: "Mechanical Engineering",
+    college: "Osmania University",
+    year: 2023, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/navyasri-s-423952200",
+    github: "https://github.com/navyasrisangem",
+    gender: "Female",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",

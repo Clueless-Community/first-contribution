@@ -1,5 +1,6 @@
 # Contributors
 
+- [Navyasri Sangem](https://github.com/navyasrisangem)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
