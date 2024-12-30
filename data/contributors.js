@@ -2680,6 +2680,15 @@ contributors.unshift(
     github: "https://github.com/debmalya37",
     gender: "male",
   }
+  {
+    name: "Himanshu Singh",
+    branch: "Electrical Engineering",
+    college: "Motilal Nehru National Institute of Technology, Allahabad",
+    year: 2028, //Class of 2028
+    linkedin: "https://www.linkedin.com/",
+    github: "https://github.com/singh-imanshu",
+    gender: "male",
+  }
 );
 
 export default contributors;
