@@ -19,6 +19,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Yashwanth",
+    branch: "Computer Science and Technology",
+    college: "K R Mangalam",
+    year: 2024,
+    linkedin: "",
+    github: "https://github.com/YASHWANTH1947",
+    gender: "Male",
+  },
+  {
     name: "Sumit Sharma",
     branch: "Computer Applications",
     college: "Amrita Vishwa Vidyapeetham",
