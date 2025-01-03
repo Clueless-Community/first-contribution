@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Sarthak Kharade",
+    branch : "Computer Engineering",
+    college : "SAKEC (Shah & Anchor Kutchhi Engineering College)",
+    year : 2026, //Year of Pass Out
+    linkedin : "www.linkedin.com/in/sarthak-kharade-ml485629",
+    github : "https://github.com/Sarthak4730",
+    gender : "Male"
+  },
 );
 
 export default contributors;
