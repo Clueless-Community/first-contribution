@@ -393,6 +393,15 @@ const contributors = [
     gender: "Female",
   },
   {
+    name:"Dhanshree Magar",
+    branch: "AI & DS",
+    college: "PVGCOET Pune",
+    year:2026,
+    linkedin:"https://www.linkedin.com/in/dhanshreemagar/",
+    github:"https://github.com/dhan04shree",
+    gender:"Female",
+  },
+  {
     name: "Rahul Karda",
     branch: "CSE",
     college: "LNCT Bhopal",
