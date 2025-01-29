@@ -1,5 +1,6 @@
 # Contributors
 
+- [Divyesh Shinde](https://github.com/Divyesh-20)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)

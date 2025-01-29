@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Divyesh Shinde",
+    branch: "B.E. Computer Science and Engineering",
+    college: "Rajiv Gandhi Institute of Technology",
+    year: 2026, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/divyesh-2002004d/",
+    github: "https://github.com/Divyesh-20",
+    gender: "Male",
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
