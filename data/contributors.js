@@ -10,6 +10,15 @@ const contributors = [
     gender: "Male",
   },
   {
+    name: "Nishan Sinha Rajak",
+    branch: "B.Tech Computer Science and Engineering",
+    college: "IUJ",
+    year: 2027, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/i",
+    github: "https://github.com/nishuR31",
+    gender: "Male",
+  },
+  {
     name: "Sunlianyu",
     branch: "Computer Science and Technology",
     college: "Harbin University of Science and Technology",
