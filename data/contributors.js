@@ -12,7 +12,7 @@ const contributors = [
   {
     name: "Nishan Sinha Rajak",
     branch: "B.Tech Computer Science and Engineering",
-    college: "IUJ",
+    college: "IUJ", // Jharkhand 
     year: 2027, //Year of Pass Out
     linkedin: "https://www.linkedin.com/i",
     github: "https://github.com/nishuR31",
