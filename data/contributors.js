@@ -1,6 +1,14 @@
 const contributors = [
   //Add your Details here //
   {
+    name : "Maheen Fatma",
+    branch : "MERN | Computer Science and Engineering",
+    college : "Amity School of Engineering and Technology",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/maheenfatma",
+    github : "https://github.com/maheen-fatma",
+    gender : "Female"
+},{
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
