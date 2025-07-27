@@ -1,5 +1,14 @@
 const contributors = [
   //Add your Details here //
+   {
+        name : "Omar Ebad",
+        branch : "Computer Engineering",
+        college : "None",
+        year : "N/A", //Year of Pass Out
+        linkedin : "N/A",
+        github : "https://github.com/OmarE20",
+        gender : "Male"
+    },
   {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
