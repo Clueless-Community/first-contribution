@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+  {
+    name : "Abbas Zakariya",
+    branch : "Abbas-contribution-list",
+    college : "Done with college",
+    year : 2025, //Year of Pass Out
+    linkedin : "https://www.linkedin.com/in/abbas-zakariya-b40729252/",
+    github : "https://github.com/abbasZak",
+    gender : "Male"
+  },
 );
 
 export default contributors;
