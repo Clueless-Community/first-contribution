@@ -1,5 +1,15 @@
 const contributors = [
   //Add your Details here //
+
+   {
+        name : "Guillem Fora",
+        branch : "computer science",
+        college : "Institute Of Management And Technology",
+        year : 2026, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/guillem-fora/",
+        github : "https://github.com/Guillemfora17",
+        gender : "Male"
+    },
   {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
