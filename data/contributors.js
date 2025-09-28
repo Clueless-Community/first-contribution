@@ -1,6 +1,15 @@
 const contributors = [
   //Add your Details here //
   {
+     name: "Ali Hussnain",
+    branch: "BSc. Computer Science",
+    college: "University of Engineering and Technology",
+    year: 2027, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/alihussnain1122/",
+    github: "https://github.com/alihussnain1122",
+    gender: "Male"
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",

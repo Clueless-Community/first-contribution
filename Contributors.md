@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
+- [Ali Hussnain](https://github.com/alihussnain1122)
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
 - [Rupesh Dubey](https://github.com/rupeshexe)

@@ -10,71 +10,142 @@ import Image from "next/image";
 import { FixedSizeGrid as Grid } from "react-window";
 
 const useSearch = (contributors, search) => {
-	return useMemo(() => {	
-	return contributors.filter(
-		(item) =>{
-			let strName = item.name.toLowerCase();
-			let strCollege = item.college.toLowerCase();
-			if(strName.includes(search) || strCollege.includes(search) ){
-				return item;
-			}	
+	return useMemo(() => {
+		let filteredContributors;
+		
+		// If no search term, return all contributors
+		if (!search || search.trim() === '') {
+			filteredContributors = contributors;
+		} else {
+			const searchTerm = search.toLowerCase().trim();
+			
+			filteredContributors = contributors.filter((item) => {
+				const strName = item.name.toLowerCase();
+				const strCollege = item.college.toLowerCase();
+				const strBranch = item.branch.toLowerCase();
+				
+				return strName.includes(searchTerm) || 
+					   strCollege.includes(searchTerm) || 
+					   strBranch.includes(searchTerm);
+			});
 		}
-	);
+		
+		// Sort alphabetically by name
+		return filteredContributors.sort((a, b) => 
+			a.name.toLowerCase().localeCompare(b.name.toLowerCase())
+		);
 	}, [contributors, search]);
 };
 
 function  VirtualGrid( { searchResult } ){
+	const [windowSize, setWindowSize] = useState({ width: 0, height: 0 });
 
-	const Cell = ({ rowIndex , columnIndex , style }) =>{
-		const itemIndex = rowIndex * 2 + columnIndex;
-		if (itemIndex >= searchResult.length) {
-			return null; // Return an empty cell if there are no more items to render
-		  }
-	  
-		  const item = searchResult[itemIndex];
-		  
-	const searchStyles = {
-		width: "100%",
+	React.useEffect(() => {
+		const handleResize = () => {
+			setWindowSize({ 
+				width: window.innerWidth, 
+				height: window.innerHeight 
+			});
+		};
+
+		// Set initial size
+		handleResize();
 		
-		display: "flex",
-		height: "250px",
-		overflow: "hidden",
+		window.addEventListener('resize', handleResize);
+		return () => window.removeEventListener('resize', handleResize);
+	}, []);
+
+	// Calculate responsive grid dimensions
+	const getGridDimensions = () => {
+		const containerPadding = 80; // Account for container padding (40px each side)
+		const cardMargin = 24; // Account for card margins
+		const availableWidth = Math.max(windowSize.width - containerPadding, 300);
 		
+		let columnCount = 3;
+		let minCardWidth = 320; // Minimum card width for proper content display
 		
+		if (availableWidth < 768) {
+			columnCount = 1;
+			minCardWidth = Math.min(400, availableWidth - cardMargin);
+		} else if (availableWidth < 1200) {
+			columnCount = 2;
+			minCardWidth = Math.floor((availableWidth - cardMargin) / 2) - 20;
+		} else {
+			columnCount = 3;
+			minCardWidth = Math.floor((availableWidth - cardMargin) / 3) - 20;
+		}
 		
+		const columnWidth = Math.max(minCardWidth, 320);
+		const gridWidth = availableWidth;
+		const gridHeight = Math.min(windowSize.height * 0.7, 1000);
+		
+		return { columnCount, columnWidth, gridWidth, gridHeight };
 	};
 
-	  
-		  return (
-			<div  className="GridItemEven" style={ style }>
-			  <ContributorCard
-				name={item.name}
-				branch={item.branch}
-				college={item.college}
-				year={item.year} 
-				linkedin={item.linkedin}
-				github={item.github}
-				gender={item.gender}
-				style={searchStyles}
-			  />
+	const { columnCount, columnWidth, gridWidth, gridHeight } = getGridDimensions();
 
-			 
-			</div>
-		  );
+	const Cell = ({ rowIndex , columnIndex , style }) =>{
+		const itemIndex = rowIndex * columnCount + columnIndex;
+		if (itemIndex >= searchResult.length) {
+			return null;
+		}
+	  
+		const item = searchResult[itemIndex];
+		  
+		const searchStyles = {
+			width: "100%",
+			display: "flex",
+			height: "100%",
+			overflow: "visible",
+			padding: "8px",
+			boxSizing: "border-box"
 		};
-		return(
-			<Grid columnCount={3}
-			className="Grid"
-			columnWidth={450}
-			height={1500}
-			rowCount={searchResult.length/3}
-			rowHeight={350}
-			width={2500}>
+
+		return (
+			<div className="GridItemEven" style={style}>
+				<ContributorCard
+					name={item.name}
+					branch={item.branch}
+					college={item.college}
+					year={item.year} 
+					linkedin={item.linkedin}
+					github={item.github}
+					gender={item.gender}
+					style={searchStyles}
+				/>
+			</div>
+		);
+	};
+
+	if (windowSize.width === 0) {
+		return <div>Loading...</div>;
+	}
+
+	return(
+		<div style={{ 
+			width: '100%', 
+			display: 'flex', 
+			justifyContent: 'center',
+			padding: '0 20px',
+			boxSizing: 'border-box'
+		}}>
+			<Grid 
+				columnCount={columnCount}
+				className="Grid"
+				columnWidth={columnWidth}
+				height={gridHeight}
+				rowCount={Math.ceil(searchResult.length / columnCount)}
+				rowHeight={360}
+				width={gridWidth}
+				style={{
+					overflow: 'auto'
+				}}
+			>
 				{Cell}
 			</Grid>
-		)
-		
-		}
+		</div>
+	);
+}
 
 const index = () => {
 	const totalContributor = contributors.length;
@@ -90,7 +161,7 @@ const index = () => {
 			<Navbar />
 			<PageContentWrapper>
 				<section className="text-gray-600 dark:text-white body-font">
-					<div className="container px-5 pt-12 mx-auto">
+					<div className="w-full px-4 sm:px-6 lg:px-8 pt-12 mx-auto max-w-7xl">
 						<div className="flex flex-col text-center w-full mb-5">
 							<h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 dark:text-white underline underline-offset-4">
 								Our Contributors
