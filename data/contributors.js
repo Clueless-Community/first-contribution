@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Robert Morrison",
+    branch: "Ram Mern",
+    college: "UTA",
+    year: 2022, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/robert-a-morrison/",
+    github: "https://github.com/rob-botics/",
+    gender: "male",
   }
 );
 
