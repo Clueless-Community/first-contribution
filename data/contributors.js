@@ -2622,7 +2622,7 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
-    {
+  {
     name: "Satvik Manchanda",
     branch: "B.Tech Computer Science and Engineering",
     college: "SRM University",
@@ -2679,7 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  }, {
+  name: "Rudra Ranjan Mohanty",
+  branch: "Science",
+  college: "CBSH",
+  year: 2025,
+  linkedin: "https://www.instagram.com/ru__d__ra__071/?hl=en",
+  github: "https://github.com/Rudra113",
+  gender: "Male",
+}
 );
 
 export default contributors;
