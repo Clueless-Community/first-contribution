@@ -223,6 +223,15 @@ const contributors = [
     gender: "Male",
   },
   {
+        name : "Rochith S Phutane",
+        branch : "Computer Science and Engineering",
+        college : "Bangalore Institute of Technology",
+        year : 2027, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/rochith-s-phutane-919112297/L",
+        github : "https://github.com/rochith11",
+        gender : "Male"
+  },
+  {
     name: "Sayak Saha",
     branch: "ECE",
     college: "Future Institute of Engineering and Management",
