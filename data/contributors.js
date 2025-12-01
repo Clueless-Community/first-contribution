@@ -1,5 +1,14 @@
 const contributors = [
   //Add your Details here //
+   {
+        name : "Ayush Saini",
+        branch : "B. Tech Computer Science",
+        college : "ABES Engineering College",
+        year : 2026, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/ayush-saini-69bb01212/",
+        github : "https://github.com/ayushsaini9156",
+        gender : "Male"
+    },
   {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
