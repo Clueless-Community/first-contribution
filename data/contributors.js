@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Thivisha",
+    branch: "CSE",
+    college: "CITchennai",
+    year: 2029,//Year of pass out
+    linkedin: "https://www.linkedin.com/in/r-thivisha/",
+    github: "https://github.com/rthivisha",
+    gender:"Female",
   }
 );
 
