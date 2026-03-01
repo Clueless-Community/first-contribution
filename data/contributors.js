@@ -2679,7 +2679,16 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+   {
+        name : "Aman Khan",
+        branch : "Computer Science",
+        college : "University of Central Punjab",
+        year : 2027, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/aman-khan-82970a294/",
+        github : "https://github.com/Aman-khan8",
+        gender : "Male"
+    },
 );
 
 export default contributors;
