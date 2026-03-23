@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Peter",
+    branch: "Computer Science",
+    college: "Self-taught Full-Stack Developer",
+    year: 2026,
+    linkedin: "https://www.linkedin.com/in/inoovador/",
+    github: "https://github.com/inoovador",
+    gender: "Male",
   }
 );
 
