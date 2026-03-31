@@ -2680,6 +2680,16 @@ contributors.unshift(
     github: "https://github.com/debmalya37",
     gender: "male",
   }
+  {
+    name: "Tanish Kadam",
+    branch: "Computer Science",
+    college: "VIT Pune",
+    year: 2028, 
+    linkedin: "https://www.linkedin.com/in/tanish-kadam-25a130330/",
+    github: "https://github.com/K-Tanish",
+    gender: "Male",
+  }
+  
 );
 
 export default contributors;
