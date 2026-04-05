@@ -1,4 +1,13 @@
 const contributors = [
+  {
+    name: "Rajat Tyagi",
+    branch: "B.Tech Computer Science and Engineering",
+    college: "ABES Engineering college",
+    year: 2028, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/rajattyagi070/",
+    github: "https://github.com/rajattyagi-dev1",
+    gender: "Male"
+  }
   //Add your Details here //
   {
     name: "Ekam Bitt",
