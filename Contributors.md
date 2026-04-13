@@ -4,6 +4,7 @@
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
 - [Rupesh Dubey](https://github.com/rupeshexe)
+- [Paravin Mulla](https://github.com/ParavinMulla786)
 - [Manish Tiwari](https://github.com/manish-9245)
 - [Danish Zayan](https://github.com/danishzayan)
 - [Shruti Mishra](https://github.com/ShrutiMishra-2002)
