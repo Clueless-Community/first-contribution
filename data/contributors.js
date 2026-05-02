@@ -2679,6 +2679,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
+  },
+  {
+    name: "Pavan Kumar MG",
+    branch: "Computer Science and Engineering",
+    college: "RNS Institute of Technology",
+    year: 2027, //Year of Pass Out
+    linkedin: "https://www.linkedin.com/in/pavan-kumar-m-g-4b59353b1/",
+    github: "https://github.com/pa1kumar3324-wq",
+    gender: "male",
   }
 );
 
