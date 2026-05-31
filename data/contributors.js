@@ -2679,7 +2679,17 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debmalyasen1/",
     github: "https://github.com/debmalya37",
     gender: "male",
-  }
+  },
+   {
+        name : "Chhaya Naidu",
+        branch : "ECE",
+        college : "Atria Institue of technology",
+        year : 2025, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/chhaya-naidu06/",
+        github : "https://github.com/ChhayaN6",
+        gender : "Female"
+    }
+
 );
 
 export default contributors;
