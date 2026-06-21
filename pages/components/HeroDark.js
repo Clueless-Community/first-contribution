@@ -124,9 +124,9 @@ const HeroLight = () => {
           </a>
         </div>
         <a href="#recent-contributors">
-          <h1 className="transition duration-1000 ease-linear animate-bounce  pt-[2vh] text-center text-5xw font-sans font-bold text-[#f7e2e2]    opacity-90">
+          <h2 className="transition duration-1000 ease-linear animate-bounce  pt-[2vh] text-center text-5xw font-sans font-bold text-[#f7e2e2]    opacity-90">
             Scroll Down
-          </h1>
+          </h2>
         </a>
       </div>
     </div>
