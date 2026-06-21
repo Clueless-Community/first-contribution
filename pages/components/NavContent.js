@@ -19,15 +19,14 @@ export default function NavContent(props) {
 				<Link href="/whattodo">
 					<a className={styles.underline}>What to do?</a>
 				</Link>
-				<Link href="/">
-					<a
-						target="_blank"
-						href="https://www.clueless.tech/"
-						className={styles.underline}
-					>
-						Visit main website
-					</a>
-				</Link>
+				<a
+					target="_blank"
+					rel="noopener noreferrer"
+					href="https://www.clueless.tech/"
+					className={styles.underline}
+>
+					Visit main website
+				</a>
 			</nav>
 			<a href="/instructions" target="_blank">
 				<button className="font-bold inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none dark:hover:bg-blue-500 hover:text-white hover:bg-blue-500 rounded-xl mt-4 lg:mt-0 text-lg transition-all dark:bg-gray-600">
