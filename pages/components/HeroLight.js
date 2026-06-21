@@ -84,8 +84,8 @@ const HeroDark = () => {
           detectRetina: true,
         }}
       />
-      <div className="relative z-10 w-full flex flex-col justify-center">
-        <h1 className="text-center mt-28 text-7xl font-sans font-bold text-blue-600 opacity-90">
+      <div className="relative z-10 w-full flex flex-col justify-center min-h-screen pt-20">
+        <h1 className="text-center mt-12 text-7xl font-sans font-bold text-blue-600 opacity-90">
           Welcome to ClueLess Community
         </h1>
         <h2 className="text-center text-5xl font-sans mt-8 font-bold text-blue-600 opacity-90 ">
@@ -126,9 +126,9 @@ const HeroDark = () => {
           </a>
         </div>
         <a href="#recent-contributors">
-          <h1 className="transition duration-1000 ease-linear animate-bounce pt-[2vh] text-center text-5xw font-sans font-bold text-black opacity-90">
+          <h2 className="transition duration-1000 ease-linear animate-bounce pt-[2vh] text-center text-5xw font-sans font-bold text-black opacity-90">
             Scroll Down
-          </h1>
+          </h2>
         </a>
       </div>
     </div>
