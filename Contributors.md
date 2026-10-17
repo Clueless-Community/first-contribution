@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
+- [Karveti Geethika](https://github.com/geethikakarveti1-source)
 - [Rishikesh K V](https://github.com/rishi9808)
 - [Ganesh Mourya](https://github.com/Alkaison)
 - [Rupesh Dubey](https://github.com/rupeshexe)
