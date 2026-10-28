@@ -1,6 +1,16 @@
 const contributors = [
   //Add your Details here //
   {
+    name: "Kalyan Bandaru",
+    branch: "Computer Science and Engineering",
+    college: "VIT-AP",
+    year: 2029, //Year of Pass Out
+    linkedin: "www.linkedin.com/in/kalyan-bandaru-742a1b373",
+    github: "https://github.com/techwithkalyan",
+    gender: "Male",
+
+  },
+  {
     name: "Ekam Bitt",
     branch: "B.Tech Computer Science and Engineering",
     college: "Heritage Institute of Technology",
@@ -2622,7 +2632,7 @@ const contributors = [
     github: "https://github.com/s-shemmee",
     gender: "Female",
   },
-    {
+  {
     name: "Satvik Manchanda",
     branch: "B.Tech Computer Science and Engineering",
     college: "SRM University",
